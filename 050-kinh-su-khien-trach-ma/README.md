@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Bài kinh kể chuyện Ma vương chui vào bụng Tôn giả Mahāmoggallāna khi Ngài đang kinh hành ngoài trời ở Susumāragira, rồi bị Ngài nhận ra, gọi đúng tên và đuổi ra. Ma vương không tin một đệ tử lại nhận mặt mình nhanh như thế, nên Tôn giả cho hắn biết một chuyện hắn chưa từng nghe: thuở xưa chính Ngài là Ma vương Dūsī, còn Ma vương bây giờ là cháu của Ngài. Từ đó Ngài kể lại thời Đức Thế Tôn Kakusandha và hai vị đệ tử thượng thủ Vidhura, Sañjīva, cùng hai lần Ma vương Dūsī xúi người đời mắng nhiếc rồi tâng bốc các tỳ-kheo mà đều thất bại. Lần thứ ba hắn đập vỡ đầu Tôn giả Vidhura, và ngay khi Đức Thế Tôn Kakusandha ngoái nhìn, hắn rơi vào Đại địa ngục. Bài kinh khép lại bằng lời Tôn giả Mahāmoggallāna kể lại những năm tháng Ngài chịu khổ trong địa ngục ấy và những câu kệ cảnh cáo Ma vương, rồi cảnh dạ-xoa ấy biến mất với tâm sầu muộn.
 
 ## Con số
 
@@ -20,7 +20,13 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu bài kinh cho người chưa quen kinh điển |
+| [`00-title.md`](ban-dich/00-title.md) | Nhan đề, tên Pali và vị trí bài kinh trong Trung Bộ Kinh |
+| [`01-mo-dau.md`](ban-dich/01-mo-dau.md) | Ma vương trong bụng Tôn giả Mahāmoggallāna, chuyện Ma vương Dūsī thời Đức Thế Tôn Kakusandha, Đại địa ngục và các câu kệ |
+| [`02-phan-1.md`](ban-dich/02-phan-1.md) | Bài kệ tóm tắt tên các bài trong phẩm thứ năm |
+| [`03-phan-2.md`](ban-dich/03-phan-2.md) | Bài kệ mục lục năm phẩm và lời kết thúc phần Mūlapaṇṇāsa |
 
 ## Cách đọc và góp ý
 

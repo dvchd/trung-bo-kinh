@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Bài kinh diễn ra tại Sāvatthī, trong Jetavana, và xoay quanh Tôn giả Māluṅkyaputta, một vị tỳ-kheo bị ám ảnh bởi mười câu hỏi siêu hình mà Đức Thế Tôn chưa từng trả lời. Ông đến gặp Ngài với một tối hậu thư: nếu không được giải đáp, ông sẽ từ bỏ việc tu học và hoàn tục. Đức Thế Tôn chỉ ra rằng giữa Ngài và ông chưa từng có giao kèo nào như vậy, rồi kể câu chuyện người bị mũi tên tẩm thuốc độc bắn trúng nhưng nhất định không cho rút tên ra trước khi biết đủ mọi chi tiết về người bắn, cây cung và mũi tên, để rồi chết vì thuốc độc. Từ đó Ngài phân biệt những gì Ngài không trả lời với những gì Ngài trả lời: bốn sự thật về khổ, nguồn gốc của khổ, sự diệt tận của khổ và con đường dẫn đến sự diệt tận ấy. Bài kinh khép lại bằng lời dặn hãy ghi nhớ điều không được trả lời là không được trả lời, và điều được trả lời là được trả lời.
 
 ## Con số
 
@@ -20,7 +20,14 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`ban-dich/00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người chưa học Phật |
+| [`ban-dich/00-title.md`](ban-dich/00-title.md) | Nhan đề bài kinh |
+| [`ban-dich/01-phan-1.md`](ban-dich/01-phan-1.md) | Bối cảnh tại Sāvatthī; suy nghĩ của Māluṅkyaputta về mười kiến chấp; ông đến thỉnh ý Đức Thế Tôn và trình bày tối hậu thư của mình |
+| [`ban-dich/02-phan-2.md`](ban-dich/02-phan-2.md) | Phần còn lại của tối hậu thư; Đức Thế Tôn hỏi lại về giao kèo; bắt đầu hình ảnh người bị mũi tên độc bắn trúng |
+| [`ban-dich/03-phan-3.md`](ban-dich/03-phan-3.md) | Các câu hỏi về cung, dây cung, thân tên, lông, gân, đầu mũi tên; kết luận kiến chấp không làm nên đời sống phạm hạnh; bắt đầu phần điều Ta không trả lời |
+| [`ban-dich/04-phan-4.md`](ban-dich/04-phan-4.md) | Trọn danh sách điều không trả lời; lý do không trả lời và điều đã trả lời là bốn sự thật; kết kinh |
 
 ## Cách đọc và góp ý
 

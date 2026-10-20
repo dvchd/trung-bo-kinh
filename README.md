@@ -117,16 +117,16 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 38 | [Đại Kinh Đoạn Tận Ái](038-kinh-dai-doan-tan-ai/Kinh-Dai-Doan-Tan-Ai.md) | *Mahātaṇhāsaṅkhaya* | ✅ |
 | 39 | [Đại Kinh Assapura](039-kinh-dai-assapura/Kinh-Dai-Assapura.md) | *Mahāassapura* | ✅ |
 | 40 | [Tiểu Kinh Assapura](040-kinh-tieu-assapura/Kinh-Tieu-Assapura.md) | *Cūḷaassapura* | ✅ |
-| 41 | Kinh Sāleyyaka | *Sāleyyaka* | — |
+| 41 | [Kinh Sāleyyaka](041-kinh-saleyyaka/Kinh-Saleyyaka.md) | *Sāleyyaka* | ✅ |
 | 42 | Kinh Verañjaka | *Verañjaka* | — |
 | 43 | [Đại Kinh Phương Quảng](043-kinh-dai-phuong-quang/Kinh-Dai-Phuong-Quang.md) | *Mahāvedalla* | ✅ |
 | 44 | [Tiểu Kinh Phương Quảng](044-kinh-tieu-phuong-quang/Kinh-Tieu-Phuong-Quang.md) | *Cūḷavedalla* | ✅ |
-| 45 | Tiểu Kinh Thọ Trì Pháp | *Cūḷadhammasamādāna* | — |
-| 46 | Đại Kinh Thọ Trì Pháp | *Mahādhammasamādāna* | — |
+| 45 | [Tiểu Kinh Thọ Trì Pháp](045-kinh-tieu-tho-tri-phap/Kinh-Tieu-Tho-Tri-Phap.md) | *Cūḷadhammasamādāna* | ✅ |
+| 46 | [Đại Kinh Thọ Trì Pháp](046-kinh-dai-tho-tri-phap/Kinh-Dai-Tho-Tri-Phap.md) | *Mahādhammasamādāna* | ✅ |
 | 47 | Kinh Tư Sát | *Vīmaṃsaka* | — |
 | 48 | [Kinh Kosambī](048-kinh-kosambi/Kinh-Kosambi.md) | *Kosambiya* | ✅ |
-| 49 | Kinh Phạm Thiên Mời | *Brahmanimantanika* | — |
-| 50 | Kinh Sự Khiển Trách Ma | *Māratajjanīya* | — |
+| 49 | [Kinh Phạm Thiên Mời](049-kinh-pham-thien-moi/Kinh-Pham-Thien-Moi.md) | *Brahmanimantanika* | ✅ |
+| 50 | [Kinh Sự Khiển Trách Ma](050-kinh-su-khien-trach-ma/Kinh-Su-Khien-Trach-Ma.md) | *Māratajjanīya* | ✅ |
 | 51 | Kinh Kandaraka | *Kandaraka* | — |
 | 52 | Kinh Aṭṭhakanāgara | *Aṭṭhakanāgara* | — |
 | 53 | Kinh Hữu Học | *Sekha* | — |
@@ -139,7 +139,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 60 | Kinh Không Thể Tranh Cãi | *Apaṇṇaka* | — |
 | 61 | [Kinh Dạy Rāhula](061-kinh-day-rahula/Kinh-Day-Rahula.md) | *Rāhulovāda* | ✅ |
 | 62 | [Đại Kinh Dạy Rāhula](062-kinh-dai-day-rahula/Kinh-Dai-Day-Rahula.md) | *Mahārāhulovāda* | ✅ |
-| 63 | Tiểu Kinh Māluṅkya | *Cūḷamālukya* | — |
+| 63 | [Tiểu Kinh Māluṅkya](063-kinh-tieu-malunkya/Kinh-Tieu-Malunkya.md) | *Cūḷamālukya* | ✅ |
 | 64 | [Đại Kinh Māluṅkya](064-kinh-dai-malunkya/Kinh-Dai-Malunkya.md) | *Mahāmālukya* | ✅ |
 | 65 | Kinh Bhaddāli | *Bhaddāli* | — |
 | 66 | Kinh Ví Dụ Con Chim Cút | *Laṭukikopama* | — |

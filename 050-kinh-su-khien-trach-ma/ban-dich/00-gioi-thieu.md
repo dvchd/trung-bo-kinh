@@ -1,0 +1,15 @@
+# Kinh Sự Khiển Trách Ma — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Kinh Sự Khiển Trách Ma** (*Māratajjanīya Sutta*) là bài kinh thứ 50 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh mở đầu bằng một cảnh hiếm thấy trong toàn bộ kinh điển: Ma vương — còn gọi là Ác ma, kẻ chuyên dụ dỗ và phá rối người tu hành — chui vào bụng Tôn giả Mahāmoggallāna, một trong hai vị đệ tử thượng thủ của Đức Thế Tôn. Ma vương làm vậy để thử xem vị tỳ-kheo ấy có bị lay động không, và câu trả lời đến ngay lập tức: Tôn giả nhận ra cái bụng nặng trịch của mình, vào tịnh thất ngồi xuống, nhìn vào trong và gọi đúng tên kẻ đang trú trong dạ dày mình.
+
+Điều đáng chú ý là Tôn giả không dùng phép thần thông để tống Ma vương ra. Ngài chỉ nói: hãy ra đi, chớ quấy nhiễu Như Lai và đệ tử của Như Lai, chớ tự chuốc lấy khổ về lâu dài. Ma vương không tin, vì hắn nghĩ ngay cả bậc Đạo sư cũng không thể nhận ra mình nhanh đến thế. Tôn giả bèn cho hắn thấy chỗ hắn lầm: Ngài biết hắn không chỉ vì hắn đang ở trong bụng Ngài, mà còn vì Ngài đã từng là Ma vương trước hắn, và hắn chính là cháu của Ngài.
+
+Từ đó bài kinh mở sang một câu chuyện thời xa xưa, khi Đức Thế Tôn Kakusandha xuất hiện trên thế gian cùng hai vị đệ tử thượng thủ là Vidhura và Sañjīva. Tôn giả Mahāmoggallāna thuở ấy là Ma vương Dūsī, còn Ma vương bây giờ là con của em gái ông ta, tức cháu gọi ông ta bằng cậu. Câu chuyện ấy cho thấy Ma vương Dūsī đã hai lần thất bại: lần đầu, hắn xúi người đời mắng nhiếc các tỳ-kheo, và các vị ấy đáp lại bằng tâm từ; lần sau, hắn xúi họ tâng bốc cúng dường, và các vị ấy đáp lại bằng phép quán thân bất tịnh, quán sự nhàm chán nơi đồ ăn, nơi thế gian, và quán vô thường.
+
+Lần thứ ba thì hắn không còn đứng ngoài. Hắn nhập vào một cậu bé, cầm đá đập vỡ đầu Tôn giả Vidhura khi vị này đang theo sau Đức Thế Tôn Kakusandha. Với cái đầu vỡ, máu chảy ròng ròng, Vidhura vẫn đi theo. Đức Thế Tôn quay lại nhìn theo thế voi ngoái và nói một câu: Ma vương Dūsī này không biết đâu là mức giới hạn. Ngay khi ấy, hắn rơi khỏi chỗ mình đang đứng và sanh vào Đại địa ngục.
+
+Phần còn lại là lời kể của chính Tôn giả Mahāmoggallāna về những gì Ngài đã trải qua trong Đại địa ngục ấy — một ngàn năm nướng trong lửa, rồi mười ngàn năm nữa nơi phần phụ của nó, với thân người và đầu cá — tiếp theo là những câu kệ cảnh cáo Ma vương. Bài kinh khép lại bằng hình ảnh vị tỳ-kheo khiển trách Ma vương ngay tại rừng Bhesakaḷā, và dạ-xoa ấy biến mất với tâm sầu muộn.
+
+Với người chưa quen kinh điển, có thể đọc bài này như một câu chuyện về hai cách người ta thường dùng để làm lung lay một người đang tu: chê bai và tâng bốc. Bài kinh không bảo người tu tránh cả hai bằng cách làm ngơ, mà chỉ ra hai liều thuốc đối trị rất cụ thể — tâm từ với kẻ làm mình đau, và sự nhàm chán, tỉnh thức với những gì mình đang bám vào. Chi tiết Ma vương từng là chính mình trong một đời trước cũng đáng để dừng lại: trong vòng luân hồi dài này, vai kẻ quấy phá và vai người bị quấy phá đều đã từng thuộc về mỗi người.
