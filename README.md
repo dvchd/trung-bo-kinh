@@ -13,9 +13,9 @@ Nếu bạn chưa từng đọc kinh Pali, bắt đầu từ bốn bài này:
 
 | Bài | Vì sao nên đọc |
 |---|---|
-| Kinh Niệm Xứ | Bài kinh nền tảng về thiền tập, đọc được như một hướng dẫn thực hành |
-| Kinh Ví Dụ Con Rắn | Cảnh báo nổi tiếng: giáo pháp phải nắm đúng cách, như bắt rắn phải bắt đúng chỗ |
-| Kinh Dạy Rāhula | Đức Phật dạy con trai mình về nói thật — ngắn, ấm, rất cụ thể |
+| [Kinh Niệm Xứ](010-kinh-niem-xu/Kinh-Niem-Xu.md) | Bài kinh nền tảng về thiền tập, đọc được như một hướng dẫn thực hành |
+| [Kinh Ví Dụ Con Rắn](022-kinh-vi-du-con-ran/Kinh-Vi-Du-Con-Ran.md) | Cảnh báo nổi tiếng: giáo pháp phải nắm đúng cách, như bắt rắn phải bắt đúng chỗ |
+| [Kinh Dạy Rāhula](061-kinh-day-rahula/Kinh-Day-Rahula.md) | Đức Thế Tôn dạy con trai mình về nói thật — ngắn, ấm, rất cụ thể |
 | [Kinh Căn Bản Pháp Môn](001-kinh-can-ban-phap-mon/Kinh-Can-Ban-Phap-Mon.md) | Bài mở đầu bộ kinh: tâm phàm phu nhận thức thế giới bằng những khái niệm nào |
 
 Các bài còn lại xem ở [mục lục đầy đủ](#mục-lục-152-bài).
@@ -25,13 +25,13 @@ Các bài còn lại xem ở [mục lục đầy đủ](#mục-lục-152-bài).
 ## Bắt đầu từ đâu
 
 1. **Muốn hiểu Phật giáo là gì** — đọc [Kinh Căn Bản Pháp Môn](001-kinh-can-ban-phap-mon/Kinh-Can-Ban-Phap-Mon.md)
-   rồi Kinh Tất Cả Lậu Hoặc. Hai bài mở đầu bộ
+   rồi [Kinh Tất Cả Lậu Hoặc](002-kinh-tat-ca-lau-hoac/Kinh-Tat-Ca-Lau-Hoac.md). Hai bài mở đầu bộ
    kinh trả lời: tâm nhận thức sai thế nào, và làm sao gột sạch những ô nhiễm ấy.
-2. **Muốn thực hành** — Kinh Niệm Xứ và
-   Kinh Niệm Hơi Thở là hai bản hướng dẫn thiền đầy đủ
+2. **Muốn thực hành** — [Kinh Niệm Xứ](010-kinh-niem-xu/Kinh-Niem-Xu.md) và
+   [Kinh Niệm Hơi Thở](118-kinh-niem-hoi-tho/Kinh-Niem-Hoi-Tho.md) là hai bản hướng dẫn thiền đầy đủ
    nhất trong bộ.
-3. **Muốn đọc như truyện** — các bài có cốt truyện rõ: Kinh Aṅgulimāla
-   (kẻ giết người đổi đời), Kinh Thánh Cầu (Đức Phật kể lại
+3. **Muốn đọc như truyện** — các bài có cốt truyện rõ: [Kinh Aṅgulimāla](086-kinh-angulimala/Kinh-Angulimala.md)
+   (kẻ giết người đổi đời), [Kinh Thánh Cầu](026-kinh-thanh-cau/Kinh-Thanh-Cau.md) (Đức Thế Tôn kể lại
    cuộc đời mình), Kinh Dạy Channa.
 
 ---

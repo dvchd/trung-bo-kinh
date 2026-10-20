@@ -24,7 +24,7 @@ Này các tỳ-kheo, đây là con đường hội tụ về một mối, để 
 [Chú thích: Ekāyano maggo nghĩa đen là "đi một con đường". Ngoài bài kinh này, cụm từ chỉ xuất hiện một lần khác trong kinh Pali, với nghĩa "cùng đi với"; ở đây nó chỉ con đường làm mọi pháp hội tụ về một mối, tức dẫn đến định. Cách hiểu này có gốc từ truyền thống bà-la-môn, nơi chữ ấy chỉ nơi các pháp quy tụ.]
 
 <!-- seg: mn10:3.1 -->
-Bốn ấy là gì?
+Bốn là những gì?
 
 <!-- seg: mn10:3.2 -->
 Ở đây, này các tỳ-kheo, tỳ-kheo sống quán thân trên thân, có nhiệt tâm, có tỉnh giác, có chánh niệm, sau khi đã loại bỏ lòng tham và nỗi bất mãn đối với cuộc đời.

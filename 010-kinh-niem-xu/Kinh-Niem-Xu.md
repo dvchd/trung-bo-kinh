@@ -16,6 +16,29 @@ Kết thúc, Đức Thế Tôn đưa ra một lời hứa táo bạo: ai tu tậ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 10: Kinh Niệm Xứ**](#trung-bộ-kinh--bài-kinh-số-10-kinh-niệm-xứ)
+- [**1. Quán thân**](#1-quán-thân)
+- [**1.1. Phần quán hơi thở**](#11-phần-quán-hơi-thở)
+- [**1.2. Phần quán các tư thế**](#12-phần-quán-các-tư-thế)
+- [**1.3. Phần quán sự tỉnh giác**](#13-phần-quán-sự-tỉnh-giác)
+- [**1.4. Phần quán sự nhờm gớm**](#14-phần-quán-sự-nhờm-gớm)
+- [**1.5. Phần quán các đại**](#15-phần-quán-các-đại)
+- [**1.6. Phần quán chín giai đoạn thây chết ở nghĩa địa**](#16-phần-quán-chín-giai-đoạn-thây-chết-ở-nghĩa-địa)
+- [**2. Quán cảm thọ**](#2-quán-cảm-thọ)
+- [**3. Quán tâm**](#3-quán-tâm)
+- [**4. Quán pháp**](#4-quán-pháp)
+- [**4.1. Phần quán năm chướng ngại**](#41-phần-quán-năm-chướng-ngại)
+- [**4.2. Phần quán năm thủ uẩn**](#42-phần-quán-năm-thủ-uẩn)
+- [**4.3. Phần quán sáu xứ**](#43-phần-quán-sáu-xứ)
+- [**4.4. Phần quán bảy yếu tố giác ngộ**](#44-phần-quán-bảy-yếu-tố-giác-ngộ)
+- [**4.5. Phần quán bốn sự thật cao quý**](#45-phần-quán-bốn-sự-thật-cao-quý)
+- [**Tóm tắt phẩm**](#tóm-tắt-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 10: Kinh Niệm Xứ
 
 *Satipaṭṭhāna Sutta* — bài kinh về bốn lĩnh vực quán niệm
@@ -56,7 +79,7 @@ Này các tỳ-kheo, đây là con đường hội tụ về một mối, để 
 [Chú thích: Ekāyano maggo nghĩa đen là "đi một con đường". Ngoài bài kinh này, cụm từ chỉ xuất hiện một lần khác trong kinh Pali, với nghĩa "cùng đi với"; ở đây nó chỉ con đường làm mọi pháp hội tụ về một mối, tức dẫn đến định. Cách hiểu này có gốc từ truyền thống bà-la-môn, nơi chữ ấy chỉ nơi các pháp quy tụ.]
 
 <!-- seg: mn10:3.1 -->
-Bốn ấy là gì?
+Bốn là những gì?
 
 <!-- seg: mn10:3.2 -->
 Ở đây, này các tỳ-kheo, tỳ-kheo sống quán thân trên thân, có nhiệt tâm, có tỉnh giác, có chánh niệm, sau khi đã loại bỏ lòng tham và nỗi bất mãn đối với cuộc đời.
