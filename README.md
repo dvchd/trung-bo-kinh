@@ -219,16 +219,16 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 140 | [Kinh Phân Biệt Giới](140-kinh-phan-biet-gioi/Kinh-Phan-Biet-Gioi.md) | *Dhātuvibhaṅga* | ✅ |
 | 141 | [Kinh Phân Biệt Sự Thật](141-kinh-phan-biet-su-that/Kinh-Phan-Biet-Su-That.md) | *Saccavibhaṅga* | ✅ |
 | 142 | [Kinh Phân Biệt Cúng Dường](142-kinh-phan-biet-cung-duong/Kinh-Phan-Biet-Cung-Duong.md) | *Dakkhiṇāvibhaṅga* | ✅ |
-| 143 | Kinh Dạy Anāthapiṇḍika | *Anāthapiṇḍikovāda* | — |
+| 143 | [Kinh Dạy Anāthapiṇḍika](143-kinh-day-anathapindika/Kinh-Day-Anathapindika.md) | *Anāthapiṇḍikovāda* | ✅ |
 | 144 | Kinh Dạy Channa | *Channovāda* | — |
 | 145 | Kinh Dạy Puṇṇa | *Puṇṇovāda* | — |
-| 146 | Kinh Dạy Nandaka | *Nandakovāda* | — |
-| 147 | Tiểu Kinh Dạy Rāhula | *Cūḷarāhulovāda* | — |
-| 148 | Kinh Sáu Sáu | *Chachakka* | — |
+| 146 | [Kinh Dạy Nandaka](146-kinh-day-nandaka/Kinh-Day-Nandaka.md) | *Nandakovāda* | ✅ |
+| 147 | [Tiểu Kinh Dạy Rāhula](147-kinh-tieu-day-rahula/Kinh-Tieu-Day-Rahula.md) | *Cūḷarāhulovāda* | ✅ |
+| 148 | [Kinh Sáu Sáu](148-kinh-sau-sau/Kinh-Sau-Sau.md) | *Chachakka* | ✅ |
 | 149 | Đại Kinh Sáu Xứ | *Mahāsaḷāyatanika* | — |
 | 150 | Kinh Nagaravinda | *Nagaravindeyya* | — |
 | 151 | Kinh Thanh Tịnh Việc Khất Thực | *Piṇḍapātapārisuddhi* | — |
-| 152 | Kinh Tu Tập Các Căn | *Indriyabhāvanā* | — |
+| 152 | [Kinh Tu Tập Các Căn](152-kinh-tu-tap-cac-can/Kinh-Tu-Tap-Cac-Can.md) | *Indriyabhāvanā* | ✅ |
 <!-- KET THUC MUC LUC -->
 
 ---

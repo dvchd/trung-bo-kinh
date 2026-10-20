@@ -1,0 +1,15 @@
+# Kinh Dạy Nandaka — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+Bài kinh này diễn ra tại Sāvatthī (Xá-vệ), trong khu rừng Jeta (Kỳ-đà) của ông Anāthapiṇḍika (Cấp Cô Độc). Một hôm, bà Mahāpajāpati Gotamī (Ma-ha-ba-xà-bà-đề Cồ-đàm-di) — người đã nuôi nấng Đức Thế Tôn từ khi Ngài còn nhỏ — dẫn theo khoảng năm trăm tỳ-kheo-ni, tức những nữ tu sĩ, đến thỉnh Ngài dạy bảo và thuyết pháp cho họ. Đó là một cảnh rất đời thường của Tăng đoàn thời bấy giờ: các vị nữ tu cần người hướng dẫn, và việc ấy được giao cho các tỳ-kheo nam luân phiên đảm nhận.
+
+Hôm ấy đến lượt Tôn giả Nandaka, nhưng Tôn giả không muốn nhận. Đức Thế Tôn hỏi Tôn giả Ānanda (A-nan) hôm nay đến lượt ai, và Ānanda thưa rằng Tôn giả Nandaka không muốn dạy bảo các tỳ-kheo-ni. Đức Thế Tôn liền gọi Tôn giả Nandaka và bảo hãy dạy bảo các tỳ-kheo-ni, còn gọi Tôn giả là "bà-la-môn" theo dòng dõi xuất thân. Tôn giả vâng lời, đi khất thực trong thành Sāvatthī, rồi sau bữa ăn cùng một người bạn đồng hành đi đến Rājakārāma, trú xứ của các tỳ-kheo-ni.
+
+Điều đáng chú ý là cách Tôn giả Nandaka nhận lời. Sau khi ngồi xuống và rửa chân, Tôn giả không thuyết giảng một chiều mà tuyên bố: cuộc nói chuyện này sẽ theo lối hỏi đáp. Ai hiểu thì nói là hiểu, ai không hiểu thì nói là không hiểu, và ai còn nghi ngờ hay phân vân thì cứ hỏi lại chính Tôn giả. Với một cộng đồng nữ tu thời bấy giờ, việc mời gọi họ đặt câu hỏi như vậy là một thái độ rất đáng ghi nhận.
+
+Phần chính của bài kinh là một loạt câu hỏi về sáu giác quan: mắt, tai, mũi, lưỡi, thân và ý; về sáu đối tượng của chúng: hình sắc, âm thanh, mùi hương, vị nếm, xúc chạm và pháp; và về sáu loại thức khởi lên khi giác quan tiếp xúc với đối tượng. Với mỗi thứ, Tôn giả hỏi ba câu: nó là thường hay vô thường; nếu vô thường thì là khổ hay lạc; nếu vô thường, khổ, có bản chất biến đổi, thì có thích hợp để xem nó là "của tôi", là "tôi", là "tự ngã của tôi" hay không. Các tỳ-kheo-ni trả lời theo đúng lẽ, và đến cuối thì thưa rằng điều ấy họ đã thấy rõ bằng chánh tuệ từ trước — nghĩa là họ đã chứng quả Dự lưu, tầng thánh đầu tiên, trước khi nghe bài giảng này.
+
+Để làm rõ vì sao cảm giác không thể là một cái tôi thường còn, Tôn giả đưa ra ba hình ảnh. Ngọn đèn dầu: dầu, bấc, ngọn lửa đều vô thường, nên ánh sáng cũng không thể thường còn. Cây lớn: rễ, thân, cành lá đều vô thường, nên bóng mát cũng vậy. Và người đồ tể lóc da bò: dù có phủ lại tấm da lên mình bò, con bò cũng không còn dính liền với da nữa — cũng như khi tuệ của bậc thánh cắt đứt những sợi dây tham ái nối liền giác quan với đối tượng, cái "tôi" quen thuộc không còn chỗ đứng.
+
+Bài kinh khép lại bằng hình ảnh mặt trăng. Lần dạy thứ nhất, Đức Thế Tôn ví các tỳ-kheo-ni với trăng ngày mười bốn: họ hoan hỷ nhưng chưa tròn đủ. Ngài bảo Tôn giả Nandaka ngày mai dạy lại; lần thứ hai, các vị như trăng ngày mười lăm, và cả vị cuối cùng trong năm trăm vị đều đã chứng quả Dự lưu. Có lẽ điều đáng đọc nhất ở đây không phải một giáo lý cao siêu, mà là cách một người thầy đưa người nghe tự kiểm tra từng giác quan của mình, và cách một cộng đồng tu nữ trở thành nhân vật chính của một bài kinh.

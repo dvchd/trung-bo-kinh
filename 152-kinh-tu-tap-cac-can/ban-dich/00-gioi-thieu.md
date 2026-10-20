@@ -1,0 +1,15 @@
+# Kinh Tu Tập Các Căn — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Kinh Tu Tập Các Căn** (*Indriyabhāvanā Sutta*) là bài thứ 152, cũng là bài cuối cùng của **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Gajaṅgalā, một thị trấn ở vùng biên phía đông của vùng trung tâm Ấn Độ thời bấy giờ, trong một rừng tre. Người đến thăm Đức Thế Tôn hôm ấy không phải một vị xuất gia mà là Uttara, một thanh niên đang theo học với bà-la-môn Pārāsiviya — tức một vị thầy thuộc giai cấp bà-la-môn, giới trí thức tế lễ của Ấn Độ cổ.
+
+Đức Thế Tôn mở đầu bằng một câu hỏi lịch sự: thầy của ông có dạy học trò về sự tu tập các căn không? Uttara đáp là có. Và khi được hỏi dạy thế nào, ông trình bày: đó là khi mắt không thấy sắc, tai không nghe tiếng. Đức Thế Tôn chỉ ra ngay chỗ vô lý của lời ấy — nếu vậy thì người mù và người điếc đã có các căn được tu tập hoàn hảo từ lâu. Uttara không đáp được, ngồi im, rũ vai, cúi đầu. Cuộc đối thoại chấm dứt ở đó, nhưng chính nó mở ra phần dạy thật sự của bài kinh.
+
+Vậy "căn" ở đây là gì? Đó là sáu năng lực của mắt, tai, mũi, lưỡi, thân và ý — những gì cho phép ta thấy, nghe, ngửi, nếm, chạm và suy nghĩ. Và "tu tập" chúng, theo Đức Thế Tôn, không phải là làm cho chúng ngưng hoạt động, mà là thay đổi cách ta đối diện với những gì chúng mang đến. Khi mắt thấy một hình sắc, trong tâm lập tức khởi lên cái ưa, cái không ưa, hoặc lẫn lộn cả hai. Đó là chuyện tự nhiên, không phải lỗi của ai. Cái được tu tập là bước tiếp theo: nhận ra những phản ứng ấy vừa mới sinh, do điều kiện mà có, thô thiển và rồi sẽ mất; nhờ thấy vậy, chúng lắng xuống và tâm an trú trong xả — trạng thái không bị kéo về phía ưa hay ghét.
+
+Bài kinh lặp lại khuôn ấy cho cả sáu giác quan, mỗi lần kèm một ví dụ cho thấy sự chuyển hóa xảy ra nhanh đến mức nào: mở mắt rồi nhắm lại, búng tay, giọt nước lăn trên lá sen, nhổ một cục nước bọt, co hay duỗi cánh tay, giọt nước rơi trên chảo sắt nung. Rồi Đức Thế Tôn lần lượt nói về ba hạng. Phần thứ nhất là sự tu tập các căn tối thượng vừa mô tả, nơi phản ứng ưa ghét vừa sinh đã lắng xuống và xả được an lập. Phần thứ hai là bậc hữu học còn đang tập: vẫn bị ưa ghét chi phối như trước, nhưng thấy chúng là khổ nên không chạy theo. Phần thứ ba là bậc thánh đã tu tập các căn, có thể tùy ý nhìn cái đáng ghê tởm là không đáng ghê tởm, nhìn cái không đáng ghê tởm là đáng ghê tởm, hoặc buông cả hai mà an trú xả, chánh niệm, tỉnh giác.
+
+Phần cuối bài kinh không còn lý luận. Đức Thế Tôn nhắc Ānanda rằng những gì một bậc thầy cần làm cho học trò thì Ngài đã làm, rồi chỉ ra những gốc cây và những chỗ trống vắng: hãy thiền định, chớ phóng dật, chớ để sau này phải hối hận. Đó là những lời cuối cùng của Trung Bộ Kinh, và cũng là lời nhắc được lặp lại ở nhiều bài kinh khác trong bộ.
+
+Đọc bài này, người mới tìm hiểu kinh điển có thể thấy một điều rất đời thường: tu tập không phải là trốn tránh cảm giác, mà là học cách không bị cảm giác của mình điều khiển. Và chỗ luyện tập ấy không ở đâu xa — nó nằm ngay trong giây đầu tiên khi một cái gì đó vừa chạm vào mắt, tai hay ý.
