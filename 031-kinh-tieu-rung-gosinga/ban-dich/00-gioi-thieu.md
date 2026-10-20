@@ -1,0 +1,15 @@
+# Tiểu Kinh Rừng Gosiṅga — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Tiểu Kinh Rừng Gosiṅga** (*Cūḷagosiṅga Sutta*) là bài kinh thứ 31 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh thứ hai của Kinh tạng Pali gồm 152 bài cỡ vừa. Bài kinh kể chuyện ba người bạn cùng tu: đại đức Anuruddha, đại đức Nandiya và đại đức Kimbila, đang sống với nhau trong một khu rừng cây sa-la tại Gosiṅga, gần thị trấn Ñātika. Đức Thế Tôn đến thăm các vị vào một buổi chiều, và gần như toàn bộ bài kinh là cuộc trò chuyện giữa Ngài với ba người bạn ấy. Không có phép lạ, không có tranh luận gay gắt, chỉ có một câu hỏi rất giản dị: các ông sống với nhau thế nào?
+
+Mở đầu bài kinh là một cảnh nhỏ nhưng đáng nhớ. Người giữ công viên thấy một sa-môn đi tới, không biết đó là ai, bèn ngăn lại và bảo đừng vào, vì trong ấy đang có ba người con trai nhà lành tu tập. Chính đại đức Anuruddha nghe được, ra nói với ông ta rằng bậc Đạo sư của họ đã đến. Chi tiết ấy cho thấy Đức Thế Tôn hoàn toàn bình dị trong mắt người đời, và cũng cho thấy ba vị ấy được người giữ công viên quý trọng đến mức nào.
+
+Câu hỏi đầu tiên của Đức Thế Tôn là các ông có sống hòa hợp, vui vẻ, không tranh cãi, như sữa hòa với nước, nhìn nhau bằng ánh mắt thân thương hay không. Đại đức Anuruddha trả lời bằng một cách rất cụ thể: với các vị bạn đồng tu, con luôn giữ thân, lời và ý đầy lòng từ ái, cả khi có người thấy lẫn khi chỉ có một mình; con gác lại ý riêng của mình mà sống theo sự dẫn dắt của các vị ấy; thân tuy khác nhau nhưng tâm thì là một. Đây là một trong những định nghĩa đẹp nhất về tình bạn trong tu tập có trong kinh điển.
+
+Phần tiếp theo cho thấy sự hòa hợp ấy không phải là chuyện cảm xúc mà là chuyện được tập thành nếp. Vị nào đi khất thực về trước thì trải chỗ ngồi, chuẩn bị nước uống và nước dùng; vị về sau ăn phần cơm còn lại nếu muốn, không thì đổ ở chỗ thích hợp; ai thấy ghè nước đã cạn thì châm đầy; việc gì quá sức một người thì ra hiệu gọi thêm một vị, cùng chung tay làm, mà không vì thế mà lên tiếng phá sự im lặng. Năm ngày một lần, các vị ngồi lại suốt đêm để nói chuyện Pháp. Những chi tiết rất đời ấy chính là chỗ đứng của cả bài kinh.
+
+Khi được hỏi về thành quả tu tập, đại đức Anuruddha lần lượt kể ra bốn tầng thiền-na, bốn tầng định vô sắc và cuối cùng là sự diệt tận của tưởng và thọ, cùng với việc các lậu hoặc đã được đoạn tận nhờ tuệ. Các vị nói rằng mỗi khi muốn thì các vị đều có thể an trú trong những trạng thái ấy, và ngoài ra không thấy có cách an trú nào cao hơn. Đức Thế Tôn xác nhận từng bước, rồi kết luận rằng quả thật không có gì cao hơn.
+
+Bài kinh khép lại bằng một cảnh khác ở tầng trời. Một vị dạ-xoa tên Dīgha Parajana nghe chuyện bèn tán thán dân Vajjī là có phước, vì ở đó có Đức Thế Tôn và ba vị ấy đang an trú; tiếng tán thán ấy được chư thiên các cõi truyền lên đến cõi Phạm thiên. Đức Thế Tôn nhân đó nói rằng ai tưởng nhớ ba vị ấy với tâm tịnh tín thì sẽ được lợi ích và an lạc lâu dài, từ gia đình, dòng họ, làng, thị trấn, thành phố, miền đất cho đến cả thế giới. Với người đọc hôm nay, bài kinh là một chỉ dẫn khiêm tốn mà bền: muốn sống chung với nhau, trước hết hãy bớt cái tôi, và hãy lo những việc nhỏ cho nhau mỗi ngày.

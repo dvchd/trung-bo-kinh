@@ -1,0 +1,15 @@
+# Đại Kinh Người Chăn Bò — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Đại Kinh Người Chăn Bò** (*Mahāgopālakasutta*) là bài kinh thứ ba mươi ba trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong tịnh xá Jetavana (Kỳ-đà-lâm) của Anāthapiṇḍika (Cấp Cô Độc). Đức Thế Tôn gọi các tỳ-kheo lại và mở đầu bằng một nhận xét rất cụ thể: người chăn bò muốn giữ cho đàn bò khỏe mạnh và sinh sôi thì phải hội đủ mười một điều kiện; thiếu một điều, đàn bò sẽ không thể lớn mạnh.
+
+Nhìn bề ngoài, mười một điều kiện ấy chỉ là nghề chăn nuôi. Người chăn bò phải nhận ra từng con bò trong đàn, phải biết các dấu hiệu để phân biệt con này với con kia, phải bắt trứng ruồi bám trên mình bò, phải băng bó vết thương, phải đốt khói để xua ruồi và côn trùng, phải biết chỗ lội qua sông, phải biết lúc nào bò đã uống no, phải biết lối đi an toàn, phải biết đồng cỏ tốt, phải biết vắt sữa mà còn chừa lại một phần, và cuối cùng là phải tôn kính những con bò đực đầu đàn. Đây đều là những việc rất đời, ai từng nuôi bò cũng biết.
+
+Phần thú vị nhất của bài kinh là chỗ Đức Thế Tôn lật từng điều ấy sang đời sống tu tập. Biết hình sắc thành ra hiểu rõ mọi sắc đều do bốn đại chủng tạo thành. Biết dấu hiệu thành ra thấy rằng kẻ ngu hay người trí đều được nhận ra qua việc làm của mình. Bắt trứng ruồi thành ra không nuôi dưỡng dục tầm, sân tầm, hại tầm đã sinh khởi. Băng bó vết thương thành ra hộ trì các giác quan. Xông khói thành ra giảng Pháp cho người khác.
+
+Sáu điều còn lại cũng được chuyển nghĩa như vậy. Biết chỗ lội qua sông thành ra biết đến hỏi những vị nghe nhiều và thọ trì Pháp. Biết no thành ra niềm vui khi nghe Pháp được giảng. Biết lối đi thành ra hiểu con đường thánh tám chi phần. Biết đồng cỏ thành ra an trú trong bốn niệm xứ. Vắt cạn sữa thành ra nhận đồ cúng dường mà không biết tiết độ. Và tôn kính bò đầu đàn thành ra tôn kính các bậc trưởng lão đã xuất gia từ lâu.
+
+Bài kinh có hai nửa đối xứng. Nửa đầu nói về mười một điều kiện khiến người chăn bò thất bại và khiến vị tỳ-kheo không thể lớn lên trong Pháp và Luật; sau hai bản liệt kê, mười một điều lần lượt được mở ra bằng một câu hỏi rồi giải thích. Nửa sau lặp lại đúng mười một điều ấy ở dạng khẳng định, và kết thúc bằng mười một phẩm chất giúp vị tỳ-kheo đạt được sự tăng trưởng, sự lớn mạnh và sự sung mãn. Cách lặp lại là có chủ ý: người nghe phải tự đối chiếu từng điều một, không bỏ qua điều nào, vì chỉ cần thiếu một điều là cả đàn bò, hay cả đời tu, đều hụt.
+
+Với người đọc hôm nay, hình ảnh ấy vẫn còn sức nói. Một người chăn bò giỏi không phải người có phép lạ, mà là người không bỏ sót việc nhỏ: nhìn kỹ con vật, chữa vết thương sớm, để dành lại một phần sữa. Người tu cũng vậy. Bài kinh không đòi những thành tựu lớn lao, mà đòi sự chăm sóc đều đặn: canh giữ mắt tai, dẹp bỏ ý xấu vừa mới nhóm lên, học hỏi nơi người hiểu biết, và nhận đồ cúng dường vừa đủ. Có lẽ vì thế mà sau hơn hai nghìn năm, bài giảng về người chăn bò vẫn dễ hiểu với bất cứ ai từng chăm sóc một điều gì.

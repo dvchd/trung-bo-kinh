@@ -107,10 +107,10 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 28 | [Đại Kinh Dấu Chân Voi](028-kinh-dai-dau-chan-voi/Kinh-Dai-Dau-Chan-Voi.md) | *Mahāhatthipadopama* | ✅ |
 | 29 | [Đại Kinh Lõi Cây](029-kinh-dai-loi-cay/Kinh-Dai-Loi-Cay.md) | *Mahāsāropama* | ✅ |
 | 30 | [Tiểu Kinh Lõi Cây](030-kinh-tieu-loi-cay/Kinh-Tieu-Loi-Cay.md) | *Cūḷasāropama* | ✅ |
-| 31 | Tiểu Kinh Rừng Gosiṅga | *Cūḷagosiṅga* | — |
-| 32 | Đại Kinh Rừng Gosiṅga | *Mahāgosiṅga* | — |
-| 33 | Đại Kinh Người Chăn Bò | *Mahāgopālaka* | — |
-| 34 | Tiểu Kinh Người Chăn Bò | *Cūḷagopālaka* | — |
+| 31 | [Tiểu Kinh Rừng Gosiṅga](031-kinh-tieu-rung-gosinga/Kinh-Tieu-Rung-Gosinga.md) | *Cūḷagosiṅga* | ✅ |
+| 32 | [Đại Kinh Rừng Gosiṅga](032-kinh-dai-rung-gosinga/Kinh-Dai-Rung-Gosinga.md) | *Mahāgosiṅga* | ✅ |
+| 33 | [Đại Kinh Người Chăn Bò](033-kinh-dai-nguoi-chan-bo/Kinh-Dai-Nguoi-Chan-Bo.md) | *Mahāgopālaka* | ✅ |
+| 34 | [Tiểu Kinh Người Chăn Bò](034-kinh-tieu-nguoi-chan-bo/Kinh-Tieu-Nguoi-Chan-Bo.md) | *Cūḷagopālaka* | ✅ |
 | 35 | [Tiểu Kinh Saccaka](035-kinh-tieu-saccaka/Kinh-Tieu-Saccaka.md) | *Cūḷasaccaka* | ✅ |
 | 36 | [Đại Kinh Saccaka](036-kinh-dai-saccaka/Kinh-Dai-Saccaka.md) | *Mahāsaccaka* | ✅ |
 | 37 | [Tiểu Kinh Đoạn Tận Ái](037-kinh-tieu-doan-tan-ai/Kinh-Tieu-Doan-Tan-Ai.md) | *Cūḷataṇhāsaṅkhaya* | ✅ |
@@ -118,12 +118,12 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 39 | [Đại Kinh Assapura](039-kinh-dai-assapura/Kinh-Dai-Assapura.md) | *Mahāassapura* | ✅ |
 | 40 | [Tiểu Kinh Assapura](040-kinh-tieu-assapura/Kinh-Tieu-Assapura.md) | *Cūḷaassapura* | ✅ |
 | 41 | [Kinh Sāleyyaka](041-kinh-saleyyaka/Kinh-Saleyyaka.md) | *Sāleyyaka* | ✅ |
-| 42 | Kinh Verañjaka | *Verañjaka* | — |
+| 42 | [Kinh Verañjaka](042-kinh-veranjaka/Kinh-Veranjaka.md) | *Verañjaka* | ✅ |
 | 43 | [Đại Kinh Phương Quảng](043-kinh-dai-phuong-quang/Kinh-Dai-Phuong-Quang.md) | *Mahāvedalla* | ✅ |
 | 44 | [Tiểu Kinh Phương Quảng](044-kinh-tieu-phuong-quang/Kinh-Tieu-Phuong-Quang.md) | *Cūḷavedalla* | ✅ |
 | 45 | [Tiểu Kinh Thọ Trì Pháp](045-kinh-tieu-tho-tri-phap/Kinh-Tieu-Tho-Tri-Phap.md) | *Cūḷadhammasamādāna* | ✅ |
 | 46 | [Đại Kinh Thọ Trì Pháp](046-kinh-dai-tho-tri-phap/Kinh-Dai-Tho-Tri-Phap.md) | *Mahādhammasamādāna* | ✅ |
-| 47 | Kinh Tư Sát | *Vīmaṃsaka* | — |
+| 47 | [Kinh Tư Sát](047-kinh-tu-sat/Kinh-Tu-Sat.md) | *Vīmaṃsaka* | ✅ |
 | 48 | [Kinh Kosambī](048-kinh-kosambi/Kinh-Kosambi.md) | *Kosambiya* | ✅ |
 | 49 | [Kinh Phạm Thiên Mời](049-kinh-pham-thien-moi/Kinh-Pham-Thien-Moi.md) | *Brahmanimantanika* | ✅ |
 | 50 | [Kinh Sự Khiển Trách Ma](050-kinh-su-khien-trach-ma/Kinh-Su-Khien-Trach-Ma.md) | *Māratajjanīya* | ✅ |
