@@ -8,7 +8,15 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Tại Kapilavatthu, người Sakya vừa xây xong một nhà hội và thỉnh Đức Thế Tôn đến dùng
+trước. Đêm ấy, sau khi nói pháp cho họ đến khuya, Đức Thế Tôn giao cho vị tôn giả Ānanda
+nói tiếp về hạnh của bậc hữu học, vì lưng Ngài nhức mỏi. Ānanda vẽ ra một con đường tu
+tập tuần tự: giữ giới, canh giữ các cửa giác quan, biết tiết độ trong việc ăn, chuyên tâm
+vào sự tỉnh thức, thành tựu bảy thiện pháp và bốn thiền-na. Người đi hết các bậc ấy được
+gọi là bậc hữu học, ví như gà con đã đủ ngày trong vỏ trứng: dù gà mẹ có ước mong hay
+không, nó vẫn đủ sức mổ vỏ chui ra. Ba lần nở ra là ba cái biết lớn — nhớ lại các đời
+trước, thấy chúng sinh sinh tử theo nghiệp, và đoạn tận các lậu hoặc. Bài kinh khép lại
+bằng bài kệ của Phạm Thiên Sanaṅkumāra và lời khen của Đức Thế Tôn cho Ānanda.
 
 ## Con số
 
@@ -20,7 +28,12 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`ban-dich/00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người chưa học Phật |
+| [`ban-dich/00-title.md`](ban-dich/00-title.md) | Nhan đề bài kinh |
+| [`ban-dich/01-phan-1.md`](ban-dich/01-phan-1.md) | Bối cảnh tại Kapilavatthu; lời thỉnh cầu của người Sakya; Đức Thế Tôn dùng nhà hội, nói pháp đến khuya rồi giao Ānanda nói về bậc hữu học; năm chặng đầu của con đường tu tập (giới, canh giữ các cửa giác quan, tiết độ trong việc ăn, tỉnh thức, bảy thiện pháp) và bốn thiền-na |
+| [`ban-dich/02-phan-2.md`](ban-dich/02-phan-2.md) | Định nghĩa bậc hữu học; ví dụ trứng gà với ba lần nở ra (ba minh); minh và hạnh; bài kệ của Phạm Thiên Sanaṅkumāra; lời khen của Đức Thế Tôn và kết kinh |
 
 ## Cách đọc và góp ý
 

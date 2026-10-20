@@ -129,19 +129,19 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 50 | [Kinh Sự Khiển Trách Ma](050-kinh-su-khien-trach-ma/Kinh-Su-Khien-Trach-Ma.md) | *Māratajjanīya* | ✅ |
 | 51 | Kinh Kandaraka | *Kandaraka* | — |
 | 52 | Kinh Aṭṭhakanāgara | *Aṭṭhakanāgara* | — |
-| 53 | Kinh Hữu Học | *Sekha* | — |
+| 53 | [Kinh Hữu Học](053-kinh-huu-hoc/Kinh-Huu-Hoc.md) | *Sekha* | ✅ |
 | 54 | [Kinh Potaliya](054-kinh-potaliya/Kinh-Potaliya.md) | *Potaliya* | ✅ |
-| 55 | Kinh Jīvaka | *Jīvaka* | — |
-| 56 | Kinh Upāli | *Upāli* | — |
+| 55 | [Kinh Jīvaka](055-kinh-jivaka/Kinh-Jivaka.md) | *Jīvaka* | ✅ |
+| 56 | [Kinh Upāli](056-kinh-upali/Kinh-Upali.md) | *Upāli* | ✅ |
 | 57 | Kinh Thực Hành Chó | *Kukkuravatika* | — |
-| 58 | Kinh Abhaya | *Abhayarājakumāra* | — |
+| 58 | [Kinh Abhaya](058-kinh-abhaya/Kinh-Abhaya.md) | *Abhayarājakumāra* | ✅ |
 | 59 | Kinh Nhiều Loại Cảm Thọ | *Bahuvedanīya* | — |
-| 60 | Kinh Không Thể Tranh Cãi | *Apaṇṇaka* | — |
+| 60 | [Kinh Không Thể Tranh Cãi](060-kinh-khong-the-tranh-cai/Kinh-Khong-The-Tranh-Cai.md) | *Apaṇṇaka* | ✅ |
 | 61 | [Kinh Dạy Rāhula](061-kinh-day-rahula/Kinh-Day-Rahula.md) | *Rāhulovāda* | ✅ |
 | 62 | [Đại Kinh Dạy Rāhula](062-kinh-dai-day-rahula/Kinh-Dai-Day-Rahula.md) | *Mahārāhulovāda* | ✅ |
 | 63 | [Tiểu Kinh Māluṅkya](063-kinh-tieu-malunkya/Kinh-Tieu-Malunkya.md) | *Cūḷamālukya* | ✅ |
 | 64 | [Đại Kinh Māluṅkya](064-kinh-dai-malunkya/Kinh-Dai-Malunkya.md) | *Mahāmālukya* | ✅ |
-| 65 | Kinh Bhaddāli | *Bhaddāli* | — |
+| 65 | [Kinh Bhaddāli](065-kinh-bhaddali/Kinh-Bhaddali.md) | *Bhaddāli* | ✅ |
 | 66 | Kinh Ví Dụ Con Chim Cút | *Laṭukikopama* | — |
 | 67 | Kinh Cātumā | *Cātuma* | — |
 | 68 | Kinh Naḷakapāna | *Naḷakapāna* | — |
