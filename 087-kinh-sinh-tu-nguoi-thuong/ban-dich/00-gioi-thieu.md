@@ -1,0 +1,15 @@
+# Kinh Sinh Từ Người Thương — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Kinh Sinh Từ Người Thương** (*Piyajātika Sutta*) là bài kinh thứ tám mươi bảy trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Tên bài, dịch sát, là "những gì sinh ra từ người mình thương". Trung tâm của bài chỉ là một câu nói rất ngắn do Đức Thế Tôn đưa ra, và một người đang đau khổ phản đối câu nói ấy ngay tại chỗ. Phần còn lại của bài kinh là chuyện đi tìm xem ai đúng.
+
+Bài mở đầu ở Sāvatthī. Một gia chủ nọ mất đứa con trai duy nhất, đứa con ông thương yêu quý mến. Từ đó ông không còn thiết làm việc, cũng không còn thiết ăn uống; ngày ngày ông ra chỗ hoả táng, gọi: "Con ở đâu rồi, đứa con duy nhất của cha?" Ông đến chỗ Đức Thế Tôn, và vừa nhìn thấy ông, Ngài nói rằng các căn của ông đã biến đổi khác đi, không còn là của người tâm trí vững vàng. Ông thừa nhận, kể lại nỗi mất mát, rồi được Ngài dạy: sầu, bi, khổ, ưu, não sinh ra từ người mình thương yêu, lấy người mình thương yêu làm cội nguồn. Phản ứng của ông là phản ứng rất người: ông không tin. Ai lại có thể nghĩ rằng người mình thương yêu là nguồn gốc của khổ đau, khi chính họ là nguồn vui của mình? Ông bác bỏ lời ấy, đứng dậy ra về, và kể lại câu chuyện cho mấy con bạc đang chơi xúc xắc gần đó. Họ đồng tình với ông, nên ông ra về với ý nghĩ rằng mình đã đúng.
+
+Rồi câu chuyện vào đến hoàng cung. Vua Pasenadi xứ Kosala đem chuyện ấy hỏi hoàng hậu Mallikā. Bà trả lời: nếu Đức Thế Tôn đã nói như vậy thì đúng là như vậy. Nhà vua nổi giận, cho rằng bà nói gì cũng gật, chẳng khác nào học trò gật theo thầy, và đuổi bà đi. Mallikā không cãi. Bà sai bà-la-môn Nāḷijaṅgha đến tận chỗ Đức Thế Tôn để hỏi lại cho rõ, dặn ông ghi nhớ thật kỹ câu trả lời và thuật lại nguyên vẹn.
+
+Đức Thế Tôn xác nhận lời ấy, rồi đưa ra một loạt ví dụ ngay tại Sāvatthī: người đàn bà mất mẹ, mất cha, mất anh, mất chị, mất con trai, mất con gái, mất chồng; người đàn ông cũng vậy; và một người vợ bị bà con ép gả cho người khác, người chồng bèn chém vợ làm đôi rồi tự mổ bụng mình, với ý nghĩ hai người sẽ ở bên nhau sau khi chết. Những người ấy phát điên, tâm trí rối loạn, đi từ đường này sang đường khác, từ ngã tư này sang ngã tư khác, gọi tên người đã mất. Không ví dụ nào là chuyện xa xôi; tất cả đều là chuyện người ta đã thấy ngay trong thành.
+
+Mallikā trở về và không giảng giải gì cả. Bà chỉ hỏi nhà vua, từng người một: ngài có thương công chúa Vajirī không, có thương nàng Vāsabhā không, có thương tướng quân Viṭaṭūbha không, có thương thiếp không, có thương hai xứ Kāsi và Kosala không. Mỗi lần, khi nhà vua thú nhận rằng nếu mất người ấy thì chính mạng sống của ông cũng đảo lộn, bà lại nói: chính vì điều này mà Đức Thế Tôn đã nói như vậy. Đến cuối, nhà vua tự mình thấy, chắp tay hướng về Đức Thế Tôn và ba lần thốt lên lời cảm khái.
+
+Bài kinh không bảo người ta đừng thương yêu. Nó chỉ ra rằng thương yêu và mất mát nằm trong cùng một gói, và người đã thấy rõ điều ấy thì không còn ngạc nhiên khi đau khổ ập đến. Điều đáng chú ý là cách hoàng hậu Mallikā đưa nhà vua đến chỗ hiểu: bà không trích dẫn kinh điển, không tranh cãi, chỉ hỏi những câu mà tự nhà vua phải trả lời.

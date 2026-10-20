@@ -155,15 +155,15 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 76 | Kinh Sandaka | *Sandaka* | — |
 | 77 | [Đại Kinh Sakuludāyi](077-kinh-dai-sakuludayi/Kinh-Dai-Sakuludayi.md) | *Mahāsakuludāyi* | ✅ |
 | 78 | [Kinh Sa-môn Muṇḍika](078-kinh-sa-mon-mundika/Kinh-Sa-Mon-Mundika.md) | *Samaṇamuṇḍika* | ✅ |
-| 79 | Tiểu Kinh Sakuludāyi | *Cūḷasakuludāyi* | — |
+| 79 | [Tiểu Kinh Sakuludāyi](079-kinh-tieu-sakuludayi/Kinh-Tieu-Sakuludayi.md) | *Cūḷasakuludāyi* | ✅ |
 | 80 | [Kinh Vekhanasa](080-kinh-vekhanasa/Kinh-Vekhanasa.md) | *Vekhanasa* | ✅ |
-| 81 | Kinh Ghaṭikāra | *Ghaṭikāra* | — |
+| 81 | [Kinh Ghaṭikāra](081-kinh-ghatikara/Kinh-Ghatikara.md) | *Ghaṭikāra* | ✅ |
 | 82 | [Kinh Raṭṭhapāla](082-kinh-ratthapala/Kinh-Ratthapala.md) | *Raṭṭhapāla* | ✅ |
-| 83 | Kinh Makhādeva | *Makhādeva* | — |
-| 84 | Kinh Madhurā | *Madhura* | — |
-| 85 | Kinh Bodhirājakumāra | *Bodhirājakumāra* | — |
+| 83 | [Kinh Makhādeva](083-kinh-makhadeva/Kinh-Makhadeva.md) | *Makhādeva* | ✅ |
+| 84 | [Kinh Madhurā](084-kinh-madhura/Kinh-Madhura.md) | *Madhura* | ✅ |
+| 85 | [Kinh Bodhirājakumāra](085-kinh-bodhirajakumara/Kinh-Bodhirajakumara.md) | *Bodhirājakumāra* | ✅ |
 | 86 | [Kinh Aṅgulimāla](086-kinh-angulimala/Kinh-Angulimala.md) | *Aṅgulimāla* | ✅ |
-| 87 | Kinh Sinh Từ Người Thương | *Piyajātika* | — |
+| 87 | [Kinh Sinh Từ Người Thương](087-kinh-sinh-tu-nguoi-thuong/Kinh-Sinh-Tu-Nguoi-Thuong.md) | *Piyajātika* | ✅ |
 | 88 | Kinh Bāhitika | *Bāhitika* | — |
 | 89 | Kinh Bảo Tháp Pháp | *Dhammacetiya* | — |
 | 90 | Kinh Kaṇṇakatthala | *Kaṇṇakatthala* | — |
