@@ -148,10 +148,10 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 69 | Kinh Gulissāni | *Gulissāni* | — |
 | 70 | [Kinh Kīṭāgiri](070-kinh-kitagiri/Kinh-Kitagiri.md) | *Kīṭāgiri* | ✅ |
 | 71 | Kinh Vacchagotta về Tam Minh | *Tevijjavacchagotta* | — |
-| 72 | Kinh Vacchagotta về Lửa | *Aggivacchagotta* | — |
+| 72 | [Kinh Vacchagotta về Lửa](072-kinh-vacchagotta-ve-lua/Kinh-Vacchagotta-Ve-Lua.md) | *Aggivacchagotta* | ✅ |
 | 73 | Đại Kinh Vacchagotta | *Mahāvacchagotta* | — |
 | 74 | Kinh Dīghanakha | *Dīghanakha* | — |
-| 75 | Kinh Māgaṇḍiya | *Māgaṇḍiya* | — |
+| 75 | [Kinh Māgaṇḍiya](075-kinh-magandiya/Kinh-Magandiya.md) | *Māgaṇḍiya* | ✅ |
 | 76 | Kinh Sandaka | *Sandaka* | — |
 | 77 | Đại Kinh Sakuludāyi | *Mahāsakuludāyi* | — |
 | 78 | Kinh Sa-môn Muṇḍika | *Samaṇamuṇḍika* | — |
@@ -177,13 +177,13 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 98 | Kinh Vāseṭṭha | *Vāseṭṭha* | — |
 | 99 | Kinh Subha | *Subha* | — |
 | 100 | Kinh Saṅgārava | *Saṅgārava* | — |
-| 101 | Kinh Devadaha | *Devadaha* | — |
+| 101 | [Kinh Devadaha](101-kinh-devadaha/Kinh-Devadaha.md) | *Devadaha* | ✅ |
 | 102 | Kinh Năm và Ba | *Pañcattaya* | — |
 | 103 | Kinh Như Thế Nào | *Kinti* | — |
 | 104 | Kinh Sāmagāma | *Sāmagāma* | — |
 | 105 | Kinh Sunakkhatta | *Sunakkhatta* | — |
 | 106 | Kinh Về Bất Động | *Āneñjasappāya* | — |
-| 107 | Kinh Gaṇakamoggallāna | *Gaṇakamoggallāna* | — |
+| 107 | [Kinh Gaṇakamoggallāna](107-kinh-ganakamoggallana/Kinh-Ganakamoggallana.md) | *Gaṇakamoggallāna* | ✅ |
 | 108 | Kinh Gopaka | *Gopakamoggallāna* | — |
 | 109 | Đại Kinh Trăng Tròn | *Mahāpuṇṇama* | — |
 | 110 | Tiểu Kinh Trăng Tròn | *Cūḷapuṇṇama* | — |
@@ -193,9 +193,9 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 114 | Kinh Nên Thân Cận và Không Nên Thân Cận | *Sevitabbāsevitabba* | — |
 | 115 | Kinh Nhiều Giới | *Bahudhātuka* | — |
 | 116 | Kinh Isigili | *Isigili* | — |
-| 117 | Đại Kinh Bốn Mươi | *Mahācattārīsaka* | — |
+| 117 | [Đại Kinh Bốn Mươi](117-kinh-dai-bon-muoi/Kinh-Dai-Bon-Muoi.md) | *Mahācattārīsaka* | ✅ |
 | 118 | [Kinh Niệm Hơi Thở](118-kinh-niem-hoi-tho/Kinh-Niem-Hoi-Tho.md) | *Ānāpānassati* | ✅ |
-| 119 | Kinh Niệm Thân | *Kāyagatāsati* | — |
+| 119 | [Kinh Niệm Thân](119-kinh-niem-than/Kinh-Niem-Than.md) | *Kāyagatāsati* | ✅ |
 | 120 | Kinh Tái Sinh Theo Hành | *Saṅkhārupapatti* | — |
 | 121 | Tiểu Kinh Không | *Cūḷasuññata* | — |
 | 122 | Đại Kinh Không | *Mahāsuññata* | — |
