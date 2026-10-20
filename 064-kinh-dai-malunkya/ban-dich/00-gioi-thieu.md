@@ -1,0 +1,15 @@
+# Đại Kinh Māluṅkya — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Đại Kinh Māluṅkya** (*Mahāmālukyasutta*) là bài kinh thứ sáu mươi tư trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh không kể một câu chuyện ly kỳ; đó là một cuộc đối thoại tại Sāvatthī (Xá-vệ), giữa Đức Thế Tôn, Tôn giả Māluṅkyaputta và Tôn giả Ānanda, bàn về một câu hỏi rất cụ thể: năm thứ trói buộc người ta vào vòng sinh tử được hiểu và được đoạn trừ như thế nào.
+
+Trong kinh, "kiết sử" là những sợi dây trói tâm vào vòng tái sinh. "Năm hạ phần kiết sử" là năm sợi dây thấp nhất, trói chúng sinh vào các cõi thấp: thân kiến (tin rằng trong thân tâm có một cái ta bền vững), hoài nghi về Pháp, giới cấm thủ (chấp chặt vào giới luật và cách hành trì bên ngoài), dục tham và sân hận. Người đã đoạn tận năm sợi dây này được gọi là Bất hoàn, nghĩa là không còn trở lại cõi dục này nữa.
+
+Điểm đặc sắc nhất của bài kinh là cách Đức Thế Tôn làm rõ một điều tưởng như nghịch lý. Tôn giả Māluṅkyaputta trả lời đúng danh sách năm kiết sử, nhưng Đức Thế Tôn lại hỏi vặn: một đứa trẻ sơ sinh có thân kiến không, có hoài nghi không, có chấp thủ giới cấm không, có dục tham không, có sân hận không? Câu trả lời là không, vì đứa bé chưa có những tâm niệm ấy. Thế nhưng ai cũng thấy mầm mống của chúng nằm trong đứa bé, chờ ngày lớn lên. Kinh gọi những mầm mống ấy là "tùy miên": khuynh hướng ngầm, chưa bộc lộ thành hành vi nhưng vẫn ngủ sâu trong tâm và sẽ trỗi dậy khi gặp duyên.
+
+Từ đó, bài kinh phân biệt hai hạng người. Kẻ phàm phu chưa được nghe Pháp thì bị năm kiết sử chế ngự, không biết lối thoát khỏi chúng, nên chúng ăn sâu và tiếp tục trói buộc. Vị thánh đệ tử đã được nghe Pháp thì không bị chế ngự như vậy, biết lối thoát, và đoạn trừ được cả kiết sử lẫn tùy miên của nó. Sự khác biệt không nằm ở việc có hay không có những tâm niệm ấy, mà ở chỗ có nhận ra chúng và có con đường để đi ra hay không.
+
+Phần lớn còn lại của bài kinh mô tả con đường ấy. Đó là bốn tầng thiền-na, tức bốn tầng định sâu lần lượt lắng dịu tầm, tứ, hỷ và lạc, rồi ba tầng vô sắc: Không vô biên xứ, Thức vô biên xứ và Vô sở hữu xứ. Điều đáng chú ý là mỗi tầng định không phải đích đến; từ mỗi tầng, hành giả quay lại quán năm uẩn — sắc, thọ, tưởng, hành, thức — là vô thường, khổ, bệnh, ung nhọt, mũi tên, trống không, vô ngã, rồi hướng tâm đến giới bất tử, tức Niết-bàn. Nếu các lậu hoặc, những ô nhiễm sâu kín nhất, được đoạn tận, vị ấy thành A-la-hán; nếu chưa, vị ấy thành Bất hoàn.
+
+Bài kinh khép lại bằng một câu hỏi tinh tế của Tôn giả Ānanda: nếu chỉ có một con đường ấy, vì sao trong Tăng đoàn có vị tâm giải thoát, có vị tuệ giải thoát? Đức Thế Tôn đáp: "Ở đây Ta nói đến sự khác biệt của các căn." Nghĩa là cùng một con đường, nhưng mỗi người có thế mạnh khác nhau về đức tin, tinh tấn, chánh niệm, định và tuệ; sự chín muồi của các căn ấy quyết định người ta nghiêng về giải thoát bằng định hay bằng tuệ. Với người đọc hôm nay, bài kinh là một bản đồ nhỏ nhưng đầy đủ: tu tập không phải là diệt trừ những gì chưa từng có, mà là nhận diện những khuynh hướng ngủ ngầm và đi theo con đường đã được chỉ rõ để chúng không còn chỗ trú.

@@ -119,18 +119,18 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 40 | Tiểu Kinh Assapura | *Cūḷaassapura* | — |
 | 41 | Kinh Sāleyyaka | *Sāleyyaka* | — |
 | 42 | Kinh Verañjaka | *Verañjaka* | — |
-| 43 | Đại Kinh Phương Quảng | *Mahāvedalla* | — |
-| 44 | Tiểu Kinh Phương Quảng | *Cūḷavedalla* | — |
+| 43 | [Đại Kinh Phương Quảng](043-kinh-dai-phuong-quang/Kinh-Dai-Phuong-Quang.md) | *Mahāvedalla* | ✅ |
+| 44 | [Tiểu Kinh Phương Quảng](044-kinh-tieu-phuong-quang/Kinh-Tieu-Phuong-Quang.md) | *Cūḷavedalla* | ✅ |
 | 45 | Tiểu Kinh Thọ Trì Pháp | *Cūḷadhammasamādāna* | — |
 | 46 | Đại Kinh Thọ Trì Pháp | *Mahādhammasamādāna* | — |
 | 47 | Kinh Tư Sát | *Vīmaṃsaka* | — |
-| 48 | Kinh Kosambī | *Kosambiya* | — |
+| 48 | [Kinh Kosambī](048-kinh-kosambi/Kinh-Kosambi.md) | *Kosambiya* | ✅ |
 | 49 | Kinh Phạm Thiên Mời | *Brahmanimantanika* | — |
 | 50 | Kinh Sự Khiển Trách Ma | *Māratajjanīya* | — |
 | 51 | Kinh Kandaraka | *Kandaraka* | — |
 | 52 | Kinh Aṭṭhakanāgara | *Aṭṭhakanāgara* | — |
 | 53 | Kinh Hữu Học | *Sekha* | — |
-| 54 | Kinh Potaliya | *Potaliya* | — |
+| 54 | [Kinh Potaliya](054-kinh-potaliya/Kinh-Potaliya.md) | *Potaliya* | ✅ |
 | 55 | Kinh Jīvaka | *Jīvaka* | — |
 | 56 | Kinh Upāli | *Upāli* | — |
 | 57 | Kinh Thực Hành Chó | *Kukkuravatika* | — |
@@ -140,13 +140,13 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 61 | [Kinh Dạy Rāhula](061-kinh-day-rahula/Kinh-Day-Rahula.md) | *Rāhulovāda* | ✅ |
 | 62 | [Đại Kinh Dạy Rāhula](062-kinh-dai-day-rahula/Kinh-Dai-Day-Rahula.md) | *Mahārāhulovāda* | ✅ |
 | 63 | Tiểu Kinh Māluṅkya | *Cūḷamālukya* | — |
-| 64 | Đại Kinh Māluṅkya | *Mahāmālukya* | — |
+| 64 | [Đại Kinh Māluṅkya](064-kinh-dai-malunkya/Kinh-Dai-Malunkya.md) | *Mahāmālukya* | ✅ |
 | 65 | Kinh Bhaddāli | *Bhaddāli* | — |
 | 66 | Kinh Ví Dụ Con Chim Cút | *Laṭukikopama* | — |
 | 67 | Kinh Cātumā | *Cātuma* | — |
 | 68 | Kinh Naḷakapāna | *Naḷakapāna* | — |
 | 69 | Kinh Gulissāni | *Gulissāni* | — |
-| 70 | Kinh Kīṭāgiri | *Kīṭāgiri* | — |
+| 70 | [Kinh Kīṭāgiri](070-kinh-kitagiri/Kinh-Kitagiri.md) | *Kīṭāgiri* | ✅ |
 | 71 | Kinh Vacchagotta về Tam Minh | *Tevijjavacchagotta* | — |
 | 72 | Kinh Vacchagotta về Lửa | *Aggivacchagotta* | — |
 | 73 | Đại Kinh Vacchagotta | *Mahāvacchagotta* | — |
