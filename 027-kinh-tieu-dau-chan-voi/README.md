@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Tại Sāvatthī, bà-la-môn Jānussoṇi gặp du sĩ Pilotika vừa từ chỗ Đức Thế Tôn về, và nghe ông ta kể bốn "dấu chân" khiến ông tin rằng sa-môn Gotama đã giác ngộ: bốn hạng người hay tranh luận — vua chúa, bà-la-môn, gia chủ, sa-môn — đều bị lời Pháp của Ngài khuất phục. Jānussoṇi đến gặp Đức Thế Tôn và thuật lại câu chuyện; Ngài nhận xét phép so sánh ấy còn thiếu, rồi giảng trọn con đường tu tập tuần tự từ giới, biết đủ, hộ trì các căn, chánh niệm tỉnh giác và thiền-na, cho đến ba trí và sự giải thoát hoàn toàn. Mỗi chặng được gọi là một "dấu chân của Như Lai", nhưng vị thánh đệ tử chỉ thật sự kết luận khi tâm đã giải thoát khỏi các lậu hoặc. Bài kinh khép lại bằng lời tán thán và việc quy y của bà-la-môn Jānussoṇi.
 
 ## Con số
 
@@ -20,7 +20,14 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người chưa quen kinh điển Pali |
+| [`00-title.md`](ban-dich/00-title.md) | Tựa kinh bằng tiếng Việt và tiếng Pali |
+| [`01-phan-1.md`](ban-dich/01-phan-1.md) | Bối cảnh tại Sāvatthī, cuộc gặp Jānussoṇi – Pilotika và bốn dấu chân đầu tiên |
+| [`02-phan-2.md`](ban-dich/02-phan-2.md) | Bốn hạng người quy phục, lời tán thán của Jānussoṇi và Đức Thế Tôn bắt đầu giảng |
+| [`03-phan-3.md`](ban-dich/03-phan-3.md) | Con đường tu tập: xuất gia, giới, biết đủ, hộ trì các căn, chánh niệm tỉnh giác |
+| [`04-phan-4.md`](ban-dich/04-phan-4.md) | Năm triền cái, bốn thiền-na, ba trí, giải thoát và lời quy y |
 
 ## Cách đọc và góp ý
 

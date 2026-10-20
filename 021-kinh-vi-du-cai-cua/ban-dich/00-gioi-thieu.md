@@ -1,0 +1,15 @@
+# Kinh Ví Dụ Cái Cưa — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Kinh Ví Dụ Cái Cưa** (*Kakacūpama Sutta*) là bài kinh thứ 21 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng Pali. Bài mở đầu bằng một chuyện nhỏ trong Tăng đoàn: tỳ-kheo Moḷiyaphagguna giao du quá thân với một nhóm tỳ-kheo-ni, đến mức ai chê các vị ấy thì ngài nổi giận, còn ai chê ngài thì các vị ấy nổi giận. Đức Thế Tôn gọi ngài đến, không quở mắng nặng nề, mà chỉ ra rằng một người đã xuất gia vì lòng tin thì không thể để chuyện tình cảm như vậy điều khiển mình.
+
+Phần tiếp theo mở rộng câu chuyện ấy thành bài học chung cho tất cả những ai tu tập. Đức Thế Tôn kể lại rằng có một thuở Ngài chỉ cần khơi dậy chánh niệm là các tỳ-kheo tự tiến bộ, ví như một cỗ xe ngựa thuần chủng đứng sẵn nơi ngã tư, người đánh xe chỉ cần kéo dây cương là xe chạy đúng ý. Rồi Ngài đưa ra hình ảnh một khu rừng cây sa-la bị cây thầu dầu mọc kín: người muốn cứu khu rừng phải chặt bỏ những cây cong queo hút hết nhựa, và chăm sóc những cây thẳng tốt. Việc tu tập cũng vậy, phải nhổ bỏ cái xấu và nuôi dưỡng cái lành.
+
+Đến đây bài kinh chuyển sang câu chuyện nổi tiếng nhất của mình: bà chủ nhà Vedehikā nổi tiếng hiền lành, khiêm nhường, an tịnh. Nữ tỳ Kāḷī nghi ngờ, bèn thử bà ba lần bằng cách dậy muộn. Hai lần đầu bà chỉ nhăn mặt và nói lời giận dữ; lần thứ ba bà chụp cây chốt cửa đánh vào đầu cô, làm vỡ đầu. Khi ấy cả xóm mới biết tiếng lành của bà chỉ là lớp áo bên ngoài, và từ đó bà mang tiếng dữ dằn. Bài kinh dùng chuyện này để nói rằng ai cũng có thể tỏ ra hiền lành khi được yên thân; chỉ khi gặp lời nói trái ý mới biết thật hay giả.
+
+Sau đó là một loạt ví dụ về sự bền vững: quả đất sâu dày không thể bị ai đào cho thành "không đất"; hư không không hình sắc không thể bị vẽ lên; sông Gaṅgā không thể bị một bó cỏ cháy làm khô cạn; và một túi da mèo đã được chà thật mềm thì không còn kêu sột soạt khi bị đập. Tâm của người tu cũng phải như vậy: trước năm cách nói của người đời, gồm đúng lúc hay sai lúc, thật hay giả, dịu hay nặng, có lợi hay có hại, vì thương hay vì ghét, tâm không được rung chuyển, không được thốt ra lời ác, mà trải rộng lòng thương đến chính người đang nói.
+
+Bài kinh khép lại bằng hình ảnh đã thành tên gọi của nó: dù kẻ cướp có dùng cưa hai cánh cắt xẻo thân thể, ai khởi lên ý ác trong lúc ấy là người chưa làm theo lời dạy. Đây là một trong những lời dạy gắt gao nhất về nhẫn nhịn trong kinh điển Pali, và cũng là một trong những chỗ dễ bị hiểu lầm nhất: bài kinh không bảo người ta đứng yên chịu bạo lực, mà nói về cái tâm không được để sân hận chiếm chỗ, kể cả khi phải tự vệ hay bảo vệ người khác.
+
+Với người đọc hôm nay, bài kinh là một bài tập nhìn lại phản ứng của mình khi bị chê bai. Nó không đòi hỏi tin vào một giáo lý nào trước, chỉ mời người đọc thử một câu hỏi rất cụ thể: khi ai đó nói điều mình không muốn nghe, tâm mình có còn đứng yên được không, hay lập tức chạy theo phản ứng? Câu trả lời của bài kinh không phải là nín thinh cho qua, mà là giữ được lòng thương ngay trong lúc bị làm tổn thương.

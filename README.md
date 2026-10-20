@@ -97,14 +97,14 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 18 | Kinh Mật Hoàn | *Madhupiṇḍika* | — |
 | 19 | [Kinh Hai Loại Tầm](019-kinh-hai-loai-tam/Kinh-Hai-Loai-Tam.md) | *Dvedhāvitakka* | ✅ |
 | 20 | [Kinh An Trú Tầm](020-kinh-an-tru-tam/Kinh-An-Tru-Tam.md) | *Vitakkasaṇṭhāna* | ✅ |
-| 21 | Kinh Ví Dụ Cái Cưa | *Kakacūpama* | — |
-| 22 | Kinh Ví Dụ Con Rắn | *Alagaddūpama* | — |
+| 21 | [Kinh Ví Dụ Cái Cưa](021-kinh-vi-du-cai-cua/Kinh-Vi-Du-Cai-Cua.md) | *Kakacūpama* | ✅ |
+| 22 | [Kinh Ví Dụ Con Rắn](022-kinh-vi-du-con-ran/Kinh-Vi-Du-Con-Ran.md) | *Alagaddūpama* | ✅ |
 | 23 | Kinh Tổ Kiến | *Vammika* | — |
 | 24 | Kinh Cỗ Xe | *Rathavinīta* | — |
 | 25 | Kinh Mồi Nhử | *Nivāpa* | — |
 | 26 | [Kinh Thánh Cầu](026-kinh-thanh-cau/Kinh-Thanh-Cau.md) | *Ariyapariyesanā* | ✅ |
-| 27 | Tiểu Kinh Dấu Chân Voi | *Cūḷahatthipadopama* | — |
-| 28 | Đại Kinh Dấu Chân Voi | *Mahāhatthipadopama* | — |
+| 27 | [Tiểu Kinh Dấu Chân Voi](027-kinh-tieu-dau-chan-voi/Kinh-Tieu-Dau-Chan-Voi.md) | *Cūḷahatthipadopama* | ✅ |
+| 28 | [Đại Kinh Dấu Chân Voi](028-kinh-dai-dau-chan-voi/Kinh-Dai-Dau-Chan-Voi.md) | *Mahāhatthipadopama* | ✅ |
 | 29 | Đại Kinh Lõi Cây | *Mahāsāropama* | — |
 | 30 | Tiểu Kinh Lõi Cây | *Cūḷasāropama* | — |
 | 31 | Tiểu Kinh Rừng Gosiṅga | *Cūḷagosiṅga* | — |
@@ -137,8 +137,8 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 58 | Kinh Abhaya | *Abhayarājakumāra* | — |
 | 59 | Kinh Nhiều Loại Cảm Thọ | *Bahuvedanīya* | — |
 | 60 | Kinh Không Thể Tranh Cãi | *Apaṇṇaka* | — |
-| 61 | Kinh Dạy Rāhula | *Rāhulovāda* | — |
-| 62 | Đại Kinh Dạy Rāhula | *Mahārāhulovāda* | — |
+| 61 | [Kinh Dạy Rāhula](061-kinh-day-rahula/Kinh-Day-Rahula.md) | *Rāhulovāda* | ✅ |
+| 62 | [Đại Kinh Dạy Rāhula](062-kinh-dai-day-rahula/Kinh-Dai-Day-Rahula.md) | *Mahārāhulovāda* | ✅ |
 | 63 | Tiểu Kinh Māluṅkya | *Cūḷamālukya* | — |
 | 64 | Đại Kinh Māluṅkya | *Mahāmālukya* | — |
 | 65 | Kinh Bhaddāli | *Bhaddāli* | — |

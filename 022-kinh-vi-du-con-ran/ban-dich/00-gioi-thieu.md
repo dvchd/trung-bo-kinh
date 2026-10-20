@@ -1,0 +1,15 @@
+# Kinh Ví Dụ Con Rắn — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Kinh Ví Dụ Con Rắn** (*Alagaddūpama Sutta*) là bài kinh thứ 22 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài kinh cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh mở đầu tại Sāvatthī, trong rừng Jeta. Một tỳ-kheo tên Ariṭṭha, trước đây làm nghề bẫy kền kền, đã nói rằng theo cách ông hiểu lời Đức Thế Tôn dạy, những pháp mà Ngài gọi là chướng ngại thật ra không đủ sức cản trở người thực hành chúng. Các tỳ-kheo khác tìm cách lay chuyển ông nhưng không được, bèn đem việc ấy trình lên Đức Thế Tôn.
+
+Bài kinh nổi tiếng trước hết nhờ hai ví dụ. Ví dụ thứ nhất là con rắn: một người cần rắn hổ mang, thấy một con rắn lớn, liền nắm lấy thân hoặc đuôi nó. Con rắn quật lại, cắn vào tay hay cánh tay, và người ấy có thể chết hoặc chịu đau đớn gần như chết. Người khôn ngoan thì dùng một cây gậy chẻ ngọn ghì chặt con rắn xuống, rồi nắm đúng vào cổ nó, nên dù rắn có quấn vào tay cũng không nguy hiểm. Cũng vậy, học giáo pháp mà không dùng tuệ xem xét ý nghĩa, chỉ để tìm lỗi và tranh thắng, thì giáo pháp ấy trở thành mối hại lâu dài.
+
+Ví dụ thứ hai là chiếc bè. Một người gặp vùng nước lớn, bờ bên này nguy hiểm, bờ bên kia an toàn, không có thuyền cũng không có cầu. Người ấy gom cỏ, cây, cành, lá kết thành bè, dùng tay chân chèo qua bờ bên kia. Qua được rồi, người ấy không đội chiếc bè lên đầu mà vác theo, vì chiếc bè chỉ để vượt qua, không phải để nắm giữ. Đức Thế Tôn nói giáo pháp của Ngài cũng vậy: dùng để đi qua, không phải để ôm chặt. Hiểu như thế thì ngay cả giáo pháp còn phải buông, huống hồ những gì không phải giáo pháp.
+
+Phần giữa bài kinh đi sâu vào nguồn gốc của mọi kiến chấp. Đức Thế Tôn kể ra sáu căn cứ để kiến phát sinh, rồi chỉ ra cách kẻ phàm phu và bậc Thánh đệ tử nhìn năm uẩn — sắc, thọ, tưởng, hành, thức — cùng những gì được thấy, nghe, cảm nhận và biết đến. Kẻ phàm phu xem tất cả là "của tôi", là "tôi", là "tự ngã của tôi"; bậc Thánh thì thấy đó không phải của mình, không phải mình, không phải tự ngã của mình. Từ đó bài kinh bàn đến sự bồn chồn lo sợ về cái không thật sự hiện hữu, ở bên ngoài cũng như bên trong, và cho thấy nỗi sợ ấy chỉ chấm dứt khi không còn chấp vào tự ngã.
+
+Cuối bài kinh, Đức Thế Tôn nói rõ thái độ của Ngài trước lời khen cũng như lời chê: bị mắng nhiếc thì không sân hận, được tôn kính thì không phấn khích. Ngài khuyên các tỳ-kheo từ bỏ những gì không phải của mình, và dùng hình ảnh cỏ, cây trong rừng Jeta để cho thấy người ta không xem những thứ ấy là tự ngã, cũng không xem là thuộc về tự ngã. Bài khép lại bằng những mô tả về các hạng người chứng quả, và lời tuyên bố rằng ai có một mức tín và mến nơi Ngài đều hướng đến cõi trời.
+
+Người đọc hôm nay có thể đọc bài kinh này như một lời cảnh báo về cách tiếp nhận tri thức. Học nhiều mà không hiểu ý nghĩa, hoặc học để tranh hơn thua, thì càng học càng dễ tự hại. Còn học để thấy rõ chính mình — thấy năm uẩn không phải tự ngã, thấy nỗi sợ phát sinh từ chỗ bám víu — thì giáo pháp làm được đúng việc của nó: đưa người qua bờ bên kia, rồi được đặt xuống.
