@@ -1,0 +1,15 @@
+# Kinh Bāhitika — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Kinh Bāhitika** (*Bāhitika Sutta*) là bài kinh thứ tám mươi tám trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh không có giáo lý cao siêu, không có thần thông, cũng không có cuộc tranh luận triết học nào. Nó chỉ kể một buổi trưa ở Sāvatthī: một vị tỳ-kheo đi khất thực về, ghé vào một khu vườn để nghỉ ngơi, và một ông vua trên đường ra khỏi thành trông thấy, bèn cho voi dừng lại, xuống đi bộ đến chào.
+
+Vị tỳ-kheo ấy là Tôn giả Ānanda, thị giả của Đức Thế Tôn. Ông vua ấy là Pasenadi, vua xứ Kosala, người cai trị vùng đất quanh Sāvatthī. Nhà vua mời Tôn giả ra bờ sông Aciravatī, rồi hỏi một câu nghe rất lạ: Đức Thế Tôn có bao giờ làm điều gì — qua thân, qua lời nói hay qua ý — mà các sa-môn và bà-la-môn chê trách không? Câu hỏi ấy không phải tò mò vu vơ. Thời ấy có nhiều nhóm tu sĩ tranh nhau ảnh hưởng trong dân chúng, và uy tín của một bậc thầy tùy thuộc vào việc thiên hạ nói tốt hay nói xấu về ông ta. Nhà vua, người vừa nghe đủ thứ lời ra tiếng vào, muốn biết bậc thầy của mình đứng ở đâu.
+
+Tôn giả Ānanda trả lời ngay: không. Nhưng câu trả lời ấy có một chữ quan trọng. Khi nhà vua hỏi về các sa-môn, bà-la-môn "chê trách", Tôn giả thêm vào hai chữ "có trí": bị các sa-môn, bà-la-môn **có trí** chê trách. Chính nhà vua về sau phải thốt lên rằng mình đã không nói trọn được câu hỏi, và Tôn giả đã nói trọn giúp. Đây là chỗ bài kinh bắt đầu có lập luận: không phải mọi lời khen chê đều đáng kể như nhau, và người nghe cần biết ai đang nói.
+
+Nhà vua hỏi tiếp: vậy thế nào là hành vi bị chê trách? Tôn giả triển khai một chuỗi hỏi đáp, mỗi lần siết chặt thêm một nấc. Trước hết đó là hành vi **bất thiện**, rồi **đáng chê trách**, rồi **gây tổn hại**, rồi **có quả báo là khổ**, và cuối cùng là hành vi đưa đến làm khổ chính mình, làm khổ người khác, làm khổ cả hai, đồng thời làm cho các pháp bất thiện tăng trưởng và các pháp thiện giảm sút. Năm góc độ ấy không thay thế nhau; chúng chồng lên nhau, như năm cách nhìn vào cùng một việc làm.
+
+Rồi Tôn giả làm đúng việc ngược lại: ông đảo từng nấc để nói thế nào là hành vi tốt — thiện, không đáng chê trách, không gây tổn hại, có quả báo là hạnh phúc, không làm khổ mình hay người, và làm cho pháp thiện tăng trưởng. Cùng một khuôn ấy được áp dụng cho ba cửa: thân, lời nói và ý. Nhờ vậy, một câu hỏi tưởng như chỉ về thanh danh của Đức Thế Tôn trở thành một bảng tiêu chuẩn để tự xét mình.
+
+Phần cuối bài là một câu chuyện nhỏ nhưng ấm. Nhà vua cảm phục, dâng Tôn giả một tấm vải quý tên là bāhitikā, do vua Ajātasattu xứ Magadha gửi tặng, dài mười sáu gang, rộng tám gang. Tôn giả từ chối vì ba y đã đủ. Nhà vua thuyết phục bằng hình ảnh con sông Aciravatī mùa mưa tràn cả hai bờ: nếu Tôn giả may y mới từ tấm vải ấy và chia y cũ cho các vị đồng phạm hạnh, thì món cúng dường của nhà vua cũng tràn ra như thế. Tôn giả nhận, đem dâng lên Đức Thế Tôn, và Đức Thế Tôn kết bài bằng một lời khen nhà vua: được thấy và thân cận một người như Tôn giả Ānanda là điều may mắn lớn.

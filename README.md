@@ -164,12 +164,12 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 85 | [Kinh Bodhirājakumāra](085-kinh-bodhirajakumara/Kinh-Bodhirajakumara.md) | *Bodhirājakumāra* | ✅ |
 | 86 | [Kinh Aṅgulimāla](086-kinh-angulimala/Kinh-Angulimala.md) | *Aṅgulimāla* | ✅ |
 | 87 | [Kinh Sinh Từ Người Thương](087-kinh-sinh-tu-nguoi-thuong/Kinh-Sinh-Tu-Nguoi-Thuong.md) | *Piyajātika* | ✅ |
-| 88 | Kinh Bāhitika | *Bāhitika* | — |
-| 89 | Kinh Bảo Tháp Pháp | *Dhammacetiya* | — |
+| 88 | [Kinh Bāhitika](088-kinh-bahitika/Kinh-Bahitika.md) | *Bāhitika* | ✅ |
+| 89 | [Kinh Bảo Tháp Pháp](089-kinh-bao-thap-phap/Kinh-Bao-Thap-Phap.md) | *Dhammacetiya* | ✅ |
 | 90 | Kinh Kaṇṇakatthala | *Kaṇṇakatthala* | — |
 | 91 | Kinh Brahmāyu | *Brahmāyu* | — |
-| 92 | Kinh Sela | *Sela* | — |
-| 93 | Kinh Assalāyana | *Assalāyana* | — |
+| 92 | [Kinh Sela](092-kinh-sela/Kinh-Sela.md) | *Sela* | ✅ |
+| 93 | [Kinh Assalāyana](093-kinh-assalayana/Kinh-Assalayana.md) | *Assalāyana* | ✅ |
 | 94 | Kinh Ghoṭamukha | *Ghoṭamukha* | — |
 | 95 | Kinh Caṅkī | *Caṅkī* | — |
 | 96 | Kinh Esukārī | *Esukārī* | — |
