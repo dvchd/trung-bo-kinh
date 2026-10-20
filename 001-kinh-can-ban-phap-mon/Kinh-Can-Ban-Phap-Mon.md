@@ -28,7 +28,6 @@ nhịp thì các vòng sau sẽ tự mở ra.
 ---
 
 
-
 ## Mục lục
 
 - [Lời giới thiệu](#lời-giới-thiệu)
@@ -64,7 +63,7 @@ Tôi nghe như vầy.
 [Chú thích: Cũng như Trường Bộ Kinh mở đầu bằng bài Phạm Võng — một bài rất khó —, Trung Bộ Kinh mở đầu bằng một trong những bài trừu tượng nhất của toàn bộ kinh tạng: bài này khảo sát cách nhận thức và cách đồng hóa sự vật biến đổi theo tiến trình tu tập.]
 
 <!-- seg: mn1:1.2 -->
-Một lần nọ, Đức Thế Tôn đang trú gần Ukkaṭṭhā, trong rừng Subhaga, dưới gốc một cây sa-la vua to lớn.
+Một thuở nọ, Đức Thế Tôn đang trú gần Ukkaṭṭhā, trong rừng Subhaga, dưới gốc một cây sa-la vua to lớn.
 
 [Chú thích: Ukkaṭṭhā nằm gần Sāvatthī, ít khi được nhắc tới, và mỗi lần nhắc là gắn với một sự kiện hay một bài pháp đặc biệt.]
 
