@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Đức Thế Tôn so sánh người tu hành với bốn bầy nai trước một chỗ mồi do người thợ săn gieo xuống. Bầy thứ nhất ăn mồi và bị bắt; bầy thứ hai bỏ mồi chạy vào rừng sâu nhưng đến cuối mùa hè cạn cỏ lại quay về; bầy thứ ba không ăn mồi mà dựng hang sát bên để quan sát, nên thoát khỏi tay người gieo mồi nhưng vẫn ở trong tầm với; bầy thứ tư đi hẳn vào vùng người gieo mồi không thể chạm tới. Bốn bầy ứng với bốn hạng sa-môn, bà-la-môn, và hình ảnh người gieo mồi là Māra. Bài kết ở lời dặn của Đức Thế Tôn về lãnh địa của bậc Thánh, nơi các bậc đã đoạn tận lậu hoặc an trú.
 
 ## Con số
 
@@ -20,7 +20,14 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`ban-dich/00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người chưa học Phật |
+| [`ban-dich/00-title.md`](ban-dich/00-title.md) | Nhan đề bài kinh |
+| [`ban-dich/01-phan-1.md`](ban-dich/01-phan-1.md) | Bối cảnh; bầy nai thứ nhất và thứ hai; bắt đầu bầy thứ ba |
+| [`ban-dich/02-phan-2.md`](ban-dich/02-phan-2.md) | Bầy nai thứ ba dựng hang sát mồi và thoát; bắt đầu bầy thứ tư |
+| [`ban-dich/03-phan-3.md`](ban-dich/03-phan-3.md) | Bầy thứ tư và bốn hạng người tu hành tương ứng |
+| [`ban-dich/04-phan-4.md`](ban-dich/04-phan-4.md) | Lãnh địa của bậc Thánh; kết kinh |
 
 ## Cách đọc và góp ý
 

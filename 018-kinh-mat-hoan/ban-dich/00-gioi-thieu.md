@@ -1,0 +1,15 @@
+# Kinh Mật Hoàn — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Kinh Mật Hoàn** (*Madhupiṇḍika Sutta*) là bài kinh thứ 18 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng Pali. Cùng với hai bài kế tiếp, bài này thuộc nhóm ba bài kinh bàn về hoạt động suy nghĩ trong khi thiền. Bối cảnh là Kapilavatthu, quê hương của Đức Thế Tôn, vào một buổi sáng Ngài đi khất thực rồi vào khu rừng lớn nghỉ trưa.
+
+Câu chuyện mở đầu bằng một cuộc gặp không mấy thân thiện. Daṇḍapāṇi, một người trong dòng họ Sakya, chống gậy đi dạo và tìm đến chỗ Đức Thế Tôn. Ông ta hỏi gọn: sa-môn ấy thuyết gì, tuyên bố gì? Đức Thế Tôn trả lời rằng giáo pháp của Ngài không tranh cãi với bất cứ ai trên đời, và nơi vị bà-la-môn đã lìa dục, hết nghi hoặc, hết tham ái, thì các tưởng không còn nằm lại. Daṇḍapāṇi lắc đầu, le lưỡi, nhăn trán rồi bỏ đi.
+
+Buổi chiều, Đức Thế Tôn kể lại việc ấy cho các tỳ-kheo. Một vị hỏi: vậy lời dạy ấy nghĩa là gì? Đức Thế Tôn đáp bằng một câu rất ngắn nhưng dày đặc: từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người, nếu nơi ấy không có gì đáng tán thưởng, đáng hoan nghênh, đáng bám chấp, thì đó chính là chỗ chấm dứt của bảy tùy miên và của mọi chuyện cãi vã, đâm thọc, nói dối. Nói xong, Ngài đứng dậy vào tinh xá, không giảng thêm.
+
+Các tỳ-kheo ngơ ngác, bèn tìm đến Tôn giả Mahākaccāna, người được xem là giỏi nhất trong việc mở rộng những lời dạy vắn tắt. Tôn giả giải thích bằng một chuỗi rất cụ thể: mắt gặp sắc sinh ra nhãn thức, ba thứ gặp nhau là xúc, xúc làm duyên cho thọ, cảm thọ điều gì thì tưởng nhận điều ấy, tưởng nhận điều gì thì tầm điều ấy, tầm điều gì thì hý luận điều ấy, và chính từ chỗ hý luận ấy mà những phán định ập đến con người. Chuỗi này lặp lại cho đủ sáu giác quan, rồi lặp lại theo chiều ngược lại để cho thấy khi các điều kiện không có mặt thì cả chuỗi cũng không thể có. Hý luận, ở đây, không phải một khái niệm trừu tượng. Đó là thói quen của tâm kể tiếp câu chuyện, thêm bớt, suy diễn, tự bào chữa và tự đánh giá mình so với người. Một âm thanh hay một lời nói đi qua tai chưa đầy một giây, nhưng tâm có thể dựng lên từ đó cả một biên niên sử oán hận. Bài kinh chỉ ra đúng chỗ ấy: giữa một cảm giác trần trụi và một mối thù nhiều năm, có một khoảng mà tưởng, tầm và hý luận làm việc. Và cũng ở khoảng ấy, công việc tu tập có thể bắt đầu.
+
+Khi các tỳ-kheo thuật lại lời giải thích, Đức Thế Tôn xác nhận từng chữ và khen Mahākaccāna có tuệ lớn. Tôn giả Ānanda bấy giờ mới thốt lên hình ảnh đẹp nhất của bài kinh: như người đói được một chiếc bánh mật, nếm đến đâu cũng thấy vị ngon trọn vẹn; cũng vậy, ai lấy tuệ xem xét bài giảng này đến đâu cũng được hoan hỷ và tâm trong sáng đến đó. Nhân đó Đức Thế Tôn đặt tên cho bài giảng là Kinh Mật Hoàn.
+
+Với người mới tìm hiểu, bài kinh này đáng đọc vì nó không bắt đầu từ giáo lý cao siêu mà từ một chuyện rất thường: có người đến gây sự, và ta đáp lại thế nào. Đức Thế Tôn không tranh cãi, không thuyết phục, cũng không im lặng hèn nhát; Ngài nói sự thật rồi để yên. Phần còn lại của bài kinh giải thích vì sao một lời nói nhỏ có thể thành mối hận lớn, và vì sao nhìn rõ tiến trình ấy lại là cách chấm dứt nó.

@@ -93,15 +93,15 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 14 | Tiểu Kinh Khổ Uẩn | *Cūḷadukkhakkhandha* | — |
 | 15 | Kinh Suy Đoán | *Anumāna* | — |
 | 16 | Kinh Tâm Hoang Vu | *Cetokhila* | — |
-| 17 | Kinh Khu Rừng | *Vanapattha* | — |
-| 18 | Kinh Mật Hoàn | *Madhupiṇḍika* | — |
+| 17 | [Kinh Khu Rừng](017-kinh-khu-rung/Kinh-Khu-Rung.md) | *Vanapattha* | ✅ |
+| 18 | [Kinh Mật Hoàn](018-kinh-mat-hoan/Kinh-Mat-Hoan.md) | *Madhupiṇḍika* | ✅ |
 | 19 | [Kinh Hai Loại Tầm](019-kinh-hai-loai-tam/Kinh-Hai-Loai-Tam.md) | *Dvedhāvitakka* | ✅ |
 | 20 | [Kinh An Trú Tầm](020-kinh-an-tru-tam/Kinh-An-Tru-Tam.md) | *Vitakkasaṇṭhāna* | ✅ |
 | 21 | [Kinh Ví Dụ Cái Cưa](021-kinh-vi-du-cai-cua/Kinh-Vi-Du-Cai-Cua.md) | *Kakacūpama* | ✅ |
 | 22 | [Kinh Ví Dụ Con Rắn](022-kinh-vi-du-con-ran/Kinh-Vi-Du-Con-Ran.md) | *Alagaddūpama* | ✅ |
-| 23 | Kinh Tổ Kiến | *Vammika* | — |
-| 24 | Kinh Cỗ Xe | *Rathavinīta* | — |
-| 25 | Kinh Mồi Nhử | *Nivāpa* | — |
+| 23 | [Kinh Tổ Kiến](023-kinh-to-kien/Kinh-To-Kien.md) | *Vammika* | ✅ |
+| 24 | [Kinh Cỗ Xe](024-kinh-co-xe/Kinh-Co-Xe.md) | *Rathavinīta* | ✅ |
+| 25 | [Kinh Mồi Nhử](025-kinh-moi-nhu/Kinh-Moi-Nhu.md) | *Nivāpa* | ✅ |
 | 26 | [Kinh Thánh Cầu](026-kinh-thanh-cau/Kinh-Thanh-Cau.md) | *Ariyapariyesanā* | ✅ |
 | 27 | [Tiểu Kinh Dấu Chân Voi](027-kinh-tieu-dau-chan-voi/Kinh-Tieu-Dau-Chan-Voi.md) | *Cūḷahatthipadopama* | ✅ |
 | 28 | [Đại Kinh Dấu Chân Voi](028-kinh-dai-dau-chan-voi/Kinh-Dai-Dau-Chan-Voi.md) | *Mahāhatthipadopama* | ✅ |
@@ -220,7 +220,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 141 | [Kinh Phân Biệt Sự Thật](141-kinh-phan-biet-su-that/Kinh-Phan-Biet-Su-That.md) | *Saccavibhaṅga* | ✅ |
 | 142 | [Kinh Phân Biệt Cúng Dường](142-kinh-phan-biet-cung-duong/Kinh-Phan-Biet-Cung-Duong.md) | *Dakkhiṇāvibhaṅga* | ✅ |
 | 143 | [Kinh Dạy Anāthapiṇḍika](143-kinh-day-anathapindika/Kinh-Day-Anathapindika.md) | *Anāthapiṇḍikovāda* | ✅ |
-| 144 | Kinh Dạy Channa | *Channovāda* | — |
+| 144 | [Kinh Dạy Channa](144-kinh-day-channa/Kinh-Day-Channa.md) | *Channovāda* | ✅ |
 | 145 | Kinh Dạy Puṇṇa | *Puṇṇovāda* | — |
 | 146 | [Kinh Dạy Nandaka](146-kinh-day-nandaka/Kinh-Day-Nandaka.md) | *Nandakovāda* | ✅ |
 | 147 | [Tiểu Kinh Dạy Rāhula](147-kinh-tieu-day-rahula/Kinh-Tieu-Day-Rahula.md) | *Cūḷarāhulovāda* | ✅ |
