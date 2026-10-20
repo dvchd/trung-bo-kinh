@@ -1,0 +1,15 @@
+# Kinh Năm và Ba — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Kinh Năm và Ba** (*Pañcattaya Sutta*) là bài kinh thứ 102 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī, trong khu vườn của Anāthapiṇḍika, nơi Đức Thế Tôn thường trú, và gần như toàn bộ nội dung là lời Ngài nói với các tỳ-kheo. Không có câu chuyện, không có nhân vật phụ, không có phép lạ; chỉ có một bảng phân loại các quan điểm và một lập luận về cách nhìn chúng.
+
+Đức Thế Tôn bắt đầu bằng một chuyện rất đời: con người nghĩ gì về số phận của mình sau khi chết. Ngài nêu năm lối khẳng định phổ biến thời bấy giờ. Ba lối đầu đều tin rằng tự ngã tồn tại sau khi chết và không bệnh: một hạng nói tự ngã ấy còn nhận biết, một hạng nói nó không còn nhận biết, một hạng nói nó không phải còn nhận biết cũng không phải không còn. Lối thứ tư phủ nhận tất cả: chúng sinh đang hiện hữu rồi sẽ bị đoạn diệt, hủy diệt, không còn gì. Lối thứ năm, gần gũi với người tu hành nhất, lại cho rằng Niết-bàn có ngay trong đời này, trong một trạng thái tâm đặc biệt.
+
+Năm lối ấy gộp lại thành ba: thường còn, đoạn diệt, và Niết-bàn ngay trong đời này. Nhưng ba cũng mở ra thành năm, vì lối thường còn tách thành ba kiểu khác nhau. Đó là lý do bài kinh mang tên Năm và Ba. Đức Thế Tôn không dừng ở việc kể tên các quan điểm; với từng lối, Ngài chỉ ra những biến thể của nó, nào là tự ngã có sắc hay không sắc, có tưởng đồng nhất hay sai biệt, hữu hạn hay vô hạn, rồi nói rằng Như Lai biết rõ tất cả những điều ấy, thấy được lối ra khỏi chúng, và đã vượt qua chúng.
+
+Phần sắc bén nhất của bài kinh là những chỗ các quan điểm tự soi vào nhau. Những người theo thuyết đoạn diệt bác bỏ các thuyết về tự ngã thường còn, nhưng chính họ lại đang chạy quanh cái hữu thân mà họ sợ hãi và ghê tởm, như con chó bị buộc vào cột thì chỉ chạy vòng quanh cái cột. Những người theo thuyết không có tưởng cũng bác bỏ các thuyết có tưởng, và những người theo thuyết phi tưởng phi phi tưởng lại bác bỏ cả hai. Đức Thế Tôn gọi họ là những thương nhân: họ tính chuyện "sau khi chết ta sẽ là thế này, sau khi chết ta sẽ là thế kia" như người đi chợ tính lời.
+
+Nửa sau bài kinh chuyển sang một dạng tinh tế hơn của cùng lỗi ấy. Có những người đã thật sự buông bỏ các kiến giải về quá khứ và tương lai, không còn bám vào dục, và bước vào các tầng thiền: hỷ lạc của sự viễn ly, lạc phi vật chất, cảm thọ không khổ không lạc. Nhưng khi trạng thái ấy diệt, họ lại sầu muộn; khi sầu muộn diệt, hỷ lạc lại sinh. Giống như bóng râm và ánh nắng thay nhau tràn vào chỗ trống, tâm họ cứ dao động giữa hai bờ. Rồi họ tự nhủ: "Ta đây đã an tịnh, đã tịch diệt, không còn chấp thủ", và chính câu nói ấy là một lần chấp thủ nữa.
+
+Bài kinh khép lại bằng một câu ngắn: điều Như Lai giác ngộ là cảnh giới an tịnh tối thắng, và đó là sự giải thoát nhờ không chấp thủ, sau khi như thật biết sự sinh khởi, sự diệt tận, vị ngọt, sự nguy hại và lối thoát của sáu xứ xúc. Với người đọc hôm nay, bài kinh là một bài tập về cách cầm một quan điểm: biết nó từ đâu đến, biết nó thỏa mãn chỗ nào, biết nó dẫn tới đâu, rồi buông nó xuống, kể cả khi quan điểm ấy là "tôi đã buông bỏ hết".

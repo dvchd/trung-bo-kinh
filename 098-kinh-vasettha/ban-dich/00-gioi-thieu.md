@@ -1,0 +1,15 @@
+# Kinh Vāseṭṭha — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+Bài kinh này là bài thứ 98 trong Trung Bộ Kinh, mang tên *Vāseṭṭha Sutta*, theo tên một thanh niên bà-la-môn. Nó xoay quanh một câu hỏi rất cũ mà cũng rất mới: điều gì làm nên phẩm giá của một con người — dòng dõi sinh ra hay cách người ấy sống và làm việc? Chữ jāti trong bản Pali, được dịch là sinh chủng, chỉ dòng dõi mà một người sinh ra trong đó. Để hiểu câu hỏi, cần biết "bà-la-môn" là ai: tầng lớp tư tế đứng đầu trong xã hội Ấn Độ cổ, tự cho rằng mình sinh ra từ miệng vị thần Phạm Thiên, giữ độc quyền tế lễ và truyền dạy kinh Vệ-đà. Trong xã hội ấy, một người được gọi là bà-la-môn chủ yếu vì cha mẹ và dòng họ của người đó.
+
+Bài kinh mở ra ở Icchānaṅgala, nơi nhiều bà-la-môn giàu có và nổi tiếng đang tụ họp. Hai người trẻ tuổi, Vāseṭṭha và Bhāradvāja, vừa đi dạo vừa tranh luận. Bhāradvāja nói theo lối cũ: phải sinh ra tốt đẹp cả bên mẹ lẫn bên cha, dòng dõi trong sạch đến bảy đời, không ai chê trách được, thì mới là bà-la-môn. Vāseṭṭha không chịu: theo anh, phải có giới và làm tròn bổn phận. Không ai thuyết phục được ai, nên họ quyết định đến hỏi vị sa-môn Gotama — một tu sĩ nổi tiếng đương thời — đang trú trong khu rừng gần đó.
+
+Đức Thế Tôn không trả lời ngay bằng một định nghĩa. Ngài bắt đầu từ chỗ cả hai đều đồng ý: trong tự nhiên, mỗi giống loài có dấu hiệu riêng. Cây cỏ, sâu bọ, loài bốn chân, rắn, cá, chim — mỗi loại phân biệt với loại khác ngay từ lúc sinh ra. Nhưng trên thân thể con người thì không có dấu hiệu nào như vậy: không phải tóc, đầu, tai, mắt, tay chân hay màu da làm nên sự khác biệt giữa người với người. Những khác biệt ấy là quy ước xã hội, do con người đặt ra và cùng nhau thừa nhận.
+
+Từ đó, Ngài đi qua các nghề: chăn bò, làm thợ, buôn bán, hầu hạ, trộm cắp, cầm cung, làm tế sư, làm vua. Ai sống bằng nghề nào thì được gọi theo nghề ấy. Đáng chú ý là chính nghề tế sư — nghề thiêng liêng nhất của giới bà-la-môn — cũng bị xếp vào danh sách ấy: hành nghề tế lễ không làm ai thành bà-la-môn. Đây là chỗ bài kinh phê phán khá sắc, dù giọng vẫn ôn hòa.
+
+Phần dài nhất của bài kinh là chân dung bà-la-môn đích thực, lặp đi lặp lại như một điệp khúc: "kẻ ấy, Ta gọi là bà-la-môn." Đó không phải người sinh ra trong dòng dõi quý, mà là người đã cắt đứt mọi kiết sử (những dây trói trong tâm), không còn bám víu, không làm hại chúng sinh, nói lời chân thật, có tuệ sâu, đã thoát khỏi vòng luân hồi. Nói cách khác, Đức Thế Tôn không chỉ đổi tiêu chuẩn từ dòng dõi sang việc làm; Ngài còn nâng tiêu chuẩn ấy lên đến mức của một bậc đã giải thoát hoàn toàn.
+
+Cuối bài, Ngài kết luận: tên và dòng họ chỉ là quy ước; không phải do sinh chủng mà thành bà-la-môn, cũng không phải do sinh chủng mà thành kẻ không phải bà-la-môn, mà là do việc làm. Bà-la-môn tối thượng là người thành tựu ba minh (ba loại tuệ giác), an tịnh, đã hết tái sinh; đối với người hiểu biết, bậc ấy đáng tôn kính như Phạm Thiên và Sakka. Hai thanh niên nghe xong liền xin quy y, tức xin nương tựa nơi Ngài, nơi Pháp và nơi Tăng đoàn. Bài kinh vì thế không chỉ là một cuộc tranh luận về giai cấp; nó còn là một lời mời nhìn lại thước đo mà ta dùng để đánh giá một con người.

@@ -174,13 +174,13 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 95 | [Kinh Caṅkī](095-kinh-canki/Kinh-Canki.md) | *Caṅkī* | ✅ |
 | 96 | [Kinh Esukārī](096-kinh-esukari/Kinh-Esukari.md) | *Esukārī* | ✅ |
 | 97 | [Kinh Dhānañjāni](097-kinh-dhananjani/Kinh-Dhananjani.md) | *Dhānañjāni* | ✅ |
-| 98 | Kinh Vāseṭṭha | *Vāseṭṭha* | — |
-| 99 | Kinh Subha | *Subha* | — |
-| 100 | Kinh Saṅgārava | *Saṅgārava* | — |
+| 98 | [Kinh Vāseṭṭha](098-kinh-vasettha/Kinh-Vasettha.md) | *Vāseṭṭha* | ✅ |
+| 99 | [Kinh Subha](099-kinh-subha/Kinh-Subha.md) | *Subha* | ✅ |
+| 100 | [Kinh Saṅgārava](100-kinh-sangarava/Kinh-Sangarava.md) | *Saṅgārava* | ✅ |
 | 101 | [Kinh Devadaha](101-kinh-devadaha/Kinh-Devadaha.md) | *Devadaha* | ✅ |
-| 102 | Kinh Năm và Ba | *Pañcattaya* | — |
-| 103 | Kinh Như Thế Nào | *Kinti* | — |
-| 104 | Kinh Sāmagāma | *Sāmagāma* | — |
+| 102 | [Kinh Năm và Ba](102-kinh-nam-va-ba/Kinh-Nam-Va-Ba.md) | *Pañcattaya* | ✅ |
+| 103 | [Kinh Như Thế Nào](103-kinh-nhu-the-nao/Kinh-Nhu-The-Nao.md) | *Kinti* | ✅ |
+| 104 | [Kinh Sāmagāma](104-kinh-samagama/Kinh-Samagama.md) | *Sāmagāma* | ✅ |
 | 105 | Kinh Sunakkhatta | *Sunakkhatta* | — |
 | 106 | Kinh Về Bất Động | *Āneñjasappāya* | — |
 | 107 | [Kinh Gaṇakamoggallāna](107-kinh-ganakamoggallana/Kinh-Ganakamoggallana.md) | *Gaṇakamoggallāna* | ✅ |

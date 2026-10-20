@@ -1,0 +1,15 @@
+# Kinh Sāmagāma — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Kinh Sāmagāma** (*Sāmagāmasutta*) là bài kinh thứ 104 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh ra đời từ một biến cố rất cụ thể: vị thầy của một giáo phái khác vừa qua đời, và các đệ tử của ông lập tức chia thành hai phe, cãi nhau đến mức lấy lời nói nhọn như mũi giáo châm chích lẫn nhau. Đức Thế Tôn đang ở gần đó, trong xứ của dòng Sakka, và câu chuyện ấy trở thành dịp để Ngài nói về điều gì thật sự làm một tập thể tan vỡ.
+
+Tin đến chậm. Một sa-di tên Cunda đợi hết mùa an cư mùa mưa mới lên đường, rồi kể lại cho Tôn giả Ānanda nghe. Ānanda lo ngay: nếu chuyện ấy xảy ra với Tăng đoàn sau khi Đức Thế Tôn qua đi thì sao? Ông thưa với Ngài nỗi lo ấy, và từ đây bài kinh thành một cuộc hỏi đáp. Ngài hỏi trước: trong những pháp Ngài đã dạy — bốn niệm xứ, bốn chánh cần, bốn thần túc, năm căn, năm lực, bảy giác chi, con đường thánh tám chi phần — có thấy hai tỳ-kheo nào hiểu khác nhau không? Ānanda đáp là không.
+
+Rồi Ngài nói một điều dễ làm người ta giật mình: tranh chấp về cách nuôi mạng hay về giới bổn là chuyện nhỏ. Cái đáng sợ là tranh chấp về con đường và lối thực hành. Nói cách khác, chuyện ai được chia phần gì, ai giữ điều khoản nào, không đáng để một cộng đồng tan vỡ; nhưng nếu những người tu không còn đồng ý với nhau về chỗ đi và cách đi, thì cái mất là cả con đường.
+
+Phần giữa bài kinh là một bản đồ về sự chia rẽ. Sáu gốc rễ của tranh chấp: sân hận và ôm lòng thù; khinh bạc và hiếu thắng; ganh tị và keo kiệt; xảo quyệt và lừa dối; dục vọng xấu và tà kiến; chấp chặt vào kiến giải của mình. Để ý rằng cả sáu đều là những trạng thái trong tâm, không phải những chủ đề tranh cãi. Từ gốc rễ ấy mọc ra bốn loại vụ việc mà Tăng đoàn phải xử, bảy cách dàn xếp, và cuối cùng là một lời khuyên rất thực tế: có khi cả hai bên đều có lỗi, và việc cần làm không phải là đào tới đáy mà là bước tiếp, như người ta lấy cỏ phủ lên đống rác để mùi không bay lên nữa.
+
+Nửa sau bài kinh mới là phần dành cho người muốn sống chung. Sáu pháp khả niệm — làm điều tốt cho nhau bằng thân, bằng lời, bằng ý; chia sẻ những gì mình có; cùng giữ một nền giới; cùng nhìn mọi việc bằng một tri kiến đúng — được trình bày như cách giữ một tập thể khỏi tan. Sáu điều ấy không phải mệnh lệnh từ trên xuống, mà là cách người ta nhớ tới nhau. Đức Thế Tôn kết lại bằng một câu hỏi: nếu các ông thực hành sáu điều ấy, các ông có thấy lời nói nào, dù tế nhị hay thô tháo, mà mình không chịu đựng nổi không?
+
+Người đọc hôm nay có thể không xuất gia, nhưng bài kinh vẫn nói được với mình. Nó không bảo phải tránh mọi tranh cãi; nó chỉ ra rằng tranh cãi bắt đầu từ những mầm nhỏ trong tâm, và rằng một cộng đồng — gia đình, nhóm bạn, một tổ chức — chết dần không phải vì bất đồng về việc nhỏ, mà vì để cho những mầm ấy lớn lên. Bài kinh cũng nhắc một điều ít người muốn nghe: hòa hợp không phải là không có chuyện, mà là có cách xử lý chuyện ấy trước khi chuyện ấy xử lý mình.
