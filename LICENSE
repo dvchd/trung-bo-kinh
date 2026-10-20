@@ -1,0 +1,59 @@
+GIẤY PHÉP
+
+Kho này có ba loại nội dung, mỗi loại một giấy phép. Nguyên tắc chung: ai cũng
+được dùng, không phải xin phép, không phải trả tiền, không bắt buộc ghi công.
+
+------------------------------------------------------------------------
+
+1. BẢN DỊCH TIẾNG VIỆT — CC0 1.0 (PHẠM VI CÔNG CỘNG)
+
+Toàn bộ nội dung tiếng Việt do người dịch tạo ra — các tệp Kinh-*.md, ban-dich/,
+HUONG-DAN-DICH.md, ra-soat/, so-tay/, các tệp README — được hiến tặng vào phạm
+vi công cộng theo Creative Commons Zero 1.0 Universal (CC0 1.0).
+
+    https://creativecommons.org/publicdomain/zero/1.0/deed.vi
+
+Điều này có nghĩa:
+
+  - Được làm bất cứ điều gì: sao chép, in, bán, sửa, cắt ghép, dịch sang ngôn
+    ngữ khác, đưa vào sản phẩm thương mại, phát hành lại dưới giấy phép khác —
+    không cần xin phép.
+  - Không bắt buộc ghi công. Ghi nguồn là việc nên làm, nhưng không phải nghĩa vụ.
+  - Không bắt buộc giữ giấy phép này cho bản phái sinh.
+
+Một lưu ý: theo pháp luật Việt Nam, quyền nhân thân (quyền được đứng tên tác
+phẩm, quyền bảo vệ sự toàn vẹn tác phẩm) không chuyển nhượng được. CC0 có hiệu
+lực đầy đủ với các quyền kinh tế; còn quyền nhân thân thì vẫn thuộc về người
+dịch theo luật, dù trên thực tế người dịch không đặt điều kiện gì.
+
+Toàn văn CC0 1.0: LICENSES/CC0-1.0.txt
+
+------------------------------------------------------------------------
+
+2. MÃ NGUỒN — MIT
+
+Các script Python trong cong-cu/ và trong từng thư mục bài (ghep.py,
+tao-muc-luc.py, kiem-tra-marker.py, ra-soat.py, tien-do.py) dùng giấy phép MIT.
+Toàn văn: LICENSES/MIT.txt
+
+Tóm tắt: được dùng, sao chép, sửa, gộp, phát hành, cấp phép lại và bán — miễn
+giữ nguyên dòng bản quyền và đoạn cho phép này trong bản sao hoặc phần lớn của
+phần mềm. Phần mềm cung cấp nguyên trạng, không kèm bảo hành.
+
+------------------------------------------------------------------------
+
+3. NỘI DUNG LẤY TỪ NGUỒN KHÁC
+
+  - Nguyên bản Pali trong nguon/ (Tipiṭaka, bản Miến Điện Sixth Council, hiệu
+    đối với bản PTS): phạm vi công cộng.
+  - Bản dịch tiếng Anh của Bhikkhu Sujato trong nguon/sections/: CC0 1.0
+    (https://suttacentral.net/licensing).
+
+Phần chú thích trích lại từ SuttaCentral giữ nguyên trạng và thuộc CC0 như bản
+gốc.
+
+------------------------------------------------------------------------
+
+Bản dịch dựa trên nguyên bản Pali và bản dịch tiếng Anh của Bhikkhu Sujato
+(CC0). Mọi sai sót trong phần tiếng Việt là trách nhiệm của người dịch, không
+phải của các nguồn tham khảo.
