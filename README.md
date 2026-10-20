@@ -133,7 +133,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 54 | [Kinh Potaliya](054-kinh-potaliya/Kinh-Potaliya.md) | *Potaliya* | ✅ |
 | 55 | [Kinh Jīvaka](055-kinh-jivaka/Kinh-Jivaka.md) | *Jīvaka* | ✅ |
 | 56 | [Kinh Upāli](056-kinh-upali/Kinh-Upali.md) | *Upāli* | ✅ |
-| 57 | Kinh Thực Hành Chó | *Kukkuravatika* | — |
+| 57 | [Kinh Thực Hành Chó](057-kinh-thuc-hanh-cho/Kinh-Thuc-Hanh-Cho.md) | *Kukkuravatika* | ✅ |
 | 58 | [Kinh Abhaya](058-kinh-abhaya/Kinh-Abhaya.md) | *Abhayarājakumāra* | ✅ |
 | 59 | Kinh Nhiều Loại Cảm Thọ | *Bahuvedanīya* | — |
 | 60 | [Kinh Không Thể Tranh Cãi](060-kinh-khong-the-tranh-cai/Kinh-Khong-The-Tranh-Cai.md) | *Apaṇṇaka* | ✅ |
@@ -142,18 +142,18 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 63 | [Tiểu Kinh Māluṅkya](063-kinh-tieu-malunkya/Kinh-Tieu-Malunkya.md) | *Cūḷamālukya* | ✅ |
 | 64 | [Đại Kinh Māluṅkya](064-kinh-dai-malunkya/Kinh-Dai-Malunkya.md) | *Mahāmālukya* | ✅ |
 | 65 | [Kinh Bhaddāli](065-kinh-bhaddali/Kinh-Bhaddali.md) | *Bhaddāli* | ✅ |
-| 66 | Kinh Ví Dụ Con Chim Cút | *Laṭukikopama* | — |
+| 66 | [Kinh Ví Dụ Con Chim Cút](066-kinh-vi-du-con-chim-cut/Kinh-Vi-Du-Con-Chim-Cut.md) | *Laṭukikopama* | ✅ |
 | 67 | Kinh Cātumā | *Cātuma* | — |
-| 68 | Kinh Naḷakapāna | *Naḷakapāna* | — |
+| 68 | [Kinh Naḷakapāna](068-kinh-nalakapana/Kinh-Nalakapana.md) | *Naḷakapāna* | ✅ |
 | 69 | Kinh Gulissāni | *Gulissāni* | — |
 | 70 | [Kinh Kīṭāgiri](070-kinh-kitagiri/Kinh-Kitagiri.md) | *Kīṭāgiri* | ✅ |
-| 71 | Kinh Vacchagotta về Tam Minh | *Tevijjavacchagotta* | — |
+| 71 | [Kinh Vacchagotta về Tam Minh](071-kinh-vacchagotta-ve-tam-minh/Kinh-Vacchagotta-Ve-Tam-Minh.md) | *Tevijjavacchagotta* | ✅ |
 | 72 | [Kinh Vacchagotta về Lửa](072-kinh-vacchagotta-ve-lua/Kinh-Vacchagotta-Ve-Lua.md) | *Aggivacchagotta* | ✅ |
 | 73 | Đại Kinh Vacchagotta | *Mahāvacchagotta* | — |
 | 74 | Kinh Dīghanakha | *Dīghanakha* | — |
 | 75 | [Kinh Māgaṇḍiya](075-kinh-magandiya/Kinh-Magandiya.md) | *Māgaṇḍiya* | ✅ |
 | 76 | Kinh Sandaka | *Sandaka* | — |
-| 77 | Đại Kinh Sakuludāyi | *Mahāsakuludāyi* | — |
+| 77 | [Đại Kinh Sakuludāyi](077-kinh-dai-sakuludayi/Kinh-Dai-Sakuludayi.md) | *Mahāsakuludāyi* | ✅ |
 | 78 | Kinh Sa-môn Muṇḍika | *Samaṇamuṇḍika* | — |
 | 79 | Tiểu Kinh Sakuludāyi | *Cūḷasakuludāyi* | — |
 | 80 | Kinh Vekhanasa | *Vekhanasa* | — |
