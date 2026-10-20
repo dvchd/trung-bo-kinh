@@ -206,19 +206,19 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 127 | Kinh Anuruddha | *Anuruddha* | — |
 | 128 | Kinh Ô Nhiễm | *Upakkilesa* | — |
 | 129 | [Kinh Kẻ Ngu và Người Trí](129-kinh-ke-ngu-va-nguoi-tri/Kinh-Ke-Ngu-Va-Nguoi-Tri.md) | *Bālapaṇḍita* | ✅ |
-| 130 | Kinh Sứ Giả Của Thần Chết | *Devadūta* | — |
+| 130 | [Kinh Sứ Giả Của Thần Chết](130-kinh-su-gia-cua-than-chet/Kinh-Su-Gia-Cua-Than-Chet.md) | *Devadūta* | ✅ |
 | 131 | [Kinh Một Đêm Lành](131-kinh-mot-dem-lanh/Kinh-Mot-Dem-Lanh.md) | *Bhaddekaratta* | ✅ |
 | 132 | Kinh Ānanda Một Đêm Lành | *Ānandabhaddekaratta* | — |
 | 133 | Đại Kinh Kaccāna Một Đêm Lành | *Mahākaccānabhaddekaratta* | — |
 | 134 | Kinh Lomasakaṅgiya | *Lomasakaṅgiya* | — |
 | 135 | [Tiểu Kinh Phân Biệt Nghiệp](135-kinh-tieu-phan-biet-nghiep/Kinh-Tieu-Phan-Biet-Nghiep.md) | *Cūḷakammavibhaṅga* | ✅ |
-| 136 | Đại Kinh Phân Biệt Nghiệp | *Mahākammavibhaṅga* | — |
-| 137 | Kinh Phân Biệt Sáu Xứ | *Salāyatanavibhaṅga* | — |
+| 136 | [Đại Kinh Phân Biệt Nghiệp](136-kinh-dai-phan-biet-nghiep/Kinh-Dai-Phan-Biet-Nghiep.md) | *Mahākammavibhaṅga* | ✅ |
+| 137 | [Kinh Phân Biệt Sáu Xứ](137-kinh-phan-biet-sau-xu/Kinh-Phan-Biet-Sau-Xu.md) | *Salāyatanavibhaṅga* | ✅ |
 | 138 | Kinh Phân Biệt Tóm Tắt | *Uddesavibhaṅga* | — |
-| 139 | Kinh Phân Biệt Không Tranh Cãi | *Araṇavibhaṅga* | — |
-| 140 | Kinh Phân Biệt Giới | *Dhātuvibhaṅga* | — |
-| 141 | Kinh Phân Biệt Sự Thật | *Saccavibhaṅga* | — |
-| 142 | Kinh Phân Biệt Cúng Dường | *Dakkhiṇāvibhaṅga* | — |
+| 139 | [Kinh Phân Biệt Không Tranh Cãi](139-kinh-phan-biet-khong-tranh-cai/Kinh-Phan-Biet-Khong-Tranh-Cai.md) | *Araṇavibhaṅga* | ✅ |
+| 140 | [Kinh Phân Biệt Giới](140-kinh-phan-biet-gioi/Kinh-Phan-Biet-Gioi.md) | *Dhātuvibhaṅga* | ✅ |
+| 141 | [Kinh Phân Biệt Sự Thật](141-kinh-phan-biet-su-that/Kinh-Phan-Biet-Su-That.md) | *Saccavibhaṅga* | ✅ |
+| 142 | [Kinh Phân Biệt Cúng Dường](142-kinh-phan-biet-cung-duong/Kinh-Phan-Biet-Cung-Duong.md) | *Dakkhiṇāvibhaṅga* | ✅ |
 | 143 | Kinh Dạy Anāthapiṇḍika | *Anāthapiṇḍikovāda* | — |
 | 144 | Kinh Dạy Channa | *Channovāda* | — |
 | 145 | Kinh Dạy Puṇṇa | *Puṇṇovāda* | — |

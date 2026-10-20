@@ -8,7 +8,14 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Bài kinh diễn ra tại vườn nai Isipatana, gần Bārāṇasi, nơi Đức Thế Tôn tuyên bố rằng Sāriputta có khả
+năng phân tích bốn sự thật cao quý một cách chi tiết, rồi đứng dậy đi vào chỗ trú. Ở lại với các
+tỳ-kheo, Sāriputta nhắc lại lời ấy và lần lượt mở từng sự thật ra: khổ, nguồn gốc của khổ, sự chấm dứt
+của khổ, và con đường tám nhánh dẫn đến sự chấm dứt ấy. Phần về khổ dài nhất, với định nghĩa
+riêng cho sinh, già, chết, sầu, bi, khổ, ưu, não, cho cái ước muốn không thành, và cho năm uẩn bám
+giữ. Ba sự thật còn lại được định nghĩa ngắn gọn, riêng con đường thì mở ra thành tám chi phần, chi
+cuối cùng là bốn tầng thiền-na. Bài khép lại bằng lời tán thán của các tỳ-kheo và dòng ghi kết của
+người biên tập.
 
 ## Con số
 
@@ -20,7 +27,13 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`ban-dich/00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người chưa quen kinh điển |
+| [`ban-dich/00-title.md`](ban-dich/00-title.md) | Nhan đề bài kinh |
+| [`ban-dich/01-phan-1.md`](ban-dich/01-phan-1.md) | Bối cảnh; lời tuyên bố về bánh xe Pháp; khen Sāriputta và Moggallāna; Sāriputta nhắc lại; mở đầu sự thật về khổ (sinh, già, chết, sầu, bi, khổ) |
+| [`ban-dich/02-phan-2.md`](ban-dich/02-phan-2.md) | Ưu và não; ba kiểu ước muốn không thành; năm uẩn bám giữ; nguồn gốc và sự chấm dứt của khổ; con đường tám nhánh (chánh kiến đến chánh tinh tấn) |
+| [`ban-dich/03-phan-3.md`](ban-dich/03-phan-3.md) | Chánh tinh tấn (tiếp); chánh niệm; chánh định và bốn tầng thiền-na; kết kinh |
 
 ## Cách đọc và góp ý
 

@@ -1,0 +1,13 @@
+# Kinh Phân Biệt Cúng Dường — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Kinh Phân Biệt Cúng Dường** (*Dakkhiṇāvibhaṅga Sutta*) là bài kinh thứ 142 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bài cuối của phẩm Phân Biệt. Bài kinh mở đầu bằng một câu chuyện rất đời: bà Mahāpajāpati Gotamī, dì và cũng là mẹ nuôi của Đức Thế Tôn, tự tay kéo sợi, dệt một đôi y phục mới để dâng riêng cho Ngài.
+
+Đức Thế Tôn không nhận riêng. Ngài bảo bà dâng cho Tăng đoàn, tức cộng đồng những người xuất gia tu hành, và giải thích rằng khi dâng cho Tăng đoàn thì cả Tăng đoàn lẫn Ngài đều được kính trọng. Bà thỉnh đến ba lần, Ngài vẫn khuyên dâng cho Tăng đoàn. Lúc ấy Tôn giả Ānanda lên tiếng: bà đã nuôi nấng Đức Thế Tôn từ khi Ngài còn nhỏ, đã cho Ngài bú khi mẹ đẻ của Ngài qua đời; và cũng nhờ Đức Thế Tôn mà bà biết quy y Tam bảo, giữ năm giới, có lòng tin vững chắc. Đức Thế Tôn xác nhận những ân ấy và nói một điều cốt lõi: ân đưa người khác đến chỗ quy y, đến chỗ giữ giới, đến chỗ hiểu rõ khổ và con đường diệt khổ, thì không thể đền đáp bằng cách đảnh lễ, cúng y phục, đồ ăn, chỗ ở hay thuốc men.
+
+Phần giáo lý chính chia sự cúng dường làm hai loại. Loại thứ nhất hướng đến từng cá nhân, gồm mười bốn bậc, từ Như Lai, bậc Độc giác Phật, các bậc thánh đệ tử, cho đến người ngoại đạo đã ly tham, phàm phu giữ giới, phàm phu phá giới, và cuối cùng là một con vật. Với mỗi bậc, quả được mong đợi lớn dần: gấp trăm, gấp ngàn, gấp trăm ngàn, gấp một ngàn tỷ, rồi đến mức không thể đếm, không thể lường. Loại thứ hai hướng đến Tăng đoàn, gồm bảy cách, và Đức Thế Tôn khẳng định không có cách nào để một món bố thí riêng cho cá nhân lại có quả lớn hơn sự cúng dường dâng lên Tăng đoàn.
+
+Bài kinh còn đưa ra bốn cách thanh tịnh của một lễ cúng dường, tùy theo người cho và người nhận có giữ giới hay không. Đoạn kệ cuối tóm lại thành bốn trường hợp: người có giới cho kẻ phá giới thì lễ ấy thanh tịnh nhờ người cho; người phá giới cho người có giới thì thanh tịnh nhờ người nhận; cả hai đều phá giới thì lễ ấy không có quả lớn; cả hai đều có giới thì quả rộng lớn; và khi người đã ly tham cho người đã ly tham thì đó là món bố thí vật chất đứng đầu.
+
+Điều đáng suy nghĩ là bài kinh không chỉ nói về số lượng hay giá trị vật chất. Nó đặt câu hỏi về tâm người cho và phẩm chất người nhận, rồi mở rộng phạm vi đến mức khó ngờ: ngay cả một con vật cũng là đối tượng của lòng thương, và một món quà dù nhỏ cũng không mất đi ý nghĩa thiêng liêng. Câu chuyện về bà Mahāpajāpati ở đầu bài làm cho phần giáo lý ấy có một khuôn mặt cụ thể: một người mẹ nuôi muốn dâng tấm vải do chính mình dệt, và một vị thầy muốn đưa món quà ấy ra khỏi vòng quyến luyến gia đình để đặt vào nơi rộng lớn hơn.
