@@ -16,6 +16,13 @@ Người đọc lần đầu có thể đọc bài này như một lời nhắc 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 7: Kinh Ví Dụ Tấm Vải**](#trung-bộ-kinh--bài-kinh-số-7-kinh-ví-dụ-tấm-vải)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 7: Kinh Ví Dụ Tấm Vải
 
 *Vatthūpama Sutta* — bài kinh về tấm vải dơ và tấm vải sạch

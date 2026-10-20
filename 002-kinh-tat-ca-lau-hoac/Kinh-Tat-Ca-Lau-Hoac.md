@@ -16,6 +16,20 @@ Phần lớn bài kinh dành cho bảy cách đoạn trừ lậu hoặc: nhờ t
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 2: Kinh Tất Cả Lậu Hoặc**](#trung-bộ-kinh--bài-kinh-số-2-kinh-tất-cả-lậu-hoặc)
+- [**1. Lậu hoặc cần đoạn trừ nhờ thấy rõ**](#1-lậu-hoặc-cần-đoạn-trừ-nhờ-thấy-rõ)
+- [**2. Lậu hoặc cần đoạn trừ nhờ thu thúc**](#2-lậu-hoặc-cần-đoạn-trừ-nhờ-thu-thúc)
+- [**3. Lậu hoặc cần đoạn trừ nhờ sử dụng**](#3-lậu-hoặc-cần-đoạn-trừ-nhờ-sử-dụng)
+- [**4. Lậu hoặc cần đoạn trừ nhờ kham nhẫn**](#4-lậu-hoặc-cần-đoạn-trừ-nhờ-kham-nhẫn)
+- [**5. Lậu hoặc cần đoạn trừ nhờ tránh né**](#5-lậu-hoặc-cần-đoạn-trừ-nhờ-tránh-né)
+- [**6. Lậu hoặc cần đoạn trừ nhờ xua tan**](#6-lậu-hoặc-cần-đoạn-trừ-nhờ-xua-tan)
+- [**7. Lậu hoặc cần đoạn trừ nhờ tu tập**](#7-lậu-hoặc-cần-đoạn-trừ-nhờ-tu-tập)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 2: Kinh Tất Cả Lậu Hoặc
 
 *Sabbāsava Sutta* — bài kinh về tất cả các lậu hoặc

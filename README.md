@@ -80,29 +80,29 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 1 | [Kinh Căn Bản Pháp Môn](001-kinh-can-ban-phap-mon/Kinh-Can-Ban-Phap-Mon.md) | *Mūlapariyāya* | ✅ |
 | 2 | [Kinh Tất Cả Lậu Hoặc](002-kinh-tat-ca-lau-hoac/Kinh-Tat-Ca-Lau-Hoac.md) | *Sabbāsava* | ✅ |
 | 3 | Kinh Người Thừa Kế Pháp | *Dhammadāyāda* | — |
-| 4 | Kinh Sợ Hãi và Kinh Hoàng | *Bhayabherava* | — |
+| 4 | [Kinh Sợ Hãi và Kinh Hoàng](004-kinh-so-hai-va-kinh-hoang/Kinh-So-Hai-Va-Kinh-Hoang.md) | *Bhayabherava* | ✅ |
 | 5 | Kinh Không Uế Nhiễm | *Anaṅgaṇa* | — |
 | 6 | Kinh Ước Muốn | *Ākaṅkheyya* | — |
 | 7 | [Kinh Ví Dụ Tấm Vải](007-kinh-vi-du-tam-vai/Kinh-Vi-Du-Tam-Vai.md) | *Vatthūpama* | ✅ |
 | 8 | Kinh Loại Bỏ | *Sallekha* | — |
-| 9 | Kinh Chánh Kiến | *Sammādiṭṭhi* | — |
-| 10 | Kinh Niệm Xứ | *Satipaṭṭhāna* | — |
+| 9 | [Kinh Chánh Kiến](009-kinh-chanh-kien/Kinh-Chanh-Kien.md) | *Sammādiṭṭhi* | ✅ |
+| 10 | [Kinh Niệm Xứ](010-kinh-niem-xu/Kinh-Niem-Xu.md) | *Satipaṭṭhāna* | ✅ |
 | 11 | Tiểu Kinh Sư Tử Hống | *Cūḷasīhanāda* | — |
 | 12 | Đại Kinh Sư Tử Hống | *Mahāsīhanāda* | — |
-| 13 | Đại Kinh Khổ Uẩn | *Mahādukkhakkhandha* | — |
+| 13 | [Đại Kinh Khổ Uẩn](013-kinh-dai-kho-uan/Kinh-Dai-Kho-Uan.md) | *Mahādukkhakkhandha* | ✅ |
 | 14 | Tiểu Kinh Khổ Uẩn | *Cūḷadukkhakkhandha* | — |
 | 15 | Kinh Suy Đoán | *Anumāna* | — |
 | 16 | Kinh Tâm Hoang Vu | *Cetokhila* | — |
 | 17 | Kinh Khu Rừng | *Vanapattha* | — |
 | 18 | Kinh Mật Hoàn | *Madhupiṇḍika* | — |
 | 19 | [Kinh Hai Loại Tầm](019-kinh-hai-loai-tam/Kinh-Hai-Loai-Tam.md) | *Dvedhāvitakka* | ✅ |
-| 20 | Kinh An Trú Tầm | *Vitakkasaṇṭhāna* | — |
+| 20 | [Kinh An Trú Tầm](020-kinh-an-tru-tam/Kinh-An-Tru-Tam.md) | *Vitakkasaṇṭhāna* | ✅ |
 | 21 | Kinh Ví Dụ Cái Cưa | *Kakacūpama* | — |
 | 22 | Kinh Ví Dụ Con Rắn | *Alagaddūpama* | — |
 | 23 | Kinh Tổ Kiến | *Vammika* | — |
 | 24 | Kinh Cỗ Xe | *Rathavinīta* | — |
 | 25 | Kinh Mồi Nhử | *Nivāpa* | — |
-| 26 | Kinh Thánh Cầu | *Ariyapariyesanā* | — |
+| 26 | [Kinh Thánh Cầu](026-kinh-thanh-cau/Kinh-Thanh-Cau.md) | *Ariyapariyesanā* | ✅ |
 | 27 | Tiểu Kinh Dấu Chân Voi | *Cūḷahatthipadopama* | — |
 | 28 | Đại Kinh Dấu Chân Voi | *Mahāhatthipadopama* | — |
 | 29 | Đại Kinh Lõi Cây | *Mahāsāropama* | — |

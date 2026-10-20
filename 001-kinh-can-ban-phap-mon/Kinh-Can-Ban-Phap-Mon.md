@@ -28,6 +28,7 @@ nhịp thì các vòng sau sẽ tự mở ra.
 ---
 
 
+
 ## Mục lục
 
 - [Lời giới thiệu](#lời-giới-thiệu)
@@ -40,11 +41,6 @@ nhịp thì các vòng sau sẽ tự mở ra.
 - [**6. Bậc A-la-hán — si đã tận**](#6-bậc-a-la-hán--si-đã-tận)
 - [**7. Như Lai**](#7-như-lai)
 - [**8. Như Lai — thích thú là cội nguồn của khổ**](#8-như-lai--thích-thú-là-cội-nguồn-của-khổ)
-
----
-
-- [Bảng thuật ngữ](#bảng-thuật-ngữ)
-- [Nguồn tham khảo](#nguồn-tham-khảo)
 
 ---
 

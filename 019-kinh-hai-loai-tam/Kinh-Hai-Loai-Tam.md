@@ -16,6 +16,13 @@ Nửa sau bài kinh kể tiếp chặng đường đã quen thuộc: bốn tần
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 19: Kinh Hai Loại Tầm**](#trung-bộ-kinh--bài-kinh-số-19-kinh-hai-loại-tầm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 19: Kinh Hai Loại Tầm
 
 *Dvedhāvitakka Sutta* — bài kinh về hai loại tầm

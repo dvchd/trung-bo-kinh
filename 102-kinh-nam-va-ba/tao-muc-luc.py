@@ -37,8 +37,7 @@ for hashes, h in heads:
         lines.append('- [**%s**](#%s)' % (t, a))
     else:
         lines.append('  - [%s](#%s)' % (t, a))
-lines += ['', '---', '', '- [Bảng thuật ngữ](#bảng-thuật-ngữ)',
-          '- [Nguồn tham khảo](#nguồn-tham-khảo)', '', '---', '']
+lines += ['', '---', '']
 toc = '\n'.join(lines) + '\n'
 
 src = src.replace(START, '\n' + toc + START.lstrip('\n'), 1)

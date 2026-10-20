@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Bài kinh thứ 20 của Trung Bộ Kinh ghi lại một buổi Đức Thế Tôn dạy các tỳ-kheo tại Sāvatthī về cách xử lý những suy nghĩ không mong muốn khi hành thiền. Ngài đưa ra năm phương pháp xếp theo thứ tự từ nhẹ đến mạnh: đổi sang một đề mục khác gắn với thiện, xem xét sự nguy hại của những tầm ấy, không ghi nhớ và không chú tâm đến chúng, chú tâm đến sự an trú của các hành tầm, và sau cùng là cắn răng ép lưỡi dùng tâm chế ngự tâm. Mỗi phương pháp đều có một ví dụ cụ thể, và bài kinh nhấn mạnh rằng chúng chỉ dùng tùy lúc, khi cách thông thường đã không còn tác dụng. Khi cả năm đã thành thạo, vị tỳ-kheo được gọi là người làm chủ các nẻo đường của tầm, và bài kinh khép lại bằng câu về sự chấm dứt khổ.
 
 ## Con số
 
@@ -20,7 +20,12 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu bài kinh cho người chưa học kinh điển |
+| [`00-title.md`](ban-dich/00-title.md) | Nhan đề, tên Pali và nghĩa tên bài kinh |
+| [`01-mo-dau.md`](ban-dich/01-mo-dau.md) | Năm phương pháp xử lý tầm, phần kết và lời kết thông thường (mn20:1.1–8.17) |
+| [`02-phan-1.md`](ban-dich/02-phan-1.md) | Bài kệ tóm tắt phẩm Sư Tử Hống (mn20:9.0–9.4) |
 
 ## Cách đọc và góp ý
 
