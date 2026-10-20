@@ -88,7 +88,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 9 | [Kinh Chánh Kiến](009-kinh-chanh-kien/Kinh-Chanh-Kien.md) | *Sammādiṭṭhi* | ✅ |
 | 10 | [Kinh Niệm Xứ](010-kinh-niem-xu/Kinh-Niem-Xu.md) | *Satipaṭṭhāna* | ✅ |
 | 11 | Tiểu Kinh Sư Tử Hống | *Cūḷasīhanāda* | — |
-| 12 | Đại Kinh Sư Tử Hống | *Mahāsīhanāda* | — |
+| 12 | [Đại Kinh Sư Tử Hống](012-kinh-dai-su-tu-hong/Kinh-Dai-Su-Tu-Hong.md) | *Mahāsīhanāda* | ✅ |
 | 13 | [Đại Kinh Khổ Uẩn](013-kinh-dai-kho-uan/Kinh-Dai-Kho-Uan.md) | *Mahādukkhakkhandha* | ✅ |
 | 14 | Tiểu Kinh Khổ Uẩn | *Cūḷadukkhakkhandha* | — |
 | 15 | Kinh Suy Đoán | *Anumāna* | — |
@@ -105,18 +105,18 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 26 | [Kinh Thánh Cầu](026-kinh-thanh-cau/Kinh-Thanh-Cau.md) | *Ariyapariyesanā* | ✅ |
 | 27 | [Tiểu Kinh Dấu Chân Voi](027-kinh-tieu-dau-chan-voi/Kinh-Tieu-Dau-Chan-Voi.md) | *Cūḷahatthipadopama* | ✅ |
 | 28 | [Đại Kinh Dấu Chân Voi](028-kinh-dai-dau-chan-voi/Kinh-Dai-Dau-Chan-Voi.md) | *Mahāhatthipadopama* | ✅ |
-| 29 | Đại Kinh Lõi Cây | *Mahāsāropama* | — |
-| 30 | Tiểu Kinh Lõi Cây | *Cūḷasāropama* | — |
+| 29 | [Đại Kinh Lõi Cây](029-kinh-dai-loi-cay/Kinh-Dai-Loi-Cay.md) | *Mahāsāropama* | ✅ |
+| 30 | [Tiểu Kinh Lõi Cây](030-kinh-tieu-loi-cay/Kinh-Tieu-Loi-Cay.md) | *Cūḷasāropama* | ✅ |
 | 31 | Tiểu Kinh Rừng Gosiṅga | *Cūḷagosiṅga* | — |
 | 32 | Đại Kinh Rừng Gosiṅga | *Mahāgosiṅga* | — |
 | 33 | Đại Kinh Người Chăn Bò | *Mahāgopālaka* | — |
 | 34 | Tiểu Kinh Người Chăn Bò | *Cūḷagopālaka* | — |
-| 35 | Tiểu Kinh Saccaka | *Cūḷasaccaka* | — |
+| 35 | [Tiểu Kinh Saccaka](035-kinh-tieu-saccaka/Kinh-Tieu-Saccaka.md) | *Cūḷasaccaka* | ✅ |
 | 36 | [Đại Kinh Saccaka](036-kinh-dai-saccaka/Kinh-Dai-Saccaka.md) | *Mahāsaccaka* | ✅ |
-| 37 | Tiểu Kinh Đoạn Tận Ái | *Cūḷataṇhāsaṅkhaya* | — |
+| 37 | [Tiểu Kinh Đoạn Tận Ái](037-kinh-tieu-doan-tan-ai/Kinh-Tieu-Doan-Tan-Ai.md) | *Cūḷataṇhāsaṅkhaya* | ✅ |
 | 38 | [Đại Kinh Đoạn Tận Ái](038-kinh-dai-doan-tan-ai/Kinh-Dai-Doan-Tan-Ai.md) | *Mahātaṇhāsaṅkhaya* | ✅ |
 | 39 | [Đại Kinh Assapura](039-kinh-dai-assapura/Kinh-Dai-Assapura.md) | *Mahāassapura* | ✅ |
-| 40 | Tiểu Kinh Assapura | *Cūḷaassapura* | — |
+| 40 | [Tiểu Kinh Assapura](040-kinh-tieu-assapura/Kinh-Tieu-Assapura.md) | *Cūḷaassapura* | ✅ |
 | 41 | Kinh Sāleyyaka | *Sāleyyaka* | — |
 | 42 | Kinh Verañjaka | *Verañjaka* | — |
 | 43 | [Đại Kinh Phương Quảng](043-kinh-dai-phuong-quang/Kinh-Dai-Phuong-Quang.md) | *Mahāvedalla* | ✅ |
