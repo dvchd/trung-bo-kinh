@@ -8,7 +8,12 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Sau lời mở đầu quen thuộc, bài kinh xoay quanh một bài kệ: chớ quay về quá khứ, chớ mong đợi tương lai, hãy thấy rõ các pháp đang
+có mặt, và làm ngay việc cần làm vì cái chết có thể đến bất cứ lúc nào. Đức Thế Tôn tuyên bố sẽ giảng
+"phần tóm tắt và phần phân tích về người có một đêm lành", rồi lần lượt chỉ ra thế nào là quay về quá
+khứ, mong đợi tương lai và bị lay chuyển giữa các pháp đang có mặt — cả ba đều là những cách lòng thích
+thú bám vào năm uẩn. Vị thánh đệ tử đã nghe Pháp thì không làm như vậy. Bài kinh kết thúc bằng lời xác
+nhận của Đức Thế Tôn và sự hoan hỷ của các tỳ-kheo.
 
 ## Con số
 
@@ -20,7 +25,12 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`ban-dich/00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người chưa học Phật |
+| [`ban-dich/00-title.md`](ban-dich/00-title.md) | Nhan đề bài kinh |
+| [`ban-dich/01-phan-1.md`](ban-dich/01-phan-1.md) | Bối cảnh tại Sāvatthī; bài kệ; phân tích quá khứ, tương lai và hiện tại (đến uẩn thọ) |
+| [`ban-dich/02-phan-2.md`](ban-dich/02-phan-2.md) | Hết phần hiện tại; lặp lại bài kệ; lời kết bài kinh |
 
 ## Cách đọc và góp ý
 

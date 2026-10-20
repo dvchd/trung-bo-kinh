@@ -112,10 +112,10 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 33 | Đại Kinh Người Chăn Bò | *Mahāgopālaka* | — |
 | 34 | Tiểu Kinh Người Chăn Bò | *Cūḷagopālaka* | — |
 | 35 | Tiểu Kinh Saccaka | *Cūḷasaccaka* | — |
-| 36 | Đại Kinh Saccaka | *Mahāsaccaka* | — |
+| 36 | [Đại Kinh Saccaka](036-kinh-dai-saccaka/Kinh-Dai-Saccaka.md) | *Mahāsaccaka* | ✅ |
 | 37 | Tiểu Kinh Đoạn Tận Ái | *Cūḷataṇhāsaṅkhaya* | — |
-| 38 | Đại Kinh Đoạn Tận Ái | *Mahātaṇhāsaṅkhaya* | — |
-| 39 | Đại Kinh Assapura | *Mahāassapura* | — |
+| 38 | [Đại Kinh Đoạn Tận Ái](038-kinh-dai-doan-tan-ai/Kinh-Dai-Doan-Tan-Ai.md) | *Mahātaṇhāsaṅkhaya* | ✅ |
+| 39 | [Đại Kinh Assapura](039-kinh-dai-assapura/Kinh-Dai-Assapura.md) | *Mahāassapura* | ✅ |
 | 40 | Tiểu Kinh Assapura | *Cūḷaassapura* | — |
 | 41 | Kinh Sāleyyaka | *Sāleyyaka* | — |
 | 42 | Kinh Verañjaka | *Verañjaka* | — |
@@ -162,7 +162,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 83 | Kinh Makhādeva | *Makhādeva* | — |
 | 84 | Kinh Madhurā | *Madhura* | — |
 | 85 | Kinh Bodhirājakumāra | *Bodhirājakumāra* | — |
-| 86 | Kinh Aṅgulimāla | *Aṅgulimāla* | — |
+| 86 | [Kinh Aṅgulimāla](086-kinh-angulimala/Kinh-Angulimala.md) | *Aṅgulimāla* | ✅ |
 | 87 | Kinh Sinh Từ Người Thương | *Piyajātika* | — |
 | 88 | Kinh Bāhitika | *Bāhitika* | — |
 | 89 | Kinh Bảo Tháp Pháp | *Dhammacetiya* | — |
@@ -194,7 +194,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 115 | Kinh Nhiều Giới | *Bahudhātuka* | — |
 | 116 | Kinh Isigili | *Isigili* | — |
 | 117 | Đại Kinh Bốn Mươi | *Mahācattārīsaka* | — |
-| 118 | Kinh Niệm Hơi Thở | *Ānāpānassati* | — |
+| 118 | [Kinh Niệm Hơi Thở](118-kinh-niem-hoi-tho/Kinh-Niem-Hoi-Tho.md) | *Ānāpānassati* | ✅ |
 | 119 | Kinh Niệm Thân | *Kāyagatāsati* | — |
 | 120 | Kinh Tái Sinh Theo Hành | *Saṅkhārupapatti* | — |
 | 121 | Tiểu Kinh Không | *Cūḷasuññata* | — |
@@ -207,7 +207,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 128 | Kinh Ô Nhiễm | *Upakkilesa* | — |
 | 129 | Kinh Kẻ Ngu và Người Trí | *Bālapaṇḍita* | — |
 | 130 | Kinh Sứ Giả Của Thần Chết | *Devadūta* | — |
-| 131 | Kinh Một Đêm Lành | *Bhaddekaratta* | — |
+| 131 | [Kinh Một Đêm Lành](131-kinh-mot-dem-lanh/Kinh-Mot-Dem-Lanh.md) | *Bhaddekaratta* | ✅ |
 | 132 | Kinh Ānanda Một Đêm Lành | *Ānandabhaddekaratta* | — |
 | 133 | Đại Kinh Kaccāna Một Đêm Lành | *Mahākaccānabhaddekaratta* | — |
 | 134 | Kinh Lomasakaṅgiya | *Lomasakaṅgiya* | — |
