@@ -150,15 +150,15 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 71 | [Kinh Vacchagotta về Tam Minh](071-kinh-vacchagotta-ve-tam-minh/Kinh-Vacchagotta-Ve-Tam-Minh.md) | *Tevijjavacchagotta* | ✅ |
 | 72 | [Kinh Vacchagotta về Lửa](072-kinh-vacchagotta-ve-lua/Kinh-Vacchagotta-Ve-Lua.md) | *Aggivacchagotta* | ✅ |
 | 73 | Đại Kinh Vacchagotta | *Mahāvacchagotta* | — |
-| 74 | Kinh Dīghanakha | *Dīghanakha* | — |
+| 74 | [Kinh Dīghanakha](074-kinh-dighanakha/Kinh-Dighanakha.md) | *Dīghanakha* | ✅ |
 | 75 | [Kinh Māgaṇḍiya](075-kinh-magandiya/Kinh-Magandiya.md) | *Māgaṇḍiya* | ✅ |
 | 76 | Kinh Sandaka | *Sandaka* | — |
 | 77 | [Đại Kinh Sakuludāyi](077-kinh-dai-sakuludayi/Kinh-Dai-Sakuludayi.md) | *Mahāsakuludāyi* | ✅ |
-| 78 | Kinh Sa-môn Muṇḍika | *Samaṇamuṇḍika* | — |
+| 78 | [Kinh Sa-môn Muṇḍika](078-kinh-sa-mon-mundika/Kinh-Sa-Mon-Mundika.md) | *Samaṇamuṇḍika* | ✅ |
 | 79 | Tiểu Kinh Sakuludāyi | *Cūḷasakuludāyi* | — |
-| 80 | Kinh Vekhanasa | *Vekhanasa* | — |
+| 80 | [Kinh Vekhanasa](080-kinh-vekhanasa/Kinh-Vekhanasa.md) | *Vekhanasa* | ✅ |
 | 81 | Kinh Ghaṭikāra | *Ghaṭikāra* | — |
-| 82 | Kinh Raṭṭhapāla | *Raṭṭhapāla* | — |
+| 82 | [Kinh Raṭṭhapāla](082-kinh-ratthapala/Kinh-Ratthapala.md) | *Raṭṭhapāla* | ✅ |
 | 83 | Kinh Makhādeva | *Makhādeva* | — |
 | 84 | Kinh Madhurā | *Madhura* | — |
 | 85 | Kinh Bodhirājakumāra | *Bodhirājakumāra* | — |
