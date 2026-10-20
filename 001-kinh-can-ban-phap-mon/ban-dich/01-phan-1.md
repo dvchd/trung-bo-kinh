@@ -1,5 +1,5 @@
 <!-- seg: mn1:1.1 -->
-Tôi nghe như thế này.
+Tôi nghe như vầy.
 
 [Chú thích: Cũng như Trường Bộ Kinh mở đầu bằng bài Phạm Võng — một bài rất khó —, Trung Bộ Kinh mở đầu bằng một trong những bài trừu tượng nhất của toàn bộ kinh tạng: bài này khảo sát cách nhận thức và cách đồng hóa sự vật biến đổi theo tiến trình tu tập.]
 
@@ -21,7 +21,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 Đức Thế Tôn nói điều này:
 
 <!-- seg: mn1:2.1 -->
-Này các tỳ-kheo, Ta sẽ giảng cho các vị pháp môn về cội nguồn của mọi pháp.
+Này các tỳ-kheo, Ta sẽ giảng cho các ông pháp môn về cội nguồn của mọi pháp.
 
 <!-- seg: mn1:2.2 -->
 Hãy lắng nghe và khéo tác ý, Ta sẽ nói.

@@ -78,12 +78,12 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | # | Bài kinh | Tên Pali | Đã dịch |
 |---|---|---|---|
 | 1 | [Kinh Căn Bản Pháp Môn](001-kinh-can-ban-phap-mon/Kinh-Can-Ban-Phap-Mon.md) | *Mūlapariyāya* | ✅ |
-| 2 | Kinh Tất Cả Lậu Hoặc | *Sabbāsava* | — |
+| 2 | [Kinh Tất Cả Lậu Hoặc](002-kinh-tat-ca-lau-hoac/Kinh-Tat-Ca-Lau-Hoac.md) | *Sabbāsava* | ✅ |
 | 3 | Kinh Người Thừa Kế Pháp | *Dhammadāyāda* | — |
 | 4 | Kinh Sợ Hãi và Kinh Hoàng | *Bhayabherava* | — |
 | 5 | Kinh Không Uế Nhiễm | *Anaṅgaṇa* | — |
 | 6 | Kinh Ước Muốn | *Ākaṅkheyya* | — |
-| 7 | Kinh Ví Dụ Tấm Vải | *Vatthūpama* | — |
+| 7 | [Kinh Ví Dụ Tấm Vải](007-kinh-vi-du-tam-vai/Kinh-Vi-Du-Tam-Vai.md) | *Vatthūpama* | ✅ |
 | 8 | Kinh Loại Bỏ | *Sallekha* | — |
 | 9 | Kinh Chánh Kiến | *Sammādiṭṭhi* | — |
 | 10 | Kinh Niệm Xứ | *Satipaṭṭhāna* | — |
@@ -95,7 +95,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 16 | Kinh Tâm Hoang Vu | *Cetokhila* | — |
 | 17 | Kinh Khu Rừng | *Vanapattha* | — |
 | 18 | Kinh Mật Hoàn | *Madhupiṇḍika* | — |
-| 19 | Kinh Hai Loại Tầm | *Dvedhāvitakka* | — |
+| 19 | [Kinh Hai Loại Tầm](019-kinh-hai-loai-tam/Kinh-Hai-Loai-Tam.md) | *Dvedhāvitakka* | ✅ |
 | 20 | Kinh An Trú Tầm | *Vitakkasaṇṭhāna* | — |
 | 21 | Kinh Ví Dụ Cái Cưa | *Kakacūpama* | — |
 | 22 | Kinh Ví Dụ Con Rắn | *Alagaddūpama* | — |
