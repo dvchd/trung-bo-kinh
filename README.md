@@ -166,14 +166,14 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 87 | [Kinh Sinh Từ Người Thương](087-kinh-sinh-tu-nguoi-thuong/Kinh-Sinh-Tu-Nguoi-Thuong.md) | *Piyajātika* | ✅ |
 | 88 | [Kinh Bāhitika](088-kinh-bahitika/Kinh-Bahitika.md) | *Bāhitika* | ✅ |
 | 89 | [Kinh Bảo Tháp Pháp](089-kinh-bao-thap-phap/Kinh-Bao-Thap-Phap.md) | *Dhammacetiya* | ✅ |
-| 90 | Kinh Kaṇṇakatthala | *Kaṇṇakatthala* | — |
-| 91 | Kinh Brahmāyu | *Brahmāyu* | — |
+| 90 | [Kinh Kaṇṇakatthala](090-kinh-kannakatthala/Kinh-Kannakatthala.md) | *Kaṇṇakatthala* | ✅ |
+| 91 | [Kinh Brahmāyu](091-kinh-brahmayu/Kinh-Brahmayu.md) | *Brahmāyu* | ✅ |
 | 92 | [Kinh Sela](092-kinh-sela/Kinh-Sela.md) | *Sela* | ✅ |
 | 93 | [Kinh Assalāyana](093-kinh-assalayana/Kinh-Assalayana.md) | *Assalāyana* | ✅ |
-| 94 | Kinh Ghoṭamukha | *Ghoṭamukha* | — |
-| 95 | Kinh Caṅkī | *Caṅkī* | — |
-| 96 | Kinh Esukārī | *Esukārī* | — |
-| 97 | Kinh Dhānañjāni | *Dhānañjāni* | — |
+| 94 | [Kinh Ghoṭamukha](094-kinh-ghotamukha/Kinh-Ghotamukha.md) | *Ghoṭamukha* | ✅ |
+| 95 | [Kinh Caṅkī](095-kinh-canki/Kinh-Canki.md) | *Caṅkī* | ✅ |
+| 96 | [Kinh Esukārī](096-kinh-esukari/Kinh-Esukari.md) | *Esukārī* | ✅ |
+| 97 | [Kinh Dhānañjāni](097-kinh-dhananjani/Kinh-Dhananjani.md) | *Dhānañjāni* | ✅ |
 | 98 | Kinh Vāseṭṭha | *Vāseṭṭha* | — |
 | 99 | Kinh Subha | *Subha* | — |
 | 100 | Kinh Saṅgārava | *Saṅgārava* | — |
