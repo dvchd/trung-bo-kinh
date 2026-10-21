@@ -8,7 +8,14 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Bài kinh mở đầu bằng một lời dặn ngắn của Đức Thế Tôn: các đệ tử hãy làm người thừa kế Pháp của
+Ngài, chớ làm người thừa kế vật chất. Để làm rõ, Ngài kể chuyện Ngài đã ăn xong và còn dư một
+phần cơm khất thực; hai tỳ-kheo đói lả đi đến, một vị nhịn ăn suốt ngày đêm, vị kia ăn để lấy
+sức, và vị nhịn ăn được khen là đáng kính hơn. Nói xong, Đức Thế Tôn đi vào tịnh thất, và Tôn
+giả Sāriputta tiếp phần còn lại: thế nào là đệ tử không tu tập viễn ly, thế nào là tu tập viễn
+ly, trả lời theo ba hạng tỳ-kheo và ba điểm chê trách hay tán thán. Phần cuối liệt kê các cặp
+phiền não, và với mỗi cặp, Tôn giả nhắc lại con đường thực hành ở giữa — con đường thánh tám
+nhánh — là cách đoạn trừ chúng. Các tỳ-kheo hoan hỷ tán thán lời dạy, và bài kinh khép lại ở đó.
 
 ## Con số
 
@@ -20,7 +27,13 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`ban-dich/00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người chưa học Phật |
+| [`ban-dich/00-title.md`](ban-dich/00-title.md) | Nhan đề bài kinh |
+| [`ban-dich/01-phan-1.md`](ban-dich/01-phan-1.md) | Đức Thế Tôn dạy lấy Pháp làm của thừa kế; chuyện hai tỳ-kheo và phần cơm khất thực |
+| [`ban-dich/02-phan-2.md`](ban-dich/02-phan-2.md) | Sāriputta hỏi và giải thích: đệ tử không tu tập viễn ly và tu tập viễn ly, theo ba hạng tỳ-kheo |
+| [`ban-dich/03-phan-3.md`](ban-dich/03-phan-3.md) | Các cặp phiền não và con đường thực hành ở giữa; lời kết |
 
 ## Cách đọc và góp ý
 

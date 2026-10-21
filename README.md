@@ -79,12 +79,12 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 |---|---|---|---|
 | 1 | [Kinh Căn Bản Pháp Môn](001-kinh-can-ban-phap-mon/Kinh-Can-Ban-Phap-Mon.md) | *Mūlapariyāya* | ✅ |
 | 2 | [Kinh Tất Cả Lậu Hoặc](002-kinh-tat-ca-lau-hoac/Kinh-Tat-Ca-Lau-Hoac.md) | *Sabbāsava* | ✅ |
-| 3 | Kinh Người Thừa Kế Pháp | *Dhammadāyāda* | — |
+| 3 | [Kinh Người Thừa Kế Pháp](003-kinh-nguoi-thua-ke-phap/Kinh-Nguoi-Thua-Ke-Phap.md) | *Dhammadāyāda* | ✅ |
 | 4 | [Kinh Sợ Hãi và Kinh Hoàng](004-kinh-so-hai-va-kinh-hoang/Kinh-So-Hai-Va-Kinh-Hoang.md) | *Bhayabherava* | ✅ |
-| 5 | Kinh Không Uế Nhiễm | *Anaṅgaṇa* | — |
-| 6 | Kinh Ước Muốn | *Ākaṅkheyya* | — |
+| 5 | [Kinh Không Uế Nhiễm](005-kinh-khong-ue-nhiem/Kinh-Khong-Ue-Nhiem.md) | *Anaṅgaṇa* | ✅ |
+| 6 | [Kinh Ước Muốn](006-kinh-uoc-muon/Kinh-Uoc-Muon.md) | *Ākaṅkheyya* | ✅ |
 | 7 | [Kinh Ví Dụ Tấm Vải](007-kinh-vi-du-tam-vai/Kinh-Vi-Du-Tam-Vai.md) | *Vatthūpama* | ✅ |
-| 8 | Kinh Loại Bỏ | *Sallekha* | — |
+| 8 | [Kinh Loại Bỏ](008-kinh-loai-bo/Kinh-Loai-Bo.md) | *Sallekha* | ✅ |
 | 9 | [Kinh Chánh Kiến](009-kinh-chanh-kien/Kinh-Chanh-Kien.md) | *Sammādiṭṭhi* | ✅ |
 | 10 | [Kinh Niệm Xứ](010-kinh-niem-xu/Kinh-Niem-Xu.md) | *Satipaṭṭhāna* | ✅ |
 | 11 | Tiểu Kinh Sư Tử Hống | *Cūḷasīhanāda* | — |
