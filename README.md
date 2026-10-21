@@ -188,19 +188,19 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 109 | [Đại Kinh Trăng Tròn](109-kinh-dai-trang-tron/Kinh-Dai-Trang-Tron.md) | *Mahāpuṇṇama* | ✅ |
 | 110 | [Tiểu Kinh Trăng Tròn](110-kinh-tieu-trang-tron/Kinh-Tieu-Trang-Tron.md) | *Cūḷapuṇṇama* | ✅ |
 | 111 | [Kinh Tùy Quán](111-kinh-tuy-quan/Kinh-Tuy-Quan.md) | *Anupada* | ✅ |
-| 112 | Kinh Sáu Thanh Tịnh | *Chabbisodhana* | — |
-| 113 | Kinh Con Người Chân Thật | *Sappurisa* | — |
+| 112 | [Kinh Sáu Thanh Tịnh](112-kinh-sau-thanh-tinh/Kinh-Sau-Thanh-Tinh.md) | *Chabbisodhana* | ✅ |
+| 113 | [Kinh Con Người Chân Thật](113-kinh-con-nguoi-chan-that/Kinh-Con-Nguoi-Chan-That.md) | *Sappurisa* | ✅ |
 | 114 | Kinh Nên Thân Cận và Không Nên Thân Cận | *Sevitabbāsevitabba* | — |
 | 115 | Kinh Nhiều Giới | *Bahudhātuka* | — |
-| 116 | Kinh Isigili | *Isigili* | — |
+| 116 | [Kinh Isigili](116-kinh-isigili/Kinh-Isigili.md) | *Isigili* | ✅ |
 | 117 | [Đại Kinh Bốn Mươi](117-kinh-dai-bon-muoi/Kinh-Dai-Bon-Muoi.md) | *Mahācattārīsaka* | ✅ |
 | 118 | [Kinh Niệm Hơi Thở](118-kinh-niem-hoi-tho/Kinh-Niem-Hoi-Tho.md) | *Ānāpānassati* | ✅ |
 | 119 | [Kinh Niệm Thân](119-kinh-niem-than/Kinh-Niem-Than.md) | *Kāyagatāsati* | ✅ |
-| 120 | Kinh Tái Sinh Theo Hành | *Saṅkhārupapatti* | — |
+| 120 | [Kinh Tái Sinh Theo Hành](120-kinh-tai-sinh-theo-hanh/Kinh-Tai-Sinh-Theo-Hanh.md) | *Saṅkhārupapatti* | ✅ |
 | 121 | [Tiểu Kinh Không](121-kinh-tieu-khong/Kinh-Tieu-Khong.md) | *Cūḷasuññata* | ✅ |
 | 122 | [Đại Kinh Không](122-kinh-dai-khong/Kinh-Dai-Khong.md) | *Mahāsuññata* | ✅ |
-| 123 | Kinh Hy Hữu và Kỳ Diệu | *Acchariyaabbhuta* | — |
-| 124 | Kinh Bākula | *Bākula* | — |
+| 123 | [Kinh Hy Hữu và Kỳ Diệu](123-kinh-hy-huu-va-ky-dieu/Kinh-Hy-Huu-Va-Ky-Dieu.md) | *Acchariyaabbhuta* | ✅ |
+| 124 | [Kinh Bākula](124-kinh-bakula/Kinh-Bakula.md) | *Bākula* | ✅ |
 | 125 | [Kinh Địa Vị Người Đã Điều Phục](125-kinh-dia-vi-nguoi-da-dieu-phuc/Kinh-Dia-Vi-Nguoi-Da-Dieu-Phuc.md) | *Dantabhūmi* | ✅ |
 | 126 | Kinh Bhūmija | *Bhūmija* | — |
 | 127 | Kinh Anuruddha | *Anuruddha* | — |
