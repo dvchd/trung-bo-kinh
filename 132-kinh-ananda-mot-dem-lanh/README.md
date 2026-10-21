@@ -8,7 +8,12 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Bài kinh diễn ra tại Sāvatthī, trong vườn Jeta. Buổi chiều, Đức Thế Tôn từ chỗ độc cư đứng dậy, đi đến
+giảng đường và hỏi các tỳ-kheo ai đã giảng cho họ nghe phần tóm tắt và phần phân tích về người có một
+đêm lành; các tỳ-kheo thưa rằng đó là Tôn giả Ānanda. Được hỏi lại, Ānanda nhắc trọn bài kệ khuyên
+không quay về quá khứ, không mong đợi tương lai, thấy rõ các pháp đang có mặt và làm ngay việc cần làm
+hôm nay, rồi giải thích từng câu kệ bằng năm uẩn. Đức Thế Tôn tán thán và lặp lại toàn bộ bài kệ cùng
+phần phân tích, chỉ đổi cách xưng gọi. Bài kinh kết thúc bằng lời hoan hỷ, tán thán của Ānanda.
 
 ## Con số
 
@@ -20,7 +25,13 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`ban-dich/00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người chưa học Phật |
+| [`ban-dich/00-title.md`](ban-dich/00-title.md) | Nhan đề bài kinh |
+| [`ban-dich/01-phan-1.md`](ban-dich/01-phan-1.md) | Bối cảnh tại Sāvatthī; Ānanda được hỏi lại; bài kệ; phân tích quá khứ, tương lai và hiện tại (đến uẩn hành) |
+| [`ban-dich/02-phan-2.md`](ban-dich/02-phan-2.md) | Hết phần hiện tại; lặp lại bài kệ; Đức Thế Tôn tán thán rồi giảng lại trọn bài kệ và phần phân tích |
+| [`ban-dich/03-phan-3.md`](ban-dich/03-phan-3.md) | Ānanda hoan hỷ tán thán lời dạy; câu kết thúc bài kinh |
 
 ## Cách đọc và góp ý
 

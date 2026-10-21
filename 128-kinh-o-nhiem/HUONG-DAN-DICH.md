@@ -8,24 +8,34 @@
 
 ## 1. Nội dung bài này
 
-<!-- Một đoạn 3–5 câu: bài nói về ai, việc gì, kết thúc ra sao. Người dịch tự viết sau khi đọc bản Pali. -->
+Các tỳ-kheo ở Kosambī tranh chấp nên Đức Thế Tôn rời đi, đến công viên Pācīnavaṁsa thăm ba vị Anuruddha, Nandiya và Kimbila đang tu hòa hợp. Ngài kể kinh nghiệm tu tập của chính mình: ánh sáng và sự thấy các sắc hiện ra rồi mất, và chỉ ra mười một thứ làm ô nhiễm tâm. Sau khi vượt qua từng thứ, Ngài dạy về giải thoát vô lượng và kết ở lời khen ba vị sống hòa hợp.
 
 ## 2. Nhân vật
 
 | Pali | Dịch trong bài | Ghi chú (lần đầu xuất hiện) |
 |---|---|---|
-| | | |
+| Anuruddha | Anuruddha | Một trong ba vị đang tu ở Pācīnavaṁsa |
+| Nandiya | Nandiya | Cùng tu với Anuruddha |
+| Kimbila | Kimbila | Cùng tu với Anuruddha |
+| Kosambī | Kosambī | Nơi các tỳ-kheo tranh chấp |
+| Pācīnavaṁsa | Pācīnavaṁsa | Công viên phía đông, nơi ba vị trú |
 
 ## 3. Thuật ngữ riêng của bài
 
 | Pali | Dịch chuẩn | Ghi chú |
 |---|---|---|
-| | | |
+| upakkilesa | ô nhiễm | Mười một thứ làm tâm ô nhiễm trong khi tu định |
+| obhāsa | ánh sáng | Hiện ra khi định mạnh, không phải mục tiêu |
+| nimitta | tướng | Ở đây chỉ dấu hiệu của định |
+| appamāṇa cetovimutti | giải thoát tâm vô lượng | Bốn tâm vô lượng |
 
 ## 4. Chỗ dễ dịch sai
 
-<!-- Liệt kê những câu/cụm mà người dịch dễ hiểu lệch: từ đa nghĩa, câu Pali rút gọn,
-     chỗ Sujato dịch thoát, chỗ bản Pali lặp lại nguyên văn. -->
+- Mười một ô nhiễm phải giữ đúng danh sách và đúng thứ tự lặp lại; bản Pali lặp công thức cho từng thứ.
+- "Nimitta" trong bài là dấu hiệu của định, không phải đối tượng thiền; đừng dịch thành "đề mục".
+- "Tinh tấn quá mức" và "tinh tấn quá lơi" là hai cực đối nhau, phải dịch song song.
+- Ba vị Anuruddha, Nandiya, Kimbila tu chung; đại từ "chúng tôi" chỉ ba vị, không phải tất cả tỳ-kheo.
+- Các đoạn kệ về sống một mình phải giữ nguyên thể thơ, không nhập vào văn xuôi.
 
 ## 5. Kiểm tra trước khi commit
 

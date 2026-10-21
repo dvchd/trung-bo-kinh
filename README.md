@@ -202,13 +202,13 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 123 | [Kinh Hy Hữu và Kỳ Diệu](123-kinh-hy-huu-va-ky-dieu/Kinh-Hy-Huu-Va-Ky-Dieu.md) | *Acchariyaabbhuta* | ✅ |
 | 124 | [Kinh Bākula](124-kinh-bakula/Kinh-Bakula.md) | *Bākula* | ✅ |
 | 125 | [Kinh Địa Vị Người Đã Điều Phục](125-kinh-dia-vi-nguoi-da-dieu-phuc/Kinh-Dia-Vi-Nguoi-Da-Dieu-Phuc.md) | *Dantabhūmi* | ✅ |
-| 126 | Kinh Bhūmija | *Bhūmija* | — |
-| 127 | Kinh Anuruddha | *Anuruddha* | — |
-| 128 | Kinh Ô Nhiễm | *Upakkilesa* | — |
+| 126 | [Kinh Bhūmija](126-kinh-bhumija/Kinh-Bhumija.md) | *Bhūmija* | ✅ |
+| 127 | [Kinh Anuruddha](127-kinh-anuruddha/Kinh-Anuruddha.md) | *Anuruddha* | ✅ |
+| 128 | [Kinh Ô Nhiễm](128-kinh-o-nhiem/Kinh-O-Nhiem.md) | *Upakkilesa* | ✅ |
 | 129 | [Kinh Kẻ Ngu và Người Trí](129-kinh-ke-ngu-va-nguoi-tri/Kinh-Ke-Ngu-Va-Nguoi-Tri.md) | *Bālapaṇḍita* | ✅ |
 | 130 | [Kinh Sứ Giả Của Thần Chết](130-kinh-su-gia-cua-than-chet/Kinh-Su-Gia-Cua-Than-Chet.md) | *Devadūta* | ✅ |
 | 131 | [Kinh Một Đêm Lành](131-kinh-mot-dem-lanh/Kinh-Mot-Dem-Lanh.md) | *Bhaddekaratta* | ✅ |
-| 132 | Kinh Ānanda Một Đêm Lành | *Ānandabhaddekaratta* | — |
+| 132 | [Kinh Ānanda Một Đêm Lành](132-kinh-ananda-mot-dem-lanh/Kinh-Ananda-Mot-Dem-Lanh.md) | *Ānandabhaddekaratta* | ✅ |
 | 133 | Đại Kinh Kaccāna Một Đêm Lành | *Mahākaccānabhaddekaratta* | — |
 | 134 | Kinh Lomasakaṅgiya | *Lomasakaṅgiya* | — |
 | 135 | [Tiểu Kinh Phân Biệt Nghiệp](135-kinh-tieu-phan-biet-nghiep/Kinh-Tieu-Phan-Biet-Nghiep.md) | *Cūḷakammavibhaṅga* | ✅ |
