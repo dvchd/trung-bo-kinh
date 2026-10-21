@@ -1,33 +1,22 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-21, cuối phiên dài 19:00–09:45 JST.
+> Cập nhật: 2026-10-21, cuối phiên ngắn 13:00–14:45 JST.
 
-## Đã xong: 122/152 bài
+## Đã xong: 147/152 bài
 
-3, 5, 6, 8, 12, 17, 18, 23, 24, 25, 29, 30, 31, 32, 33, 34, 35, 37, 40, 41, 42, 45, 46, 47,
-49, 50, 53, 55, 56, 57, 58, 60, 63, 65, 66, 68, 71, 72, 74, 75, 77, 78, 79, 80, 81, 82, 83,
-84, 85, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105,
-106, 107, 108, 109, 110, 111, 117, 119, 121, 122, 125, 129, 130, 135, 136, 137, 139, 140,
-141, 142, 143, 144, 146, 147, 148, 152 (cộng 26 bài của đợt đầu: 1, 2, 4, 7, 9, 10, 13, 19,
-20, 21, 22, 26, 27, 28, 36, 38, 39, 43, 44, 48, 54, 61, 62, 64, 70, 86, 118, 131).
+Tất cả các bài từ 1 đến 152, trừ 69 và 73. Mỗi bài có `Kinh-<Tên>.md`, `ban-dich/`,
+`00-gioi-thieu.md`, `README.md`, `HUONG-DAN-DICH.md`, đã qua `kiem-tra-marker.py` và `ra-soat.py`.
 
-Mỗi bài đều có: `Kinh-<Tên>.md` (bản ghép), `ban-dich/` (bản dịch theo đoạn), `00-gioi-thieu.md`,
-`README.md`, `HUONG-DAN-DICH.md`; và đã qua `kiem-tra-marker.py` + `ra-soat.py`.
+## Còn lại: 2 bài
 
-## Còn lại: 30 bài
+69 (Gulissāni), 73 (Đại kinh Vacchagotta).
 
-11, 14, 15, 16, 51, 52, 59, 67, 69, 73, 76, 112, 113, 114, 115, 116, 120, 123, 124, 126,
-127, 128, 132, 133, 134, 138, 145, 149, 150, 151.
+## Việc cuối cùng sau khi dịch xong 2 bài
 
-## Bài kế tiếp (chia đợt cho phiên sau)
-
-Đợt 1: 112, 113, 116, 120, 123, 124
-Đợt 2: 126, 127, 128, 132, 133, 134
-Đợt 3: 138, 145, 149, 150, 151, 11
-Đợt 4: 14, 15, 16, 51, 52, 59
-Đợt 5: 67, 69, 73, 76
-
-Sau đó chạy `cong-cu/tao-muc-luc-goc.py` và `cong-cu/ra-soat-toan-bo.py`, rồi viết bài tổng kết.
+1. `python3 cong-cu/tao-muc-luc-goc.py` — cập nhật bảng 152 dòng và dòng trạng thái README.
+2. `python3 cong-cu/ra-soat-toan-bo.py` — phải in `TONG VAN DE: 0`.
+3. Đọc lại README gốc, thêm mục tổng kết (số bài, số từ, cách dùng repo).
+4. Commit cuối và push.
 
 ## Quy trình một bài
 

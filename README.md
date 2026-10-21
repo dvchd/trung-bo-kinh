@@ -135,7 +135,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 56 | [Kinh Upāli](056-kinh-upali/Kinh-Upali.md) | *Upāli* | ✅ |
 | 57 | [Kinh Thực Hành Chó](057-kinh-thuc-hanh-cho/Kinh-Thuc-Hanh-Cho.md) | *Kukkuravatika* | ✅ |
 | 58 | [Kinh Abhaya](058-kinh-abhaya/Kinh-Abhaya.md) | *Abhayarājakumāra* | ✅ |
-| 59 | Kinh Nhiều Loại Cảm Thọ | *Bahuvedanīya* | — |
+| 59 | [Kinh Nhiều Loại Cảm Thọ](059-kinh-nhieu-loai-cam-tho/Kinh-Nhieu-Loai-Cam-Tho.md) | *Bahuvedanīya* | ✅ |
 | 60 | [Kinh Không Thể Tranh Cãi](060-kinh-khong-the-tranh-cai/Kinh-Khong-The-Tranh-Cai.md) | *Apaṇṇaka* | ✅ |
 | 61 | [Kinh Dạy Rāhula](061-kinh-day-rahula/Kinh-Day-Rahula.md) | *Rāhulovāda* | ✅ |
 | 62 | [Đại Kinh Dạy Rāhula](062-kinh-dai-day-rahula/Kinh-Dai-Day-Rahula.md) | *Mahārāhulovāda* | ✅ |
@@ -143,7 +143,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 64 | [Đại Kinh Māluṅkya](064-kinh-dai-malunkya/Kinh-Dai-Malunkya.md) | *Mahāmālukya* | ✅ |
 | 65 | [Kinh Bhaddāli](065-kinh-bhaddali/Kinh-Bhaddali.md) | *Bhaddāli* | ✅ |
 | 66 | [Kinh Ví Dụ Con Chim Cút](066-kinh-vi-du-con-chim-cut/Kinh-Vi-Du-Con-Chim-Cut.md) | *Laṭukikopama* | ✅ |
-| 67 | Kinh Cātumā | *Cātuma* | — |
+| 67 | [Kinh Cātumā](067-kinh-catuma/Kinh-Catuma.md) | *Cātuma* | ✅ |
 | 68 | [Kinh Naḷakapāna](068-kinh-nalakapana/Kinh-Nalakapana.md) | *Naḷakapāna* | ✅ |
 | 69 | Kinh Gulissāni | *Gulissāni* | — |
 | 70 | [Kinh Kīṭāgiri](070-kinh-kitagiri/Kinh-Kitagiri.md) | *Kīṭāgiri* | ✅ |
@@ -152,7 +152,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 73 | Đại Kinh Vacchagotta | *Mahāvacchagotta* | — |
 | 74 | [Kinh Dīghanakha](074-kinh-dighanakha/Kinh-Dighanakha.md) | *Dīghanakha* | ✅ |
 | 75 | [Kinh Māgaṇḍiya](075-kinh-magandiya/Kinh-Magandiya.md) | *Māgaṇḍiya* | ✅ |
-| 76 | Kinh Sandaka | *Sandaka* | — |
+| 76 | [Kinh Sandaka](076-kinh-sandaka/Kinh-Sandaka.md) | *Sandaka* | ✅ |
 | 77 | [Đại Kinh Sakuludāyi](077-kinh-dai-sakuludayi/Kinh-Dai-Sakuludayi.md) | *Mahāsakuludāyi* | ✅ |
 | 78 | [Kinh Sa-môn Muṇḍika](078-kinh-sa-mon-mundika/Kinh-Sa-Mon-Mundika.md) | *Samaṇamuṇḍika* | ✅ |
 | 79 | [Tiểu Kinh Sakuludāyi](079-kinh-tieu-sakuludayi/Kinh-Tieu-Sakuludayi.md) | *Cūḷasakuludāyi* | ✅ |

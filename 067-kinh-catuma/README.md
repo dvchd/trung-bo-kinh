@@ -8,7 +8,15 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Bài kinh mở đầu tại Cātumā, nơi khoảng năm trăm tỳ-kheo do Sāriputta và Moggallāna dẫn đầu vừa
+đến yết kiến Đức Thế Tôn. Vì chào hỏi, sắp xếp chỗ ở và cất bát y mà các vị làm ồn quá mức, nên
+Đức Thế Tôn quở ví như người đánh cá đang kéo một mẻ cá, rồi giải tán cả Tăng đoàn. Người Sākya ở
+Cātumā cùng Phạm Thiên Sahampati xin Ngài nhận lại, lấy hình ảnh hạt giống non thiếu nước và con
+bê non xa mẹ để nói về những tỳ-kheo mới xuất gia; Ngài bằng lòng, và sau đó còn hỏi riêng
+Sāriputta, Moggallāna xem các vị đã nghĩ gì khi bị giải tán. Phần cuối bài là bài giảng về bốn mối
+nguy khi bước xuống nước — sóng, cá sấu, xoáy nước, cá mập — lần lượt được giải thích là giận dữ,
+tham ăn, năm dục lạc và người nữ, mỗi mối kể bằng câu chuyện một người bỏ sự học tập trở về đời
+sống cũ. Bài kinh khép lại bằng lời hoan hỷ, tán thán của các tỳ-kheo.
 
 ## Con số
 
@@ -20,7 +28,13 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`ban-dich/00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người chưa học Phật |
+| [`ban-dich/00-title.md`](ban-dich/00-title.md) | Nhan đề bài kinh |
+| [`ban-dich/01-phan-1.md`](ban-dich/01-phan-1.md) | Bối cảnh tại Cātumā; tiếng ồn của Tăng đoàn và lời giải tán; người Sākya và Phạm Thiên Sahampati thỉnh cầu |
+| [`ban-dich/02-phan-2.md`](ban-dich/02-phan-2.md) | Tăng đoàn trở về; Đức Thế Tôn hỏi Sāriputta và Moggallāna; bốn mối nguy khi xuống nước, phần sóng và cá sấu |
+| [`ban-dich/03-phan-3.md`](ban-dich/03-phan-3.md) | Phần xoáy nước và cá mập; kết kinh |
 
 ## Cách đọc và góp ý
 
