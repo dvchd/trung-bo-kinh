@@ -65,10 +65,10 @@ Nhưng bạch Thế Tôn, một tỳ-kheo phải như thế nào thì mới xứ
 Này Ānanda, ở đây một tỳ-kheo hiểu rõ như vầy:
 
 <!-- seg: mn115:11.3 -->
-'Khi cái này có mặt, cái này có mặt; do cái này sinh khởi, cái này sinh khởi.
+'Khi cái này có mặt, cái này có mặt; từ sự sinh khởi của cái này, cái này sinh khởi.
 
 <!-- seg: mn115:11.4 -->
-Khi cái này không có mặt, cái này không có mặt; do cái này diệt, cái này diệt, đó là:
+Khi cái này không có mặt, cái này không có mặt; từ sự diệt của cái này, cái này diệt, đó là:
 
 <!-- seg: mn115:11.5 -->
 do duyên vô minh, hành sinh khởi;
@@ -107,7 +107,7 @@ do duyên sinh, già chết, sầu, bi, khổ, ưu, não sinh khởi.
 Như vậy là sự tập khởi của toàn bộ khối khổ này.
 
 <!-- seg: mn115:11.17 -->
-Nhưng chính nhờ vô minh ly tham và diệt tận, không còn sót lại, nên hành diệt;
+Nhưng chính nhờ vô minh được ly tham và diệt tận, không còn sót lại, nên hành diệt;
 
 <!-- seg: mn115:11.18 -->
 do hành diệt nên thức diệt;

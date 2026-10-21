@@ -84,12 +84,12 @@ Rồi Tôn giả Sāriputta đi đến chỗ Đức Thế Tôn; đến rồi, đ
 [Chú thích: Tên làng này có nhiều cách viết khác nhau trong các bản, và dường như không xuất hiện ở chỗ nào khác.]
 
 <!-- seg: mn144:13.6 -->
-Ở đó, Tôn giả Channa có những gia đình là bạn hữu, thân thiết, thường lui tới."
+Ở đó, Tôn giả Channa có những gia đình bạn hữu, thân thiết, thường lui tới."
 
 [Chú thích: Chữ upavajja ở đây chơi chữ: nó vừa có nghĩa "đáng chê trách", vừa có nghĩa "thường lui tới thăm viếng". Chú giải hiểu theo nghĩa sau, còn Đức Thế Tôn ở đoạn dưới dùng nó theo nghĩa trước.]
 
 <!-- seg: mn144:13.7 -->
-"Này Sāriputta, tỳ-kheo Channa quả thật có những gia đình là bạn hữu, thân thiết, thường lui tới.
+"Này Sāriputta, tỳ-kheo Channa quả thật có những gia đình bạn hữu, thân thiết, thường lui tới.
 
 <!-- seg: mn144:13.8 -->
 Này Sāriputta, chỉ chừng ấy thì Ta không gọi là 'đáng chê trách'.

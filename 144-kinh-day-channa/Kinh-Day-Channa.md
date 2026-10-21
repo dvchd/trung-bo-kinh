@@ -6,7 +6,7 @@
 
 Mở đầu, Tôn giả Sāriputta và Tôn giả Mahācunda đến thăm người bạn đồng tu đang bệnh. Lời hỏi thăm của Sāriputta theo đúng khuôn mẫu quen thuộc của kinh điển: ông có chịu đựng nổi không, cơn đau có đang giảm đi hay đang tăng lên? Câu trả lời của Channa là bốn hình ảnh rất cụ thể về cơn đau: như có người khoan mũi nhọn bén vào đỉnh đầu, như có ai siết một mảnh da bò dai quanh đầu, như có người đồ tể rạch toạc cái bụng, như bị hai người khỏe nắm lấy hai cánh tay mà nướng trên hố than hồng. Ông nói rằng mình không còn chịu đựng nổi, và sẽ lấy dao kết liễu đời mình.
 
-Hai vị kia cố ngăn lại. Các vị ngỏ ý tìm thức ăn thích hợp, thuốc thích hợp và người chăm sóc cho ông. Channa đáp rằng mình không thiếu thứ nào trong ba thứ ấy. Điều ông muốn nói lại là chuyện khác: bao lâu nay ông đã phụng sự bậc Đạo sư với lòng tôn kính, chứ không phải bằng sự miễn cưỡng, và ông muốn Sāriputta ghi nhận một điều, rằng tỳ-kheo Channa sẽ ra đi mà không đáng chê trách.
+Hai vị kia cố ngăn lại. Các vị ngỏ ý tìm thức ăn thích hợp, thuốc thích hợp và người chăm sóc cho ông. Channa đáp rằng mình không thiếu thứ nào trong ba thứ ấy. Điều ông muốn nói thì lại là chuyện khác: bao lâu nay ông đã phụng sự bậc Đạo sư với lòng tôn kính, chứ không phải bằng sự miễn cưỡng, và ông muốn Sāriputta ghi nhận một điều, rằng tỳ-kheo Channa sẽ ra đi mà không đáng chê trách.
 
 Rồi Sāriputta hỏi ông một câu về giáo pháp. Vị ấy hỏi Channa có quán mắt, tai, mũi, lưỡi, thân, ý và những gì được nhận biết qua chúng là "cái này là của tôi, tôi là cái này, cái này là tự ngã của tôi" không. Channa đáp là không: ông quán chúng là "cái này không phải là của tôi, tôi không phải là cái này, cái này không phải là tự ngã của tôi". Sāriputta hỏi tiếp: ông đã thấy gì, đã biết trực tiếp gì mà quán như vậy? Câu trả lời là: ông đã thấy sự chấm dứt, đã biết trực tiếp sự chấm dứt nơi những pháp ấy.
 
@@ -279,12 +279,12 @@ Rồi Tôn giả Sāriputta đi đến chỗ Đức Thế Tôn; đến rồi, đ
 [Chú thích: Tên làng này có nhiều cách viết khác nhau trong các bản, và dường như không xuất hiện ở chỗ nào khác.]
 
 <!-- seg: mn144:13.6 -->
-Ở đó, Tôn giả Channa có những gia đình là bạn hữu, thân thiết, thường lui tới."
+Ở đó, Tôn giả Channa có những gia đình bạn hữu, thân thiết, thường lui tới."
 
 [Chú thích: Chữ upavajja ở đây chơi chữ: nó vừa có nghĩa "đáng chê trách", vừa có nghĩa "thường lui tới thăm viếng". Chú giải hiểu theo nghĩa sau, còn Đức Thế Tôn ở đoạn dưới dùng nó theo nghĩa trước.]
 
 <!-- seg: mn144:13.7 -->
-"Này Sāriputta, tỳ-kheo Channa quả thật có những gia đình là bạn hữu, thân thiết, thường lui tới.
+"Này Sāriputta, tỳ-kheo Channa quả thật có những gia đình bạn hữu, thân thiết, thường lui tới.
 
 <!-- seg: mn144:13.8 -->
 Này Sāriputta, chỉ chừng ấy thì Ta không gọi là 'đáng chê trách'.

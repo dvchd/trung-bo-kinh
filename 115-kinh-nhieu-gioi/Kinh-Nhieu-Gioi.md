@@ -6,13 +6,13 @@ Bài kinh này là bài thứ 115 trong Trung Bộ Kinh, tên Pali là *Bahudhā
 
 Bài mở đầu bằng một câu nghe như châm ngôn: bất cứ hiểm họa nào sinh khởi, tất cả đều sinh khởi từ kẻ ngu, không phải từ người trí. Rồi Đức Thế Tôn đưa một hình ảnh rất cụ thể: một ngọn lửa bùng lên từ căn nhà tranh, từ căn nhà cỏ, rồi đốt cháy luôn cả tòa nhà lớn trát trong trát ngoài, kín gió, then cửa đã cài. Tòa nhà kiên cố ấy không tự bốc cháy; nó cháy vì ngọn lửa đến từ chỗ ọp ẹp bên cạnh. Cũng vậy, điều nguy hiểm không nằm ở người hiểu biết mà ở chỗ thiếu hiểu biết, và cái thiếu ấy lan từ người này sang cảnh vật, cả cộng đồng xung quanh. Cuối đoạn, Đức Thế Tôn rút ra một lời khuyên ngắn: các ông hãy học tập để trở thành người trí, thành bậc thẩm xét.
 
-Từ đó Ānanda lần lượt hỏi: thế nào là một tỳ-kheo "thiện xảo về giới", "thiện xảo về xứ", "thiện xảo về duyên khởi", "thiện xảo về điều có thể và điều không thể". Bốn câu hỏi ấy là bốn vòng của bài kinh, và cũng là bốn tên gọi mà Đức Thế Tôn gợi ý ở cuối bài. Phần về giới lại chia thành năm cách đếm khác nhau: mười tám giới, sáu giới, sáu giới khác, ba giới, hai giới. Thoạt nhìn, các danh sách ấy có vẻ chồng chéo. Nhưng chính chỗ chồng chéo là điều cần thấy: cùng một dòng kinh nghiệm có thể được cắt theo nhiều cách, và mỗi cách cắt làm nổi lên một phương diện mà cách khác che khuất. Mười tám giới là sáu cửa giác quan nhân với ba (cơ quan, đối tượng, cái biết); sáu giới là đất, nước, lửa, gió, không gian và thức; sáu giới cảm thọ là lạc, khổ, hỷ, ưu, xả và vô minh; sáu giới tâm là dục và xuất ly, sân và không sân, não hại và không não hại; ba giới là ba tầng đời sống; hai giới là cái được điều kiện tạo thành và cái không được điều kiện tạo thành.
+Từ đó Ānanda lần lượt hỏi: thế nào là một tỳ-kheo "thiện xảo về giới", "thiện xảo về xứ", "thiện xảo về duyên khởi", "thiện xảo về điều có thể và điều không thể". Bốn câu hỏi ấy là bốn vòng của bài kinh, và "Bốn Vòng" là một trong năm tên gọi mà Đức Thế Tôn gợi ý ở cuối bài. Phần về giới lại chia thành năm cách đếm khác nhau: mười tám giới, sáu giới, sáu giới khác, ba giới, hai giới. Thoạt nhìn, các danh sách ấy có vẻ chồng chéo. Nhưng chính chỗ chồng chéo là điều cần thấy: cùng một dòng kinh nghiệm có thể được cắt theo nhiều cách, và mỗi cách cắt làm nổi lên một phương diện mà cách khác che khuất. Mười tám giới là sáu cửa giác quan nhân với ba (cơ quan, đối tượng, cái biết); sáu giới là đất, nước, lửa, gió, không gian và thức; sáu giới cảm thọ là lạc, khổ, hỷ, ưu, xả và vô minh; sáu giới tâm là dục và xuất ly, sân và không sân, não hại và không não hại; ba giới là ba tầng đời sống; hai giới là cái được điều kiện tạo thành và cái không được điều kiện tạo thành.
 
 Phần về xứ nói đến mười hai xứ, tức sáu giác quan và sáu loại đối tượng của chúng. Phần về duyên khởi là chỗ sâu nhất: mười hai chi nối nhau từ vô minh đến già chết, sầu, bi, khổ, ưu, não, rồi được đọc ngược lại để cho thấy khi các điều kiện không còn thì cả chuỗi cũng chấm dứt. Cách trình bày ở đây không phải một câu chuyện về vũ trụ, mà là một chuỗi điều kiện có thể quan sát ngay nơi thân và tâm mình: vì không biết rõ nên tâm tạo tác, vì tạo tác nên có cái biết, vì có cái biết nên có thân và tâm, cho đến khi có cảm thọ, có tham ái, có bám víu, và rồi lại có sinh, có già, có chết. Đọc xuôi là đọc sự hình thành của khổ; đọc ngược là đọc sự chấm dứt của nó.
 
 Phần cuối, về điều có thể và điều không thể, là một danh sách dài những chuyện "không thể xảy ra". Có ba nhóm. Nhóm thứ nhất nói về những việc một người đã thành tựu kiến không thể làm: giết mẹ, giết cha, giết một bậc A-la-hán, làm chảy máu Như Lai, chia rẽ Tăng đoàn, nhận một bậc Đạo sư khác. Nhóm thứ hai nói về những bất khả của thế giới: hai vị Phật toàn giác không thể xuất hiện cùng lúc trong một hệ thế giới, hai vị Chuyển luân vương cũng vậy. Nhóm thứ ba là quy luật nhân quả: ác hạnh không thể cho quả ngọt, thiện hạnh không thể cho quả đắng, và một người không thể vì chính nghiệp ác của mình mà sinh lên cõi lành. Trong nhóm thứ hai có một đoạn nói rằng người nữ không thể là bậc Chánh đẳng giác, không thể là Chuyển luân vương, không thể giữ địa vị Sakka, Māra hay Phạm Thiên. Bản Hán tương đương của bài kinh này không có đoạn ấy, nên rất có thể đây là phần được thêm vào sau; và điều đáng nói là đoạn ấy không liên quan đến khả năng giải thoát, vì người nữ vẫn chứng quả A-la-hán như bao người khác. Bài kinh khép lại bằng năm tên gọi mà Đức Thế Tôn cho phép dùng để ghi nhớ: Nhiều Giới, Bốn Vòng, Tấm Gương Pháp, Trống Bất Tử, Chiến Thắng Tối Thượng.
 
-Người đọc hôm nay có thể hỏi: một bài kinh toàn danh sách như thế thì ích gì? Câu trả lời nằm ở chữ "thiện xảo". Bài kinh không đòi người ta tin vào mười tám giới hay mười hai chi duyên khởi như một bản đồ siêu hình, mà đòi một kỹ năng: nhìn một cơn giận, một niềm vui, một ý nghĩ vừa nảy ra, và thấy đó là một thành tố đang sinh khởi do điều kiện, chứ không phải "tôi". Khi kinh nghiệm được nhìn như vậy, nó bớt đặc, bớt bền, và bớt là của mình. Đó là lý do bài kinh có tên "Tấm Gương Pháp": người ta soi vào đây để thấy chính mình, chứ không phải để thuộc lòng. Nếu muốn đọc trước, hãy bắt đầu từ đoạn mở về ngọn lửa và căn nhà tranh, rồi đi thẳng đến phần bốn vòng; phần duyên khởi nên đọc chậm, còn phần điều có thể và không thể có thể đọc như một bản tóm những gì không còn xảy ra khi cái thấy đã trong.
+Người đọc hôm nay có thể hỏi: một bài kinh toàn danh sách như thế thì ích gì? Câu trả lời nằm ở chữ "thiện xảo". Bài kinh không đòi người ta tin vào mười tám giới hay mười hai chi duyên khởi như một bản đồ siêu hình, mà đòi một kỹ năng: nhìn một cơn giận, một niềm vui, một ý nghĩ vừa nảy ra, và thấy đó là một thành tố đang sinh khởi do điều kiện, chứ không phải "tôi". Khi kinh nghiệm được nhìn như vậy, nó bớt đặc, bớt bền, và bớt là của mình. Đó là lý do bài kinh có tên "Tấm Gương Pháp": người ta soi vào đây để thấy chính mình, chứ không phải để thuộc lòng. Nếu muốn đọc trước, hãy bắt đầu từ đoạn mở về ngọn lửa và căn nhà tranh, rồi đi thẳng đến phần bốn vòng; phần duyên khởi nên đọc chậm, còn phần về điều có thể và điều không thể thì đọc như một bản tóm những gì không còn xảy ra khi cái thấy đã trong.
 
 ---
 
@@ -56,7 +56,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 <!-- seg: mn115:2.1 -->
 Này các tỳ-kheo, bất cứ hiểm họa nào sinh khởi, tất cả đều sinh khởi từ kẻ ngu, không phải từ người trí.
 
-[Chú thích: *Paṇḍita* thường chỉ người học rộng, chứ không hẳn là bậc hiền triết sống đời tu hành. Tiếng Pali có nhiều từ chỉ người khôn ngoan hơn tiếng Việt, và các nghĩa ấy không dễ phân biệt. Ở đây chữ này chỉ người tinh ý, biết quan sát và xét đoán đúng.]
+[Chú thích: *Paṇḍita* thường chỉ người học rộng, chứ không hẳn là bậc hiền triết sống đời tu hành. Tiếng Pali có rất nhiều từ chỉ người khôn ngoan, và các nghĩa ấy không dễ phân biệt. Ở đây chữ này chỉ người tinh ý, biết quan sát và xét đoán đúng.]
 
 <!-- seg: mn115:2.2 -->
 Bất cứ tai họa nào sinh khởi, tất cả đều sinh khởi từ kẻ ngu, không phải từ người trí.
@@ -89,7 +89,7 @@ Kẻ ngu thì mang tai ương, người trí thì không mang tai ương.
 Này các tỳ-kheo, không có hiểm họa nào đến từ người trí, không có tai họa nào đến từ người trí, không có tai ương nào đến từ người trí.
 
 <!-- seg: mn115:2.12 -->
-Vậy nên, này các tỳ-kheo, các ông hãy học tập như vầy: 'Chúng ta sẽ là những người trí, sẽ là những bậc thẩm xét.'
+Vậy nên, này các tỳ-kheo: 'Chúng ta sẽ là những người trí, sẽ là những bậc thẩm xét.'
 
 <!-- seg: mn115:2.13 -->
 Chính vì thế, này các tỳ-kheo, các ông phải học tập như vậy.
@@ -98,7 +98,7 @@ Chính vì thế, này các tỳ-kheo, các ông phải học tập như vậy.
 Khi Ngài nói như vậy, Tôn giả Ānanda (A-nan) bạch Đức Thế Tôn:
 
 <!-- seg: mn115:3.2 -->
-Bạch Thế Tôn, một tỳ-kheo phải như thế nào thì mới xứng đáng được gọi là 'bậc trí, bậc thẩm xét'?
+Bạch Thế Tôn, một tỳ-kheo phải như thế nào thì mới xứng đáng được gọi là 'người trí, bậc thẩm xét'?
 
 [Chú thích: Hãy để ý cách làm khác nhau của Ānanda và Sāriputta trong bài kinh trước. Sāriputta tiếp nhận lời dạy rồi tự triển khai, còn Ānanda dùng câu hỏi để chính Đức Thế Tôn nói tiếp.]
 
@@ -106,7 +106,7 @@ Bạch Thế Tôn, một tỳ-kheo phải như thế nào thì mới xứng đá
 Này Ānanda, khi một tỳ-kheo thiện xảo về giới, thiện xảo về xứ, thiện xảo về duyên khởi và thiện xảo về điều có thể và điều không thể—
 
 <!-- seg: mn115:3.4 -->
-thì chỉ bấy nhiêu đó, này Ānanda, một tỳ-kheo đã xứng đáng được gọi là 'bậc trí, bậc thẩm xét'.
+thì chỉ bấy nhiêu đó, này Ānanda, một tỳ-kheo đã xứng đáng được gọi là 'người trí, bậc thẩm xét'.
 
 <!-- seg: mn115:4.1 -->
 Nhưng bạch Thế Tôn, một tỳ-kheo phải như thế nào thì mới xứng đáng được gọi là 'tỳ-kheo thiện xảo về giới'?
@@ -266,10 +266,10 @@ Nhưng bạch Thế Tôn, một tỳ-kheo phải như thế nào thì mới xứ
 Này Ānanda, ở đây một tỳ-kheo hiểu rõ như vầy:
 
 <!-- seg: mn115:11.3 -->
-'Khi cái này có mặt, cái này có mặt; do cái này sinh khởi, cái này sinh khởi.
+'Khi cái này có mặt, cái này có mặt; từ sự sinh khởi của cái này, cái này sinh khởi.
 
 <!-- seg: mn115:11.4 -->
-Khi cái này không có mặt, cái này không có mặt; do cái này diệt, cái này diệt, đó là:
+Khi cái này không có mặt, cái này không có mặt; từ sự diệt của cái này, cái này diệt, đó là:
 
 <!-- seg: mn115:11.5 -->
 do duyên vô minh, hành sinh khởi;
@@ -308,7 +308,7 @@ do duyên sinh, già chết, sầu, bi, khổ, ưu, não sinh khởi.
 Như vậy là sự tập khởi của toàn bộ khối khổ này.
 
 <!-- seg: mn115:11.17 -->
-Nhưng chính nhờ vô minh ly tham và diệt tận, không còn sót lại, nên hành diệt;
+Nhưng chính nhờ vô minh được ly tham và diệt tận, không còn sót lại, nên hành diệt;
 
 <!-- seg: mn115:11.18 -->
 do hành diệt nên thức diệt;
@@ -440,7 +440,7 @@ Vị ấy hiểu rằng: 'Nhưng điều ấy có thể có, có cơ hội: mộ
 <!-- seg: mn115:15.5 -->
 Vị ấy hiểu rằng: 'Điều ấy không thể có, không có cơ hội nào: một người nữ lại giữ địa vị Sakka. Điều ấy không thể xảy ra.' Vị ấy hiểu rằng: 'Điều ấy không thể có, không có cơ hội nào: một người nữ lại giữ địa vị Māra. Điều ấy không thể xảy ra.' Vị ấy hiểu rằng: 'Điều ấy không thể có, không có cơ hội nào: một người nữ lại giữ địa vị Phạm Thiên. Điều ấy không thể xảy ra.'
 
-[Chú thích: Các vị trời này tuy được gặp như những cá nhân, nhưng được hiểu là những chức vị, ngôi vị lãnh đạo cõi của mình. Thí dụ, Moggallāna nói rằng trong một đời quá khứ ông từng làm Māra (MN 50:8.1).]
+[Chú thích: Các vị trời này tuy hiện ra như những cá nhân, nhưng được hiểu là những chức vị, ngôi vị lãnh đạo cõi của mình. Thí dụ, Moggallāna nói rằng trong một đời quá khứ ông từng làm Māra (MN 50:8.1).]
 
 <!-- seg: mn115:15.6 -->
 Vị ấy hiểu rằng: 'Nhưng điều ấy có thể có, có cơ hội: một người nam lại giữ địa vị Sakka. Điều ấy có thể xảy ra.' Vị ấy hiểu rằng: 'Nhưng điều ấy có thể có, có cơ hội: một người nam lại giữ địa vị Māra. Điều ấy có thể xảy ra.' Vị ấy hiểu rằng: 'Nhưng điều ấy có thể có, có cơ hội: một người nam lại giữ địa vị Phạm Thiên. Điều ấy có thể xảy ra.'

@@ -72,7 +72,7 @@ Rồi Đức Thế Tôn, biết thanh niên Uttara, học trò của Pārāsiviy
 <!-- seg: mn152:4.2 -->
 Ở đây, này Ānanda, khi một tỳ-kheo dùng mắt thấy sắc, nơi vị ấy sinh khởi cái khả ý, sinh khởi cái bất khả ý, sinh khởi cái vừa khả ý vừa bất khả ý.
 
-[Chú thích của người dịch: "Khả ý" là cái làm tâm ưa thích, "bất khả ý" là cái làm tâm khó chịu. Cặp này lặp suốt bài kinh, luôn đặt đối lập với "xả".]
+[Chú thích của người dịch: "Khả ý" là cái làm tâm ưa thích, "bất khả ý" là cái làm tâm khó chịu. Cặp này lặp suốt bài kinh, và ở phần tu tập các căn tối thượng thì luôn được đặt đối lập với "xả".]
 
 <!-- seg: mn152:4.3 -->
 Vị ấy hiểu như vầy:
@@ -166,7 +166,7 @@ Rồi đối với vị ấy, cái khả ý đã sinh khởi, cái bất khả �
 xả được an lập.
 
 <!-- seg: mn152:6.9 -->
-Ví như, này Ānanda, những giọt nước rơi trên lá sen hơi nghiêng thì lăn đi, không đọng lại;
+Ví như, này Ānanda, những giọt nước trên lá sen hơi nghiêng thì lăn đi, không đọng lại;
 
 <!-- seg: mn152:6.10 -->
 cũng vậy, này Ānanda, với bất cứ ai, cái khả ý đã sinh khởi, cái bất khả ý đã sinh khởi, cái vừa khả ý vừa bất khả ý đã sinh khởi đều diệt mất nhanh chóng như vậy, mau lẹ như vậy, dễ dàng như vậy, và xả được an lập —
@@ -268,7 +268,7 @@ xả được an lập.
 Ví như, này Ānanda, một người khỏe mạnh thả hai hay ba giọt nước vào một cái chảo sắt đã được nung nóng cả ngày.
 
 <!-- seg: mn152:9.10 -->
-Các giọt nước ấy rơi xuống thì chậm, nhưng chúng sẽ nhanh chóng khô cạn và tiêu hết;
+Này Ānanda, các giọt nước ấy rơi xuống thì chậm, nhưng chúng sẽ nhanh chóng khô cạn và tiêu hết;
 
 <!-- seg: mn152:9.11 -->
 cũng vậy, này Ānanda, với bất cứ ai, cái khả ý đã sinh khởi, cái bất khả ý đã sinh khởi, cái vừa khả ý vừa bất khả ý đã sinh khởi đều diệt mất nhanh chóng như vậy, mau lẹ như vậy, dễ dàng như vậy, và xả được an lập —

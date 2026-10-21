@@ -4,7 +4,7 @@
 
 **Kinh Tu Tập Các Căn** (*Indriyabhāvanā Sutta*) là bài thứ 152, cũng là bài cuối cùng của **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Gajaṅgalā, một thị trấn ở vùng biên phía đông của vùng trung tâm Ấn Độ thời bấy giờ, trong một rừng tre. Người đến thăm Đức Thế Tôn hôm ấy không phải một vị xuất gia mà là Uttara, một thanh niên đang theo học với bà-la-môn Pārāsiviya — tức một vị thầy thuộc giai cấp bà-la-môn, giới trí thức tế lễ của Ấn Độ cổ.
 
-Đức Thế Tôn mở đầu bằng một câu hỏi lịch sự: thầy của ông có dạy học trò về sự tu tập các căn không? Uttara đáp là có. Và khi được hỏi dạy thế nào, ông trình bày: đó là khi mắt không thấy sắc, tai không nghe tiếng. Đức Thế Tôn chỉ ra ngay chỗ vô lý của lời ấy — nếu vậy thì người mù và người điếc đã có các căn được tu tập hoàn hảo từ lâu. Uttara không đáp được, ngồi im, rũ vai, cúi đầu. Cuộc đối thoại chấm dứt ở đó, nhưng chính nó mở ra phần dạy thật sự của bài kinh.
+Đức Thế Tôn mở đầu bằng một câu hỏi lịch sự: thầy của ông có dạy học trò về sự tu tập các căn không? Uttara đáp là có. Và khi được hỏi dạy thế nào, ông trình bày: đó là khi mắt không thấy sắc, tai không nghe tiếng. Đức Thế Tôn chỉ ra ngay chỗ vô lý của lời ấy — nếu vậy thì người mù và người điếc sẽ có các căn đã được tu tập hoàn hảo. Uttara không đáp được, ngồi im, rũ vai, cúi đầu. Cuộc đối thoại chấm dứt ở đó, nhưng chính nó mở ra phần dạy thật sự của bài kinh.
 
 Vậy "căn" ở đây là gì? Đó là sáu năng lực của mắt, tai, mũi, lưỡi, thân và ý — những gì cho phép ta thấy, nghe, ngửi, nếm, chạm và suy nghĩ. Và "tu tập" chúng, theo Đức Thế Tôn, không phải là làm cho chúng ngưng hoạt động, mà là thay đổi cách ta đối diện với những gì chúng mang đến. Khi mắt thấy một hình sắc, trong tâm lập tức khởi lên cái ưa, cái không ưa, hoặc lẫn lộn cả hai. Đó là chuyện tự nhiên, không phải lỗi của ai. Cái được tu tập là bước tiếp theo: nhận ra những phản ứng ấy vừa mới sinh, do điều kiện mà có, thô thiển và rồi sẽ mất; nhờ thấy vậy, chúng lắng xuống và tâm an trú trong xả — trạng thái không bị kéo về phía ưa hay ghét.
 
@@ -111,7 +111,7 @@ Rồi Đức Thế Tôn, biết thanh niên Uttara, học trò của Pārāsiviy
 <!-- seg: mn152:4.2 -->
 Ở đây, này Ānanda, khi một tỳ-kheo dùng mắt thấy sắc, nơi vị ấy sinh khởi cái khả ý, sinh khởi cái bất khả ý, sinh khởi cái vừa khả ý vừa bất khả ý.
 
-[Chú thích của người dịch: "Khả ý" là cái làm tâm ưa thích, "bất khả ý" là cái làm tâm khó chịu. Cặp này lặp suốt bài kinh, luôn đặt đối lập với "xả".]
+[Chú thích của người dịch: "Khả ý" là cái làm tâm ưa thích, "bất khả ý" là cái làm tâm khó chịu. Cặp này lặp suốt bài kinh, và ở phần tu tập các căn tối thượng thì luôn được đặt đối lập với "xả".]
 
 <!-- seg: mn152:4.3 -->
 Vị ấy hiểu như vầy:
@@ -205,7 +205,7 @@ Rồi đối với vị ấy, cái khả ý đã sinh khởi, cái bất khả �
 xả được an lập.
 
 <!-- seg: mn152:6.9 -->
-Ví như, này Ānanda, những giọt nước rơi trên lá sen hơi nghiêng thì lăn đi, không đọng lại;
+Ví như, này Ānanda, những giọt nước trên lá sen hơi nghiêng thì lăn đi, không đọng lại;
 
 <!-- seg: mn152:6.10 -->
 cũng vậy, này Ānanda, với bất cứ ai, cái khả ý đã sinh khởi, cái bất khả ý đã sinh khởi, cái vừa khả ý vừa bất khả ý đã sinh khởi đều diệt mất nhanh chóng như vậy, mau lẹ như vậy, dễ dàng như vậy, và xả được an lập —
@@ -307,7 +307,7 @@ xả được an lập.
 Ví như, này Ānanda, một người khỏe mạnh thả hai hay ba giọt nước vào một cái chảo sắt đã được nung nóng cả ngày.
 
 <!-- seg: mn152:9.10 -->
-Các giọt nước ấy rơi xuống thì chậm, nhưng chúng sẽ nhanh chóng khô cạn và tiêu hết;
+Này Ānanda, các giọt nước ấy rơi xuống thì chậm, nhưng chúng sẽ nhanh chóng khô cạn và tiêu hết;
 
 <!-- seg: mn152:9.11 -->
 cũng vậy, này Ānanda, với bất cứ ai, cái khả ý đã sinh khởi, cái bất khả ý đã sinh khởi, cái vừa khả ý vừa bất khả ý đã sinh khởi đều diệt mất nhanh chóng như vậy, mau lẹ như vậy, dễ dàng như vậy, và xả được an lập —

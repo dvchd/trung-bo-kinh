@@ -71,4 +71,4 @@ Này các tỳ-kheo, đó chính là điều Ta đã nói: "Ta sẽ giảng cho 
 Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn131:11.5 -->
-Bài thứ nhất của Kinh Một Đêm Lành đã hoàn tất.
+Kinh Một Đêm Lành, bài thứ nhất, đã hoàn tất.

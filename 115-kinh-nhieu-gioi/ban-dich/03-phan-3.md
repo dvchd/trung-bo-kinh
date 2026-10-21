@@ -77,7 +77,7 @@ Vị ấy hiểu rằng: 'Nhưng điều ấy có thể có, có cơ hội: mộ
 <!-- seg: mn115:15.5 -->
 Vị ấy hiểu rằng: 'Điều ấy không thể có, không có cơ hội nào: một người nữ lại giữ địa vị Sakka. Điều ấy không thể xảy ra.' Vị ấy hiểu rằng: 'Điều ấy không thể có, không có cơ hội nào: một người nữ lại giữ địa vị Māra. Điều ấy không thể xảy ra.' Vị ấy hiểu rằng: 'Điều ấy không thể có, không có cơ hội nào: một người nữ lại giữ địa vị Phạm Thiên. Điều ấy không thể xảy ra.'
 
-[Chú thích: Các vị trời này tuy được gặp như những cá nhân, nhưng được hiểu là những chức vị, ngôi vị lãnh đạo cõi của mình. Thí dụ, Moggallāna nói rằng trong một đời quá khứ ông từng làm Māra (MN 50:8.1).]
+[Chú thích: Các vị trời này tuy hiện ra như những cá nhân, nhưng được hiểu là những chức vị, ngôi vị lãnh đạo cõi của mình. Thí dụ, Moggallāna nói rằng trong một đời quá khứ ông từng làm Māra (MN 50:8.1).]
 
 <!-- seg: mn115:15.6 -->
 Vị ấy hiểu rằng: 'Nhưng điều ấy có thể có, có cơ hội: một người nam lại giữ địa vị Sakka. Điều ấy có thể xảy ra.' Vị ấy hiểu rằng: 'Nhưng điều ấy có thể có, có cơ hội: một người nam lại giữ địa vị Māra. Điều ấy có thể xảy ra.' Vị ấy hiểu rằng: 'Nhưng điều ấy có thể có, có cơ hội: một người nam lại giữ địa vị Phạm Thiên. Điều ấy có thể xảy ra.'

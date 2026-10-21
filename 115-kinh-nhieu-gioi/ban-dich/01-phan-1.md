@@ -19,7 +19,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 <!-- seg: mn115:2.1 -->
 Này các tỳ-kheo, bất cứ hiểm họa nào sinh khởi, tất cả đều sinh khởi từ kẻ ngu, không phải từ người trí.
 
-[Chú thích: *Paṇḍita* thường chỉ người học rộng, chứ không hẳn là bậc hiền triết sống đời tu hành. Tiếng Pali có nhiều từ chỉ người khôn ngoan hơn tiếng Việt, và các nghĩa ấy không dễ phân biệt. Ở đây chữ này chỉ người tinh ý, biết quan sát và xét đoán đúng.]
+[Chú thích: *Paṇḍita* thường chỉ người học rộng, chứ không hẳn là bậc hiền triết sống đời tu hành. Tiếng Pali có rất nhiều từ chỉ người khôn ngoan, và các nghĩa ấy không dễ phân biệt. Ở đây chữ này chỉ người tinh ý, biết quan sát và xét đoán đúng.]
 
 <!-- seg: mn115:2.2 -->
 Bất cứ tai họa nào sinh khởi, tất cả đều sinh khởi từ kẻ ngu, không phải từ người trí.
@@ -52,7 +52,7 @@ Kẻ ngu thì mang tai ương, người trí thì không mang tai ương.
 Này các tỳ-kheo, không có hiểm họa nào đến từ người trí, không có tai họa nào đến từ người trí, không có tai ương nào đến từ người trí.
 
 <!-- seg: mn115:2.12 -->
-Vậy nên, này các tỳ-kheo, các ông hãy học tập như vầy: 'Chúng ta sẽ là những người trí, sẽ là những bậc thẩm xét.'
+Vậy nên, này các tỳ-kheo: 'Chúng ta sẽ là những người trí, sẽ là những bậc thẩm xét.'
 
 <!-- seg: mn115:2.13 -->
 Chính vì thế, này các tỳ-kheo, các ông phải học tập như vậy.
@@ -61,7 +61,7 @@ Chính vì thế, này các tỳ-kheo, các ông phải học tập như vậy.
 Khi Ngài nói như vậy, Tôn giả Ānanda (A-nan) bạch Đức Thế Tôn:
 
 <!-- seg: mn115:3.2 -->
-Bạch Thế Tôn, một tỳ-kheo phải như thế nào thì mới xứng đáng được gọi là 'bậc trí, bậc thẩm xét'?
+Bạch Thế Tôn, một tỳ-kheo phải như thế nào thì mới xứng đáng được gọi là 'người trí, bậc thẩm xét'?
 
 [Chú thích: Hãy để ý cách làm khác nhau của Ānanda và Sāriputta trong bài kinh trước. Sāriputta tiếp nhận lời dạy rồi tự triển khai, còn Ānanda dùng câu hỏi để chính Đức Thế Tôn nói tiếp.]
 
@@ -69,7 +69,7 @@ Bạch Thế Tôn, một tỳ-kheo phải như thế nào thì mới xứng đá
 Này Ānanda, khi một tỳ-kheo thiện xảo về giới, thiện xảo về xứ, thiện xảo về duyên khởi và thiện xảo về điều có thể và điều không thể—
 
 <!-- seg: mn115:3.4 -->
-thì chỉ bấy nhiêu đó, này Ānanda, một tỳ-kheo đã xứng đáng được gọi là 'bậc trí, bậc thẩm xét'.
+thì chỉ bấy nhiêu đó, này Ānanda, một tỳ-kheo đã xứng đáng được gọi là 'người trí, bậc thẩm xét'.
 
 <!-- seg: mn115:4.1 -->
 Nhưng bạch Thế Tôn, một tỳ-kheo phải như thế nào thì mới xứng đáng được gọi là 'tỳ-kheo thiện xảo về giới'?

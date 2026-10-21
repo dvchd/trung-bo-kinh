@@ -43,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh khắc họa Bākula như một mẫu mực khổ hạnh vượt xa mức thông thường của kinh điển sơ kỳ. Chú giải cho rằng các vị trưởng lão đã thêm bài này vào kỳ kết tập lần thứ hai, khoảng một trăm năm sau khi Đức Thế Tôn nhập diệt; điều ấy phù hợp với việc bài kinh không nói Đức Thế Tôn trú ở đâu và với tuổi đã rất cao của Bākula. Các bài kệ của Ngài trong Trưởng Lão Tăng Kệ thì giản dị, không nặng sự khổ hạnh như ở đây.]
 
 <!-- seg: mn124:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
+Một thuở nọ, Tôn giả Bākula (Bạc-câu-la) trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn124:2.1 -->
 Rồi du sĩ lõa thể Kassapa (Ca-diếp), bạn cũ thời còn tại gia của Tôn giả Bākula, đi đến chỗ Tôn giả Bākula. Đến nơi, ông ta chào hỏi thân tình với Tôn giả.
@@ -51,7 +51,7 @@ Rồi du sĩ lõa thể Kassapa (Ca-diếp), bạn cũ thời còn tại gia c�
 [Chú thích: Cụm từ 'bạn cũ thời còn tại gia' chỉ xuất hiện ở đây và ở SN 41.9, nơi cũng có một du sĩ lõa thể tên Kassapa, nên khó là chuyện trùng hợp. Ở bài ấy, ông ta là bạn cũ của gia chủ Citta và là người bị hỏi chuyện. Các sự kiện trong bài này xảy ra nhiều thập niên sau khi Đức Thế Tôn nhập diệt, nên có lẽ Kassapa được đưa vào để làm người đối đáp quen thuộc.]
 
 <!-- seg: mn124:2.2 -->
-Sau khi chào hỏi và nói với nhau những lời thăm hỏi xã giao, ông ta ngồi xuống một bên. Ngồi xuống một bên rồi, du sĩ lõa thể Kassapa nói với Tôn giả Bākula:
+Sau khi chào hỏi và nói với nhau vài lời xã giao, ông ta ngồi xuống một bên. Ngồi xuống một bên rồi, du sĩ lõa thể Kassapa nói với Tôn giả Bākula:
 
 <!-- seg: mn124:3.1 -->
 "Này Tôn giả Bākula, Ngài xuất gia đã bao lâu rồi?"
@@ -74,10 +74,10 @@ Sau khi chào hỏi và nói với nhau những lời thăm hỏi xã giao, ông
 "Mà ông nên hỏi tôi như vầy:
 
 <!-- seg: mn124:3.7 -->
-'Trong tám mươi năm ấy, này Tôn giả Bākula, đã bao nhiêu lần dục tưởng khởi lên trong Ngài?'"
+'Nhưng trong tám mươi năm ấy, này Tôn giả Bākula, đã bao nhiêu lần dục tưởng khởi lên trong Ngài?'"
 
 <!-- seg: mn124:3.8 -->
-"Trong tám mươi năm ấy, này Tôn giả Bākula, đã bao nhiêu lần dục tưởng khởi lên trong Ngài?"
+"Nhưng trong tám mươi năm ấy, này Tôn giả Bākula, đã bao nhiêu lần dục tưởng khởi lên trong Ngài?"
 
 [Chú thích: Câu này được lặp lại trong bản PTS và bản BJT, nhưng không có trong bản Miến Điện và bản Xiêm.]
 
@@ -139,7 +139,7 @@ Suốt tám mươi năm, Tôn giả Bākula không nhớ đã cắt y bằng dao
 "Suốt tám mươi năm xuất gia, này Kassapa, tôi không nhớ đã khâu y trong dịp lễ dâng y kaṭhina."
 
 <!-- seg: mn124:11-15.4 -->
-"Suốt tám mươi năm xuất gia, này Kassapa, tôi không nhớ đã đi lại lo việc may y cho các bạn đồng tu."
+"Suốt tám mươi năm xuất gia, này Kassapa, tôi không nhớ đã đi đó đi đây lo việc may y cho các bạn đồng tu."
 
 [Chú thích: Trường hợp này được bàn trong giới điều Pācittiya 46 của tỳ-kheo, vốn cấm ghé nhà người khác trên đường đến chỗ thọ trai; nhưng có ngoại lệ riêng cho mùa dâng y và may y.]
 
