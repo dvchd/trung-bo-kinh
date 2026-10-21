@@ -10,7 +10,7 @@ Phần cốt lõi phân biệt hai loại phản ứng. Một niềm vui "gắn 
 
 Cùng một cách, nỗi buồn và sự bình thản cũng có hai tầng. Ngay cả nỗi buồn "gắn với sự xuất ly" — nỗi mong mỏi được tự do như các bậc Thánh — cũng là một cảm giác còn phải vượt qua. Cuối cùng, ngay cả sự bình thản đồng nhất của các tầng thiền định cao cũng được thay bằng một thái độ không còn đồng nhất mình với bất cứ thứ gì.
 
-Nửa sau bài kinh chuyển sang hình ảnh người thầy. Ba trường hợp được nêu: học trò không nghe, nghe một nửa, nghe hết. Trong cả ba, vị thầy vẫn không vui quá, không buồn quá, giữ chánh niệm và sự bình thản. Rồi Đức Thế Tôn so sánh: người dạy voi, dạy ngựa, dạy bò chỉ dẫn con vật chạy về một hướng; còn Ngài dẫn người đi theo tám hướng — tám tầng giải thoát, từ cái thấy các sắc cho đến sự chấm dứt tưởng và cảm thọ.
+Nửa sau bài kinh chuyển sang hình ảnh người thầy. Ba trường hợp được nêu: học trò không nghe, nghe một nửa, nghe hết. Trong cả ba, vị thầy đều an trú chánh niệm, tỉnh giác và tâm không bị ô nhiễm — học trò không nghe thì không bực bội, nghe một nửa thì không vui cũng không buồn, nghe hết thì vui mà vẫn tỉnh giác. Rồi Đức Thế Tôn so sánh: người dạy voi, dạy ngựa, dạy bò chỉ dẫn con vật chạy về một hướng; còn Ngài dẫn người đi theo tám hướng — tám tầng giải thoát, từ cái thấy các sắc cho đến sự chấm dứt tưởng và cảm thọ.
 
 Với người mới đọc kinh, bài này có thể đọc như một tấm bản đồ của tâm: ở đâu mình cũng có thể dừng lại, nhìn xem cái gì đang sinh khởi, và buông cái thô để đi tới cái tế hơn. Không cần thuộc thuật ngữ nào; chỉ cần theo dõi một câu hỏi rất đời — khi tai nghe, mắt thấy, ý nghĩ, mình đang vui, đang buồn, hay đang lặng yên?
 
@@ -95,7 +95,7 @@ Hãy nghe và khéo tác ý, Ta sẽ nói."
 Đó là điều Ta đã nói. Nhưng vì lý do gì Ta nói điều ấy?
 
 <!-- seg: mn137:5.3 -->
-Đó là xứ của sắc, xứ của âm thanh, xứ của mùi, xứ của vị, xứ của xúc chạm và xứ của pháp.
+Đó là xứ của sắc, xứ của âm thanh, xứ của mùi, xứ của vị, xứ của xúc và xứ của pháp.
 
 <!-- seg: mn137:5.4 -->
 "Sáu ngoại xứ cần được hiểu."
@@ -310,7 +310,7 @@ Khi đã biết tính vô thường của các pháp — sự biến đổi, s�
 Ở đây, sáu xả gắn với đời sống tại gia là những gì?
 
 <!-- seg: mn137:14.2 -->
-Khi thấy sắc bằng mắt, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi thấy sắc bằng mắt, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.3 -->
 Xả như vậy không vượt qua sắc ấy.
@@ -319,19 +319,19 @@ Xả như vậy không vượt qua sắc ấy.
 Vì thế, xả ấy được gọi là "gắn với đời sống tại gia".
 
 <!-- seg: mn137:14.5 -->
-Khi nghe âm thanh bằng tai, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi nghe âm thanh bằng tai, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.6 -->
-Khi ngửi mùi bằng mũi, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi ngửi mùi bằng mũi, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.7 -->
-Khi nếm vị bằng lưỡi, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi nếm vị bằng lưỡi, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.8 -->
-Khi chạm vào xúc bằng thân, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi chạm vào xúc bằng thân, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.9 -->
-Khi biết pháp bằng ý, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi biết pháp bằng ý, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.10 -->
 Xả như vậy không vượt qua pháp ấy.
@@ -432,7 +432,7 @@ Và này các tỳ-kheo, xả đa dạng, nương vào sự đa dạng là gì?
 Này các tỳ-kheo, có xả đối với các sắc, có xả đối với các âm thanh, có xả đối với các mùi, có xả đối với các vị, có xả đối với các xúc.
 
 <!-- seg: mn137:18.3 -->
-Đó là xả đa dạng, nương vào sự đa dạng.
+Này các tỳ-kheo, đó là xả đa dạng, nương vào sự đa dạng.
 
 <!-- seg: mn137:19.1 -->
 Và này các tỳ-kheo, xả đồng nhất, nương vào sự đồng nhất là gì?
@@ -443,7 +443,7 @@ Này các tỳ-kheo, có xả nương vào xứ không gian vô biên, có xả 
 [Chú thích: Người dịch: bốn xứ này là bốn tầng thiền định vô sắc: không gian vô biên, thức vô biên, không có gì cả, và trạng thái không còn tưởng mà cũng không phải không còn tưởng.]
 
 <!-- seg: mn137:19.3 -->
-Đó là xả đồng nhất, nương vào sự đồng nhất.
+Này các tỳ-kheo, đó là xả đồng nhất, nương vào sự đồng nhất.
 
 <!-- seg: mn137:20.1 -->
 Ở đó, này các tỳ-kheo, nương vào xả đồng nhất, lấy xả đồng nhất làm chỗ dựa, các ông hãy từ bỏ xả đa dạng, hãy vượt qua nó.
@@ -483,7 +483,7 @@ Nhưng vì lý do gì Ta nói điều ấy?
 "Điều này là vì lợi ích của các ông, điều này là vì hạnh phúc của các ông."
 
 <!-- seg: mn137:22.3 -->
-Nhưng các đệ tử của vị ấy không muốn nghe, không lắng tai, không đặt tâm vào sự hiểu biết, và họ quay lưng khỏi lời dạy của Đạo sư.
+Nhưng các đệ tử của vị ấy không muốn nghe, không lắng tai, không đặt tâm vào sự hiểu biết, và sống quay lưng với lời dạy của Đạo sư.
 
 <!-- seg: mn137:22.4 -->
 Khi ấy, này các tỳ-kheo, Như Lai không bực bội, không cảm thấy bực bội; Ngài an trú không bị ô nhiễm, chánh niệm và tỉnh giác.
@@ -500,10 +500,10 @@ Lại nữa, này các tỳ-kheo, có vị Đạo sư vì lòng thương xót, v
 "Điều này là vì lợi ích của các ông, điều này là vì hạnh phúc của các ông."
 
 <!-- seg: mn137:23.3 -->
-Nhưng một số đệ tử của vị ấy không muốn nghe, không lắng tai, không đặt tâm vào sự hiểu biết, và họ quay lưng khỏi lời dạy của Đạo sư;
+Nhưng một số đệ tử của vị ấy không muốn nghe, không lắng tai, không đặt tâm vào sự hiểu biết, và sống quay lưng với lời dạy của Đạo sư;
 
 <!-- seg: mn137:23.4 -->
-một số đệ tử của vị ấy muốn nghe, lắng tai, đặt tâm vào sự hiểu biết, và không quay lưng khỏi lời dạy của Đạo sư.
+một số đệ tử của vị ấy muốn nghe, lắng tai, đặt tâm vào sự hiểu biết, và không sống quay lưng với lời dạy của Đạo sư.
 
 ---
 
@@ -514,7 +514,7 @@ Khi ấy, này các tỳ-kheo, Như Lai không bực bội, không cảm thấy 
 Ngài cũng không vui, không cảm thấy vui.
 
 <!-- seg: mn137:23.7 -->
-Nỗi bất mãn và niềm vui —
+Nỗi bực bội và niềm vui —
 
 <!-- seg: mn137:23.8 -->
 sau khi xua bỏ cả hai điều ấy, Ngài an trú với xả, chánh niệm và tỉnh giác.
@@ -529,7 +529,7 @@ Lại nữa, này các tỳ-kheo, có vị Đạo sư vì lòng thương xót, v
 "Điều này là vì lợi ích của các ông, điều này là vì hạnh phúc của các ông."
 
 <!-- seg: mn137:24.3 -->
-Nhưng các đệ tử của vị ấy muốn nghe, lắng tai, đặt tâm vào sự hiểu biết, và không quay lưng khỏi lời dạy của Đạo sư.
+Và các đệ tử của vị ấy muốn nghe, lắng tai, đặt tâm vào sự hiểu biết, và không sống quay lưng với lời dạy của Đạo sư.
 
 <!-- seg: mn137:24.4 -->
 Khi ấy, này các tỳ-kheo, Như Lai vui, cảm thấy vui; Ngài an trú không bị ô nhiễm, chánh niệm và tỉnh giác.
@@ -587,7 +587,7 @@ Không tưởng sắc ở bên trong, vị ấy thấy các sắc ở bên ngoà
 đó là hướng thứ hai.
 
 <!-- seg: mn137:27.5 -->
-Vị ấy chỉ hướng tâm đến cái đẹp —
+Vị ấy hướng thuần đến cái đẹp —
 
 <!-- seg: mn137:27.6 -->
 đó là hướng thứ ba.
@@ -623,7 +623,7 @@ Do vượt qua hoàn toàn xứ phi tưởng phi phi tưởng, vị ấy chứng
 đó là hướng thứ tám.
 
 <!-- seg: mn137:27.17 -->
-Được Như Lai — bậc A-la-hán, Chánh đẳng giác — dẫn dắt, người cần được điều ngự chạy theo tám hướng ấy.
+Này các tỳ-kheo, được Như Lai — bậc A-la-hán, Chánh đẳng giác — dẫn dắt, người cần được điều ngự chạy theo tám hướng ấy.
 
 <!-- seg: mn137:28.1 -->
 "Trong các bậc thầy dạy tu tập, Ngài được gọi là bậc tối thượng dẫn dắt những người cần được điều ngự."

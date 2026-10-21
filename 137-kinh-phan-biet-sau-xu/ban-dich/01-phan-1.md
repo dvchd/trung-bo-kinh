@@ -58,7 +58,7 @@ Hãy nghe và khéo tác ý, Ta sẽ nói."
 Đó là điều Ta đã nói. Nhưng vì lý do gì Ta nói điều ấy?
 
 <!-- seg: mn137:5.3 -->
-Đó là xứ của sắc, xứ của âm thanh, xứ của mùi, xứ của vị, xứ của xúc chạm và xứ của pháp.
+Đó là xứ của sắc, xứ của âm thanh, xứ của mùi, xứ của vị, xứ của xúc và xứ của pháp.
 
 <!-- seg: mn137:5.4 -->
 "Sáu ngoại xứ cần được hiểu."

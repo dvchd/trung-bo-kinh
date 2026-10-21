@@ -115,7 +115,7 @@ Khi đã biết tính vô thường của các pháp — sự biến đổi, s�
 Ở đây, sáu xả gắn với đời sống tại gia là những gì?
 
 <!-- seg: mn137:14.2 -->
-Khi thấy sắc bằng mắt, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi thấy sắc bằng mắt, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.3 -->
 Xả như vậy không vượt qua sắc ấy.
@@ -124,19 +124,19 @@ Xả như vậy không vượt qua sắc ấy.
 Vì thế, xả ấy được gọi là "gắn với đời sống tại gia".
 
 <!-- seg: mn137:14.5 -->
-Khi nghe âm thanh bằng tai, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi nghe âm thanh bằng tai, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.6 -->
-Khi ngửi mùi bằng mũi, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi ngửi mùi bằng mũi, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.7 -->
-Khi nếm vị bằng lưỡi, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi nếm vị bằng lưỡi, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.8 -->
-Khi chạm vào xúc bằng thân, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi chạm vào xúc bằng thân, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.9 -->
-Khi biết pháp bằng ý, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại, là phàm phu chưa nghe Pháp.
+Khi biết pháp bằng ý, xả sinh khởi nơi kẻ ngu si, mê muội, phàm phu, chưa vượt qua giới hạn, chưa vượt qua quả báo, không thấy sự nguy hại — kẻ phàm phu chưa nghe Pháp.
 
 <!-- seg: mn137:14.10 -->
 Xả như vậy không vượt qua pháp ấy.

@@ -83,7 +83,7 @@ Và này các tỳ-kheo, xả đa dạng, nương vào sự đa dạng là gì?
 Này các tỳ-kheo, có xả đối với các sắc, có xả đối với các âm thanh, có xả đối với các mùi, có xả đối với các vị, có xả đối với các xúc.
 
 <!-- seg: mn137:18.3 -->
-Đó là xả đa dạng, nương vào sự đa dạng.
+Này các tỳ-kheo, đó là xả đa dạng, nương vào sự đa dạng.
 
 <!-- seg: mn137:19.1 -->
 Và này các tỳ-kheo, xả đồng nhất, nương vào sự đồng nhất là gì?
@@ -94,7 +94,7 @@ Này các tỳ-kheo, có xả nương vào xứ không gian vô biên, có xả 
 [Chú thích: Người dịch: bốn xứ này là bốn tầng thiền định vô sắc: không gian vô biên, thức vô biên, không có gì cả, và trạng thái không còn tưởng mà cũng không phải không còn tưởng.]
 
 <!-- seg: mn137:19.3 -->
-Đó là xả đồng nhất, nương vào sự đồng nhất.
+Này các tỳ-kheo, đó là xả đồng nhất, nương vào sự đồng nhất.
 
 <!-- seg: mn137:20.1 -->
 Ở đó, này các tỳ-kheo, nương vào xả đồng nhất, lấy xả đồng nhất làm chỗ dựa, các ông hãy từ bỏ xả đa dạng, hãy vượt qua nó.
@@ -134,7 +134,7 @@ Nhưng vì lý do gì Ta nói điều ấy?
 "Điều này là vì lợi ích của các ông, điều này là vì hạnh phúc của các ông."
 
 <!-- seg: mn137:22.3 -->
-Nhưng các đệ tử của vị ấy không muốn nghe, không lắng tai, không đặt tâm vào sự hiểu biết, và họ quay lưng khỏi lời dạy của Đạo sư.
+Nhưng các đệ tử của vị ấy không muốn nghe, không lắng tai, không đặt tâm vào sự hiểu biết, và sống quay lưng với lời dạy của Đạo sư.
 
 <!-- seg: mn137:22.4 -->
 Khi ấy, này các tỳ-kheo, Như Lai không bực bội, không cảm thấy bực bội; Ngài an trú không bị ô nhiễm, chánh niệm và tỉnh giác.
@@ -151,7 +151,7 @@ Lại nữa, này các tỳ-kheo, có vị Đạo sư vì lòng thương xót, v
 "Điều này là vì lợi ích của các ông, điều này là vì hạnh phúc của các ông."
 
 <!-- seg: mn137:23.3 -->
-Nhưng một số đệ tử của vị ấy không muốn nghe, không lắng tai, không đặt tâm vào sự hiểu biết, và họ quay lưng khỏi lời dạy của Đạo sư;
+Nhưng một số đệ tử của vị ấy không muốn nghe, không lắng tai, không đặt tâm vào sự hiểu biết, và sống quay lưng với lời dạy của Đạo sư;
 
 <!-- seg: mn137:23.4 -->
-một số đệ tử của vị ấy muốn nghe, lắng tai, đặt tâm vào sự hiểu biết, và không quay lưng khỏi lời dạy của Đạo sư.
+một số đệ tử của vị ấy muốn nghe, lắng tai, đặt tâm vào sự hiểu biết, và không sống quay lưng với lời dạy của Đạo sư.

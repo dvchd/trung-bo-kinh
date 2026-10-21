@@ -65,8 +65,8 @@ Các bài còn lại xem ở [mục lục đầy đủ](#mục-lục-152-bài).
 | | |
 |---|---|
 | Bài kinh | **152** — trọn bộ Trung Bộ Kinh |
-| Từ | **889.704** (đếm trên bản đã ghép) |
-| Đoạn dịch | **26.891**, mỗi đoạn ứng với đúng một đoạn nguồn SuttaCentral |
+| Từ | **888.406** đoạn văn dịch, không kể chú thích |
+| Đoạn dịch | **26.891** đoạn văn, 27.195 neo đoạn, mỗi đoạn ứng với đúng một đoạn nguồn |
 | Tệp bản dịch theo đoạn | **905** trong 152 thư mục `ban-dich/` |
 
 Toàn bộ đã qua kiểm tra tự động: đủ neo đoạn và đúng thứ tự, ngoặc kép cân trong từng tệp, không
@@ -90,6 +90,15 @@ ngoặc kép cong, không dấu lửng ngoài `[Chú thích: …]`, không dùng
 └── tien-do.py                 báo tiến độ dịch
 cong-cu/                       công cụ dùng chung
 mau/                           khuôn để sinh bài mới
+
+Trong `cong-cu/` có bốn script kiểm tra dùng chung:
+
+| Script | Việc |
+|---|---|
+| `ra-soat-toan-bo.py` | quét 753 tệp: đủ neo đoạn, ngoặc kép cân, từ cấm, công thức lặp |
+| `ra-soat-van-phong.py` | quét 1057 tệp: văn phong, tiếng Anh sót, ký tự lạ, danh hiệu chín phần |
+| `ra-soat-cong-thuc.py` | báo cáo đoạn Pali nào đang được dịch khác nhau giữa các bài |
+| `dong-nhat-cong-thuc.py` | ép các đoạn ấy về cùng một cách dịch chuẩn |
 ```
 
 Muốn sửa một câu: tìm neo `mnN:X.Y` trong `Kinh-*.md`, sửa tệp tương ứng trong `ban-dich/`, chạy

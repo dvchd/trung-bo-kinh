@@ -5,7 +5,7 @@ Khi ấy, này các tỳ-kheo, Như Lai không bực bội, không cảm thấy 
 Ngài cũng không vui, không cảm thấy vui.
 
 <!-- seg: mn137:23.7 -->
-Nỗi bất mãn và niềm vui —
+Nỗi bực bội và niềm vui —
 
 <!-- seg: mn137:23.8 -->
 sau khi xua bỏ cả hai điều ấy, Ngài an trú với xả, chánh niệm và tỉnh giác.
@@ -20,7 +20,7 @@ Lại nữa, này các tỳ-kheo, có vị Đạo sư vì lòng thương xót, v
 "Điều này là vì lợi ích của các ông, điều này là vì hạnh phúc của các ông."
 
 <!-- seg: mn137:24.3 -->
-Nhưng các đệ tử của vị ấy muốn nghe, lắng tai, đặt tâm vào sự hiểu biết, và không quay lưng khỏi lời dạy của Đạo sư.
+Và các đệ tử của vị ấy muốn nghe, lắng tai, đặt tâm vào sự hiểu biết, và không sống quay lưng với lời dạy của Đạo sư.
 
 <!-- seg: mn137:24.4 -->
 Khi ấy, này các tỳ-kheo, Như Lai vui, cảm thấy vui; Ngài an trú không bị ô nhiễm, chánh niệm và tỉnh giác.
@@ -78,7 +78,7 @@ Không tưởng sắc ở bên trong, vị ấy thấy các sắc ở bên ngoà
 đó là hướng thứ hai.
 
 <!-- seg: mn137:27.5 -->
-Vị ấy chỉ hướng tâm đến cái đẹp —
+Vị ấy hướng thuần đến cái đẹp —
 
 <!-- seg: mn137:27.6 -->
 đó là hướng thứ ba.
@@ -114,7 +114,7 @@ Do vượt qua hoàn toàn xứ phi tưởng phi phi tưởng, vị ấy chứng
 đó là hướng thứ tám.
 
 <!-- seg: mn137:27.17 -->
-Được Như Lai — bậc A-la-hán, Chánh đẳng giác — dẫn dắt, người cần được điều ngự chạy theo tám hướng ấy.
+Này các tỳ-kheo, được Như Lai — bậc A-la-hán, Chánh đẳng giác — dẫn dắt, người cần được điều ngự chạy theo tám hướng ấy.
 
 <!-- seg: mn137:28.1 -->
 "Trong các bậc thầy dạy tu tập, Ngài được gọi là bậc tối thượng dẫn dắt những người cần được điều ngự."
