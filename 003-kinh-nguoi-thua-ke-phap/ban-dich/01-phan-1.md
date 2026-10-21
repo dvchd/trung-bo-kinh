@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn3:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú gần Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn3:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -11,7 +11,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn3:1.5 -->
-"Thưa Thế Tôn," các tỳ-kheo đáp lời.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn3:1.6 -->
 Đức Thế Tôn nói như vầy:

@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Tâm Hoang Vu** (*Cetokhila Sutta*) là bài kinh thứ 16 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng tiếng Pali. Bài khá ngắn và có khuôn mẫu rõ ràng: Đức Thế Tôn nêu hai nhóm, mỗi nhóm năm điều, khiến tâm một người tu không thể lớn lên; rồi Ngài nêu mặt trái của chúng, và cuối cùng giải thích lớn lên nghĩa là gì. Bối cảnh là tu viện của Anāthapiṇḍika trong rừng Jeta, ngoại thành Sāvatthī.
+**Kinh Tâm Hoang Vu** (*Cetokhila Sutta*) là bài kinh thứ 16 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng tiếng Pali. Bài khá ngắn và có khuôn mẫu rõ ràng: Đức Thế Tôn nêu hai nhóm, mỗi nhóm năm điều, khiến tâm một người tu không thể lớn lên; rồi Ngài nêu mặt trái của chúng, và cuối cùng giải thích lớn lên nghĩa là gì. Bối cảnh là tịnh xá của Anāthapiṇḍika trong rừng Jeta, ngoại thành Sāvatthī.
 
 Nhóm thứ nhất có tên *cetokhila*, dịch là chỗ hoang vu của tâm. Chữ *khila* trong tiếng Pali chỉ một mảnh đất cằn cỗi đến mức mưa suốt bốn tháng cũng không có gì mọc lên. Năm chỗ hoang vu ấy là năm mối hoài nghi: hoài nghi bậc Đạo sư, hoài nghi giáo pháp, hoài nghi Tăng đoàn, hoài nghi sự học tập, và cuối cùng là giận dữ, bất mãn với những người cùng tu. Mỗi điều được mô tả theo cùng một khuôn: hễ tâm còn chỗ ấy thì tâm không hướng về sự nhiệt tâm, chuyên cần, bền bỉ và nỗ lực.
 
@@ -41,7 +41,7 @@ Với người đọc hôm nay, bài kinh đặt ra một câu hỏi rất cụ 
 Tôi nghe như vầy.
 
 <!-- seg: mn16:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang an trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn16:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -50,7 +50,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn16:1.5 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn16:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -297,7 +297,7 @@ Cũng vậy, này các tỳ-kheo, vị tỳ-kheo có đủ mười lăm chi ph�
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn16:27.9 -->
-Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn16:27.10 -->
 Kinh Tâm Hoang Vu, bài thứ sáu, đã hoàn thành.

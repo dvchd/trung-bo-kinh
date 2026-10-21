@@ -16,6 +16,13 @@ Sakuludāyī liền nghĩ rằng các tỳ-kheo hẳn tu vì thế giới ấy. 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 79: Tiểu Kinh Sakuludāyi**](#trung-bộ-kinh--bài-kinh-số-79-tiểu-kinh-sakuludāyi)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 79: Tiểu Kinh Sakuludāyi
 
 *Cūḷasakuludāyisutta* — bài kinh mang tên du sĩ Sakuludāyī, ghi lại cuộc đàm luận ở khu vườn nuôi dưỡng chim công, trong đó Đức Thế Tôn phá tan hai quan niệm của giáo phái du sĩ về "sắc tối thượng" và "thế giới an lạc tuyệt đối", rồi giảng con đường thực hành đưa đến giải thoát thật sự
@@ -34,10 +41,10 @@ Sakuludāyī liền nghĩ rằng các tỳ-kheo hẳn tu vì thế giới ấy. 
 Tôi nghe như vầy.
 
 <!-- seg: mn79:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Veḷuvana (Trúc Lâm), chỗ nuôi dưỡng sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn79:1.3 -->
-Lúc bấy giờ, du sĩ Sakuludāyī đang trú tại Moranivāpa, khu vườn của các du sĩ, chỗ nuôi dưỡng chim công, cùng với một hội chúng du sĩ đông đảo.
+Lúc bấy giờ, du sĩ Sakuludāyī trú tại Moranivāpa, khu vườn của các du sĩ, chỗ nuôi dưỡng chim công, cùng với một hội chúng du sĩ đông đảo.
 
 <!-- seg: mn79:2.1 -->
 Rồi vào buổi sáng, Đức Thế Tôn đắp y, cầm bát, đi vào Rājagaha để khất thực.
@@ -611,7 +618,7 @@ Với vị ấy biết như vậy, thấy như vậy, tâm được giải thoá
 Khi đã giải thoát, vị ấy biết: 'Ta đã giải thoát.'
 
 <!-- seg: mn79:44.3 -->
-Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã được sống, việc cần làm đã làm, không còn trở lại đời này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn79:44.4 -->
 Này Udāyi, đây cũng là một pháp cao hơn và vi diệu hơn; chính vì mục đích chứng nghiệm pháp ấy mà các tỳ-kheo sống đời phạm hạnh dưới Ta.

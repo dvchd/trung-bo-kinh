@@ -14,6 +14,14 @@ Bài kinh còn đưa ra bốn cách thanh tịnh của một lễ cúng dường
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 142: Kinh Phân Biệt Cúng Dường**](#trung-bộ-kinh--bài-kinh-số-142-kinh-phân-biệt-cúng-dường)
+- [**Tóm tắt phẩm**](#tóm-tắt-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 142: Kinh Phân Biệt Cúng Dường
 
 *Dakkhiṇāvibhaṅga Sutta* — bài phân tích về sự cúng dường

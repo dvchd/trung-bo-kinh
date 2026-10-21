@@ -90,7 +90,7 @@ Này các tỳ-kheo, thiện nam tử Puṇṇa đã nhập Niết-bàn."
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn145:8.7 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn145:8.8 -->
 Kinh Dạy Puṇṇa, bài thứ ba, đến đây hoàn tất.

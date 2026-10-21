@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Verañjaka** (*Verañjaka Sutta*) là bài kinh thứ 42 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài này gần như trùng với bài trước, Kinh Sāleyyaka: cùng một câu hỏi, cùng một câu trả lời, cùng mười đường qua thân, lời nói và ý. Chỗ khác là bối cảnh. Lần này Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc). Một nhóm bà-la-môn và gia chủ từ Verañjā đang có việc phải ở lại Sāvatthī; nghe tiếng tốt về Ngài, họ tìm đến và ngồi xuống một bên.
+**Kinh Verañjaka** (*Verañjaka Sutta*) là bài kinh thứ 42 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài này gần như trùng với bài trước, Kinh Sāleyyaka: cùng một câu hỏi, cùng một câu trả lời, cùng mười đường qua thân, lời nói và ý. Chỗ khác là bối cảnh. Lần này Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc). Một nhóm bà-la-môn và gia chủ từ Verañjā đang có việc phải ở lại Sāvatthī; nghe tiếng tốt về Ngài, họ tìm đến và ngồi xuống một bên.
 
 Câu hỏi họ đặt ra vừa cũ vừa mới: đâu là nhân, đâu là duyên khiến một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, đường ác, chỗ đọa lạc, địa ngục; và đâu là nhân, đâu là duyên khiến một số khác sinh vào đường lành, cõi trời? Đức Thế Tôn trả lời bằng hai câu ngắn: do hạnh phi pháp và tà vạy mà người ta đi xuống; do hạnh đúng pháp và bình đẳng mà người ta đi lên. Những người nghe không hiểu, bèn xin Ngài giảng rộng, và phần lớn bài kinh là lời giảng rộng ấy.
 
@@ -29,7 +29,7 @@ Kết thúc, những người dân Verañjā hiểu ra. Họ dùng bốn hình �
 **Trung Bộ Kinh** (*Majjhima Nikāya*) — bộ kinh thứ hai trong Kinh tạng tiếng Pali, gồm 152 bài kinh cỡ vừa — bài kinh số 42.
 
 <!-- seg: mn42:0.2 -->
-**Kinh Verañjaka** (*Verañjaka Sutta*) — bài kinh Đức Thế Tôn giảng cho các bà-la-môn và gia chủ người Verañjā, khi họ đang trú tại Sāvatthī.
+**Kinh Verañjaka** (*Verañjaka Sutta*) — bài kinh Đức Thế Tôn giảng cho các bà-la-môn và gia chủ người Verañjā, khi họ trú tại Sāvatthī.
 
 ---
 
@@ -42,7 +42,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn42:2.1 -->
-Lúc bấy giờ, các bà-la-môn và gia chủ người Verañjā đang trú tại Sāvatthī, vì có một công việc nào đó cần làm.
+Lúc bấy giờ, các bà-la-môn và gia chủ người Verañjā trú tại Sāvatthī, vì có một công việc nào đó cần làm.
 
 [Chú thích: Vị trí của Verañjā đến nay chưa được xác định dứt khoát, nhưng thành ấy nằm giữa Madhurā và Soreyya. Có ý kiến cho rằng Verañjā chính là Atranjikhera, một gò đất lớn ở phía bắc Etah, bang Uttar Pradesh, nơi khai quật cho thấy bốn lớp cư trú, lớp muộn nhất thuộc văn hóa đồ gốm đen bóng phương Bắc của thời Đức Thế Tôn. Đây từng là nơi tụ họp của những người buôn ngựa từ Kashmir đi theo con đường phía bắc men theo sông Hằng.]
 
@@ -50,7 +50,7 @@ Lúc bấy giờ, các bà-la-môn và gia chủ người Verañjā đang trú t
 Các bà-la-môn và gia chủ người Verañjā nghe rằng:
 
 <!-- seg: mn42:2.3 -->
-Thưa các ngài, sa-môn Gotama, dòng dõi Sakya, xuất gia từ gia tộc Sakya, đang trú tại Sāvatthī, trong rừng Jeta, tại tịnh xá của Anāthapiṇḍika.
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn42:2.4 -->
 Về bậc Tôn giả Gotama ấy, tiếng tốt đã vang xa như vầy:

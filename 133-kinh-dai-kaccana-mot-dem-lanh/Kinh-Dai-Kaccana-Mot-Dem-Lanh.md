@@ -16,6 +16,13 @@ Cuối bài, các tỳ-kheo thuật lại lời giảng cho Đức Thế Tôn. N
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 133: Đại Kinh Kaccāna Một Đêm Lành**](#trung-bộ-kinh--bài-kinh-số-133-đại-kinh-kaccāna-một-đêm-lành)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 133: Đại Kinh Kaccāna Một Đêm Lành
 
 *Mahākaccānabhaddekaratta Sutta* — bài kinh Mahākaccāna giảng phần phân tích bài kệ về người có một đêm lành
@@ -34,7 +41,7 @@ Cuối bài, các tỳ-kheo thuật lại lời giảng cho Đức Thế Tôn. N
 Tôi nghe như vầy.
 
 <!-- seg: mn133:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), ở Tapodārāma, tịnh xá có suối nước nóng.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), ở Tapodārāma, tịnh xá có suối nước nóng.
 
 [Chú thích: Suối nước nóng gần Rājagaha là nơi các tỳ-kheo thường đến tắm, đông đến mức phải đặt ra một giới luật để họ không chiếm độc suối. Suối ấy ngày nay vẫn còn và vẫn đông người dùng.]
 
@@ -737,7 +744,7 @@ Này các tỳ-kheo, nếu các ông đến hỏi Ta việc này, Ta cũng sẽ 
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn133:21.5 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn133:21.6 -->
 Bài kinh Đại Kaccāna Một Đêm Lành, bài thứ ba, đã hoàn thành.

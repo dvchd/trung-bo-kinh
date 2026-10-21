@@ -17,7 +17,7 @@ nhàm chán ý, nhàm chán các pháp, nhàm chán thức của ý, nhàm chán
 Do nhàm chán, vị ấy ly tham; do ly tham, vị ấy giải thoát; khi đã giải thoát, vị ấy biết mình đã giải thoát.
 
 <!-- seg: mn147:9.8 -->
-Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn147:9.9 -->
 Đức Thế Tôn nói như vậy.

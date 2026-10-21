@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh khắc họa Bākula như một mẫu mực khổ hạnh vượt xa mức thông thường của kinh điển sơ kỳ. Chú giải cho rằng các vị trưởng lão đã thêm bài này vào kỳ kết tập lần thứ hai, khoảng một trăm năm sau khi Đức Thế Tôn nhập diệt; điều ấy phù hợp với việc bài kinh không nói Đức Thế Tôn trú ở đâu và với tuổi đã rất cao của Bākula. Các bài kệ của Ngài trong Trưởng Lão Tăng Kệ thì giản dị, không nặng sự khổ hạnh như ở đây.]
 
 <!-- seg: mn124:1.2 -->
-Một thuở nọ, Tôn giả Bākula (Bạc-câu-la) trú tại Rājagaha (Vương Xá), trong vườn trúc Veḷuvana (Trúc Lâm), tại Kalandakanivāpa, chỗ nuôi sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn124:2.1 -->
 Rồi du sĩ lõa thể Kassapa (Ca-diếp), bạn cũ thời còn tại gia của Tôn giả Bākula, đi đến chỗ Tôn giả Bākula. Đến nơi, ông ta chào hỏi thân tình với Tôn giả.

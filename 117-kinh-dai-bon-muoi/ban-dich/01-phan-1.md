@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Đây là một trong hai chỗ Trung Bộ Kinh trình bày trọn con đường tám nhánh; chỗ kia là bài 141, nơi từng nhánh được định nghĩa thật chi tiết. Bài này chú trọng sự tương tác giữa các nhánh, nhất là cách chúng nâng đỡ chánh định. Ý nghĩa tên kinh được giải thích ở đoạn cuối.]
 
 <!-- seg: mn117:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tịnh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn117:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -13,7 +13,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn117:1.5 -->
-"Thưa Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn117:1.6 -->
 Đức Thế Tôn nói như vầy:

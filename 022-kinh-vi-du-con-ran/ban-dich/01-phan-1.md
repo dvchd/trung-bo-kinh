@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn22:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú gần Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà Lâm), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn22:2.1 -->
 Lúc bấy giờ, tỳ-kheo tên Ariṭṭha, trước đây làm nghề bẫy kền kền, đã khởi lên một ác kiến như vầy:

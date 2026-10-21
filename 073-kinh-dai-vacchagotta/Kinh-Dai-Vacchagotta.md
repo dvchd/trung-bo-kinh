@@ -43,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Đây là bài cuối trong ba bài về du sĩ Vacchagotta. Lần này ông vượt lên khỏi những câu hỏi siêu hình vô ích của mình và tìm được một cách sống tốt hơn, và sự nhẫn nại của Đức Thế Tôn cuối cùng đã được đền đáp khi ông đạt được mục đích của mình.]
 
 <!-- seg: mn73:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Veḷuvana (Trúc Lâm), nơi nuôi dưỡng loài sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn73:2.1 -->
 Rồi du sĩ Vacchagotta đi đến chỗ Đức Thế Tôn. Đến nơi, ông chào hỏi Ngài.
@@ -464,7 +464,7 @@ Chư thiên cũng đã báo cho ta biết điều ấy:
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn73:28.10 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn73:28.11 -->
 Kinh Mahāvaccha, bài thứ ba, đến đây đã hết.

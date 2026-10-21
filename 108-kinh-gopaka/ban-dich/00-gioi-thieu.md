@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Gopaka** (*Gopakamoggallāna Sutta*) là bài kinh thứ 108 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra ít lâu sau khi Đức Thế Tôn nhập Niết-bàn. Ngài Ānanda, thị giả lâu năm của Ngài, đang trú tại Rājagaha, trong khu rừng tre Veḷuvana. Một buổi sáng, vì đi khất thực còn quá sớm, ngài ghé vào nơi làm việc của bà-la-môn Gopakamoggallāna, và một cuộc đàm đạo bắt đầu từ đó.
+**Kinh Gopaka** (*Gopakamoggallāna Sutta*) là bài kinh thứ 108 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra ít lâu sau khi Đức Thế Tôn nhập Niết-bàn. Ngài Ānanda, thị giả lâu năm của Ngài, trú tại Rājagaha, trong khu rừng tre Veḷuvana. Một buổi sáng, vì đi khất thực còn quá sớm, ngài ghé vào nơi làm việc của bà-la-môn Gopakamoggallāna, và một cuộc đàm đạo bắt đầu từ đó.
 
 Câu hỏi của bà-la-môn rất thẳng: có một vị tỳ-kheo nào, dù chỉ một người, có đủ mọi phẩm chất như ngài Gotama đã có hay không? Ngài Ānanda trả lời: không. Lý do được Ngài nói ngay sau đó: Đức Thế Tôn là người đã làm sinh khởi con đường chưa từng có, là người đầu tiên mở ra lối đi; các đệ tử chỉ là người đi theo con đường ấy và về sau mới thành tựu được nó. Chỉ một câu trả lời ấy thôi đã đặt ra toàn bộ vấn đề của bài kinh.
 

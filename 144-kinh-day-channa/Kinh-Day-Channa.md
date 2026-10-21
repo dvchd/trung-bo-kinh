@@ -41,7 +41,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này cũng xuất hiện trong Tương Ưng Bộ 35.87. Ở đó cũng như ở đây, ngay sau bài này là Kinh Dạy Puṇṇa (Trung Bộ 145, Tương Ưng 35.88).]
 
 <!-- seg: mn144:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), chỗ cho sóc ăn.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn144:2.1 -->
 Lúc bấy giờ, Tôn giả Sāriputta (Xá-lợi-phất), Tôn giả Mahācunda (Ma-ha Chu-na), và Tôn giả Channa đang trú trên núi Gijjhakūṭa (Linh Thứu).

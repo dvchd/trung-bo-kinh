@@ -85,7 +85,7 @@ Thấy như vậy, này các tỳ-kheo, vị Thánh đệ tử đã nghe pháp n
 Do nhàm chán, vị ấy ly tham; do ly tham, vị ấy giải thoát; khi đã giải thoát, vị ấy biết mình đã giải thoát.
 
 <!-- seg: mn22:29.2 -->
-Vị ấy biết rõ: 'Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại đời sống này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn22:30.1 -->
 Này các tỳ-kheo, vị tỳ-kheo ấy được gọi là bậc đã nhấc then cài, đã lấp hào, đã nhổ cột trụ, đã không còn then chốt, là bậc Thánh đã hạ cờ, đã buông gánh nặng, đã thoát ly.

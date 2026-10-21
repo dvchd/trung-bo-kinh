@@ -39,7 +39,7 @@ Lời giải thích cuối cùng rất gọn: quả của một nghiệp có th�
 Tôi nghe như vầy.
 
 <!-- seg: mn136:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng loài sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn136:2.1 -->
 Lúc bấy giờ, Tôn giả Samiddhi đang trú trong một chòi nhỏ giữa rừng.

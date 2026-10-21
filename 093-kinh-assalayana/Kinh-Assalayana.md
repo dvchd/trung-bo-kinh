@@ -16,6 +16,13 @@ Bài kinh khép lại bằng một câu chuyện kể về thuở xưa. Bảy v�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 93: Kinh Assalāyana**](#trung-bộ-kinh--bài-kinh-số-93-kinh-assalāyana)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 93: Kinh Assalāyana
 
 *Assalāyana Sutta* — bài kinh về cuộc tranh luận giữa Đức Thế Tôn và thanh niên bà-la-môn Assalāyana về bốn giai cấp
@@ -34,10 +41,10 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh ghi lại việc thanh niên bà-la-môn Assalāyana đối chất với Đức Thế Tôn về vấn đề bốn giai cấp, một việc mà chính Assalāyana đã biết trước là không thể thắng. Giống những cuộc tranh luận tương tự trong Kinh Ambattha (Trường Bộ Kinh 3), bài kinh này chứa nhiều dữ kiện lịch sử.]
 
 <!-- seg: mn93:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn93:2.1 -->
-Lúc bấy giờ, khoảng năm trăm bà-la-môn từ nhiều nước khác nhau đang trú tại Sāvatthī vì một việc nào đó.
+Lúc bấy giờ, khoảng năm trăm bà-la-môn từ nhiều nước khác nhau trú tại Sāvatthī vì một việc nào đó.
 
 [Chú thích: Những cuộc tụ họp tương tự cũng được ghi nhận ở Campā (Chiêm-bà) trong Trường Bộ Kinh 4 và ở Opāsāda trong Trung Bộ Kinh 95.]
 
@@ -51,7 +58,7 @@ Rồi các bà-la-môn ấy nghĩ:
 Ai có thể đối đáp với sa-môn Gotama về chuyện này?"
 
 <!-- seg: mn93:3.1 -->
-Lúc bấy giờ, có thanh niên tên Assalāyana đang trú tại Sāvatthī. Ông còn trẻ, đầu cạo trọc chỉ chừa một chỏm, mới mười sáu tuổi, đã thông suốt ba bộ Vệ-đà cùng với từ vựng và nghi lễ tế tự, với ngữ âm và phân loại từ ngữ, cùng với sử ký là bộ thứ năm. Ông thuộc lòng từng chữ và tinh thông ngữ pháp, không thiếu hiểu biết về vũ trụ luận cũng như về các tướng của bậc đại nhân.
+Lúc bấy giờ, có thanh niên tên Assalāyana trú tại Sāvatthī. Ông còn trẻ, đầu cạo trọc chỉ chừa một chỏm, mới mười sáu tuổi, đã thông suốt ba bộ Vệ-đà cùng với từ vựng và nghi lễ tế tự, với ngữ âm và phân loại từ ngữ, cùng với sử ký là bộ thứ năm. Ông thuộc lòng từng chữ và tinh thông ngữ pháp, không thiếu hiểu biết về vũ trụ luận cũng như về các tướng của bậc đại nhân.
 
 [Chú thích: Cách mô tả này giống mô tả về các thanh niên bà-la-môn như Ambattha, nhưng chi tiết đầu cạo trọc và mười sáu tuổi chỉ có ở đây và ở Trung Bộ Kinh 95. Theo Luật Manu, lễ cắt tóc được làm cho người bà-la-môn vào năm mười sáu tuổi. Chữ vuttasira, nghĩa đen là đầu có vòng, chỉ lối cạo hết tóc chỉ chừa một chỏm, khác với chữ muṇḍaka mà người bà-la-môn dùng để chê người khác là đầu trọc.]
 
@@ -59,7 +66,7 @@ Lúc bấy giờ, có thanh niên tên Assalāyana đang trú tại Sāvatthī. 
 Rồi các bà-la-môn ấy nghĩ:
 
 <!-- seg: mn93:3.3 -->
-"Thanh niên Assalāyana này đang trú tại Sāvatthī, còn trẻ, đầu cạo trọc chỉ chừa một chỏm, mười sáu tuổi, đã thông suốt ba bộ Vệ-đà cùng với từ vựng và nghi lễ tế tự, với ngữ âm và phân loại từ ngữ, cùng với sử ký là bộ thứ năm. Ông thuộc lòng từng chữ và tinh thông ngữ pháp, không thiếu hiểu biết về vũ trụ luận cũng như về các tướng của bậc đại nhân.
+"Thanh niên Assalāyana này trú tại Sāvatthī, còn trẻ, đầu cạo trọc chỉ chừa một chỏm, mười sáu tuổi, đã thông suốt ba bộ Vệ-đà cùng với từ vựng và nghi lễ tế tự, với ngữ âm và phân loại từ ngữ, cùng với sử ký là bộ thứ năm. Ông thuộc lòng từng chữ và tinh thông ngữ pháp, không thiếu hiểu biết về vũ trụ luận cũng như về các tướng của bậc đại nhân.
 
 <!-- seg: mn93:3.4 -->
 Ông ấy có thể đối đáp với sa-môn Gotama về chuyện này."

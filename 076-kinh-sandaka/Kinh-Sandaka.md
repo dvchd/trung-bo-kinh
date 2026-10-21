@@ -16,6 +16,13 @@ Câu cuối cùng của bài là câu hỏi về số người đã được gi�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 76: Kinh Sandaka**](#trung-bộ-kinh--bài-kinh-số-76-kinh-sandaka)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 76: Kinh Sandaka
 
 *Sandakasutta* — bài kinh mang tên du sĩ Sandaka, người đã nghe Tôn giả Ānanda giảng bốn nếp sống phi phạm hạnh và bốn đời sống phạm hạnh không đáng tin cậy, rồi cho hội chúng của mình đi xuất gia
@@ -24,7 +31,7 @@ Câu cuối cùng của bài là câu hỏi về số người đã được gi�
 **Trung Bộ Kinh** (*Majjhima Nikāya*) — bộ kinh thứ hai trong Kinh tạng tiếng Pali, gồm 152 bài kinh cỡ vừa — bài kinh số 76.
 
 <!-- seg: mn76:0.2 -->
-**Kinh Sandaka** (*Sandakasutta*) — bài kinh mang tên du sĩ Sandaka, vị thầy của một hội chúng năm trăm du sĩ đang trú tại hang Pilakkha, gần Kosambī (Kiều-thưởng-di).
+**Kinh Sandaka** (*Sandakasutta*) — bài kinh mang tên du sĩ Sandaka, vị thầy của một hội chúng năm trăm du sĩ trú tại hang Pilakkha, gần Kosambī (Kiều-thưởng-di).
 
 [Chú thích: Tên Sandaka và địa điểm này không thấy xuất hiện ở chỗ nào khác trong kinh tạng Pali.]
 
@@ -74,7 +81,7 @@ Thấy vậy, ông ấy dàn xếp hội chúng của mình:
 Đây là sa-môn Ānanda, đệ tử của sa-môn Gotama, đang đi đến.
 
 <!-- seg: mn76:4.7 -->
-Trong số các đệ tử của sa-môn Gotama đang trú tại Kosambī, vị này là một trong những người ấy, sa-môn Ānanda.
+Trong số các đệ tử của sa-môn Gotama trú tại Kosambī, vị này là một trong những người ấy, sa-môn Ānanda.
 
 [Chú thích: Câu này đứng một mình thì có vẻ thừa. Ở những chỗ khác, thành ngữ ấy dùng để nói rõ người được nhắc đến là đệ tử tại gia; có thể văn bản ở đây đã bị hỏng, và nguyên thủy muốn nói Ānanda là đệ tử xuất gia.]
 
@@ -688,7 +695,7 @@ Với vị ấy biết như vậy, thấy như vậy, tâm được giải thoá
 Trong sự giải thoát ấy, khởi lên trí biết rằng đã được giải thoát.
 
 <!-- seg: mn76:50.3 -->
-Vị ấy biết: "Sinh đã hết, đời phạm hạnh đã sống xong, việc cần làm đã làm, không còn gì nữa cho đời sống này."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn76:50.4 -->
 Này Sandaka, một vị thầy mà dưới vị ấy một đệ tử đạt được một sự thù thắng cao quý như vậy, thì ở nơi vị ấy, một người sáng suốt, dù có cố gắng hết sức, cũng nên sống đời phạm hạnh; và khi sống như vậy, người ấy sẽ thành tựu được pháp thiện khéo đúng lý.

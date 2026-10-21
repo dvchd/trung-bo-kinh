@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Tiểu Kinh Thọ Trì Pháp** (*Cūḷadhammasamādāna Sutta*) là bài kinh thứ 45 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh thứ hai của Kinh tạng tiếng Pali, gồm 152 bài giảng cỡ vừa. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), nơi Đức Thế Tôn đang trú cùng các tỳ-kheo. Ở đây không có nhân vật phụ và cũng không có câu chuyện rắc rối: Ngài gọi các tỳ-kheo lại rồi trình bày một bảng phân loại bốn hạng người, dựa trên hai câu hỏi rất đời thường — việc mình đang làm có dễ chịu ngay lúc này không, và về lâu dài nó đưa mình tới đâu.
+**Tiểu Kinh Thọ Trì Pháp** (*Cūḷadhammasamādāna Sutta*) là bài kinh thứ 45 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh thứ hai của Kinh tạng tiếng Pali, gồm 152 bài giảng cỡ vừa. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), nơi Đức Thế Tôn đang trú cùng các tỳ-kheo. Ở đây không có nhân vật phụ và cũng không có câu chuyện rắc rối: Ngài gọi các tỳ-kheo lại rồi trình bày một bảng phân loại bốn hạng người, dựa trên hai câu hỏi rất đời thường — việc mình đang làm có dễ chịu ngay lúc này không, và về lâu dài nó đưa mình tới đâu.
 
 Chữ *dhammasamādāna* trong tên bài kinh, ở đây dịch là "cách thọ trì pháp", không chỉ nghĩa là tin theo hay học thuộc một giáo lý. Nó là việc nhận lấy một cách sống, một pháp hành, rồi kiên trì làm theo: người xuất gia nhận lấy giới luật và phép tu, người tại gia nhận lấy nếp sống mình đã chọn, và cả hai đều phải sống với kết quả của lựa chọn ấy. Đức Thế Tôn phân bốn cách ấy theo hai trục — cảm giác ngay bây giờ và quả báo về sau. Cách phân loại này không xét việc gì được phép hay bị cấm, mà xét việc ấy đang nuôi lớn cái gì; vì thế nó vừa tôn trọng kinh nghiệm tức thời, vừa không chịu dừng lại ở đó.
 

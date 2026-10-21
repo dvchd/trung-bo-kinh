@@ -133,7 +133,7 @@ và tôi tin theo Pháp của Đức Thế Tôn ấy."
 [Chú thích: Ở một chỗ khác trong Tăng Chi Bộ, Sāvatthī lại được nói là ở phía đông, có lẽ là tính từ Madhurā.]
 
 <!-- seg: mn140:5.10 -->
-Hiện nay Đức Thế Tôn ấy, bậc A-la-hán, Chánh đẳng giác, đang trú tại đó."
+Hiện nay Đức Thế Tôn ấy, bậc A-la-hán, Chánh đẳng giác, trú tại đó."
 
 <!-- seg: mn140:5.11 -->
 "Này tỳ-kheo, ông đã từng thấy Đức Thế Tôn ấy chưa?
@@ -605,7 +605,7 @@ Do không tạo tác, không cố ý tạo ra vì sự hiện hữu hay vì sự
 không nắm giữ nên không run sợ; không run sợ nên tự mình nhập Niết-bàn ngay tại đây.
 
 <!-- seg: mn140:22.13 -->
-Vị ấy biết rõ: "Sanh đã tận, phạm hạnh đã sống trọn, việc cần làm đã làm, không còn trở lại đời này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn140:23.1 -->
 Nếu đang cảm thọ lạc thọ, vị ấy biết rõ: "Thọ ấy là vô thường"; biết rõ: "Thọ ấy không còn được bám víu"; biết rõ: "Thọ ấy không còn được hoan hỷ".

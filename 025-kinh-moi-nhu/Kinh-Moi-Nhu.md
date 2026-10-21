@@ -39,7 +39,7 @@ Bản dịch chia đoạn theo từng đoạn nguồn của SuttaCentral, giữ 
 Tôi nghe như vầy.
 
 <!-- seg: mn25:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn25:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -48,7 +48,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn25:1.5 -->
-Các tỳ-kheo ấy đáp lời Đức Thế Tôn: "Bạch Thế Tôn."
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn25:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -649,7 +649,7 @@ Này các tỳ-kheo, vị tỳ-kheo ấy được gọi là người đã làm c
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn25:20.4 -->
-Các vị tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn25:20.5 -->
 Kinh Mồi Nhử, bài thứ năm, đã hoàn tất.

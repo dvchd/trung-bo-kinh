@@ -50,7 +50,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn129:1.5 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn129:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -991,7 +991,7 @@ Này các tỳ-kheo, đây là toàn bộ cảnh giới của người trí, tr�
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn129:49.6 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 ---
 

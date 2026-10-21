@@ -14,6 +14,13 @@ Khi đọc, bạn sẽ thấy những câu được lặp đi lặp lại gần 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 32: Đại Kinh Rừng Gosiṅga**](#trung-bộ-kinh--bài-kinh-số-32-đại-kinh-rừng-gosiṅga)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 32: Đại Kinh Rừng Gosiṅga
 
 *Mahāgosiṅga Sutta* — bài kinh lớn, giảng tại khu rừng sa-la Gosiṅga

@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn63:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà-lâm), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn63:2.1 -->
 Rồi khi Tôn giả Māluṅkyaputta đang ở nơi vắng vẻ, sống độc cư, ý nghĩ này khởi lên trong tâm:

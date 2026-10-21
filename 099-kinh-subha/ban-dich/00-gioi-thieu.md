@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Subha** (*Subha Sutta*) là bài kinh thứ 99 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh gần như trọn vẹn là một cuộc đối thoại giữa Đức Thế Tôn và một thanh niên bà-la-môn tên là Subha, con trai của Todeyya. Hai người ngồi trong tu viện của Anāthapiṇḍika (Cấp Cô Độc), ngoại ô thành Sāvatthī (Xá-vệ), và câu chuyện mở ra bằng một câu hỏi rất đời: sống tại gia hay xuất gia thì dễ thành tựu điều thiện hơn?
+**Kinh Subha** (*Subha Sutta*) là bài kinh thứ 99 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh gần như trọn vẹn là một cuộc đối thoại giữa Đức Thế Tôn và một thanh niên bà-la-môn tên là Subha, con trai của Todeyya. Hai người ngồi trong tịnh xá của Anāthapiṇḍika (Cấp Cô Độc), ngoại ô thành Sāvatthī (Xá-vệ), và câu chuyện mở ra bằng một câu hỏi rất đời: sống tại gia hay xuất gia thì dễ thành tựu điều thiện hơn?
 
 Muốn hiểu bài kinh, chỉ cần biết bối cảnh xã hội của nó. Ở Ấn Độ thời Đức Thế Tôn, bà-la-môn là tầng lớp tư tế giữ truyền thống tụng đọc Vệ-đà, tế lễ và bố thí; sa-môn là những người rời nhà, sống không tài sản, đi tìm con đường giải thoát. Subha là một học trò bà-la-môn trẻ, học nhiều nhưng chưa tin, và ông đến gặp Đức Thế Tôn không phải để nghe giảng mà để chất vấn. Ông lần lượt nêu ba lập luận mà giới bà-la-môn đang nói, rồi chờ xem vị sa-môn Gotama trả lời thế nào.
 

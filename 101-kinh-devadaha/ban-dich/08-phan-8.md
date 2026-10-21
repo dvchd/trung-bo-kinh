@@ -23,7 +23,7 @@ Này các tỳ-kheo, với Như Lai nói như vậy, chính mười cớ đúng 
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn101:46.26 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn101:46.27 -->
 Kinh Devadaha hoàn tất, bài thứ nhất.

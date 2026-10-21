@@ -18,6 +18,13 @@ Người đọc lần đầu có thể thấy phần giữa bài kinh rất dài
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 85: Kinh Bodhirājakumāra**](#trung-bộ-kinh--bài-kinh-số-85-kinh-bodhirājakumāra)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 85: Kinh Bodhirājakumāra
 
 *Bodhirājakumāra Sutta* — bài kinh về cuộc đối thoại giữa Đức Thế Tôn và thái tử Bodhi tại cung điện Kokanada, quen gọi: Kinh Bồ-đề vương tử
@@ -36,7 +43,7 @@ Người đọc lần đầu có thể thấy phần giữa bài kinh rất dài
 Tôi nghe như vầy.
 
 <!-- seg: mn85:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại xứ Bhaggā, ở Susumāragira, trong vườn nai tại rừng Bhesakaḷā.
+Một thuở nọ, Đức Thế Tôn trú tại xứ Bhaggā, ở Susumāragira, trong vườn nai tại rừng Bhesakaḷā.
 
 [Chú thích: Susumāragira nghĩa là "tiếng gầm của cá sấu", một khu rừng trên dãy đồi thuộc xứ Bhaggā, phía nam sông Hằng.]
 
@@ -1188,7 +1195,7 @@ Rồi này thái tử, ta nghĩ như vầy:
 "Hiện nay nhóm năm tỳ-kheo đang trú ở đâu?"
 
 <!-- seg: mn85:48.9 -->
-Này thái tử, với thiên nhãn trong sạch, vượt hơn mắt người, ta thấy nhóm năm tỳ-kheo đang trú tại Bārāṇasī, trong vườn nai Isipatana.
+Này thái tử, với thiên nhãn trong sạch, vượt hơn mắt người, ta thấy nhóm năm tỳ-kheo trú tại Bārāṇasī, trong vườn nai Isipatana.
 
 <!-- seg: mn85:49.1 -->
 Rồi này thái tử, sau khi ở Uruvelā bao lâu tùy ý, ta lên đường đi đến Bārāṇasī.
@@ -1699,7 +1706,7 @@ ngài lại không đi đến nương tựa ngài Gotama ấy, cùng Pháp và T
 Ta đã nghe và đã thọ nhận điều này từ chính miệng mẹ kính yêu của ta.
 
 <!-- seg: mn85:61.7 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Kosambī, trong tu viện Ghosita.
+Một thuở nọ, Đức Thế Tôn trú tại Kosambī, trong tu viện Ghosita.
 
 <!-- seg: mn85:61.8 -->
 Rồi mẹ kính yêu của ta, đang mang thai, đến chỗ Đức Thế Tôn; đến nơi, bà đảnh lễ Đức Thế Tôn, ngồi xuống một bên. Ngồi một bên, mẹ ta nói với Đức Thế Tôn:

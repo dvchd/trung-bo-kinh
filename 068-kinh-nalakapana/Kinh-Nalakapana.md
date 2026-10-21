@@ -16,6 +16,13 @@ Cuối bài, Đức Thế Tôn tóm lại một lần nữa động cơ ấy, r�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 68: Kinh Naḷakapāna**](#trung-bộ-kinh--bài-kinh-số-68-kinh-naḷakapāna)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 68: Kinh Naḷakapāna
 
 *Naḷakapānasutta* — bài kinh thuyết tại Naḷakapāna, nơi Đức Thế Tôn hỏi các đệ tử trẻ tuổi vừa xuất gia xem họ có hoan hỷ trong đời sống phạm hạnh

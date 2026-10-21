@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Trong bài này, Đức Thế Tôn cho thấy Ngài coi trọng chuyện chịu trách nhiệm và giữ sự ngay thẳng đến mức nào. Ngài không nói suông về việc mở lòng tra vấn, mà vạch ra hẳn một quy trình chi tiết, khắt khe để học trò tự kiểm tra chính Ngài. Cách làm ấy có thể áp dụng cho bất cứ vị thầy tâm linh nào.]
 
 <!-- seg: mn47:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tinh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn47:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -13,7 +13,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn47:1.5 -->
-"Bạch Thế Tôn," các tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn47:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -30,7 +30,7 @@ Này các tỳ-kheo, một tỳ-kheo là người tư sát, chưa biết đượ
 "Vậy thì, này các tỳ-kheo, các ông hãy nghe và khéo tác ý, Ta sẽ nói."
 
 <!-- seg: mn47:3.3 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn47:3.4 -->
 Đức Thế Tôn nói như vầy:

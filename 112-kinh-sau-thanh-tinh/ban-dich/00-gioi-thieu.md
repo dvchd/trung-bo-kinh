@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-Bài kinh này là bài thứ 112 trong Trung Bộ Kinh, tên Pali là *Chabbisodhana Sutta*, nghĩa là bài kinh về sáu sự thanh tịnh. Bối cảnh rất giản dị: Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong khu vườn Jetavana (Kỳ Viên), và Ngài gọi các tỳ-kheo đến. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Chỉ có một tình huống mà cộng đồng tôn giáo nào cũng gặp: một người trong nhóm tuyên bố mình đã đạt kết quả cuối cùng.
+Bài kinh này là bài thứ 112 trong Trung Bộ Kinh, tên Pali là *Chabbisodhana Sutta*, nghĩa là bài kinh về sáu sự thanh tịnh. Bối cảnh rất giản dị: Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong khu vườn rừng Jeta (Kỳ-đà), và Ngài gọi các tỳ-kheo đến. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Chỉ có một tình huống mà cộng đồng tôn giáo nào cũng gặp: một người trong nhóm tuyên bố mình đã đạt kết quả cuối cùng.
 
 Lời tuyên bố ấy là một công thức quen thuộc: sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa. Với người ngoài, đó là lời nói không thể kiểm chứng. Cách xử lý của Đức Thế Tôn rất đáng chú ý: Ngài không bảo các tỳ-kheo tin ngay, cũng không bảo gạt phắt đi. Ngài dạy rằng đừng hoan hỷ, cũng đừng bác bỏ, mà hãy hỏi. Bài kinh vì thế là một quy trình thẩm định, chứ không phải một buổi lễ tuyên bố.
 

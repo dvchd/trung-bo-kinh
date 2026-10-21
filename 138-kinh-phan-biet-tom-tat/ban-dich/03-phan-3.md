@@ -143,7 +143,7 @@ Này các tỳ-kheo, nếu các ông đến hỏi Ta về việc này, Ta cũng 
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn138:24.5 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn138:24.6 -->
 Kinh Phân Biệt Tóm Tắt, bài thứ tám, đến đây là hết.

@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: So với bài 61, ở đây Đức Thế Tôn giao cho Rāhula những phép tu tập cao hơn và giới thiệu nhiều cách thiền khác nhau. Cấu trúc khác thường của bài làm người ta đặt câu hỏi về tính lịch sử của nó; những chi tiết liên quan đã được ghi lại dọc đường, và điều này sẽ được bàn trong chú thích cuối bài.]
 
 <!-- seg: mn62:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn62:2.1 -->
 Rồi vào buổi sáng, Đức Thế Tôn đắp y, mang bát và y, đi vào Sāvatthī để khất thực.

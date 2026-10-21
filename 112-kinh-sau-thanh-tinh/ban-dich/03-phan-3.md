@@ -130,9 +130,9 @@ vì chúng tôi được thấy một vị đồng phạm hạnh như vị đây
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn112:21.6 -->
-Các vị tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
-[Chú thích: Tên bài kinh nói đến sáu sự thanh tịnh, nhưng bản Pali chỉ có năm mục. Chú giải đưa ra vài cách giải thích, trong đó các vị Trưởng lão hải ngoại cho rằng văn bản phải có thêm phần bốn loại thức ăn, và bản Hán tương đương quả thật có phần ấy. Như vậy một ký ức chính xác về văn bản vẫn được lưu giữ trong truyền thống chú giải, dù chính văn bản đã mất một phần.]
+
 
 <!-- seg: mn112:21.7 -->
 Kinh Sáu Thanh Tịnh đã kết thúc, bài thứ hai.

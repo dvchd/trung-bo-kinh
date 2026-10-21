@@ -100,7 +100,7 @@ Cũng vậy, này các tỳ-kheo, vị tỳ-kheo có đủ mười lăm chi ph�
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn16:27.9 -->
-Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn16:27.10 -->
 Kinh Tâm Hoang Vu, bài thứ sáu, đã hoàn thành.

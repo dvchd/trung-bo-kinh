@@ -434,7 +434,7 @@ Này các tỳ-kheo, vị tỳ-kheo trả lời như vậy thì không tán dư�
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn103:17.8 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn103:17.9 -->
 Kinh Như Thế Nào hoàn tất, bài thứ ba.

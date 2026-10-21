@@ -48,7 +48,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn149:1.5 -->
-"Thưa Ngài," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn149:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -62,7 +62,7 @@ Này các tỳ-kheo, Ta sẽ dạy các ông bài giảng lớn về sáu xứ.
 Hãy nghe và khéo tác ý, Ta sẽ nói.
 
 <!-- seg: mn149:2.3 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn149:2.4 -->
 Đức Thế Tôn nói như vầy:

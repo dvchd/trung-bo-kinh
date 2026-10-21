@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn21:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn21:2.1 -->
 Lúc bấy giờ, tỳ-kheo Moḷiyaphagguna sống gần gũi, thân thiết quá mức với các tỳ-kheo-ni.

@@ -20,7 +20,7 @@ Với người biết như vậy, thấy như vậy, tâm được giải thoát
 Khi đã được giải thoát, vị ấy biết rõ: 'Ta đã được giải thoát.'
 
 <!-- seg: mn39:21.6 -->
-Vị ấy như thật biết rõ: 'Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn39:21.7 -->
 Này các tỳ-kheo, ví như trong một khe núi có một hồ nước trong, sáng, không đục.

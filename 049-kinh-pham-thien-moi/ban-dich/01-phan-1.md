@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này là một sự kết hợp độc đáo giữa triết lý cao siêu và kịch tính vũ trụ, dựng lên một liên minh khó tưởng tượng giữa cái mà trong thuật ngữ Ki-tô giáo gọi là Thượng đế và Ma vương. Tuy vậy, vì văn bản có nhiều chỗ khó và cách đọc không chắc chắn, nên thận trọng khi luận giải.]
 
 <!-- seg: mn49:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú gần Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn49:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -13,13 +13,13 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn49:1.5 -->
-"Thưa Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn49:1.6 -->
 Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn49:2.1 -->
-Này các tỳ-kheo, có một thuở Ta đang trú tại Ukkaṭṭhā, trong rừng Subhaga, dưới gốc cây sa-la vua.
+Này các tỳ-kheo, có một thuở Ta trú tại Ukkaṭṭhā, trong rừng Subhaga, dưới gốc cây sa-la vua.
 
 [Chú thích: SN 6.4 mở đầu bằng những sự kiện tương tự nhưng lấy bối cảnh Sāvatthī và không nhắc đến Ukkaṭṭhā; còn Ukkaṭṭhā là bối cảnh của MN 1, bài kinh có chung vài chủ đề với bài này. Cả hai bài đều phê phán triết lý tinh vi của các bà-la-môn xứ Kosala, nên cùng lấy bối cảnh là thị trấn của vị thủ lĩnh Pokkharasāti (DN 3:1.2.1).]
 

@@ -112,7 +112,7 @@ Vị ấy tránh xa việc nhận voi, bò, ngựa và ngựa cái.
 <!-- seg: mn27:13.21 -->
 Vị ấy tránh xa việc nhận ruộng đất.
 
-[Chú thích: Đất để xây tinh xá có thể được Tăng đoàn nhận với tư cách tập thể, nhưng cá nhân tỳ-kheo thì không.]
+[Chú thích: Đất để xây tịnh xá có thể được Tăng đoàn nhận với tư cách tập thể, nhưng cá nhân tỳ-kheo thì không.]
 
 <!-- seg: mn27:13.22 -->
 Vị ấy tránh xa việc làm sứ giả, đưa tin, đi lại lo việc ấy.
@@ -122,7 +122,7 @@ Vị ấy tránh xa việc làm sứ giả, đưa tin, đi lại lo việc ấy.
 <!-- seg: mn27:13.23 -->
 Vị ấy tránh xa việc mua bán.
 
-[Chú thích: Chẳng hạn như mua bán tài sản của tinh xá.]
+[Chú thích: Chẳng hạn như mua bán tài sản của tịnh xá.]
 
 <!-- seg: mn27:13.24 -->
 Vị ấy tránh xa việc cân thiếu, đo gian, lường giả.

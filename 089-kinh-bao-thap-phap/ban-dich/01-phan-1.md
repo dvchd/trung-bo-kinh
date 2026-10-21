@@ -61,7 +61,7 @@ Vậy này Kārāyana, hiện nay Đức Thế Tôn, bậc A-la-hán, bậc Chá
 "Thưa đại vương, có một thị trấn của người Sakka tên là Medāḷumpa.
 
 <!-- seg: mn89:5.2 -->
-Đức Thế Tôn, bậc A-la-hán, bậc Chánh đẳng giác, hiện đang trú tại đó."
+Đức Thế Tôn, bậc A-la-hán, bậc Chánh đẳng giác, hiện trú tại đó."
 
 <!-- seg: mn89:5.3 -->
 "Nhưng này Kārāyana, từ Nagaraka đến thị trấn Medāḷumpa của người Sakka xa bao nhiêu?"

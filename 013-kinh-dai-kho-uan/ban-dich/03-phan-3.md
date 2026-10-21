@@ -153,7 +153,7 @@ Còn những sa-môn hay bà-la-môn nào như thật biết rõ sự thích th�
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn13:38.4 -->
-Các vị tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn13:38.5 -->
 Kinh Đại Khổ Uẩn, bài thứ ba, đã hoàn thành.

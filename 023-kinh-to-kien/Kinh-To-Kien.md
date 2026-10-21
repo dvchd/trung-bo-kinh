@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Tổ Kiến** (*Vammika Sutta*) là bài kinh thứ 23 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh thứ hai của Kinh tạng Pali. Bài kinh rất ngắn, chỉ hơn một trăm đoạn, và gần như trọn vẹn là một câu đố. Bối cảnh là Sāvatthī (Xá-vệ), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc). Đêm ấy, Tôn giả Kumārakassapa trú trong rừng Andhavana, một khu rừng rậm ở phía nam thành. Khi đêm đã về khuya, một vị trời hiện ra, chiếu sáng cả khu rừng, và nói với Tôn giả một chuỗi hình ảnh lạ lùng.
+**Kinh Tổ Kiến** (*Vammika Sutta*) là bài kinh thứ 23 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh thứ hai của Kinh tạng Pali. Bài kinh rất ngắn, chỉ hơn một trăm đoạn, và gần như trọn vẹn là một câu đố. Bối cảnh là Sāvatthī (Xá-vệ), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc). Đêm ấy, Tôn giả Kumārakassapa trú trong rừng Andhavana, một khu rừng rậm ở phía nam thành. Khi đêm đã về khuya, một vị trời hiện ra, chiếu sáng cả khu rừng, và nói với Tôn giả một chuỗi hình ảnh lạ lùng.
 
 Vị trời nói: này tỳ-kheo, tổ kiến này ban đêm bốc khói, ban ngày bùng cháy. Rồi vị ấy kể lại lời của một vị bà-la-môn: hãy đào đi, này người khôn ngoan, sau khi đã cầm lấy thanh gươm. Người ấy đào xuống và lần lượt gặp tám thứ: một chướng ngại, một con ễnh ương, một con đường rẽ đôi, một cái lọc tro, một con rùa, một con dao với một cái thớt, một miếng thịt, và cuối cùng là một con rắn hổ mang chúa. Bảy thứ đầu đều bị bảo phải dẹp đi, riêng con rắn thì được bảo để yên, chớ chạm đến, và hãy đảnh lễ nó. Vị trời nói thêm rằng không ai trên đời này có thể giải được câu đố ấy, trừ Như Lai, đệ tử của Như Lai, hoặc người đã nghe lại từ hai bên ấy. Nói xong, vị ấy biến mất.
 
@@ -41,7 +41,7 @@ Bài kinh này không dạy một nghi lễ nào, cũng không hứa hẹn gì �
 Tôi nghe như vầy.
 
 <!-- seg: mn23:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú gần Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà Lâm), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn23:1.3 -->
 Lúc bấy giờ, Tôn giả Kumārakassapa (Cưu-ma-la Ca-diếp) trú trong rừng Andhavana.

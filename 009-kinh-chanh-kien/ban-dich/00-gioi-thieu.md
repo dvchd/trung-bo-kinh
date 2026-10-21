@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Chánh Kiến** (*Sammādiṭṭhi Sutta*) là bài thứ chín trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài giảng diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên). Điều đáng chú ý là người nói không phải Đức Thế Tôn mà là Tôn giả Sāriputta (Xá-lợi-phất), một trong hai vị đệ tử chính của Ngài, nổi tiếng nhất về trí tuệ. Ông dạy một nhóm tỳ-kheo, tức những vị xuất gia sống bằng khất thực, về chánh kiến.
+**Kinh Chánh Kiến** (*Sammādiṭṭhi Sutta*) là bài thứ chín trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài giảng diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà). Điều đáng chú ý là người nói không phải Đức Thế Tôn mà là Tôn giả Sāriputta (Xá-lợi-phất), một trong hai vị đệ tử chính của Ngài, nổi tiếng nhất về trí tuệ. Ông dạy một nhóm tỳ-kheo, tức những vị xuất gia sống bằng khất thực, về chánh kiến.
 
 Chánh kiến nghĩa là cái thấy đúng, và đây là yếu tố đầu tiên trong con đường tám nhánh dẫn đến chấm dứt khổ. Nhưng thấy đúng là thấy cái gì? Bài kinh trả lời câu hỏi ấy bằng nhiều lớp, và mỗi lớp lại đặt ra một câu hỏi mới. Cách dạy này khiến người đọc hôm nay có thể theo dõi từng bước, không phải nuốt trọn một khối giáo lý.
 

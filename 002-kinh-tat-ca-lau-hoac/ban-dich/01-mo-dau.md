@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Cũng như Trường Bộ Kinh, Trung Bộ Kinh mở đầu bằng một bài mang nặng triết lý (Phạm Võng, Căn Bản Pháp Môn), rồi tiếp theo là một bài thiên về thực hành (Sa-môn Quả, Tất Cả Lậu Hoặc).]
 
 <!-- seg: mn2:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tinh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn2:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -13,7 +13,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn2:1.5 -->
-"Thưa Thế Tôn," các tỳ-kheo đáp lời.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn2:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -29,7 +29,7 @@ Hãy lắng nghe và khéo chú tâm, Ta sẽ nói.
 [Chú thích: Lời mở đầu này theo đúng khuôn của bài kinh số 1.]
 
 <!-- seg: mn2:2.3 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn2:2.4 -->
 Đức Thế Tôn nói như vầy:

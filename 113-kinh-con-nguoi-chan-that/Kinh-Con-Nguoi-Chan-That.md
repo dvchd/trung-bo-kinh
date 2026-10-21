@@ -16,6 +16,13 @@ Người đọc lần đầu sẽ thấy bài kinh lặp nhiều. Xin đừng b�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 113: Kinh Con Người Chân Thật**](#trung-bộ-kinh--bài-kinh-số-113-kinh-con-người-chân-thật)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 113: Kinh Con Người Chân Thật
 
 *Sappurisa Sutta* — bài kinh về con người chân thật và kẻ không chân thật
@@ -32,7 +39,7 @@ Người đọc lần đầu sẽ thấy bài kinh lặp nhiều. Xin đừng b�
 Tôi nghe như vầy.
 
 <!-- seg: mn113:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú gần Sāvatthī (Xá-vệ), tại Jetavana (Kỳ Viên), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn113:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -41,7 +48,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn113:1.5 -->
-"Bạch Thế Tôn!", các tỳ-kheo ấy đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn113:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -53,7 +60,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 Hãy lắng nghe và chú tâm cho kỹ, Ta sẽ nói."
 
 <!-- seg: mn113:2.3 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo ấy đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn113:2.4 -->
 Đức Thế Tôn nói như vầy:
@@ -685,7 +692,7 @@ Hơn nữa, này các tỳ-kheo, người chân thật vượt qua hoàn toàn x
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn113:29.4 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn113:29.5 -->
 Kinh Con Người Chân Thật, bài thứ ba, đã kết thúc.

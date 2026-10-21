@@ -31,6 +31,13 @@ bằng lời dặn các tỳ-kheo học cho được điều ấy, và một l�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 139: Kinh Phân Biệt Không Tranh Cãi**](#trung-bộ-kinh--bài-kinh-số-139-kinh-phân-biệt-không-tranh-cãi)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 139: Kinh Phân Biệt Không Tranh Cãi
 
 *Araṇavibhaṅga Sutta* — bài phân tích về không tranh cãi
@@ -47,7 +54,7 @@ bằng lời dặn các tỳ-kheo học cho được điều ấy, và một l�
 Tôi nghe như vầy.
 
 <!-- seg: mn139:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn139:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -56,7 +63,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn139:1.5 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn139:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -70,7 +77,7 @@ Này các tỳ-kheo, Ta sẽ giảng cho các ông bài phân tích về không 
 Hãy nghe và khéo tác ý, Ta sẽ nói.
 
 <!-- seg: mn139:2.3 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn139:2.4 -->
 Đức Thế Tôn nói như vầy:
@@ -655,7 +662,7 @@ Và này các tỳ-kheo, thiện nam tử Subhūti đã thực hành con đườ
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn139:14.5 -->
-Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn139:14.6 -->
 Kinh Phân Biệt Không Tranh Cãi, bài thứ chín, đến đây là hết.

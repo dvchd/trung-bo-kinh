@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn9:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tịnh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn9:1.3 -->
 Tại đó, Tôn giả Sāriputta (Xá-lợi-phất) gọi các tỳ-kheo:

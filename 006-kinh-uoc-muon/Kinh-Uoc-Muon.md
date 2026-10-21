@@ -39,7 +39,7 @@ Cuối bài có một chi tiết đáng nhớ. Sau khi đi hết mười bảy �
 Tôi nghe như vầy.
 
 <!-- seg: mn6:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà-lâm), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn6:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -48,7 +48,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn6:1.5 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn6:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -195,7 +195,7 @@ Vị ấy hãy giữ giới cho trọn vẹn, chuyên tâm vào sự lặng yên
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn6:20.4 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn6:20.5 -->
 Kinh Ước Muốn, bài thứ sáu, đã hoàn thành.

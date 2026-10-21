@@ -137,7 +137,7 @@ Ngài đi từng chặng một trên đường du hành rồi đến Bārāṇas
 Tại đó, này Ānanda, Đức Thế Tôn Kassapa trú tại Bārāṇasī, trong vườn nai Isipatana, tức Lộc Uyển.
 
 <!-- seg: mn81:14.1 -->
-Vua Kikī nước Kāsi (Ca-thi) nghe tin: "Đức Thế Tôn Kassapa, bậc A-la-hán, Chánh đẳng giác, đã đến Bārāṇasī và đang trú tại Bārāṇasī, trong vườn nai Isipatana."
+Vua Kikī nước Kāsi (Ca-thi) nghe tin: "Đức Thế Tôn Kassapa, bậc A-la-hán, Chánh đẳng giác, đã đến Bārāṇasī và trú tại Bārāṇasī, trong vườn nai Isipatana."
 
 [Chú thích: Kikī, nghĩa là "chim giẻ cùi xanh", cũng là vị vua trong thời Đức Thế Tôn Kassapa ở DN 14 và không thấy có trong các bản phả hệ Purāṇa. Vào thời Đức Thế Tôn, thành Bārāṇasī đã bị chinh phục nhiều lần và lần lượt thuộc về Kosala rồi Magadha; bài kinh này cho thấy vị vua cổ thật sự của thành ấy lại chính là đệ tử của một vị Phật trong quá khứ.]
 

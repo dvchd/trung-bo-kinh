@@ -97,7 +97,7 @@ Sau khi ngồi xuống một bên, Saccaka, con của các du sĩ Ni-kiền-tử
 <!-- seg: mn35:30.6 -->
 "Này Aggivessana, phước nào có được nhờ hướng đến một người nhận cúng dường như ông, người chưa ly tham, chưa ly sân, chưa ly si, thì phước ấy sẽ thuộc về những người thí chủ.
 
-[Chú thích: Theo một bản Hán tương ứng, lời này được Đức Thế Tôn nói để trả lời câu hỏi của các tỳ-kheo sau khi Ngài trở về tinh xá.]
+[Chú thích: Theo một bản Hán tương ứng, lời này được Đức Thế Tôn nói để trả lời câu hỏi của các tỳ-kheo sau khi Ngài trở về tịnh xá.]
 
 <!-- seg: mn35:30.7 -->
 Còn này Aggivessana, phước nào có được nhờ hướng đến một người nhận cúng dường như Ta, người đã ly tham, đã ly sân, đã ly si, thì phước ấy sẽ thuộc về ông."

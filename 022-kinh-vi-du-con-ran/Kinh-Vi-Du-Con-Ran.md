@@ -41,7 +41,7 @@ Người đọc hôm nay có thể đọc bài kinh này như một lời cảnh
 Tôi nghe như vầy.
 
 <!-- seg: mn22:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú gần Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà Lâm), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn22:2.1 -->
 Lúc bấy giờ, tỳ-kheo tên Ariṭṭha, trước đây làm nghề bẫy kền kền, đã khởi lên một ác kiến như vầy:
@@ -940,7 +940,7 @@ Thấy như vậy, này các tỳ-kheo, vị Thánh đệ tử đã nghe pháp n
 Do nhàm chán, vị ấy ly tham; do ly tham, vị ấy giải thoát; khi đã giải thoát, vị ấy biết mình đã giải thoát.
 
 <!-- seg: mn22:29.2 -->
-Vị ấy biết rõ: 'Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại đời sống này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn22:30.1 -->
 Này các tỳ-kheo, vị tỳ-kheo ấy được gọi là bậc đã nhấc then cài, đã lấp hào, đã nhổ cột trụ, đã không còn then chốt, là bậc Thánh đã hạ cờ, đã buông gánh nặng, đã thoát ly.
@@ -1215,7 +1215,7 @@ Này các tỳ-kheo, trong pháp đã được Ta khéo giảng ấy — rõ rà
 Đức Thế Tôn đã nói như vậy.
 
 <!-- seg: mn22:47.4 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn22:47.5 -->
 Kinh Ví Dụ Con Rắn, bài thứ hai, đã hoàn thành.

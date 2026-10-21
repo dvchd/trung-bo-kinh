@@ -103,7 +103,7 @@ Khi nghe vậy, Tôn giả Mahāmoggallāna nói với Tôn giả Sāriputta r�
 "Thưa Tôn giả Moggallāna, xin ngài cứ nói ra."
 
 <!-- seg: mn5:31.4 -->
-Thưa Tôn giả, có một lần tôi đang trú tại Rājagaha (Vương Xá), ở Giribbaja.
+Thưa Tôn giả, có một lần tôi trú tại Rājagaha (Vương Xá), ở Giribbaja.
 
 [Chú thích: Giribbaja là tên cũ của Rājagaha và vùng phụ cận, nổi tiếng vì được một dãy núi bao quanh.]
 

@@ -66,7 +66,7 @@ Do không tạo tác, không cố ý tạo ra vì sự hiện hữu hay vì sự
 không nắm giữ nên không run sợ; không run sợ nên tự mình nhập Niết-bàn ngay tại đây.
 
 <!-- seg: mn140:22.13 -->
-Vị ấy biết rõ: "Sanh đã tận, phạm hạnh đã sống trọn, việc cần làm đã làm, không còn trở lại đời này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn140:23.1 -->
 Nếu đang cảm thọ lạc thọ, vị ấy biết rõ: "Thọ ấy là vô thường"; biết rõ: "Thọ ấy không còn được bám víu"; biết rõ: "Thọ ấy không còn được hoan hỷ".

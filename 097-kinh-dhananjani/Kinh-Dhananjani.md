@@ -39,7 +39,7 @@ Dhanañjāni qua đời không lâu sau đó và tái sinh vào cõi Phạm Thi�
 Tôi nghe như vầy.
 
 <!-- seg: mn97:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), trong rừng Veḷuvana (Trúc Lâm), tại khu nuôi dưỡng sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn97:2.1 -->
 Lúc bấy giờ, Tôn giả Sāriputta đang du hành ở Dakkhiṇāgiri, tức vùng đồi phía nam, cùng với một Tăng đoàn tỳ-kheo đông đảo.
@@ -110,7 +110,7 @@ Rồi Tôn giả Sāriputta ở lại Dakkhiṇāgiri bao lâu tùy thích, rồ
 Du hành từng chặng một, Ngài đến Rājagaha,
 
 <!-- seg: mn97:3.3 -->
-và trú tại đó, trong rừng Veḷuvana, khu nuôi dưỡng sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn97:4.1 -->
 Rồi Tôn giả Sāriputta vào buổi sáng đắp y, mang bát và y, vào Rājagaha khất thực.

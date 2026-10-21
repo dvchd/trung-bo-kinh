@@ -29,15 +29,15 @@ Thấy như vậy, này các tỳ-kheo, bậc thánh đệ tử đã nghe Pháp 
 Do nhàm chán nên ly tham; do ly tham nên được giải thoát. Nơi vị đã giải thoát, khởi lên trí biết rằng: 'Ta đã giải thoát.'
 
 <!-- seg: mn109:18.2 -->
-Vị ấy biết rõ: 'Sanh đã tận, phạm hạnh đã sống trọn, việc cần làm đã làm, không còn trở lại đời này nữa.'"
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn109:18.3 -->
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn109:18.4 -->
-Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
-[Chú thích: Bản tương đương ở Tương Ưng 22.82:15.1 có phần kết hoàn toàn khác. Thường những đoạn như vậy được thêm vào sau để khép lại phần giảng dạy, và ngay trong các bản Pali đã có nhiều dị biệt, chưa nói tới bản Hán và các bản tương đương khác.]
+
 
 <!-- seg: mn109:18.5 -->
 Và trong khi lời giải đáp này đang được nói, tâm của sáu mươi vị tỳ-kheo được giải thoát khỏi các lậu hoặc, không còn chấp thủ.

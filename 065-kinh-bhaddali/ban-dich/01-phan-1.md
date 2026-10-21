@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn65:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà-lâm), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn65:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -11,7 +11,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn65:1.5 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn65:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -104,7 +104,7 @@ Bạch Thế Tôn, xin Ngài nhận lỗi ấy của con là lỗi, để về s
 Này Bhaddāli, ông đã không nhận ra tình huống này:
 
 <!-- seg: mn65:9.2 -->
-'Đức Thế Tôn đang trú tại Sāvatthī, và Đức Thế Tôn cũng sẽ biết ta—
+'Đức Thế Tôn trú tại Sāvatthī, và Đức Thế Tôn cũng sẽ biết ta—
 
 <!-- seg: mn65:9.3 -->
 là tỳ-kheo tên Bhaddāli, kẻ không làm tròn sự học tập theo lời dạy của bậc Đạo sư.'

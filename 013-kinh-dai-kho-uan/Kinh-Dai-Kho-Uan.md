@@ -39,7 +39,7 @@ Cái tên "khổ uẩn" không có nghĩa là bài kinh chỉ nói về khổ. N
 Tôi nghe như vầy.
 
 <!-- seg: mn13:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn13:2.1 -->
 Rồi vào buổi sáng, nhiều vị tỳ-kheo đắp y, mang bát và y đi vào Sāvatthī để khất thực.
@@ -518,7 +518,7 @@ Còn những sa-môn hay bà-la-môn nào như thật biết rõ sự thích th�
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn13:38.4 -->
-Các vị tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn13:38.5 -->
 Kinh Đại Khổ Uẩn, bài thứ ba, đã hoàn thành.

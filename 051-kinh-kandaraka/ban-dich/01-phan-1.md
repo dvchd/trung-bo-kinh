@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn51:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Campā (Chiêm-bà), bên bờ hồ sen Gaggarā, cùng với một đại chúng tỳ-kheo.
+Một thuở nọ, Đức Thế Tôn trú tại Campā (Chiêm-bà), bên bờ hồ sen Gaggarā, cùng với một đại chúng tỳ-kheo.
 
 [Chú thích: Campā là thị trấn Champapur ngày nay, gần Bhagalpur thuộc bang Bihar, vào khoảng nơi xa nhất về phía đông trong các chuyến đi của Đức Thế Tôn; đây là kinh đô của xứ Aṅga, một trong mười sáu nước lớn. Gaggarā là một từ láy tượng thanh, mô phỏng tiếng nước ục ục, và là tên của nhiều con sông hay xoáy nước trong tiếng Phạn.]
 

@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh thuật lại cách ngài Sāriputta thực hành tuệ quán cho đến khi chứng quả A-la-hán, lấp vào khoảng trống giữa lúc chứng quả Dự lưu và quả A-la-hán. Đoạn văn nhắc rằng khi một câu chuyện kể ai đó chứng ngộ trong lúc nghe pháp, phía sau thường có một quá trình thực hành dài. Nhiều dấu hiệu cho thấy đây là một trong những bài kinh xuất hiện muộn: không có bản tương đương, phần trình bày chi tiết lạ thường, và có những thuật ngữ chỉ gặp trong các văn bản về sau.]
 
 <!-- seg: mn111:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ Viên), tinh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn111:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -13,7 +13,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn111:1.5 -->
-"Bạch Thế Tôn," các vị tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn111:1.6 -->
 Đức Thế Tôn nói như vầy:

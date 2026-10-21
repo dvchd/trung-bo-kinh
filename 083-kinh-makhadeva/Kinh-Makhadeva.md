@@ -43,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Câu chuyện này còn được kể trong Kinh Bổn Sanh Maghadeva (Ja 9) và Kinh Bổn Sanh Nimi (Ja 541).]
 
 <!-- seg: mn83:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Mithilā, trong vườn xoài Maghadeva.
+Một thuở nọ, Đức Thế Tôn trú tại Mithilā, trong vườn xoài Maghadeva.
 
 [Chú thích: Mithilā là kinh đô của xứ Videha (Tỳ-đề-ha), nằm ở phía đông bắc liên bang Vajjī, nép mình dưới chân dãy Himalaya. Trước thời Đức Thế Tôn, đây từng là một vương quốc hùng mạnh, về sau suy yếu và ít xuất hiện trong kinh điển.]
 

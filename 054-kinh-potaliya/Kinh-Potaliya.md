@@ -14,6 +14,14 @@ Cuối bài, Đức Thế Tôn hỏi Potaliya có thấy nơi mình một sự c
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 54: Kinh Potaliya**](#trung-bộ-kinh--bài-kinh-số-54-kinh-potaliya)
+- [**1. Bàn về những nguy hại của các dục**](#1-bàn-về-những-nguy-hại-của-các-dục)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 54: Kinh Potaliya
 
 *Potaliya Sutta* — bài kinh về gia chủ Potaliya

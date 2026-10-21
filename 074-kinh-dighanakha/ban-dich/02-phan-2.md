@@ -115,7 +115,7 @@ Này Aggivessana, thấy vậy, vị thánh đệ tử đã nghe nhiều nhàm c
 do nhàm chán nên ly tham; do ly tham nên được giải thoát. Khi được giải thoát, vị ấy biết: "Ta đã được giải thoát."
 
 <!-- seg: mn74:12.3 -->
-Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại đời này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn74:13.1 -->
 Này Aggivessana, vị tỳ-kheo có tâm giải thoát như vậy không theo phe ai, không tranh cãi với ai. Điều gì người đời nói, vị ấy cũng dùng lời ấy mà nói, nhưng không nắm chặt vào.

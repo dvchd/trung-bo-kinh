@@ -96,7 +96,7 @@ Dẫu vậy, này các tỳ-kheo, chỉ với chừng ấy, Pessa con trai ngư�
 "Vậy thì, này các tỳ-kheo, hãy nghe và khéo tác ý; Ta sẽ giảng."
 
 <!-- seg: mn51:7.9 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn51:7.10 -->
 Đức Thế Tôn nói như vầy:

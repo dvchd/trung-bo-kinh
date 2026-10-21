@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Vacchagotta về Lửa** (*Aggivacchagotta Sutta*) là bài thứ bảy mươi hai trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong tịnh xá Jetavana (Kỳ-đà-lâm) của Anāthapiṇḍika (Cấp Cô Độc). Nhân vật chính là Vacchagotta, một du sĩ, tức người đã rời nhà, sống lang thang khất thực, không thuộc Tăng đoàn nào và nổi tiếng hay đặt những câu hỏi lớn. Ông đến gặp Đức Thế Tôn và lần lượt hỏi mười câu, mỗi câu là một cách khẳng định về thế giới và về số phận con người sau khi chết.
+**Kinh Vacchagotta về Lửa** (*Aggivacchagotta Sutta*) là bài thứ bảy mươi hai trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong tịnh xá rừng Jeta (Kỳ-đà) của Anāthapiṇḍika (Cấp Cô Độc). Nhân vật chính là Vacchagotta, một du sĩ, tức người đã rời nhà, sống lang thang khất thực, không thuộc Tăng đoàn nào và nổi tiếng hay đặt những câu hỏi lớn. Ông đến gặp Đức Thế Tôn và lần lượt hỏi mười câu, mỗi câu là một cách khẳng định về thế giới và về số phận con người sau khi chết.
 
 Mười câu hỏi ấy là những vấn đề lớn của thời đại: thế giới là thường hằng hay vô thường, có giới hạn hay không có giới hạn; linh hồn và thân xác là một hay là hai thứ khác nhau; và sau khi chết, một bậc đã giác ngộ còn tồn tại, không tồn tại, vừa tồn tại vừa không tồn tại, hay không tồn tại cũng không phải không tồn tại. Với mỗi câu, Đức Thế Tôn đều trả lời: "Này Vaccha, ta không có kiến chấp như vậy."
 

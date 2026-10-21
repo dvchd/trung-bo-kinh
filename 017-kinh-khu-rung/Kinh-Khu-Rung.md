@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Khu Rừng** (*Vanapattha Sutta*) là bài kinh thứ 17 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng Pali. Bài rất ngắn, gần như chỉ có một khuôn câu lặp đi lặp lại, nhưng câu hỏi nó đặt ra thì rất thiết thân: một người đi tu nên sống ở đâu? Bối cảnh là tu viện của Anāthapiṇḍika trong rừng Jeta, ngoại thành Sāvatthī; Đức Thế Tôn gọi các tỳ-kheo lại và nói sẽ giảng cho họ "bài giảng về khu rừng". Cái tên ấy không chỉ nói về rừng cây, vì trong bài, chỗ nương tựa lần lượt là khu rừng, ngôi làng, thị trấn, thành phố, miền đất, và cuối cùng là một con người.
+**Kinh Khu Rừng** (*Vanapattha Sutta*) là bài kinh thứ 17 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng Pali. Bài rất ngắn, gần như chỉ có một khuôn câu lặp đi lặp lại, nhưng câu hỏi nó đặt ra thì rất thiết thân: một người đi tu nên sống ở đâu? Bối cảnh là tịnh xá của Anāthapiṇḍika trong rừng Jeta, ngoại thành Sāvatthī; Đức Thế Tôn gọi các tỳ-kheo lại và nói sẽ giảng cho họ "bài giảng về khu rừng". Cái tên ấy không chỉ nói về rừng cây, vì trong bài, chỗ nương tựa lần lượt là khu rừng, ngôi làng, thị trấn, thành phố, miền đất, và cuối cùng là một con người.
 
 Cách Đức Thế Tôn đánh giá mỗi nơi rất giản dị, chỉ dựa trên hai câu hỏi. Thứ nhất, khi sống ở đó, tâm có tiến bộ không: chánh niệm, tức sự tỉnh giác với những gì đang diễn ra, có được thiết lập; tâm có định tĩnh; các lậu hoặc, tức những ô nhiễm sâu kín của tâm, có đi đến chỗ diệt tận; và có chứng được sự an ổn khỏi các ách phược, tức khỏi những trói buộc của tâm, hay không. Thứ hai, những vật dụng cần cho đời sống — y áo, cơm khất thực, chỗ ở, thuốc men — có dễ kiếm hay không.
 
@@ -39,7 +39,7 @@ Với người đọc hôm nay, bài kinh không bắt buộc phải vào rừng
 Tôi nghe như vầy.
 
 <!-- seg: mn17:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang an trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn17:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -48,7 +48,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn17:1.5 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn17:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -291,7 +291,7 @@ Này các tỳ-kheo, vị tỳ-kheo ấy phải nương theo người ấy cho �
 Đức Thế Tôn đã nói như vầy.
 
 <!-- seg: mn17:26.9 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn17:26.10 -->
 Kinh Khu Rừng, bài thứ bảy, đã hoàn thành.

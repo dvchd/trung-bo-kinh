@@ -92,7 +92,7 @@ Với vị ấy biết như vậy, thấy như vậy, tâm được giải thoá
 Khi đã được giải thoát, vị ấy biết: "Ta đã được giải thoát."
 
 <!-- seg: mn101:45.3 -->
-Vị ấy biết: "Sinh đã diệt, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại nơi này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn101:45.4 -->
 Như vậy, này các tỳ-kheo, sự tinh cần là sinh quả, sự nỗ lực là sinh quả.

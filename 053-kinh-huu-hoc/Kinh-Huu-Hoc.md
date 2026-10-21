@@ -16,6 +16,13 @@ Bài kinh khép lại bằng một bài kệ của Phạm Thiên Sanaṅkumāra 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 53: Kinh Hữu Học**](#trung-bộ-kinh--bài-kinh-số-53-kinh-hữu-học)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 53: Kinh Hữu Học
 
 *Sekha Sutta* — bài kinh về bậc hữu học

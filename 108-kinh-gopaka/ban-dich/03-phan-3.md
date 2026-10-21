@@ -75,7 +75,7 @@ Rồi bà-la-môn Vassakāra, đại thần nước Magadha, nói với ngài Ā
 Quả thật, các ngài ấy thiền và quen nếp thiền.
 
 <!-- seg: mn108:25.8 -->
-Thưa ngài Ānanda, có một lần ngài Gotama ấy đang trú tại Vesālī (Tỳ-xá-li), trong Đại Lâm, tại giảng đường có mái nhọn.
+Thưa ngài Ānanda, có một lần ngài Gotama ấy trú tại Vesālī (Tỳ-xá-li), trong Đại Lâm, tại giảng đường có mái nhọn.
 
 <!-- seg: mn108:25.9 -->
 Rồi thưa ngài Ānanda, tôi đi đến Đại Lâm, đến giảng đường có mái nhọn, đến chỗ ngài Gotama ấy.

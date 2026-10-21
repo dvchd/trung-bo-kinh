@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Đại Kinh Người Chăn Bò** (*Mahāgopālakasutta*) là bài kinh thứ ba mươi ba trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong tịnh xá Jetavana (Kỳ-đà-lâm) của Anāthapiṇḍika (Cấp Cô Độc). Đức Thế Tôn gọi các tỳ-kheo lại và mở đầu bằng một nhận xét rất cụ thể: người chăn bò muốn giữ cho đàn bò khỏe mạnh và sinh sôi thì phải hội đủ mười một điều kiện; thiếu một điều, đàn bò sẽ không thể lớn mạnh.
+**Đại Kinh Người Chăn Bò** (*Mahāgopālakasutta*) là bài kinh thứ ba mươi ba trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong tịnh xá rừng Jeta (Kỳ-đà) của Anāthapiṇḍika (Cấp Cô Độc). Đức Thế Tôn gọi các tỳ-kheo lại và mở đầu bằng một nhận xét rất cụ thể: người chăn bò muốn giữ cho đàn bò khỏe mạnh và sinh sôi thì phải hội đủ mười một điều kiện; thiếu một điều, đàn bò sẽ không thể lớn mạnh.
 
 Nhìn bề ngoài, mười một điều kiện ấy chỉ là nghề chăn nuôi. Người chăn bò phải nhận ra từng con bò trong đàn, phải biết các dấu hiệu để phân biệt con này với con kia, phải bắt trứng ruồi bám trên mình bò, phải băng bó vết thương, phải đốt khói để xua ruồi và côn trùng, phải biết chỗ lội qua sông, phải biết lúc nào bò đã uống no, phải biết lối đi an toàn, phải biết đồng cỏ tốt, phải biết vắt sữa mà còn chừa lại một phần, và cuối cùng là phải tôn kính những con bò đực đầu đàn. Đây đều là những việc rất đời, ai từng nuôi bò cũng biết.
 
@@ -41,7 +41,7 @@ Với người đọc hôm nay, hình ảnh ấy vẫn còn sức nói. Một ng
 Tôi nghe như vầy.
 
 <!-- seg: mn33:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà-lâm), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn33:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -50,7 +50,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn33:1.5 -->
-"Thưa Ngài," các tỳ-kheo đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn33:1.6 -->
 Đức Thế Tôn nói như vầy:

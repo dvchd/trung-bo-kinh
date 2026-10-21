@@ -7,7 +7,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn42:2.1 -->
-Lúc bấy giờ, các bà-la-môn và gia chủ người Verañjā đang trú tại Sāvatthī, vì có một công việc nào đó cần làm.
+Lúc bấy giờ, các bà-la-môn và gia chủ người Verañjā trú tại Sāvatthī, vì có một công việc nào đó cần làm.
 
 [Chú thích: Vị trí của Verañjā đến nay chưa được xác định dứt khoát, nhưng thành ấy nằm giữa Madhurā và Soreyya. Có ý kiến cho rằng Verañjā chính là Atranjikhera, một gò đất lớn ở phía bắc Etah, bang Uttar Pradesh, nơi khai quật cho thấy bốn lớp cư trú, lớp muộn nhất thuộc văn hóa đồ gốm đen bóng phương Bắc của thời Đức Thế Tôn. Đây từng là nơi tụ họp của những người buôn ngựa từ Kashmir đi theo con đường phía bắc men theo sông Hằng.]
 
@@ -15,7 +15,7 @@ Lúc bấy giờ, các bà-la-môn và gia chủ người Verañjā đang trú t
 Các bà-la-môn và gia chủ người Verañjā nghe rằng:
 
 <!-- seg: mn42:2.3 -->
-Thưa các ngài, sa-môn Gotama, dòng dõi Sakya, xuất gia từ gia tộc Sakya, đang trú tại Sāvatthī, trong rừng Jeta, tại tịnh xá của Anāthapiṇḍika.
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn42:2.4 -->
 Về bậc Tôn giả Gotama ấy, tiếng tốt đã vang xa như vầy:

@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn133:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), ở Tapodārāma, tịnh xá có suối nước nóng.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), ở Tapodārāma, tịnh xá có suối nước nóng.
 
 [Chú thích: Suối nước nóng gần Rājagaha là nơi các tỳ-kheo thường đến tắm, đông đến mức phải đặt ra một giới luật để họ không chiếm độc suối. Suối ấy ngày nay vẫn còn và vẫn đông người dùng.]
 

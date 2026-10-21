@@ -16,6 +16,14 @@ Với người mới đọc kinh, bài này ngắn và dễ theo, vì nó không
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 40: Tiểu Kinh Assapura**](#trung-bộ-kinh--bài-kinh-số-40-tiểu-kinh-assapura)
+- [**Kệ tóm tắt phẩm**](#kệ-tóm-tắt-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 40: Tiểu Kinh Assapura
 
 *Cūḷaassapura Sutta* — "Tiểu Kinh Assapura", bài kinh giảng tại thị trấn Assapura
@@ -43,7 +51,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn40:1.5 -->
-"Bạch Thế Tôn!", các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn40:1.6 -->
 Đức Thế Tôn nói như vầy:

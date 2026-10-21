@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-Bài kinh này là bài thứ 115 trong Trung Bộ Kinh, tên Pali là *Bahudhātuka Sutta*, nghĩa đen là bài kinh nói về nhiều giới. Khung cảnh rất giản dị: tại Sāvatthī (Xá-vệ), trong khu vườn Jetavana (Kỳ Viên), Đức Thế Tôn gọi các tỳ-kheo lại. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Chỉ có một vị đệ tử là Ānanda (A-nan) hỏi hết câu này đến câu khác, và người thầy lần lượt trả lời. Hình thức ấy giống một buổi học hơn là một bài thuyết pháp: người hỏi không im lặng nghe mà chủ động mở từng cánh cửa, còn người dạy không giảng một mạch mà đi theo đúng câu hỏi. Cần nói ngay một điều về chữ "giới" trong tên bài. Trong tiếng Việt, người ta thường gặp chữ này trong "giới luật", tức các điều răn. Ở đây nó không có nghĩa ấy. *Dhātu* là thành tố, loại, phương diện, cái làm nên một thứ gì đó: đất, nước, lửa, gió là những giới của vật chất; lạc, khổ, hỷ, ưu là những giới của cảm thọ; dục và xuất ly, sân và không sân là những giới của tâm. Vì vậy "Kinh Nhiều Giới" là bài kinh dạy cách chia kinh nghiệm ra thành nhiều loại khác nhau để nhìn cho rõ, chứ không phải bài kinh về cách giữ giới.
+Bài kinh này là bài thứ 115 trong Trung Bộ Kinh, tên Pali là *Bahudhātuka Sutta*, nghĩa đen là bài kinh nói về nhiều giới. Khung cảnh rất giản dị: tại Sāvatthī (Xá-vệ), trong khu vườn rừng Jeta (Kỳ-đà), Đức Thế Tôn gọi các tỳ-kheo lại. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Chỉ có một vị đệ tử là Ānanda (A-nan) hỏi hết câu này đến câu khác, và người thầy lần lượt trả lời. Hình thức ấy giống một buổi học hơn là một bài thuyết pháp: người hỏi không im lặng nghe mà chủ động mở từng cánh cửa, còn người dạy không giảng một mạch mà đi theo đúng câu hỏi. Cần nói ngay một điều về chữ "giới" trong tên bài. Trong tiếng Việt, người ta thường gặp chữ này trong "giới luật", tức các điều răn. Ở đây nó không có nghĩa ấy. *Dhātu* là thành tố, loại, phương diện, cái làm nên một thứ gì đó: đất, nước, lửa, gió là những giới của vật chất; lạc, khổ, hỷ, ưu là những giới của cảm thọ; dục và xuất ly, sân và không sân là những giới của tâm. Vì vậy "Kinh Nhiều Giới" là bài kinh dạy cách chia kinh nghiệm ra thành nhiều loại khác nhau để nhìn cho rõ, chứ không phải bài kinh về cách giữ giới.
 
 Bài mở đầu bằng một câu nghe như châm ngôn: bất cứ hiểm họa nào sinh khởi, tất cả đều sinh khởi từ kẻ ngu, không phải từ người trí. Rồi Đức Thế Tôn đưa một hình ảnh rất cụ thể: một ngọn lửa bùng lên từ căn nhà tranh, từ căn nhà cỏ, rồi đốt cháy luôn cả tòa nhà lớn trát trong trát ngoài, kín gió, then cửa đã cài. Tòa nhà kiên cố ấy không tự bốc cháy; nó cháy vì ngọn lửa đến từ chỗ ọp ẹp bên cạnh. Cũng vậy, điều nguy hiểm không nằm ở người hiểu biết mà ở chỗ thiếu hiểu biết, và cái thiếu ấy lan từ người này sang cảnh vật, cả cộng đồng xung quanh. Cuối đoạn, Đức Thế Tôn rút ra một lời khuyên ngắn: các ông hãy học tập để trở thành người trí, thành bậc thẩm xét.
 
@@ -39,7 +39,7 @@ Người đọc hôm nay có thể hỏi: một bài kinh toàn danh sách như 
 Tôi nghe như vầy.
 
 <!-- seg: mn115:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ Viên), tinh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn115:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -48,7 +48,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn115:1.5 -->
-"Bạch Thế Tôn," các tỳ-kheo đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn115:1.6 -->
 Đức Thế Tôn nói như vầy:

@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Đại Kinh Bốn Mươi** (*Mahācattārīsaka Sutta*) là bài thứ 117 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài giảng diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), nơi Đức Thế Tôn trú ngụ cùng các tỳ-kheo. Người nghe là những vị xuất gia sống bằng khất thực, và bài kinh ghi lại trọn lời Ngài dạy trong một buổi ấy.
+**Đại Kinh Bốn Mươi** (*Mahācattārīsaka Sutta*) là bài thứ 117 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài giảng diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), nơi Đức Thế Tôn trú ngụ cùng các tỳ-kheo. Người nghe là những vị xuất gia sống bằng khất thực, và bài kinh ghi lại trọn lời Ngài dạy trong một buổi ấy.
 
 Tên bài nghe như một câu đố, nhưng nghĩa rất giản dị. Gần cuối bài, Đức Thế Tôn đếm lại những gì vừa giảng: hai mươi pháp thuộc phe thiện, hai mươi pháp thuộc phe bất thiện, cộng lại là bốn mươi. Vì thế bài có tên là Đại Kinh Bốn Mươi, để phân biệt với những bài cùng chủ đề ngắn hơn.
 
@@ -43,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Đây là một trong hai chỗ Trung Bộ Kinh trình bày trọn con đường tám nhánh; chỗ kia là bài 141, nơi từng nhánh được định nghĩa thật chi tiết. Bài này chú trọng sự tương tác giữa các nhánh, nhất là cách chúng nâng đỡ chánh định. Ý nghĩa tên kinh được giải thích ở đoạn cuối.]
 
 <!-- seg: mn117:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tịnh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn117:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -52,7 +52,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn117:1.5 -->
-"Thưa Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn117:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -528,7 +528,7 @@ Vì sợ bị chê trách, bị công kích và bị bắt lỗi.
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn117:38.5 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn117:38.6 -->
 Đại Kinh Bốn Mươi, bài thứ bảy, đến đây kết thúc.

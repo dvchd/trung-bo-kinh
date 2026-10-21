@@ -16,6 +16,13 @@ Bài kinh kết thúc bằng một chuỗi kệ dài, trong đó vị A-la-hán 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 86: Kinh Aṅgulimāla**](#trung-bộ-kinh--bài-kinh-số-86-kinh-aṅgulimāla)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 86: Kinh Aṅgulimāla
 
 *Aṅgulimāla Sutta* — bài kinh về Aṅgulimāla, kẻ cướp mang vòng hoa bằng ngón tay người
@@ -34,7 +41,7 @@ Bài kinh kết thúc bằng một chuỗi kệ dài, trong đó vị A-la-hán 
 Tôi nghe như vầy.
 
 <!-- seg: mn86:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà lâm), khu vườn của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn86:2.1 -->
 Lúc bấy giờ, trong lãnh thổ của vua Pasenadi xứ Kosala (Ba-tư-nặc, Câu-tát-la), có một tên cướp tên là Aṅgulimāla, hung bạo, tay vấy máu, chuyên đánh giết, không biết thương xót các chúng sinh.
@@ -250,7 +257,7 @@ Rồi Đức Thế Tôn lên đường du hành về phía Sāvatthī, với Tô
 Đi từng chặng một, cuối cùng Ngài đến Sāvatthī.
 
 <!-- seg: mn86:7.3 -->
-Tại đó, Đức Thế Tôn trú tại Sāvatthī, trong Jetavana, khu vườn của Anāthapiṇḍika.
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn86:8.1 -->
 Lúc bấy giờ, trước cổng cung của vua Pasenadi xứ Kosala, một đám đông lớn đã tụ tập, gây ra tiếng ồn ào, tiếng náo động lớn:

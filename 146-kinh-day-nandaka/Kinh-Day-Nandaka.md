@@ -16,6 +16,13 @@ Bài kinh khép lại bằng hình ảnh mặt trăng. Lần dạy thứ nhất,
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 146: Kinh Dạy Nandaka**](#trung-bộ-kinh--bài-kinh-số-146-kinh-dạy-nandaka)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 146: Kinh Dạy Nandaka
 
 *Nandakovāda Sutta* — bài kinh lời khuyên của Tôn giả Nandaka
@@ -34,7 +41,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh liên quan đến việc dạy bảo tỳ-kheo-ni mỗi nửa tháng, một tập tục có lẽ được lập ra từ khi bà Mahāpajāpati xuất gia và được quy định trong Luật tạng. Đây là chỗ duy nhất trong các bài kinh nhắc đến việc dạy bảo như vậy, và cách dạy ở đây không theo khuôn của Luật tạng, nơi nội dung chỉ gồm tám trọng pháp và các tỳ-kheo không được đến trú xứ của tỳ-kheo-ni để dạy.]
 
 <!-- seg: mn146:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn146:2.1 -->
 Rồi Mahāpajāpati Gotamī (Ma-ha-ba-xà-bà-đề Cồ-đàm-di) cùng với khoảng năm trăm tỳ-kheo-ni đi đến chỗ Đức Thế Tôn; đến nơi, bà đảnh lễ Đức Thế Tôn rồi đứng sang một bên. Đứng sang một bên, Mahāpajāpati Gotamī bạch Đức Thế Tôn:
@@ -1158,7 +1165,7 @@ Này các tỳ-kheo, trong năm trăm tỳ-kheo-ni ấy, vị tỳ-kheo-ni cuố
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn146:27.7 -->
-Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn146:27.8 -->
 Kinh Dạy Nandaka, bài thứ tư, đã hoàn thành.

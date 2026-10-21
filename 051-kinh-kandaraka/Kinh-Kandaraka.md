@@ -16,6 +16,13 @@ Người đọc hôm nay có thể theo bài kinh ở hai tầng. Tầng thứ n
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 51: Kinh Kandaraka**](#trung-bộ-kinh--bài-kinh-số-51-kinh-kandaraka)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 51: Kinh Kandaraka
 
 *Kandaraka Sutta* — bài kinh về cuộc gặp gỡ giữa du sĩ Kandaraka, người quản tượng Pessa và Đức Thế Tôn, cùng bốn hạng người trong đời
@@ -32,7 +39,7 @@ Người đọc hôm nay có thể theo bài kinh ở hai tầng. Tầng thứ n
 Tôi nghe như vầy.
 
 <!-- seg: mn51:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Campā (Chiêm-bà), bên bờ hồ sen Gaggarā, cùng với một đại chúng tỳ-kheo.
+Một thuở nọ, Đức Thế Tôn trú tại Campā (Chiêm-bà), bên bờ hồ sen Gaggarā, cùng với một đại chúng tỳ-kheo.
 
 [Chú thích: Campā là thị trấn Champapur ngày nay, gần Bhagalpur thuộc bang Bihar, vào khoảng nơi xa nhất về phía đông trong các chuyến đi của Đức Thế Tôn; đây là kinh đô của xứ Aṅga, một trong mười sáu nước lớn. Gaggarā là một từ láy tượng thanh, mô phỏng tiếng nước ục ục, và là tên của nhiều con sông hay xoáy nước trong tiếng Phạn.]
 
@@ -294,7 +301,7 @@ Dẫu vậy, này các tỳ-kheo, chỉ với chừng ấy, Pessa con trai ngư�
 "Vậy thì, này các tỳ-kheo, hãy nghe và khéo tác ý; Ta sẽ giảng."
 
 <!-- seg: mn51:7.9 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn51:7.10 -->
 Đức Thế Tôn nói như vầy:
@@ -613,7 +620,7 @@ Với người biết như vậy, thấy như vậy, tâm được giải thoát
 Khi đã được giải thoát, vị ấy biết rõ: "Ta đã được giải thoát."
 
 <!-- seg: mn51:27.4 -->
-Vị ấy như thật biết rõ: "Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn51:28.1 -->
 Này các tỳ-kheo, đây gọi là hạng người không tự hành hạ mình, không chuyên tâm vào việc tự hành hạ mình, cũng không hành hạ người khác, không chuyên tâm vào việc hành hạ người khác.

@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn23:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú gần Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà Lâm), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn23:1.3 -->
 Lúc bấy giờ, Tôn giả Kumārakassapa (Cưu-ma-la Ca-diếp) trú trong rừng Andhavana.

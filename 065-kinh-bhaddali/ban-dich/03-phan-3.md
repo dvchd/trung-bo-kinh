@@ -62,7 +62,7 @@ Với vị ấy đang biết như vậy, đang thấy như vậy, tâm được 
 Khi đã giải thoát, vị ấy biết: 'Ta đã giải thoát.'
 
 <!-- seg: mn65:21.3 -->
-Vị ấy biết: 'Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại đời sống này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn65:21.4 -->
 Vì sao vậy?

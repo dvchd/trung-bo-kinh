@@ -150,4 +150,4 @@ Này các tỳ-kheo, đây là toàn bộ cảnh giới của người trí, tr�
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn129:49.6 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.

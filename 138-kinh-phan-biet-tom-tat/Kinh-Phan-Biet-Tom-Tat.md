@@ -41,6 +41,13 @@ người chỉ nghe câu tóm tắt rồi tự đi tìm chỗ hiểu, cuối cù
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 138: Kinh Phân Biệt Tóm Tắt**](#trung-bộ-kinh--bài-kinh-số-138-kinh-phân-biệt-tóm-tắt)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 138: Kinh Phân Biệt Tóm Tắt
 
 *Uddesavibhaṅga Sutta* — bài kinh gồm một bản tóm tắt và phần phân tích bản tóm tắt ấy
@@ -57,7 +64,7 @@ người chỉ nghe câu tóm tắt rồi tự đi tìm chỗ hiểu, cuối cù
 Tôi nghe như vầy.
 
 <!-- seg: mn138:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn138:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -66,7 +73,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn138:1.5 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn138:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -78,7 +85,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 Hãy nghe và khéo tác ý, Ta sẽ nói."
 
 <!-- seg: mn138:2.3 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn138:2.4 -->
 Đức Thế Tôn nói như vầy:
@@ -522,7 +529,7 @@ Này các tỳ-kheo, nếu các ông đến hỏi Ta về việc này, Ta cũng 
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn138:24.5 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn138:24.6 -->
 Kinh Phân Biệt Tóm Tắt, bài thứ tám, đến đây là hết.

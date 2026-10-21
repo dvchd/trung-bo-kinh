@@ -142,7 +142,7 @@ Và này các tỳ-kheo, thiện nam tử Subhūti đã thực hành con đườ
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn139:14.5 -->
-Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn139:14.6 -->
 Kinh Phân Biệt Không Tranh Cãi, bài thứ chín, đến đây là hết.

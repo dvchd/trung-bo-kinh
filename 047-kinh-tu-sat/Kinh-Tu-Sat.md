@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Tư Sát** (*Vīmaṃsaka Sutta*) là bài kinh thứ 47 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài giảng diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), nơi Đức Thế Tôn trú ngụ. Người nghe chỉ có các tỳ-kheo — những người xuất gia sống bằng khất thực, tức đi xin ăn để có thời gian tu tập. Không có vua chúa, không có giáo phái đối thủ, không có phép lạ. Chỉ có một câu hỏi được đặt ra rồi được gỡ từng bước.
+**Kinh Tư Sát** (*Vīmaṃsaka Sutta*) là bài kinh thứ 47 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài giảng diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), nơi Đức Thế Tôn trú ngụ. Người nghe chỉ có các tỳ-kheo — những người xuất gia sống bằng khất thực, tức đi xin ăn để có thời gian tu tập. Không có vua chúa, không có giáo phái đối thủ, không có phép lạ. Chỉ có một câu hỏi được đặt ra rồi được gỡ từng bước.
 
 *Vīmaṃsaka* nghĩa là người tư sát, người dò xét, cân nhắc kỹ. Tên bài kinh đã nói lên điều lạ lùng nhất của nó: ở đây người đi tìm chân lý chứ không phải kẻ tin theo. Đức Thế Tôn mở đầu bằng cách nói rằng một tỳ-kheo chưa biết được tâm người khác vẫn có thể, và nên, tìm hiểu chính Ngài để xem Ngài có thật là bậc Chánh đẳng giác hay không. Một bậc thầy tự đặt mình vào vị trí bị kiểm tra như vậy là chuyện hiếm. Vào thời ấy có rất nhiều vị thầy tự nhận đã giác ngộ, nên câu hỏi "làm sao biết ai nói thật" là câu hỏi sống còn với người muốn tu.
 
@@ -13,6 +13,13 @@ Qua được ba mức ấy vẫn chưa đủ, vì một người có thể đón
 Kết quả của cả quá trình ấy có một tên riêng: đức tin có lý lẽ, lấy sự thấy làm gốc. Đó không phải thứ tin vì cảm động, cũng không phải tin vì quen, mà là tin vì đã tự mình nhìn, tự mình thử, và có thể trả lời được khi có ai hỏi vì sao mình tin. Người đã đi hết các bước ấy không còn phải nói "tôi tin thế", mà nói được cả lý lẽ và chứng cứ. Bài kinh khép lại bằng lời tuyên bố rằng Như Lai là bậc đã được khéo tìm hiểu đúng theo pháp tánh.
 
 Với người đọc hôm nay, bài kinh là một cẩm nang ngắn để đánh giá bất cứ ai nhận mình là thầy, trong Phật giáo hay ngoài Phật giáo. Bốn câu hỏi của nó vẫn dùng được nguyên vẹn: việc làm có tì vết không, có ổn định theo thời gian không, lúc được khen ngợi và cúng dường thì có đổi không, và sự trong sạch ấy phát xuất từ đâu. Điều đáng chú ý là bài kinh không đòi người nghe phải tin trước rồi mới được hỏi; nó đặt việc hỏi lên trước, và coi đó là phần bắt buộc của người học.
+
+---
+
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 47: Kinh Tư Sát**](#trung-bộ-kinh--bài-kinh-số-47-kinh-tư-sát)
 
 ---
 
@@ -36,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Trong bài này, Đức Thế Tôn cho thấy Ngài coi trọng chuyện chịu trách nhiệm và giữ sự ngay thẳng đến mức nào. Ngài không nói suông về việc mở lòng tra vấn, mà vạch ra hẳn một quy trình chi tiết, khắt khe để học trò tự kiểm tra chính Ngài. Cách làm ấy có thể áp dụng cho bất cứ vị thầy tâm linh nào.]
 
 <!-- seg: mn47:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tinh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn47:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -45,7 +52,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn47:1.5 -->
-"Bạch Thế Tôn," các tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn47:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -62,7 +69,7 @@ Này các tỳ-kheo, một tỳ-kheo là người tư sát, chưa biết đượ
 "Vậy thì, này các tỳ-kheo, các ông hãy nghe và khéo tác ý, Ta sẽ nói."
 
 <!-- seg: mn47:3.3 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn47:3.4 -->
 Đức Thế Tôn nói như vầy:

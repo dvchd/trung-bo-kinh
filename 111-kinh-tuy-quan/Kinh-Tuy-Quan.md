@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-Bài kinh này có tên Pali là *Anupada Sutta*, và là bài thứ 111 trong Trung Bộ Kinh. Bối cảnh rất giản dị: Đức Thế Tôn đang trú tại Sāvatthī, trong khu vườn Jetavana, và Ngài gọi các tỳ-kheo đến để nói về một người trong số đệ tử của mình. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Cả bài kinh, trừ mấy câu mở đầu và kết thúc, là lời Đức Thế Tôn nói liền một mạch.
+Bài kinh này có tên Pali là *Anupada Sutta*, và là bài thứ 111 trong Trung Bộ Kinh. Bối cảnh rất giản dị: Đức Thế Tôn trú tại Sāvatthī, trong khu vườn Jetavana, và Ngài gọi các tỳ-kheo đến để nói về một người trong số đệ tử của mình. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Cả bài kinh, trừ mấy câu mở đầu và kết thúc, là lời Đức Thế Tôn nói liền một mạch.
 
 Người được nói đến là Sāriputta (Xá-lợi-phất), một trong hai đệ tử lớn nhất của Đức Thế Tôn, nổi tiếng về trí tuệ. Trong nhiều bài kinh khác, ông xuất hiện với tư cách người trả lời những câu hỏi hóc búa, hoặc người được Ngài giao giảng thay. Ở đây ông không nói một lời nào: Ngài kể lại việc ông đã làm. Tên bài kinh, *anupada*, nghĩa là "theo từng bước", ở đây chỉ cách quán sát lần lượt từng pháp một khi chúng đang sinh khởi. Tên Hán-Việt "Tùy Quán" cũng theo nghĩa ấy: quán sát tùy theo từng pháp, lần lượt không bỏ sót.
 
@@ -41,7 +41,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh thuật lại cách ngài Sāriputta thực hành tuệ quán cho đến khi chứng quả A-la-hán, lấp vào khoảng trống giữa lúc chứng quả Dự lưu và quả A-la-hán. Đoạn văn nhắc rằng khi một câu chuyện kể ai đó chứng ngộ trong lúc nghe pháp, phía sau thường có một quá trình thực hành dài. Nhiều dấu hiệu cho thấy đây là một trong những bài kinh xuất hiện muộn: không có bản tương đương, phần trình bày chi tiết lạ thường, và có những thuật ngữ chỉ gặp trong các văn bản về sau.]
 
 <!-- seg: mn111:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ Viên), tinh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn111:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -50,7 +50,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn111:1.5 -->
-"Bạch Thế Tôn," các vị tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn111:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -353,7 +353,7 @@ Này các tỳ-kheo, Sāriputta tiếp tục vận chuyển đúng đắn bánh 
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn111:23.3 -->
-Các vị tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn111:23.4 -->
 Kinh Tùy Quán đã kết thúc, bài thứ nhất.

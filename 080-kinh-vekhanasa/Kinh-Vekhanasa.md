@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-Bài kinh này ghi lại một cuộc gặp ngắn ở Sāvatthī (Xá-vệ), trong khu vườn Jetavana (Kỳ-đà Lâm) của ông Anāthapiṇḍika (Cấp Cô Độc). Một người tu khổ hạnh lang thang tên là Vekhanasa đến thăm Đức Thế Tôn. Ông chào hỏi, đứng sang một bên, rồi bỗng thốt lên hai lần: "Đây là vẻ rực rỡ tối thượng." Ông không nói thêm gì, không giải thích, cũng không chỉ ra cái gì đang rực rỡ. Câu chuyện bắt đầu từ chỗ trống ấy.
+Bài kinh này ghi lại một cuộc gặp ngắn ở Sāvatthī (Xá-vệ), trong khu vườn rừng Jeta (Kỳ-đà) của ông Anāthapiṇḍika (Cấp Cô Độc). Một người tu khổ hạnh lang thang tên là Vekhanasa đến thăm Đức Thế Tôn. Ông chào hỏi, đứng sang một bên, rồi bỗng thốt lên hai lần: "Đây là vẻ rực rỡ tối thượng." Ông không nói thêm gì, không giải thích, cũng không chỉ ra cái gì đang rực rỡ. Câu chuyện bắt đầu từ chỗ trống ấy.
 
 Vekhanasa thuộc một dòng tu khổ hạnh rất cũ, gốc từ các thi sĩ Vệ-đà của Ấn Độ cổ. Theo chú giải, ông là thầy của du sĩ Sakaludāyī và đến đây để bảo vệ giáo thuyết của mình. Điều ông muốn nói, đại khái, là: sau khi chết, tự ngã, tức cái tôi trường tồn mà ông tin là có thật, không còn bệnh tật và tồn tại trong một vẻ rực rỡ mà không có vẻ rực rỡ nào khác cao hơn. Đó là một niềm tin về cái tuyệt đối, và ông tin rằng nó không cần phải chứng minh.
 
@@ -40,7 +40,7 @@ Vekhanasa nghe xong thì hoan hỷ, lặp lại câu nói ấy. Nhưng khi Đứ
 Tôi nghe như vầy.
 
 <!-- seg: mn80:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà Lâm), khu vườn của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn80:2.1 -->
 Rồi du sĩ Vekhanasa đi đến chỗ Đức Thế Tôn; đến nơi, ông chào hỏi và hỏi thăm Ngài.

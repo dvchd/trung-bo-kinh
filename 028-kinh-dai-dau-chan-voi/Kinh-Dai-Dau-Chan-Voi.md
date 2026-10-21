@@ -16,6 +16,13 @@ Nửa cuối bài là phần khó nhất, và cũng là phần nối mọi thứ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 28: Đại Kinh Dấu Chân Voi**](#trung-bộ-kinh--bài-kinh-số-28-đại-kinh-dấu-chân-voi)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 28: Đại Kinh Dấu Chân Voi
 
 *Mahāhatthipadopama Sutta* — bài kinh ví dụ lớn về dấu chân voi
@@ -595,7 +602,7 @@ Này các hiền giả, đến mức ấy, vị tỳ-kheo ấy đã làm đượ
 Tôn giả Sāriputta đã nói như vậy.
 
 <!-- seg: mn28:38.14 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Tôn giả Sāriputta nói.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Tôn giả Sāriputta dạy.
 
 <!-- seg: mn28:38.15 -->
 Đại Kinh Dấu Chân Voi, bài thứ tám, đã hoàn tất.

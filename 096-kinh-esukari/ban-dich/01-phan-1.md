@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn96:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn96:2.1 -->
 Rồi bà-la-môn Esukārī đi đến chỗ Đức Thế Tôn; đến nơi rồi, ông chào hỏi Ngài.

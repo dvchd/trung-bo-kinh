@@ -50,7 +50,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn101:2.2 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn101:2.3 -->
 Đức Thế Tôn nói như vầy:
@@ -1069,7 +1069,7 @@ Với vị ấy biết như vậy, thấy như vậy, tâm được giải thoá
 Khi đã được giải thoát, vị ấy biết: "Ta đã được giải thoát."
 
 <!-- seg: mn101:45.3 -->
-Vị ấy biết: "Sinh đã diệt, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại nơi này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn101:45.4 -->
 Như vậy, này các tỳ-kheo, sự tinh cần là sinh quả, sự nỗ lực là sinh quả.
@@ -1152,7 +1152,7 @@ Này các tỳ-kheo, với Như Lai nói như vậy, chính mười cớ đúng 
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn101:46.26 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn101:46.27 -->
 Kinh Devadaha hoàn tất, bài thứ nhất.

@@ -16,6 +16,13 @@ Với người mới tìm hiểu, bài kinh này đáng đọc vì nó dạy hai
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 58: Kinh Abhaya**](#trung-bộ-kinh--bài-kinh-số-58-kinh-abhaya)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 58: Kinh Abhaya
 
 *Abhayarājakumāra Sutta* — bài kinh với thái tử Abhaya

@@ -16,6 +16,13 @@ Với người mới tìm hiểu, bài kinh này đáng đọc vì hai lý do. T
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 59: Kinh Nhiều Loại Cảm Thọ**](#trung-bộ-kinh--bài-kinh-số-59-kinh-nhiều-loại-cảm-thọ)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 59: Kinh Nhiều Loại Cảm Thọ
 
 *Bahuvedanīya Sutta* — bài kinh về nhiều loại cảm thọ
@@ -34,7 +41,7 @@ Với người mới tìm hiểu, bài kinh này đáng đọc vì hai lý do. T
 Tôi nghe như vầy.
 
 <!-- seg: mn59:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn59:1.3 -->
 Rồi thợ mộc Pañcakaṅga đi đến chỗ Tôn giả Udāyī; đến nơi, ông đảnh lễ Tôn giả Udāyī rồi ngồi xuống một bên. Ngồi một bên, thợ mộc Pañcakaṅga nói với Tôn giả Udāyī:

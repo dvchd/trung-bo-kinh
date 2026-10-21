@@ -63,7 +63,7 @@ hoặc bản tiếng Anh của Bhikkhu Sujato ở bất cứ dòng nào. Các ch
 Tôi nghe như vầy.
 
 <!-- seg: mn36:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú gần Vesālī (Tỳ-xá-li), tại rừng Mahāvana (Đại Lâm), trong giảng đường Kūṭāgārasālā (Trùng Các).
+Một thuở nọ, Đức Thế Tôn trú gần Vesālī (Tỳ-xá-li), tại rừng Mahāvana (Đại Lâm), trong giảng đường Kūṭāgārasālā (Trùng Các).
 
 <!-- seg: mn36:2.1 -->
 Lúc bấy giờ, vào buổi sáng, Đức Thế Tôn đã đắp y chỉnh tề, cầm bát và y, muốn vào Vesālī để khất thực.

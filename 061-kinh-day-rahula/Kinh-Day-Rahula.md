@@ -16,6 +16,13 @@ Bài kinh khép lại bằng một cái nhìn rộng: mọi sa-môn và bà-la-m
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 61: Kinh Dạy Rāhula**](#trung-bộ-kinh--bài-kinh-số-61-kinh-dạy-rāhula)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 61: Kinh Dạy Rāhula
 
 *Ambalaṭṭhikarāhulovāda Sutta* — bài kinh Đức Thế Tôn dạy Rāhula tại Ambalaṭṭhika
@@ -36,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Đức Thế Tôn dạy con trai mình là Rāhula về sự nguy hiểm của lời nói dối, dùng cử chỉ để minh họa. Đề tài giản dị và cách dạy phù hợp với trẻ nhỏ ủng hộ nhận định của chú giải rằng đây là lúc Rāhula còn là một cậu bé, vừa mới xuất gia. Bài kinh này cũng nằm trong số những bài được vua Asoka (A-dục) khuyên Tăng đoàn nên học, theo Sắc lệnh trên đá thứ ba.]
 
 <!-- seg: mn61:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Veḷuvana (Trúc Lâm), chỗ cho sóc ăn.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn61:2.1 -->
 Lúc bấy giờ, Tôn giả Rāhula trú tại Ambalaṭṭhika.

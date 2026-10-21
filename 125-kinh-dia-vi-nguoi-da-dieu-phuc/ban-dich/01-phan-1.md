@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh dùng chuyện huấn luyện voi làm ví dụ cho con đường tu tập tuần tự. Đức Thế Tôn đối chiếu lối sống đắm say các dục của thái tử Jayasena, thứ làm mờ tầm nhìn của ông về sự thật, với con đường xuất ly. Trong suốt bài, Ngài đỡ lời cho sa-di trẻ Aciravata.]
 
 <!-- seg: mn125:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), trong vườn tre Veḷuvana (Trúc Lâm), tại chỗ nuôi sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn125:2.1 -->
 Lúc bấy giờ, sa-di Aciravata đang trú trong một chòi giữa rừng.

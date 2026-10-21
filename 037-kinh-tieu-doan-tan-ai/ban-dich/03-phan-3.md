@@ -5,7 +5,7 @@ sống quán sự từ bỏ, nên không nắm giữ một vật gì trên đờ
 không nắm giữ nên không lo sợ, không lo sợ nên tự mình chứng Niết-bàn:
 
 <!-- seg: mn37:15.15 -->
-"Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại đời này nữa", vị ấy biết rõ như vậy.
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn37:15.16 -->
 Chỉ đến mức ấy, này chúa tể chư thiên, một vị tỳ-kheo được gọi là đã giải thoát do đoạn tận ái theo cách vắn tắt, đã đạt đến cứu cánh tuyệt đối, đã đạt đến sự an ổn tuyệt đối khỏi ách, đã sống đời phạm hạnh tuyệt đối, đã đạt đến mục đích tuyệt đối, là bậc tối thượng trong chư thiên và loài người.'

@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-Bài kinh này là bài thứ 15 trong Trung Bộ Kinh, tên Pali là *Anumāna Sutta*. Chữ *anumāna* nghĩa là suy đoán, đo lường, phỏng theo cái đã biết để suy ra cái chưa biết. Điều đáng chú ý đầu tiên: người thuyết bài kinh không phải Đức Thế Tôn mà là Tôn giả Mahāmoggallāna (Mục-kiền-liên), một trong hai vị đệ tử lớn nhất của Ngài. Bối cảnh rất giản dị: Tôn giả đang trú tại xứ Bhaggas, trong vườn nai của rừng Bhesakaḷā, và Ngài gọi các tỳ-kheo lại để nói về một chuyện nhỏ mà ai tu hành cũng gặp.
+Bài kinh này là bài thứ 15 trong Trung Bộ Kinh, tên Pali là *Anumāna Sutta*. Chữ *anumāna* nghĩa là suy đoán, đo lường, phỏng theo cái đã biết để suy ra cái chưa biết. Điều đáng chú ý đầu tiên: người thuyết bài kinh không phải Đức Thế Tôn mà là Tôn giả Mahāmoggallāna (Mục-kiền-liên), một trong hai vị đệ tử lớn nhất của Ngài. Bối cảnh rất giản dị: Tôn giả trú tại xứ Bhaggas, trong vườn nai của rừng Bhesakaḷā, và Ngài gọi các tỳ-kheo lại để nói về một chuyện nhỏ mà ai tu hành cũng gặp.
 
 Chuyện ấy là chuyện nhận lời góp ý. Bài kinh dựng lên một tình huống: một tỳ-kheo đứng trước Tăng đoàn, nói rằng xin các vị cứ nói cho tôi biết, tôi đáng được các vị nhắc nhở. Đó là một lời mời rất đẹp. Nhưng Tôn giả chỉ ra rằng có những người mời như vậy mà vẫn khó dạy bảo: họ mời bằng miệng, còn khi lời nhắc thật sự đến thì họ tự ái, cãi lại, chê người nhắc, đổ ngược lỗi cho người khác, nói vòng vo, hoặc tỏ vẻ bực tức. Bài kinh liệt kê mười sáu nét như thế.
 

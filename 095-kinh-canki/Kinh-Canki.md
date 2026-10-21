@@ -4,7 +4,7 @@
 
 **Kinh Caṅkī** (*Caṅkī Sutta*) là bài kinh thứ 95 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh mở đầu rất giản dị. Đức Thế Tôn cùng một Tăng đoàn tỳ-kheo đông đảo du hành qua xứ Kosala, đến một làng bà-la-môn tên là Opāsāda, và trú trong khu rừng cây sala ở phía bắc làng. Nghe tin Ngài đến, dân làng kéo nhau ra rừng để gặp. Bà-la-môn Caṅkī, người đang cai quản vùng đất ấy, thấy vậy bèn sai người quản gia ra giữ họ lại, rồi chính ông cũng sửa soạn đi.
 
-Phần đầu bài kinh là một cuộc cãi vã nhỏ mà ai đọc cũng thấy quen. Khoảng năm trăm bà-la-môn từ các nước khác đang trú tại Opāsāda nghe tin Caṅkī sắp đi thăm vị sa-môn kia, bèn kéo đến can: ông là người dòng dõi trong sạch, giàu có, thông suốt ba bộ kinh Vệ-đà, đẹp người, có giới, nói hay, lại được vua và các vị thầy kính trọng, vậy thì chính vị sa-môn kia phải đến thăm ông mới đúng. Caṅkī trả lời bằng một danh sách dài không kém, kể đủ những gì ông biết về vị sa-môn ấy, và kết luận ngược lại: chính ông mới phải đi. Cuối cùng cả nhóm cùng đi.
+Phần đầu bài kinh là một cuộc cãi vã nhỏ mà ai đọc cũng thấy quen. Khoảng năm trăm bà-la-môn từ các nước khác trú tại Opāsāda nghe tin Caṅkī sắp đi thăm vị sa-môn kia, bèn kéo đến can: ông là người dòng dõi trong sạch, giàu có, thông suốt ba bộ kinh Vệ-đà, đẹp người, có giới, nói hay, lại được vua và các vị thầy kính trọng, vậy thì chính vị sa-môn kia phải đến thăm ông mới đúng. Caṅkī trả lời bằng một danh sách dài không kém, kể đủ những gì ông biết về vị sa-môn ấy, và kết luận ngược lại: chính ông mới phải đi. Cuối cùng cả nhóm cùng đi.
 
 Câu hỏi thật của bài kinh đến từ một thanh niên mười sáu tuổi tên là Kāpaṭika, người được các bà-la-môn đặt ngồi ở hàng đầu. Anh ta hỏi về một điều mà giới bà-la-môn thời ấy coi là chuyện đã rồi: lời kinh cổ truyền lại từ bao đời, đã được ghi trong kinh tạng, thì các bà-la-môn kết luận dứt khoát rằng chỉ điều ấy là đúng, ngoài ra đều là hư dối. Đức Thế Tôn không tranh luận trực tiếp vào nội dung, mà hỏi ngược: trong tất cả các bà-la-môn, có ai dám nói mình biết và thấy điều ấy bằng chính mình không? Các vị thầy của họ thì sao? Còn mười vị tiên nhân đã làm ra những bài kinh ấy thì sao? Câu trả lời, lần nào cũng vậy, là không có. Ngài bèn ví lời của họ như một hàng người mù nối đuôi nhau: người đầu không thấy, người giữa không thấy, người cuối cũng không thấy.
 
@@ -13,6 +13,13 @@ Từ chỗ ấy, bài kinh mới dựng lên phần giáo lý quan trọng nhấ
 Điều đáng chú ý là Đức Thế Tôn không gạt bỏ lòng tin, cũng không gạt bỏ việc nghe truyền lại. Ngài chỉ nói rằng đó chưa đủ để kết luận dứt khoát, và rằng một điều có thể được tin trọn vẹn mà vẫn sai, cũng có thể không được tin trọn vẹn mà lại đúng. Sau đó Ngài nối thành một chuỗi mười mấy bước, mỗi bước đều có điều kiện: không có lòng tin thì không đi đến gần, không đi đến gần thì không nghe, không nghe thì không ghi nhớ, không ghi nhớ thì không suy xét, không suy xét thì không chấp nhận, và cứ thế cho đến bước cuối là tự mình thấy. Cả chuỗi ấy khởi đầu từ lòng tin, nhưng không dừng lại ở lòng tin.
 
 Bài kinh khép lại bằng một cảnh đáng nhớ. Kāpaṭika, người vừa mới kiêu ngạo ngắt lời các bậc trưởng thượng, cuối cùng thú nhận rằng trước đây anh ta từng coi đám sa-môn đầu trọc ấy chẳng ra gì, và chính Đức Thế Tôn đã làm cho anh ta có lòng mến mộ, tin tưởng và kính trọng các vị ấy. Anh ta xin quy y làm người cư sĩ. Với người đọc hôm nay, bài kinh vẫn còn việc để làm, vì câu hỏi của nó không cũ: khi ta nói "tôi biết", ta đang thật sự biết, hay chỉ đang nhắc lại điều mình được dạy, và ta có thành thật về chỗ ấy hay không.
+
+---
+
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 95: Kinh Caṅkī**](#trung-bộ-kinh--bài-kinh-số-95-kinh-caṅkī)
 
 ---
 
@@ -119,7 +126,7 @@ xin các ngài hãy chờ đợi, vì chính bà-la-môn Caṅkī cũng sẽ đi
 xin các ngài hãy chờ đợi, vì chính bà-la-môn Caṅkī cũng sẽ đi đến gặp sa-môn Gotama.'"
 
 <!-- seg: mn95:7.1 -->
-Lúc bấy giờ, có khoảng năm trăm bà-la-môn từ nhiều nước khác nhau đang trú tại Opāsāda vì một việc nào đó.
+Lúc bấy giờ, có khoảng năm trăm bà-la-môn từ nhiều nước khác nhau trú tại Opāsāda vì một việc nào đó.
 
 <!-- seg: mn95:7.2 -->
 Các bà-la-môn ấy nghe nói:

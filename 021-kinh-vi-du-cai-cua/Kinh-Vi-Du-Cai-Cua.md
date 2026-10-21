@@ -41,7 +41,7 @@ Với người đọc hôm nay, bài kinh là một bài tập nhìn lại phả
 Tôi nghe như vầy.
 
 <!-- seg: mn21:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn21:2.1 -->
 Lúc bấy giờ, tỳ-kheo Moḷiyaphagguna sống gần gũi, thân thiết quá mức với các tỳ-kheo-ni.
@@ -761,7 +761,7 @@ thì các ông có thấy cách nói nào, dù nhỏ hay lớn, mà các ông kh
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn21:21.7 -->
-Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn21:21.8 -->
 Kinh Ví Dụ Cái Cưa, bài đầu tiên, đã hoàn tất.

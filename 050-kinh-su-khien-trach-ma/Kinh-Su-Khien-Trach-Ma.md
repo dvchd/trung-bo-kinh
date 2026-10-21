@@ -16,6 +16,15 @@ Với người chưa quen kinh điển, có thể đọc bài này như một c�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 50: Kinh Sự Khiển Trách Ma**](#trung-bộ-kinh--bài-kinh-số-50-kinh-sự-khiển-trách-ma)
+- [**Tóm tắt phẩm**](#tóm-tắt-phẩm)
+- [**Mục lục các phẩm**](#mục-lục-các-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 50: Kinh Sự Khiển Trách Ma
 
 *Māratajjanīya Sutta* — bài kinh về lần Ma vương bị Tôn giả Mahāmoggallāna gọi đúng tên và khiển trách

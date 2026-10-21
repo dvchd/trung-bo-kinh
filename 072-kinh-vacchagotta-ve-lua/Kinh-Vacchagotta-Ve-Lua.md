@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Vacchagotta về Lửa** (*Aggivacchagotta Sutta*) là bài thứ bảy mươi hai trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong tịnh xá Jetavana (Kỳ-đà-lâm) của Anāthapiṇḍika (Cấp Cô Độc). Nhân vật chính là Vacchagotta, một du sĩ, tức người đã rời nhà, sống lang thang khất thực, không thuộc Tăng đoàn nào và nổi tiếng hay đặt những câu hỏi lớn. Ông đến gặp Đức Thế Tôn và lần lượt hỏi mười câu, mỗi câu là một cách khẳng định về thế giới và về số phận con người sau khi chết.
+**Kinh Vacchagotta về Lửa** (*Aggivacchagotta Sutta*) là bài thứ bảy mươi hai trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong tịnh xá rừng Jeta (Kỳ-đà) của Anāthapiṇḍika (Cấp Cô Độc). Nhân vật chính là Vacchagotta, một du sĩ, tức người đã rời nhà, sống lang thang khất thực, không thuộc Tăng đoàn nào và nổi tiếng hay đặt những câu hỏi lớn. Ông đến gặp Đức Thế Tôn và lần lượt hỏi mười câu, mỗi câu là một cách khẳng định về thế giới và về số phận con người sau khi chết.
 
 Mười câu hỏi ấy là những vấn đề lớn của thời đại: thế giới là thường hằng hay vô thường, có giới hạn hay không có giới hạn; linh hồn và thân xác là một hay là hai thứ khác nhau; và sau khi chết, một bậc đã giác ngộ còn tồn tại, không tồn tại, vừa tồn tại vừa không tồn tại, hay không tồn tại cũng không phải không tồn tại. Với mỗi câu, Đức Thế Tôn đều trả lời: "Này Vaccha, ta không có kiến chấp như vậy."
 
@@ -13,6 +13,13 @@ Rồi Đức Thế Tôn đưa ra hình ảnh làm nên tên bài kinh. Một ng�
 Vacchagotta không hiểu nổi. Ông nói rằng ở điểm này ông rơi vào hoang mang, và chút tịnh tín có được từ những lần đàm đạo trước cũng tan mất. Đức Thế Tôn không trách; Ngài bảo rằng pháp này sâu thẳm, khó thấy, khó hiểu, và khó với một người mang kiến chấp khác, sự chấp nhận khác, môn phái khác, bậc thầy khác. Rồi Ngài đổi sang một hình ảnh dễ nắm hơn: một cây sa-la lớn, cành lá, vỏ và gỗ mềm lần lượt rụng đi, cuối cùng chỉ còn phần lõi thuần khiết và vững chắc; lời dạy của Ngài cũng vậy. Nghe đến đó, Vacchagotta xin quy y và xin được nhớ đến như một người cư sĩ.
 
 Người đọc hôm nay có thể thấy bài kinh này như một lời nhắc về cách đặt câu hỏi. Đức Thế Tôn không nói rằng những câu hỏi kia là ngu ngốc; Ngài nói rằng chúng không dẫn đến chỗ cần đến. Và hình ảnh ngọn lửa cho thấy một điều tinh tế: có những câu hỏi mà chính cách đặt câu hỏi đã giả định sẵn một cái gì đó, ở đây là một cái ta trường tồn để có thể đi đâu đó sau khi chết. Khi giả định ấy không còn, câu hỏi cũng mất chỗ đứng, và cái còn lại là sự an tịnh.
+
+---
+
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 72: Kinh Vacchagotta về Lửa**](#trung-bộ-kinh--bài-kinh-số-72-kinh-vacchagotta-về-lửa)
 
 ---
 
@@ -36,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này cho thấy Vacchagotta, sau khi đã có được một phần niềm tin như ghi trong MN 71, đến hỏi Đức Thế Tôn về những vấn đề Ngài không trả lời. Đó mới chỉ là một phần nhỏ trong sự tò mò của ông: cả 55 bài trong SN 33 đều bàn đúng chủ đề ấy, và SN 44.7, SN 44.8, SN 44.11 cũng vậy. Nằm dưới mọi câu hỏi ấy là giả định về một cái ta, và ở SN 44.10 ông hỏi thẳng vào điểm này.]
 
 <!-- seg: mn72:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà-lâm), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn72:2.1 -->
 Rồi du sĩ Vacchagotta đi đến chỗ Đức Thế Tôn. Đến nơi, ông chào hỏi Ngài.

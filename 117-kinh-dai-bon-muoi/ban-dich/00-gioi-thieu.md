@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Đại Kinh Bốn Mươi** (*Mahācattārīsaka Sutta*) là bài thứ 117 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài giảng diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), nơi Đức Thế Tôn trú ngụ cùng các tỳ-kheo. Người nghe là những vị xuất gia sống bằng khất thực, và bài kinh ghi lại trọn lời Ngài dạy trong một buổi ấy.
+**Đại Kinh Bốn Mươi** (*Mahācattārīsaka Sutta*) là bài thứ 117 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài giảng diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), nơi Đức Thế Tôn trú ngụ cùng các tỳ-kheo. Người nghe là những vị xuất gia sống bằng khất thực, và bài kinh ghi lại trọn lời Ngài dạy trong một buổi ấy.
 
 Tên bài nghe như một câu đố, nhưng nghĩa rất giản dị. Gần cuối bài, Đức Thế Tôn đếm lại những gì vừa giảng: hai mươi pháp thuộc phe thiện, hai mươi pháp thuộc phe bất thiện, cộng lại là bốn mươi. Vì thế bài có tên là Đại Kinh Bốn Mươi, để phân biệt với những bài cùng chủ đề ngắn hơn.
 

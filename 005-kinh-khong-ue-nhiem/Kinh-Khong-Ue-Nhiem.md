@@ -39,9 +39,9 @@ Với người chưa quen kinh điển, bài này dễ đọc hơn nhiều bài 
 Tôi nghe như vầy.
 
 <!-- seg: mn5:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ Viên), tinh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
-[Chú thích: Đức Thế Tôn không xuất hiện trong bài kinh này, nhưng Ngài vẫn được nhắc đến để tỏ lòng kính trọng, cho thấy các sự việc kể ở đây diễn ra khi Ngài còn tại thế.]
+
 
 <!-- seg: mn5:1.3 -->
 Tại đó, Tôn giả Sāriputta (Xá-lợi-phất) gọi các tỳ-kheo:
@@ -620,7 +620,7 @@ Khi nghe vậy, Tôn giả Mahāmoggallāna nói với Tôn giả Sāriputta r�
 "Thưa Tôn giả Moggallāna, xin ngài cứ nói ra."
 
 <!-- seg: mn5:31.4 -->
-Thưa Tôn giả, có một lần tôi đang trú tại Rājagaha (Vương Xá), ở Giribbaja.
+Thưa Tôn giả, có một lần tôi trú tại Rājagaha (Vương Xá), ở Giribbaja.
 
 [Chú thích: Giribbaja là tên cũ của Rājagaha và vùng phụ cận, nổi tiếng vì được một dãy núi bao quanh.]
 

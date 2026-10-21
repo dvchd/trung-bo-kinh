@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này còn xuất hiện ở Tương Ưng Bộ Kinh 35.121.]
 
 <!-- seg: mn147:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn147:1.3 -->
 Rồi khi Đức Thế Tôn ở một mình trong chỗ vắng, ý nghĩ này khởi lên trong tâm Ngài:

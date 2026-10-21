@@ -126,7 +126,7 @@ Này các tỳ-kheo, các ông hãy thọ trì bản tóm tắt về sự giải
 Đức Thế Tôn đã nói như vậy.
 
 <!-- seg: mn38:41.13 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn38:41.14 -->
 Đại Kinh Đoạn Tận Ái, bài kinh thứ tám, chấm dứt tại đây.

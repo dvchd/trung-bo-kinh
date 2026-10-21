@@ -138,7 +138,7 @@ Này các tỳ-kheo, vị tỳ-kheo ấy được gọi là người đã làm c
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn25:20.4 -->
-Các vị tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn25:20.5 -->
 Kinh Mồi Nhử, bài thứ năm, đã hoàn tất.

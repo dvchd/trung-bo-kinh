@@ -16,6 +16,14 @@ Với người đọc hôm nay, Kinh Kīṭāgiri đáng chú ý ở chỗ nó �
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 70: Kinh Kīṭāgiri**](#trung-bộ-kinh--bài-kinh-số-70-kinh-kīṭāgiri)
+- [**28. Lời tổng kết**](#28-lời-tổng-kết)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 70: Kinh Kīṭāgiri
 
 *Kīṭāgiri Sutta* — bài kinh tại Kīṭāgiri
@@ -54,7 +62,7 @@ Này các tỳ-kheo, các ông cũng hãy không ăn ban đêm.
 Này các tỳ-kheo, khi không ăn ban đêm, các ông cũng sẽ thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc."
 
 <!-- seg: mn70:2.5 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn70:3.1 -->
 Rồi Đức Thế Tôn, đi du hành từng chặng qua xứ Kāsi, đến thị trấn Kīṭāgiri của người Kāsi.
@@ -63,7 +71,7 @@ Rồi Đức Thế Tôn, đi du hành từng chặng qua xứ Kāsi, đến th�
 Tại đó, Đức Thế Tôn trú tại Kīṭāgiri, thị trấn của người Kāsi.
 
 <!-- seg: mn70:4.1 -->
-Lúc bấy giờ, các tỳ-kheo Assaji và Punabbasuka đang trú tại Kīṭāgiri.
+Lúc bấy giờ, các tỳ-kheo Assaji và Punabbasuka trú tại Kīṭāgiri.
 
 [Chú thích: Assaji và Punabbasuka là một cặp tỳ-kheo không biết xấu hổ, nổi tiếng vì dùng vẻ ngoài khéo léo làm hư hỏng các gia chủ và vì chỉ dẫn sai chỗ trú cho Tăng đoàn, đồng thời dẫn dắt người khác theo cùng con đường ấy. Assaji ở đây không phải vị tỳ-kheo tốt, một trong năm người đầu tiên, nên đừng lẫn lộn.]
 

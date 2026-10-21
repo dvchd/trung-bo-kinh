@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Bhaddāli** (*Bhaddālisutta*) là bài thứ sáu mươi lăm trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong khu vườn Jetavana (Kỳ-đà-lâm) của ông Anāthapiṇḍika (Cấp Cô Độc), và xoay quanh một vị tỳ-kheo ít ai biết tên: Bhaddāli. Chuyện bắt đầu rất giản dị — một quy định về cách ăn — nhưng từ đó mở ra một chuỗi bài học về sự kiêu căng, lòng sám hối, và lý do vì sao các giới điều của Tăng đoàn ngày càng nhiều.
+**Kinh Bhaddāli** (*Bhaddālisutta*) là bài thứ sáu mươi lăm trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong khu vườn rừng Jeta (Kỳ-đà) của ông Anāthapiṇḍika (Cấp Cô Độc), và xoay quanh một vị tỳ-kheo ít ai biết tên: Bhaddāli. Chuyện bắt đầu rất giản dị — một quy định về cách ăn — nhưng từ đó mở ra một chuỗi bài học về sự kiêu căng, lòng sám hối, và lý do vì sao các giới điều của Tăng đoàn ngày càng nhiều.
 
 Đức Thế Tôn kể rằng Ngài ăn ngày một bữa, chỉ ngồi một lần, và nhờ vậy thấy mình ít bệnh, nhẹ nhàng, khỏe mạnh. Ngài khuyên các tỳ-kheo làm theo. Hạnh này không phải mệnh lệnh bắt buộc, nhưng là một cách sống tiết độ được Ngài khuyến khích. Bhaddāli liền từ chối thẳng: ông sợ rằng khi chỉ ăn một bữa, mình sẽ day dứt và hối hận. Đức Thế Tôn bèn mở cho ông một lối khác — ăn một phần tại chỗ được mời, phần còn lại mang về ăn — nhưng ông vẫn từ chối.
 
@@ -41,7 +41,7 @@ Phần cuối bài kinh là hình ảnh con ngựa giống quý được ngườ
 Tôi nghe như vầy.
 
 <!-- seg: mn65:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà-lâm), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn65:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -50,7 +50,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn65:1.5 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn65:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -143,7 +143,7 @@ Bạch Thế Tôn, xin Ngài nhận lỗi ấy của con là lỗi, để về s
 Này Bhaddāli, ông đã không nhận ra tình huống này:
 
 <!-- seg: mn65:9.2 -->
-'Đức Thế Tôn đang trú tại Sāvatthī, và Đức Thế Tôn cũng sẽ biết ta—
+'Đức Thế Tôn trú tại Sāvatthī, và Đức Thế Tôn cũng sẽ biết ta—
 
 <!-- seg: mn65:9.3 -->
 là tỳ-kheo tên Bhaddāli, kẻ không làm tròn sự học tập theo lời dạy của bậc Đạo sư.'
@@ -419,7 +419,7 @@ Với vị ấy đang biết như vậy, đang thấy như vậy, tâm được 
 Khi đã giải thoát, vị ấy biết: 'Ta đã giải thoát.'
 
 <!-- seg: mn65:21.3 -->
-Vị ấy biết: 'Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại đời sống này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn65:21.4 -->
 Vì sao vậy?

@@ -70,7 +70,7 @@ thì các ông có thấy cách nói nào, dù nhỏ hay lớn, mà các ông kh
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn21:21.7 -->
-Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn21:21.8 -->
 Kinh Ví Dụ Cái Cưa, bài đầu tiên, đã hoàn tất.

@@ -109,7 +109,7 @@ Chư thiên cũng đã báo cho ta biết điều ấy:
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn73:28.10 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn73:28.11 -->
 Kinh Mahāvaccha, bài thứ ba, đến đây đã hết.

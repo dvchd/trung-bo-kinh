@@ -22,7 +22,7 @@ Này các tỳ-kheo, trong năm trăm tỳ-kheo-ni ấy, vị tỳ-kheo-ni cuố
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn146:27.7 -->
-Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn146:27.8 -->
 Kinh Dạy Nandaka, bài thứ tư, đã hoàn thành.

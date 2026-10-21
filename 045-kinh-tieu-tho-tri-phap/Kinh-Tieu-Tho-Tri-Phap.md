@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Tiểu Kinh Thọ Trì Pháp** (*Cūḷadhammasamādāna Sutta*) là bài kinh thứ 45 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh thứ hai của Kinh tạng tiếng Pali, gồm 152 bài giảng cỡ vừa. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), nơi Đức Thế Tôn đang trú cùng các tỳ-kheo. Ở đây không có nhân vật phụ và cũng không có câu chuyện rắc rối: Ngài gọi các tỳ-kheo lại rồi trình bày một bảng phân loại bốn hạng người, dựa trên hai câu hỏi rất đời thường — việc mình đang làm có dễ chịu ngay lúc này không, và về lâu dài nó đưa mình tới đâu.
+**Tiểu Kinh Thọ Trì Pháp** (*Cūḷadhammasamādāna Sutta*) là bài kinh thứ 45 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh thứ hai của Kinh tạng tiếng Pali, gồm 152 bài giảng cỡ vừa. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), nơi Đức Thế Tôn đang trú cùng các tỳ-kheo. Ở đây không có nhân vật phụ và cũng không có câu chuyện rắc rối: Ngài gọi các tỳ-kheo lại rồi trình bày một bảng phân loại bốn hạng người, dựa trên hai câu hỏi rất đời thường — việc mình đang làm có dễ chịu ngay lúc này không, và về lâu dài nó đưa mình tới đâu.
 
 Chữ *dhammasamādāna* trong tên bài kinh, ở đây dịch là "cách thọ trì pháp", không chỉ nghĩa là tin theo hay học thuộc một giáo lý. Nó là việc nhận lấy một cách sống, một pháp hành, rồi kiên trì làm theo: người xuất gia nhận lấy giới luật và phép tu, người tại gia nhận lấy nếp sống mình đã chọn, và cả hai đều phải sống với kết quả của lựa chọn ấy. Đức Thế Tôn phân bốn cách ấy theo hai trục — cảm giác ngay bây giờ và quả báo về sau. Cách phân loại này không xét việc gì được phép hay bị cấm, mà xét việc ấy đang nuôi lớn cái gì; vì thế nó vừa tôn trọng kinh nghiệm tức thời, vừa không chịu dừng lại ở đó.
 
@@ -13,6 +13,13 @@ Phần minh hoạ cho hạng thứ nhất là một câu chuyện nhỏ về h�
 Bài kinh này không dạy rằng lạc thú là xấu, cũng không dạy rằng khổ hạnh là hay. Điều nó hỏi rất đơn giản: việc mình đang làm sẽ lớn lên thành cái gì? Một chút dễ chịu hôm nay có thể là hạt giống của một dây leo siết chết cả đời; một chút khó chịu hôm nay có thể là giá phải trả cho một kết quả tốt về sau. Nhưng cũng có những việc vừa dễ chịu vừa lành — bài kinh không quên hạng người thứ tư. Người đọc hôm nay vẫn có thể dùng bảng phân loại ấy: trước một thói quen, câu hỏi không phải là nó có vui không, mà là nó đang nuôi cái gì ở trong mình.
 
 Bản dịch bám theo từng đoạn của bản Pali, nên người đọc có thể đối chiếu với nguyên văn hoặc bản tiếng Anh của Bhikkhu Sujato ở bất cứ dòng nào. Những chỗ Pali viết tắt đều được viết ra đầy đủ theo đúng khuôn, nhất là danh sách các phép khổ hạnh ở phần thứ hai và bốn tầng thiền-na ở phần thứ tư. Chú thích của Sujato được giữ lại và rút gọn; chỗ nào là lời của người dịch thì ghi rõ.
+
+---
+
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 45: Tiểu Kinh Thọ Trì Pháp**](#trung-bộ-kinh--bài-kinh-số-45-tiểu-kinh-thọ-trì-pháp)
 
 ---
 
@@ -32,7 +39,7 @@ Bản dịch bám theo từng đoạn của bản Pali, nên người đọc có
 Tôi nghe như vầy.
 
 <!-- seg: mn45:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tịnh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn45:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -41,7 +48,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn45:1.5 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn45:1.6 -->
 Đức Thế Tôn nói như vầy:

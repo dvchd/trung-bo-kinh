@@ -16,6 +16,13 @@ Cuối bài, Ngài kết luận: tên và dòng họ chỉ là quy ước; khôn
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 98: Kinh Vāseṭṭha**](#trung-bộ-kinh--bài-kinh-số-98-kinh-vāseṭṭha)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 98: Kinh Vāseṭṭha
 
 *Vāseṭṭha Sutta* — bài kinh về câu hỏi điều gì làm nên một bà-la-môn: dòng dõi hay việc làm
@@ -34,7 +41,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này được chép lại nguyên văn ở Snp 3.9.]
 
 <!-- seg: mn98:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala.
+Một thuở nọ, Đức Thế Tôn trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala.
 
 <!-- seg: mn98:2.1 -->
 Lúc bấy giờ, nhiều bà-la-môn giàu có và rất nổi tiếng đang cư trú tại Icchānaṅgala, đó là:
@@ -81,7 +88,7 @@ Nhưng thanh niên Bhāradvāja không thể làm cho thanh niên Vāseṭṭha 
 Rồi thanh niên Vāseṭṭha nói với thanh niên Bhāradvāja:
 
 <!-- seg: mn98:5.2 -->
-"Thưa ngài Bhāradvāja, sa-môn Gotama, người Sakya (Thích-ca), đã xuất gia từ gia tộc Sakya, đang trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala.
+"Thưa ngài Bhāradvāja, sa-môn Gotama, người Sakya (Thích-ca), đã xuất gia từ gia tộc Sakya, trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala.
 
 <!-- seg: mn98:5.3 -->
 Về sa-môn Gotama ấy, tiếng lành đã đồn xa như vầy:

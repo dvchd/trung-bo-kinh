@@ -41,9 +41,9 @@ Bài kinh khép lại bằng một cuộc đối thoại ngắn và một phát 
 Tôi nghe như vầy.
 
 <!-- seg: mn24:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng Tre (Veḷuvana, Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
-[Chú thích: Rừng Tre là một đại tu viện gần Rājagaha, do vua Bimbisāra (Tần-bà-sa-la) dâng cúng, và được xem là tu viện đầu tiên dành riêng cho Tăng đoàn.]
+
 
 <!-- seg: mn24:2.1 -->
 Rồi nhiều tỳ-kheo quê ở vùng ấy, sau khi đã an cư mùa mưa tại quê nhà, đi đến chỗ Đức Thế Tôn; đến rồi, đảnh lễ Ngài và ngồi xuống một bên. Khi các tỳ-kheo ấy đã ngồi một bên, Đức Thế Tôn nói với họ:
@@ -86,16 +86,16 @@ Rồi Đức Thế Tôn, sau khi trú tại Rājagaha bao lâu tùy ý, lên đ�
 Ngài đi từng chặng một, và đến được Sāvatthī.
 
 <!-- seg: mn24:4.3 -->
-Tại đó, Đức Thế Tôn trú ở Sāvatthī, trong rừng Jeta (Kỳ-đà Lâm), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn24:4.4 -->
-Tôn giả Puṇṇa, con của Mantāṇī, nghe tin: "Đức Thế Tôn đã đến Sāvatthī; Ngài đang trú ở Sāvatthī, trong rừng Jeta, tại tu viện của Anāthapiṇḍika."
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn24:5.1 -->
 Rồi Tôn giả Puṇṇa, con của Mantāṇī, dọn dẹp chỗ ở, cầm bát và y, lên đường đi đến Sāvatthī.
 
 <!-- seg: mn24:5.2 -->
-Ngài đi từng chặng một, đến Sāvatthī, đến rừng Jeta, tu viện của Anāthapiṇḍika, rồi đi đến chỗ Đức Thế Tôn; đến rồi, đảnh lễ Ngài và ngồi xuống một bên.
+Ngài đi từng chặng một, đến Sāvatthī, đến rừng Jeta, tịnh xá của Anāthapiṇḍika, rồi đi đến chỗ Đức Thế Tôn; đến rồi, đảnh lễ Ngài và ngồi xuống một bên.
 
 <!-- seg: mn24:5.3 -->
 Khi Tôn giả Puṇṇa, con của Mantāṇī, đã ngồi một bên, Đức Thế Tôn dùng lời dạy về Pháp để chỉ dẫn, khích lệ, sách tấn và làm cho hoan hỷ ngài.

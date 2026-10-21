@@ -16,6 +16,13 @@ Phần thứ năm ấy là một trong những bản mô tả thiền định đ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 77: Đại Kinh Sakuludāyi**](#trung-bộ-kinh--bài-kinh-số-77-đại-kinh-sakuludāyi)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 77: Đại Kinh Sakuludāyi
 
 *Mahāsakuludāyisutta* — bài kinh mang tên du sĩ Sakuludāyī, ghi lại cuộc đàm luận tại khu vườn nuôi chim công, trong đó Đức Thế Tôn trình bày năm pháp khiến các đệ tử kính trọng Ngài
@@ -36,10 +43,10 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh mở đầu bằng cuộc đàm luận về lý do vì sao một số vị đạo sư được tôn kính, rồi Đức Thế Tôn trình bày một trong những bản mô tả đầy đủ nhất về hệ thống thiền định của Ngài, tập hợp gần như mọi góc nhìn và cách tiếp cận khác nhau đối với định.]
 
 <!-- seg: mn77:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Veḷuvana (Trúc Lâm), chỗ nuôi dưỡng sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn77:2.1 -->
-Lúc bấy giờ, nhiều du sĩ rất nổi tiếng đang trú tại khu vườn của các du sĩ ở Moranivāpa, chỗ nuôi dưỡng chim công, đó là:
+Lúc bấy giờ, nhiều du sĩ rất nổi tiếng trú tại khu vườn của các du sĩ ở Moranivāpa, chỗ nuôi dưỡng chim công, đó là:
 
 <!-- seg: mn77:2.2 -->
 Annabhāra, Varadhara, du sĩ Sakuludāyī và những du sĩ rất nổi tiếng khác.

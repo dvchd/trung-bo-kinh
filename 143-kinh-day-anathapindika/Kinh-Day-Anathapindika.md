@@ -16,6 +16,13 @@ Bài kinh này ngắn nhưng có hai điều đáng giữ lại. Thứ nhất, n
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 143: Kinh Dạy Anāthapiṇḍika**](#trung-bộ-kinh--bài-kinh-số-143-kinh-dạy-anāthapiṇḍika)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 143: Kinh Dạy Anāthapiṇḍika
 
 *Anāthapiṇḍikovāda Sutta* — lời khuyên dạy gia chủ Anāthapiṇḍika
@@ -32,7 +39,7 @@ Bài kinh này ngắn nhưng có hai điều đáng giữ lại. Thứ nhất, n
 Tôi nghe như vầy.
 
 <!-- seg: mn143:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn143:2.1 -->
 Lúc bấy giờ, gia chủ Anāthapiṇḍika bị bệnh, đau đớn, bệnh nặng.

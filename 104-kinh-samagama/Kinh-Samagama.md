@@ -16,6 +16,13 @@ Người đọc hôm nay có thể không xuất gia, nhưng bài kinh vẫn nó
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 104: Kinh Sāmagāma**](#trung-bộ-kinh--bài-kinh-số-104-kinh-sāmagāma)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 104: Kinh Sāmagāma
 
 *Sāmagāmasutta* — bài kinh về cuộc chia rẽ của các Nigaṇṭha sau khi Nāṭaputta qua đời, và sáu pháp giữ Tăng đoàn khỏi chia rẽ

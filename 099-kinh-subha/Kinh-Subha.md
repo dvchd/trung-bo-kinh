@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Subha** (*Subha Sutta*) là bài kinh thứ 99 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh gần như trọn vẹn là một cuộc đối thoại giữa Đức Thế Tôn và một thanh niên bà-la-môn tên là Subha, con trai của Todeyya. Hai người ngồi trong tu viện của Anāthapiṇḍika (Cấp Cô Độc), ngoại ô thành Sāvatthī (Xá-vệ), và câu chuyện mở ra bằng một câu hỏi rất đời: sống tại gia hay xuất gia thì dễ thành tựu điều thiện hơn?
+**Kinh Subha** (*Subha Sutta*) là bài kinh thứ 99 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh gần như trọn vẹn là một cuộc đối thoại giữa Đức Thế Tôn và một thanh niên bà-la-môn tên là Subha, con trai của Todeyya. Hai người ngồi trong tịnh xá của Anāthapiṇḍika (Cấp Cô Độc), ngoại ô thành Sāvatthī (Xá-vệ), và câu chuyện mở ra bằng một câu hỏi rất đời: sống tại gia hay xuất gia thì dễ thành tựu điều thiện hơn?
 
 Muốn hiểu bài kinh, chỉ cần biết bối cảnh xã hội của nó. Ở Ấn Độ thời Đức Thế Tôn, bà-la-môn là tầng lớp tư tế giữ truyền thống tụng đọc Vệ-đà, tế lễ và bố thí; sa-môn là những người rời nhà, sống không tài sản, đi tìm con đường giải thoát. Subha là một học trò bà-la-môn trẻ, học nhiều nhưng chưa tin, và ông đến gặp Đức Thế Tôn không phải để nghe giảng mà để chất vấn. Ông lần lượt nêu ba lập luận mà giới bà-la-môn đang nói, rồi chờ xem vị sa-môn Gotama trả lời thế nào.
 
@@ -13,6 +13,13 @@ Phần gay cấn nhất của bài kinh đến ở chỗ Đức Thế Tôn hỏi
 Từ đó bài kinh đi đến một kết luận bất ngờ. Trong năm pháp của các bà-la-môn, pháp có quả lớn nhất là sự bố thí. Nhưng Đức Thế Tôn bày ra một tình huống: nếu hai bà-la-môn đến dự lễ tế mà một người chỉ mong mình được chỗ ngồi tốt nhất, rồi tức giận khi người khác được, thì các bà-la-môn đâu có bố thí để người khác tức giận; họ bố thí vì lòng thương xót. Vậy chính lòng thương xót là pháp thứ sáu tạo phước. Và khi được hỏi năm pháp ấy có nhiều ở người tại gia hay người xuất gia, Subha đáp: nhiều ở người xuất gia. Nhưng Đức Thế Tôn không dừng ở chỗ ấy. Ngài nói năm pháp ấy chỉ là hành trang của tâm, là điều kiện để tu tập một tâm không oán hận, không ác ý.
 
 Nửa sau bài kinh là phần Subha xin dạy con đường đi đến cõi chung với Phạm Thiên. Đức Thế Tôn không trả lời bằng một tuyên bố trừu tượng, mà hỏi một câu rất cụ thể: làng Naḷakāra ở gần đây phải không? Một người sinh ra và lớn lên ở đó sẽ không ngập ngừng khi được hỏi đường về làng, cũng vậy, Ngài không ngập ngừng khi được hỏi về cõi Phạm Thiên. Con đường ấy là bốn tâm rộng lớn: từ, bi, niềm vui mừng và xả, rải khắp mọi phương, không oán hận, không ác ý. Ngài nói thêm rằng khi tâm giải thoát bằng từ được tu tập như vậy thì nghiệp có hạn lượng đã làm không còn an trú ở đó. Subha nghe xong liền xin quy y, trở thành người cư sĩ. Bài kinh khép lại bằng cảnh bà-la-môn Jānussoṇi xuống khỏi cỗ xe trắng, chắp tay hướng về Đức Thế Tôn và thốt lên rằng vua Pasenadi nước Kosala thật có phước khi trong nước mình có Như Lai, tức bậc A-la-hán, Chánh đẳng giác, đang trú ngụ. Một chi tiết nhỏ đáng để người đọc hôm nay dừng lại: con đường đến cõi Phạm Thiên mà bài kinh dạy là một kết quả tốt, nhưng chưa phải là giải thoát cuối cùng; và điều Đức Thế Tôn làm suốt bài kinh không phải là thắng một cuộc tranh luận, mà là kéo người đối thoại ra khỏi chỗ nói về điều mình chưa biết.
+
+---
+
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 99: Kinh Subha**](#trung-bộ-kinh--bài-kinh-số-99-kinh-subha)
 
 ---
 
@@ -32,10 +39,10 @@ Nửa sau bài kinh là phần Subha xin dạy con đường đi đến cõi chu
 Tôi nghe như vầy.
 
 <!-- seg: mn99:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn99:2.1 -->
-Lúc bấy giờ, thanh niên Subha, con trai của Todeyya, đang trú tại Sāvatthī, trong nhà của một gia chủ nọ, vì một việc gì đó cần làm.
+Lúc bấy giờ, thanh niên Subha, con trai của Todeyya, trú tại Sāvatthī, trong nhà của một gia chủ nọ, vì một việc gì đó cần làm.
 
 [Chú thích: Về sau, chính Subha này còn gặp Đức Thế Tôn trong bài kinh số 135 của bộ này để hỏi về nghiệp, và sau khi Đức Thế Tôn nhập diệt thì gặp Ānanda trong Trường Bộ Kinh, bài số 10. Cha của ông là Todeyya, một bà-la-môn nổi tiếng thường được nhắc cùng với Pokkharasāti. Theo chú giải, Todeyya được đặt tên theo làng Tudi ở ngoại ô Sāvatthī.]
 
@@ -52,7 +59,7 @@ Rồi thanh niên Subha, con trai của Todeyya, nói với vị gia chủ có n
 Hôm nay chúng ta nên đến hầu hạ vị sa-môn hay bà-la-môn nào đây?"
 
 <!-- seg: mn99:2.6 -->
-"Thưa ngài, Đức Thế Tôn đang trú tại Sāvatthī, trong rừng Jeta, tại tu viện của Anāthapiṇḍika.
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn99:2.7 -->
 Thưa ngài, xin ngài đến hầu hạ Đức Thế Tôn ấy."

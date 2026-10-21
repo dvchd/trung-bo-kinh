@@ -16,6 +16,13 @@ Nửa sau bài kinh chuyển sang một chủ đề khác, và đây là phần 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 71: Kinh Vacchagotta về Tam Minh**](#trung-bộ-kinh--bài-kinh-số-71-kinh-vacchagotta-về-tam-minh)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 71: Kinh Vacchagotta về Tam Minh
 
 *Tevijjavacchagotta Sutta* — bài kinh về du sĩ Vacchagotta và ba minh
@@ -39,7 +46,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Vesālī (Tỳ-xá-ly), trong Mahāvana (Đại Lâm), tại giảng đường có mái nhọn.
 
 <!-- seg: mn71:2.1 -->
-Lúc bấy giờ, du sĩ Vacchagotta đang trú tại Ekapuṇḍarīka, tịnh xá của các du sĩ.
+Lúc bấy giờ, du sĩ Vacchagotta trú tại Ekapuṇḍarīka, tịnh xá của các du sĩ.
 
 [Chú thích: Vacchagotta là tên dòng họ, tên riêng của ông không được ghi lại. Dòng họ ấy bắt nguồn từ vị hiền triết Vatsa thời Vệ-đà, và một người cùng dòng họ là Śayyambha Vatsagotra được nói là đệ tử trực tiếp của Mahāvīra. Điều này hợp với sự quan tâm rõ rệt của Vacchagotta đối với các truyền thống tu khổ hạnh.]
 

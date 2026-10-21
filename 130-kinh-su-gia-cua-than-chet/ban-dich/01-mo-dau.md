@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này được đặt trong khung ngụ ngôn về những sứ giả của chư thiên, tức những điềm báo của cái chết, và mở rộng phần mô tả thiên nhãn thanh tịnh, đặc biệt chú trọng những nỗi khổ nơi địa ngục. Đây là một bài giảng rất phổ biến, có tới sáu bản Hán tương ứng và nhiều chỗ được dẫn trong văn học Sanskrit.]
 
 <!-- seg: mn130:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn130:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -13,7 +13,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn130:1.5 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn130:1.6 -->
 Đức Thế Tôn nói như vầy:

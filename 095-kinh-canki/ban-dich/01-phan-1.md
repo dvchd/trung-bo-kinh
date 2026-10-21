@@ -89,7 +89,7 @@ xin các ngài hãy chờ đợi, vì chính bà-la-môn Caṅkī cũng sẽ đi
 xin các ngài hãy chờ đợi, vì chính bà-la-môn Caṅkī cũng sẽ đi đến gặp sa-môn Gotama.'"
 
 <!-- seg: mn95:7.1 -->
-Lúc bấy giờ, có khoảng năm trăm bà-la-môn từ nhiều nước khác nhau đang trú tại Opāsāda vì một việc nào đó.
+Lúc bấy giờ, có khoảng năm trăm bà-la-môn từ nhiều nước khác nhau trú tại Opāsāda vì một việc nào đó.
 
 <!-- seg: mn95:7.2 -->
 Các bà-la-môn ấy nghe nói:

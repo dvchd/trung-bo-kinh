@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-Bài kinh này ghi lại một cuộc gặp ngắn ở Sāvatthī (Xá-vệ), trong khu vườn Jetavana (Kỳ-đà Lâm) của ông Anāthapiṇḍika (Cấp Cô Độc). Một người tu khổ hạnh lang thang tên là Vekhanasa đến thăm Đức Thế Tôn. Ông chào hỏi, đứng sang một bên, rồi bỗng thốt lên hai lần: "Đây là vẻ rực rỡ tối thượng." Ông không nói thêm gì, không giải thích, cũng không chỉ ra cái gì đang rực rỡ. Câu chuyện bắt đầu từ chỗ trống ấy.
+Bài kinh này ghi lại một cuộc gặp ngắn ở Sāvatthī (Xá-vệ), trong khu vườn rừng Jeta (Kỳ-đà) của ông Anāthapiṇḍika (Cấp Cô Độc). Một người tu khổ hạnh lang thang tên là Vekhanasa đến thăm Đức Thế Tôn. Ông chào hỏi, đứng sang một bên, rồi bỗng thốt lên hai lần: "Đây là vẻ rực rỡ tối thượng." Ông không nói thêm gì, không giải thích, cũng không chỉ ra cái gì đang rực rỡ. Câu chuyện bắt đầu từ chỗ trống ấy.
 
 Vekhanasa thuộc một dòng tu khổ hạnh rất cũ, gốc từ các thi sĩ Vệ-đà của Ấn Độ cổ. Theo chú giải, ông là thầy của du sĩ Sakaludāyī và đến đây để bảo vệ giáo thuyết của mình. Điều ông muốn nói, đại khái, là: sau khi chết, tự ngã, tức cái tôi trường tồn mà ông tin là có thật, không còn bệnh tật và tồn tại trong một vẻ rực rỡ mà không có vẻ rực rỡ nào khác cao hơn. Đó là một niềm tin về cái tuyệt đối, và ông tin rằng nó không cần phải chứng minh.
 

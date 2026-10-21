@@ -62,7 +62,7 @@ Tôi nghe như vầy.
 [Chú thích: Cũng như Trường Bộ Kinh mở đầu bằng bài Phạm Võng — một bài rất khó —, Trung Bộ Kinh mở đầu bằng một trong những bài trừu tượng nhất của toàn bộ kinh tạng: bài này khảo sát cách nhận thức và cách đồng hóa sự vật biến đổi theo tiến trình tu tập.]
 
 <!-- seg: mn1:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú gần Ukkaṭṭhā, trong rừng Subhaga, dưới gốc một cây sa-la vua to lớn.
+Một thuở nọ, Đức Thế Tôn trú gần Ukkaṭṭhā, trong rừng Subhaga, dưới gốc một cây sa-la vua to lớn.
 
 [Chú thích: Ukkaṭṭhā nằm gần Sāvatthī, ít khi được nhắc tới, và mỗi lần nhắc là gắn với một sự kiện hay một bài pháp đặc biệt.]
 
@@ -73,7 +73,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn1:1.5 -->
-"Thưa Thế Tôn," các tỳ-kheo đáp lời.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn1:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -85,7 +85,7 @@ Này các tỳ-kheo, Ta sẽ giảng cho các ông pháp môn về cội nguồn
 Hãy lắng nghe và khéo tác ý, Ta sẽ nói.
 
 <!-- seg: mn1:2.3 -->
-"Thưa vâng, Thế Tôn," các tỳ-kheo đáp lời.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn1:2.4 -->
 Đức Thế Tôn nói như vầy:

@@ -140,7 +140,7 @@ Này các tỳ-kheo, Sāriputta tiếp tục vận chuyển đúng đắn bánh 
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn111:23.3 -->
-Các vị tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn111:23.4 -->
 Kinh Tùy Quán đã kết thúc, bài thứ nhất.

@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn30:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà-lâm), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn30:2.1 -->
 Rồi bà-la-môn Piṅgalakoccha đi đến chỗ Đức Thế Tôn; đến rồi, ông chào hỏi Đức Thế Tôn.

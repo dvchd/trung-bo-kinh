@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này dùng những phép quán thân giống như phần quán thân trong Kinh Niệm Xứ (MN 10).]
 
 <!-- seg: mn119:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn119:2.1 -->
 Rồi sau bữa ăn, khi đã đi khất thực trở về, nhiều tỳ-kheo cùng ngồi tụ lại, tụ họp trong nhà tụ họp, và câu chuyện giữa họ khởi lên như vầy:

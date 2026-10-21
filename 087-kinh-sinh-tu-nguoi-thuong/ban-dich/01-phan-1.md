@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Vua Pasenadi hình như lần đầu gặp Đức Thế Tôn và quy phục Ngài trong Tương Ưng Bộ Kinh 3.1, nhưng khi ấy đức tin của ông còn non, nên ông dễ bực bội trước lòng sùng mộ của chánh hậu Mallikā, tên có nghĩa là hoa nhài. Về sau chính những lời khéo léo của bà mới đưa ông về với Pháp; các cuộc đối thoại tương tự giữa hai người còn được kể ở những bài khác trong Tương Ưng Bộ Kinh và Tiểu Bộ Kinh.]
 
 <!-- seg: mn87:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà lâm), khu vườn của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn87:2.1 -->
 Lúc bấy giờ, đứa con trai duy nhất của một gia chủ nọ, người con ông thương yêu quý mến, đã qua đời.

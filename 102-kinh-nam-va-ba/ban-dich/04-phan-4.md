@@ -22,7 +22,7 @@ sau khi như thật biết sự sinh khởi, sự diệt tận, vị ngọt, s�
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn102:25.4 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn102:25.5 -->
 Kinh Năm và Ba hoàn tất, bài thứ hai.

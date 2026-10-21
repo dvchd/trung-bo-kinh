@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn14:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại xứ của người Sakka (Thích-ca), tại Kapilavatthu (Ca-tì-la-vệ), trong tịnh xá Nigrodha (vườn cây đa).
+Một thuở nọ, Đức Thế Tôn trú tại xứ của người Sakka (Thích-ca), tại Kapilavatthu (Ca-tì-la-vệ), trong tịnh xá Nigrodha (vườn cây đa).
 
 <!-- seg: mn14:2.1 -->
 Rồi Mahānāma người Sakka đi đến chỗ Đức Thế Tôn; đến nơi, đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Khi đã ngồi xuống một bên, Mahānāma người Sakka bạch Đức Thế Tôn:

@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn126:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), trong vườn tre Veḷuvana (Trúc Lâm), tại chỗ nuôi sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn126:2.1 -->
 Rồi vào buổi sáng, Tôn giả Bhūmija mặc y, cầm bát và y, đi đến nhà của thái tử Jayasena; sau khi đến, ngài ngồi xuống chỗ đã được sắp đặt.

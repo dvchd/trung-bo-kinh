@@ -80,7 +80,7 @@ Này các tỳ-kheo, đó là bốn mối nguy mà một người nào đó đã
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn67:20.3 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn67:20.4 -->
 Kinh Cātumā, bài thứ bảy, đã hoàn thành.

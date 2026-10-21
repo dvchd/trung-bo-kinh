@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Bhūmija** (*Bhūmijasutta*) là bài kinh thứ 126 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài diễn ra tại Rājagaha (Vương Xá), nơi Đức Thế Tôn đang trú trong vườn tre Veḷuvana (Trúc Lâm). Một buổi sáng, Tôn giả Bhūmija mặc y, cầm bát đi vào nhà của thái tử Jayasena — cũng là vị thái tử xuất hiện trong bài kinh trước, MN 125 — và ngồi xuống chỗ đã được sắp đặt.
+**Kinh Bhūmija** (*Bhūmijasutta*) là bài kinh thứ 126 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài diễn ra tại Rājagaha (Vương Xá), nơi Đức Thế Tôn đang trú trong rừng tre Veḷuvana (Trúc Lâm). Một buổi sáng, Tôn giả Bhūmija mặc y, cầm bát đi vào nhà của thái tử Jayasena — cũng là vị thái tử xuất hiện trong bài kinh trước, MN 125 — và ngồi xuống chỗ đã được sắp đặt.
 
 Câu chuyện bắt đầu bằng một ý kiến mà thái tử đã nghe ở đâu đó. Có những sa-môn và bà-la-môn chủ trương rằng dù người ta có ước muốn hay không ước muốn, dù vừa có vừa không, hay chẳng có cũng chẳng không, thì sống đời phạm hạnh cũng không thể đạt được quả. Thái tử muốn biết bậc Đạo sư của Tôn giả Bhūmija nói gì về chuyện ấy. Bốn khả năng kia là một lối lập luận quen thuộc của thời ấy: liệt kê hết mọi trường hợp để cho thấy kết luận luôn luôn như nhau, và vì thế mà công việc tu tập thành ra vô ích.
 

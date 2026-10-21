@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-Bài kinh này là bài thứ 112 trong Trung Bộ Kinh, tên Pali là *Chabbisodhana Sutta*, nghĩa là bài kinh về sáu sự thanh tịnh. Bối cảnh rất giản dị: Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong khu vườn Jetavana (Kỳ Viên), và Ngài gọi các tỳ-kheo đến. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Chỉ có một tình huống mà cộng đồng tôn giáo nào cũng gặp: một người trong nhóm tuyên bố mình đã đạt kết quả cuối cùng.
+Bài kinh này là bài thứ 112 trong Trung Bộ Kinh, tên Pali là *Chabbisodhana Sutta*, nghĩa là bài kinh về sáu sự thanh tịnh. Bối cảnh rất giản dị: Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong khu vườn rừng Jeta (Kỳ-đà), và Ngài gọi các tỳ-kheo đến. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Chỉ có một tình huống mà cộng đồng tôn giáo nào cũng gặp: một người trong nhóm tuyên bố mình đã đạt kết quả cuối cùng.
 
 Lời tuyên bố ấy là một công thức quen thuộc: sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa. Với người ngoài, đó là lời nói không thể kiểm chứng. Cách xử lý của Đức Thế Tôn rất đáng chú ý: Ngài không bảo các tỳ-kheo tin ngay, cũng không bảo gạt phắt đi. Ngài dạy rằng đừng hoan hỷ, cũng đừng bác bỏ, mà hãy hỏi. Bài kinh vì thế là một quy trình thẩm định, chứ không phải một buổi lễ tuyên bố.
 
@@ -41,7 +41,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này trình bày một cách thẩm định lời tuyên bố chứng quả A-la-hán của một tỳ-kheo. Vị ấy được dẫn qua một loạt câu hỏi càng lúc càng phức tạp, cuối cùng là toàn bộ con đường tu tập tuần tự.]
 
 <!-- seg: mn112:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ Viên), tinh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn112:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -50,7 +50,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn112:1.5 -->
-"Bạch Thế Tôn," các vị tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn112:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -485,9 +485,9 @@ vì chúng tôi được thấy một vị đồng phạm hạnh như vị đây
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn112:21.6 -->
-Các vị tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
-[Chú thích: Tên bài kinh nói đến sáu sự thanh tịnh, nhưng bản Pali chỉ có năm mục. Chú giải đưa ra vài cách giải thích, trong đó các vị Trưởng lão hải ngoại cho rằng văn bản phải có thêm phần bốn loại thức ăn, và bản Hán tương đương quả thật có phần ấy. Như vậy một ký ức chính xác về văn bản vẫn được lưu giữ trong truyền thống chú giải, dù chính văn bản đã mất một phần.]
+
 
 <!-- seg: mn112:21.7 -->
 Kinh Sáu Thanh Tịnh đã kết thúc, bài thứ hai.

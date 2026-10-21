@@ -16,6 +16,13 @@ Bản dịch này làm từ nguyên bản Pali, đối chiếu với bản tiế
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 132: Kinh Ānanda Một Đêm Lành**](#trung-bộ-kinh--bài-kinh-số-132-kinh-ānanda-một-đêm-lành)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 132: Kinh Ānanda Một Đêm Lành
 
 *Ānandabhaddekaratta Sutta* — bài kinh Ānanda giảng lại bài kệ về người có một đêm lành
@@ -34,7 +41,7 @@ Bản dịch này làm từ nguyên bản Pali, đối chiếu với bản tiế
 Tôi nghe như vầy.
 
 <!-- seg: mn132:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn132:2.1 -->
 Lúc bấy giờ, Tôn giả Ānanda (A-nan) đang chỉ dẫn, khuyến khích, sách tấn và làm cho hoan hỷ các tỳ-kheo trong giảng đường bằng một bài pháp thoại, giảng phần tóm tắt và phần phân tích về người có một đêm lành.

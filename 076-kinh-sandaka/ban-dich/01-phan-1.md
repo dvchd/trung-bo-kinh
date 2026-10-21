@@ -42,7 +42,7 @@ Thấy vậy, ông ấy dàn xếp hội chúng của mình:
 Đây là sa-môn Ānanda, đệ tử của sa-môn Gotama, đang đi đến.
 
 <!-- seg: mn76:4.7 -->
-Trong số các đệ tử của sa-môn Gotama đang trú tại Kosambī, vị này là một trong những người ấy, sa-môn Ānanda.
+Trong số các đệ tử của sa-môn Gotama trú tại Kosambī, vị này là một trong những người ấy, sa-môn Ānanda.
 
 [Chú thích: Câu này đứng một mình thì có vẻ thừa. Ở những chỗ khác, thành ngữ ấy dùng để nói rõ người được nhắc đến là đệ tử tại gia; có thể văn bản ở đây đã bị hỏng, và nguyên thủy muốn nói Ānanda là đệ tử xuất gia.]
 

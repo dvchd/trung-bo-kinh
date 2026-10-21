@@ -48,7 +48,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn148:1.5 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn148:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -65,7 +65,7 @@ Sáu nhóm sáu.
 Hãy nghe và khéo tác ý, Ta sẽ nói.
 
 <!-- seg: mn148:2.4 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn148:2.5 -->
 Đức Thế Tôn nói như vầy:
@@ -718,7 +718,7 @@ Vị ấy nhàm chán ý, nhàm chán pháp, nhàm chán thức của ý, nhàm 
 Do nhàm chán nên ly tham; do ly tham nên được giải thoát. Nơi vị đã giải thoát, khởi lên trí biết rằng: 'Đã giải thoát.'
 
 <!-- seg: mn148:41.7 -->
-Vị ấy biết: 'Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại đời này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn148:41.8 -->
 Đức Thế Tôn nói như vậy.

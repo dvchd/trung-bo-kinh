@@ -16,6 +16,13 @@ Với người đọc hôm nay, Kinh Gulissāni đọc như một cuốn sổ ta
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 69: Kinh Gulissāni**](#trung-bộ-kinh--bài-kinh-số-69-kinh-gulissāni)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 69: Kinh Gulissāni
 
 *Gulissāni Sutta* — bài kinh về những điều một tỳ-kheo sống ở rừng phải giữ khi về giữa Tăng đoàn

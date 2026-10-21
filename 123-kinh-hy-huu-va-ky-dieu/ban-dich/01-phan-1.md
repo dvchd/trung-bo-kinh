@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn123:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn123:2.1 -->
 Rồi sau bữa ăn, khi đã đi khất thực về, nhiều tỳ-kheo ngồi tụ họp nhau trong giảng đường, và câu chuyện này khởi lên giữa các vị ấy:

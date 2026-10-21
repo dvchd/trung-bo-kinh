@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này cảnh báo đừng vội kết luận, và đề cao lối tiếp cận thận trọng, thực tiễn đối với sự thật; chủ đề ấy được khai triển thêm trong các bài MN 47, MN 60 và MN 99. Theo biên niên sử Mahāvaṁsa của Tích Lan, đây là bài kinh đầu tiên mà vị A-la-hán Mahinda giảng cho vua Devanampiyatissa, khiến nhà vua quy y và Phật giáo lan rộng ở Tích Lan vào khoảng năm 250 trước Công nguyên.]
 
 <!-- seg: mn27:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tinh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn27:2.1 -->
 Lúc bấy giờ, bà-la-môn Jānussoṇi giữa ban ngày đi ra khỏi Sāvatthī trên cỗ xe toàn trắng do các ngựa cái kéo.

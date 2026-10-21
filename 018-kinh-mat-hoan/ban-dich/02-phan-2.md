@@ -8,7 +8,7 @@ Tại đây, những pháp ác bất thiện ấy chấm dứt, không còn sót
 Này Hiền giả Kaccāna, khi Đức Thế Tôn vừa rời đi không lâu, chúng tôi nghĩ như vầy:
 
 <!-- seg: mn18:11.9 -->
-'Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+'Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:11.10 -->
 "Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người.
@@ -80,7 +80,7 @@ Xin Tôn giả Mahākaccāna giảng rõ cho, đừng nề hà.
 Tôn giả Mahākaccāna nói như vầy:
 
 <!-- seg: mn18:15.1 -->
-Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 [Chú thích: Lời dạy vắn tắt để tụng đọc là uddesa, một đoạn ngắn cần thuộc lòng nguyên văn, rồi sau đó mới gắn vào đó phần phân tích dài.]
 

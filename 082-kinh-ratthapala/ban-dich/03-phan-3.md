@@ -23,7 +23,7 @@ Rồi Đức Thế Tôn, khi vị tôn giả Raṭṭhapāla mới thọ cụ t�
 Đi du hành từng chặng, Ngài đến Sāvatthī.
 
 <!-- seg: mn82:13.4 -->
-Tại đó, Đức Thế Tôn trú ở Jetavana (Kỳ-đà), tinh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn82:14.1 -->
 Rồi vị tôn giả Raṭṭhapāla sống một mình, ẩn cư, không buông lung, tinh tấn, quyết tâm, và không bao lâu, Ngài đã tự mình chứng ngộ bằng thắng trí ngay trong đời này, và an trú vào mục đích tối thượng của đời sống phạm hạnh — mục đích mà các thiện nam tử đúng đắn rời nhà xuất gia sống không nhà để đạt được.

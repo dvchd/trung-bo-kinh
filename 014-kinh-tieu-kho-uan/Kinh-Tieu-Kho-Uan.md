@@ -16,6 +16,13 @@ Cuộc đối thoại khép lại bằng một phép so sánh rất đời. Các
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 14: Tiểu Kinh Khổ Uẩn**](#trung-bộ-kinh--bài-kinh-số-14-tiểu-kinh-khổ-uẩn)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 14: Tiểu Kinh Khổ Uẩn
 
 *Cūḷadukkhakkhandha Sutta* — bài kinh ngắn về khối khổ
@@ -34,7 +41,7 @@ Cuộc đối thoại khép lại bằng một phép so sánh rất đời. Các
 Tôi nghe như vầy.
 
 <!-- seg: mn14:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại xứ của người Sakka (Thích-ca), tại Kapilavatthu (Ca-tì-la-vệ), trong tịnh xá Nigrodha (vườn cây đa).
+Một thuở nọ, Đức Thế Tôn trú tại xứ của người Sakka (Thích-ca), tại Kapilavatthu (Ca-tì-la-vệ), trong tịnh xá Nigrodha (vườn cây đa).
 
 <!-- seg: mn14:2.1 -->
 Rồi Mahānāma người Sakka đi đến chỗ Đức Thế Tôn; đến nơi, đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Khi đã ngồi xuống một bên, Mahānāma người Sakka bạch Đức Thế Tôn:

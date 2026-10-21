@@ -80,7 +80,7 @@ Khi vị ấy biết như vậy, thấy như vậy, tâm được giải thoát 
 Khi tâm đã giải thoát, khởi lên tri kiến: "Tâm đã giải thoát."
 
 <!-- seg: mn125:29.6 -->
-Vị ấy như thật biết rõ: "Sinh đã tận, đời sống phạm hạnh đã được sống xong, việc cần làm đã làm, không còn trở lại đời này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn125:30.1 -->
 Vị tỳ-kheo ấy chịu đựng được lạnh, nóng, đói, khát; chịu đựng được sự xúc chạm của ruồi, muỗi, gió, nắng và các loài bò sát; chịu đựng được những lời nói khó nghe, những cách nói khó chịu; và đối với những cảm thọ thuộc thân đã khởi lên — khổ, đau, nhói buốt, gay gắt, không dễ chịu, không vừa ý, có thể cướp đi mạng sống — vị ấy có khả năng chịu đựng.

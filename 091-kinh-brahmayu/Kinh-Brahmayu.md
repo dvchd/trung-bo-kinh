@@ -1052,7 +1052,7 @@ Này các tỳ-kheo, bà-la-môn Brahmāyu, do đoạn trừ năm hạ phần ki
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn91:39.9 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn91:39.10 -->
 Kinh Brahmāyu, bài thứ nhất, đã kết thúc.

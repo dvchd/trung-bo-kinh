@@ -2,9 +2,9 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn5:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ Viên), tinh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
-[Chú thích: Đức Thế Tôn không xuất hiện trong bài kinh này, nhưng Ngài vẫn được nhắc đến để tỏ lòng kính trọng, cho thấy các sự việc kể ở đây diễn ra khi Ngài còn tại thế.]
+
 
 <!-- seg: mn5:1.3 -->
 Tại đó, Tôn giả Sāriputta (Xá-lợi-phất) gọi các tỳ-kheo:

@@ -59,7 +59,7 @@ Vị ấy nhàm chán ý, nhàm chán pháp, nhàm chán thức của ý, nhàm 
 Do nhàm chán nên ly tham; do ly tham nên được giải thoát. Nơi vị đã giải thoát, khởi lên trí biết rằng: 'Đã giải thoát.'
 
 <!-- seg: mn148:41.7 -->
-Vị ấy biết: 'Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại đời này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn148:41.8 -->
 Đức Thế Tôn nói như vậy.

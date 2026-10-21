@@ -77,7 +77,7 @@ vì vua Pasenadi xứ Kosala được thấy Tôn giả Ānanda, được thân 
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn88:22.5 -->
-Các vị tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn88:22.6 -->
 Kinh Bāhitika, bài thứ tám, đã hoàn tất.

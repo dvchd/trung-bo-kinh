@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này cho thấy Vacchagotta, sau khi đã có được một phần niềm tin như ghi trong MN 71, đến hỏi Đức Thế Tôn về những vấn đề Ngài không trả lời. Đó mới chỉ là một phần nhỏ trong sự tò mò của ông: cả 55 bài trong SN 33 đều bàn đúng chủ đề ấy, và SN 44.7, SN 44.8, SN 44.11 cũng vậy. Nằm dưới mọi câu hỏi ấy là giả định về một cái ta, và ở SN 44.10 ông hỏi thẳng vào điểm này.]
 
 <!-- seg: mn72:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà-lâm), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn72:2.1 -->
 Rồi du sĩ Vacchagotta đi đến chỗ Đức Thế Tôn. Đến nơi, ông chào hỏi Ngài.

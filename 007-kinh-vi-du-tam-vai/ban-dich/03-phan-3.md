@@ -10,7 +10,7 @@ Với vị ấy, khi biết như vậy và thấy như vậy, tâm được gi�
 Khi đã giải thoát, vị ấy biết "ta đã giải thoát".
 
 <!-- seg: mn7:18.3 -->
-Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa".
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn7:18.4 -->
 Này các tỳ-kheo, đây được gọi là:

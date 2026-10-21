@@ -16,6 +16,13 @@ Người đọc lần đầu có thể thấy bài kinh lặp lại nhiều và 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 84: Kinh Madhurā**](#trung-bộ-kinh--bài-kinh-số-84-kinh-madhurā)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 84: Kinh Madhurā
 
 *Madhura Sutta* — bài kinh về cuộc đối thoại ở Madhurā giữa Tôn giả Mahākaccāna và vua Avantiputta về bốn giai cấp
@@ -36,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Việc bài kinh không nhắc đến Đức Thế Tôn thường cho thấy đây là bài kinh được đặt sau khi Ngài đã nhập Niết-bàn; điều này được xác nhận ở phần cuối bài.]
 
 <!-- seg: mn84:1.2 -->
-Một thuở nọ, Tôn giả Mahākaccāna (Ma-ha Ca-chiên-diên) đang trú tại Madhurā (Mạt-thố-la), trong rừng Gundā.
+Một thuở nọ, Tôn giả Mahākaccāna (Ma-ha Ca-chiên-diên) trú tại Madhurā (Mạt-thố-la), trong rừng Gundā.
 
 [Chú thích: Madhurā, tiếng Phạn là Mathurā, nằm trên tuyến thương lộ phía tây bắc, giữa Agra và Delhi ngày nay, và là kinh đô của xứ Sūrasena. Thời Đức Thế Tôn, nơi đây chỉ giữ vai trò nhỏ trong Phật giáo sơ kỳ, nhưng về sau trở thành một trung tâm Phật giáo lớn. Gundāvana là khu rừng cỏ gundā ở gần thành.]
 
@@ -46,7 +53,7 @@ Vua Avantiputta của Madhurā nghe tin:
 [Chú thích: Kinh đô phía bắc của xứ Avanti là Ujjeni nằm cách Madhurā khoảng 600 km về phía nam. Chú giải nói vua Avantiputta là con của một vị vua Madhurā với em gái vua Pajjota xứ Avanti, nên mới có tên ấy. Ngoài bài kinh này, tên vua Avantiputta không được ghi ở đâu khác.]
 
 <!-- seg: mn84:2.2 -->
-"Thưa quý vị, sa-môn Kaccāna đang trú tại Madhurā, trong rừng Gundā.
+"Thưa quý vị, sa-môn Kaccāna trú tại Madhurā, trong rừng Gundā.
 
 <!-- seg: mn84:2.3 -->
 Vị ấy có tiếng đồn tốt đẹp như vầy:

@@ -97,7 +97,7 @@ Với vị ấy biết như vậy, thấy như vậy, tâm được giải thoá
 Khi đã giải thoát, vị ấy biết: 'Ta đã giải thoát.'
 
 <!-- seg: mn79:44.3 -->
-Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã được sống, việc cần làm đã làm, không còn trở lại đời này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn79:44.4 -->
 Này Udāyi, đây cũng là một pháp cao hơn và vi diệu hơn; chính vì mục đích chứng nghiệm pháp ấy mà các tỳ-kheo sống đời phạm hạnh dưới Ta.

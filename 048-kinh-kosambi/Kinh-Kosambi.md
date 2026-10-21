@@ -368,7 +368,7 @@ Này các tỳ-kheo, vị thánh đệ tử có đủ bảy chi như vậy là n
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn48:15.4 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn48:15.5 -->
 Bài kinh Kosambī, bài thứ tám, đã hoàn thành.

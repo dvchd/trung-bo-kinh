@@ -43,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Hình ảnh tiếng rống sư tử — âm thanh mạnh nhất trong rừng — được nhiều bài kinh khác dùng để chỉ sức mạnh không gì khuất phục nổi của lời tuyên bố ấy, như DN 8, DN 25, MN 12, AN 6.64, AN 9.11 và AN 10.21.]
 
 <!-- seg: mn11:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn11:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -52,7 +52,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn11:1.5 -->
-"Thưa Thế Tôn," các tỳ-kheo đáp lời.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn11:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -446,13 +446,13 @@ Này các tỳ-kheo, khi vị tỳ-kheo đã đoạn tận vô minh và minh đ�
 Không chấp thủ, vị ấy không run sợ; không run sợ, vị ấy tự mình chứng được sự tịch diệt hoàn toàn.
 
 <!-- seg: mn11:17.3 -->
-Vị ấy biết rõ: "Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại đời này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn11:17.4 -->
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn11:17.5 -->
-Các vị ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn11:17.6 -->
 Tiểu Kinh Sư Tử Hống, bài thứ nhất, đã kết thúc.

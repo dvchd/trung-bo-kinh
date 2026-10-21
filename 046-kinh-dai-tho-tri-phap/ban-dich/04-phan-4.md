@@ -69,7 +69,7 @@ Cũng vậy, này các tỳ-kheo, cách thọ trì pháp lạc ngay hiện tại
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn46:22.4 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn46:22.5 -->
 Đại Kinh Thọ Trì Pháp, bài thứ sáu, đến đây kết thúc.

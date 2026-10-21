@@ -14,6 +14,13 @@ Bài khép lại bằng một câu ngắn: đời sống phạm hạnh này khô
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 29: Đại Kinh Lõi Cây**](#trung-bộ-kinh--bài-kinh-số-29-đại-kinh-lõi-cây)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 29: Đại Kinh Lõi Cây
 
 *Mahāsāropama Sutta* — bài kinh ví dụ lớn về lõi cây

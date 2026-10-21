@@ -16,6 +16,13 @@ Với người chưa quen kinh điển, có thể đọc bài này như một b�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 39: Đại Kinh Assapura**](#trung-bộ-kinh--bài-kinh-số-39-đại-kinh-assapura)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 39: Đại Kinh Assapura
 
 *Mahāassapura Sutta* — "Đại Kinh Assapura", bài kinh giảng tại thị trấn Assapura
@@ -43,7 +50,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn39:1.5 -->
-"Bạch Thế Tôn!", các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn39:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -524,7 +531,7 @@ Với người biết như vậy, thấy như vậy, tâm được giải thoát
 Khi đã được giải thoát, vị ấy biết rõ: 'Ta đã được giải thoát.'
 
 <!-- seg: mn39:21.6 -->
-Vị ấy như thật biết rõ: 'Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn39:21.7 -->
 Này các tỳ-kheo, ví như trong một khe núi có một hồ nước trong, sáng, không đục.

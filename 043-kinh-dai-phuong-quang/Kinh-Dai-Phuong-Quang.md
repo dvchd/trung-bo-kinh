@@ -14,6 +14,13 @@ Với người mới, bài này hơi khó vì các khái niệm nối nhau khá 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 43: Đại Kinh Phương Quảng**](#trung-bộ-kinh--bài-kinh-số-43-đại-kinh-phương-quảng)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 43: Đại Kinh Phương Quảng
 
 *Mahāvedalla Sutta* — bài kinh bàn rộng, mở rộng và phân tích sâu các pháp

@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn108:1.2 -->
-Một thuở nọ, khi Đức Thế Tôn vừa nhập Niết-bàn không lâu, ngài Ānanda (A-nan) đang trú tại Rājagaha (Vương Xá), trong Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn108:2.1 -->
 Lúc bấy giờ, vua Ajātasattu (A-xà-thế) nước Magadha (Ma-kiệt-đà), con của công chúa Videha, đang cho củng cố Rājagaha vì e ngại vua Pajjota.

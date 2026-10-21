@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn143:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn143:2.1 -->
 Lúc bấy giờ, gia chủ Anāthapiṇḍika bị bệnh, đau đớn, bệnh nặng.

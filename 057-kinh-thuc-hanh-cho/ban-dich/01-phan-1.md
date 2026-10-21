@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn57:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại xứ Koliya (Câu-lợi), ở Haliddavasana, một thị trấn của người Koliya.
+Một thuở nọ, Đức Thế Tôn trú tại xứ Koliya (Câu-lợi), ở Haliddavasana, một thị trấn của người Koliya.
 
 [Chú thích: Người Koliya là láng giềng phía đông nam của người Sakya, hai bên có quan hệ hôn nhân và phong tục gần gũi. Haliddavasana, nghĩa là "áo vàng", cũng là bối cảnh của SN 46.54, bài kinh bàn về những điểm giống và khác nhau giữa Phật giáo và các du sĩ trong việc tu thiền.]
 

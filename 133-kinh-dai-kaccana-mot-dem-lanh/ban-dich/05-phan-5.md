@@ -83,7 +83,7 @@ Này các tỳ-kheo, nếu các ông đến hỏi Ta việc này, Ta cũng sẽ 
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn133:21.5 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn133:21.6 -->
 Bài kinh Đại Kaccāna Một Đêm Lành, bài thứ ba, đã hoàn thành.

@@ -39,7 +39,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này trong các bản Pali và chú giải có hai tên là "Sự tìm cầu cao quý" và "Đống Bẫy"; bản Hán tương ứng (MA 204) lại đề là "Kinh tại tịnh xá của Rāma". Đây là một trong những bài trong Trung Bộ Kinh kể lại một phần quá trình tu tập của Siddhattha trước khi giác ngộ, và bản này tập trung vào hai vị thầy bà-la-môn; các bài MN 36, MN 85 và MN 100 kể dài hơn về lối khổ hạnh.]
 
 <!-- seg: mn26:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tinh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn26:2.1 -->
 Rồi Đức Thế Tôn vào buổi sáng đắp y, mang bát và y, đi vào Sāvatthī để khất thực.
@@ -50,7 +50,7 @@ Bấy giờ, nhiều tỳ-kheo đi đến chỗ ngài Ānanda (A-nan); đến n�
 <!-- seg: mn26:2.3 -->
 "Đã lâu rồi, này hiền giả Ānanda, chúng tôi không được nghe câu chuyện Pháp trực tiếp từ Đức Thế Tôn.
 
-[Chú thích: Sự do dự của Đức Thế Tôn ở đây không có lý do rõ ràng như trong những bài khác. Chỗ này nên hiểu là cách kể chuyện báo trước: sự do dự cần có người can thiệp, và khi bài giảng diễn ra thì nó không ở tinh xá Phật giáo mà ở đất của bà-la-môn. Điều ấy lặp lại ở mục 19, khi Ngài do dự thuyết Pháp cho đến lúc Phạm Thiên thỉnh cầu.]
+[Chú thích: Sự do dự của Đức Thế Tôn ở đây không có lý do rõ ràng như trong những bài khác. Chỗ này nên hiểu là cách kể chuyện báo trước: sự do dự cần có người can thiệp, và khi bài giảng diễn ra thì nó không ở tịnh xá Phật giáo mà ở đất của bà-la-môn. Điều ấy lặp lại ở mục 19, khi Ngài do dự thuyết Pháp cho đến lúc Phạm Thiên thỉnh cầu.]
 
 <!-- seg: mn26:2.4 -->
 Lành thay, này hiền giả Ānanda, mong chúng tôi được nghe câu chuyện Pháp trực tiếp từ Đức Thế Tôn."
@@ -74,7 +74,7 @@ Rồi Đức Thế Tôn sau khi khất thực ở Sāvatthī, ăn xong và trên
 <!-- seg: mn26:3.2 -->
 "Này Ānanda, hãy đến, chúng ta hãy đi đến tòa lầu của bà mẹ Migāra (Lộc Mẫu) trong Đông Viên để nghỉ trưa."
 
-[Chú thích: Sau rừng Jeta, đây là tinh xá nổi tiếng nhất ở Sāvatthī, do bà Visākhā, được gọi là mẹ của Migāra, dâng cúng.]
+[Chú thích: Sau rừng Jeta, đây là tịnh xá nổi tiếng nhất ở Sāvatthī, do bà Visākhā, được gọi là mẹ của Migāra, dâng cúng.]
 
 <!-- seg: mn26:3.3 -->
 "Thưa vâng, bạch Thế Tôn," ngài Ānanda đáp lời Đức Thế Tôn.
@@ -1273,7 +1273,7 @@ Vì vị ấy đã đi ra ngoài tầm với của Ác ma.
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn26:42.7 -->
-Các tỳ-kheo ấy hoan hỷ, tín thọ lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn26:42.8 -->
 Bài kinh Pāsarāsi, bài thứ sáu, đã hoàn thành.

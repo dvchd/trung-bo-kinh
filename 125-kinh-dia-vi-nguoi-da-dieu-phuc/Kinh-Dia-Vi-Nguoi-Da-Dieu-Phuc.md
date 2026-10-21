@@ -41,7 +41,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh dùng chuyện huấn luyện voi làm ví dụ cho con đường tu tập tuần tự. Đức Thế Tôn đối chiếu lối sống đắm say các dục của thái tử Jayasena, thứ làm mờ tầm nhìn của ông về sự thật, với con đường xuất ly. Trong suốt bài, Ngài đỡ lời cho sa-di trẻ Aciravata.]
 
 <!-- seg: mn125:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), trong vườn tre Veḷuvana (Trúc Lâm), tại chỗ nuôi sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn125:2.1 -->
 Lúc bấy giờ, sa-di Aciravata đang trú trong một chòi giữa rừng.
@@ -437,7 +437,7 @@ Khi vị ấy biết như vậy, thấy như vậy, tâm được giải thoát 
 Khi tâm đã giải thoát, khởi lên tri kiến: "Tâm đã giải thoát."
 
 <!-- seg: mn125:29.6 -->
-Vị ấy như thật biết rõ: "Sinh đã tận, đời sống phạm hạnh đã được sống xong, việc cần làm đã làm, không còn trở lại đời này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn125:30.1 -->
 Vị tỳ-kheo ấy chịu đựng được lạnh, nóng, đói, khát; chịu đựng được sự xúc chạm của ruồi, muỗi, gió, nắng và các loài bò sát; chịu đựng được những lời nói khó nghe, những cách nói khó chịu; và đối với những cảm thọ thuộc thân đã khởi lên — khổ, đau, nhói buốt, gay gắt, không dễ chịu, không vừa ý, có thể cướp đi mạng sống — vị ấy có khả năng chịu đựng.

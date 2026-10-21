@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Niệm hơi thở được dạy một phần trong Kinh Niệm Xứ (MN 10) và Kinh Niệm Thân (MN 119), dạy đầy đủ trong Đại Kinh Dạy Rāhula (MN 62), Kinh Girimānanda (AN 10.60) và Tương Ưng Niệm Hơi Thở (SN 54); kinh này cũng có trong Luật tạng và trong luận thư Paṭisambhidāmagga (Vô Ngại Giải Đạo). Truyền thống xem đây là pháp môn chính Đức Thế Tôn đã thực hành, và đến nay vẫn là phép thiền phổ biến nhất, cả trong Phật giáo lẫn ngoài Phật giáo.]
 
 <!-- seg: mn118:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), ở tu viện Đông Phương (Đông Viên), trong giảng đường của mẹ Migāra (Lộc Mẫu Giảng Đường), cùng với nhiều vị trưởng lão đệ tử nổi tiếng, gồm có:
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), ở tu viện Đông Phương (Đông Viên), trong giảng đường của mẹ Migāra (Lộc Mẫu Giảng Đường), cùng với nhiều vị trưởng lão đệ tử nổi tiếng, gồm có:
 
 <!-- seg: mn118:1.3 -->
 Tôn giả Sāriputta (Xá-lợi-phất), Tôn giả Mahāmoggallāna (Mục-kiền-liên), Tôn giả Mahākassapa (Ca-diếp), Tôn giả Mahākaccāna (Ma-ha Ca-chiên-diên), Tôn giả Mahākoṭṭhita (Ma-ha Câu-hy-la), Tôn giả Mahākappina (Ma-ha Kiếp-tần-na), Tôn giả Mahācunda (Ma-ha Chu-na), Tôn giả Anuruddha (A-na-luật), Tôn giả Revata (Ly-bà-đa), Tôn giả Ānanda (A-nan-đà), cùng nhiều vị trưởng lão đệ tử nổi tiếng khác.

@@ -35,7 +35,7 @@ Này các hiền giả, đến mức ấy, vị tỳ-kheo ấy đã làm đượ
 Tôn giả Sāriputta đã nói như vậy.
 
 <!-- seg: mn28:38.14 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Tôn giả Sāriputta nói.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Tôn giả Sāriputta dạy.
 
 <!-- seg: mn28:38.15 -->
 Đại Kinh Dấu Chân Voi, bài thứ tám, đã hoàn tất.

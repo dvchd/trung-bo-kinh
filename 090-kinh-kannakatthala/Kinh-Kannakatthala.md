@@ -16,6 +16,14 @@ Chỗ hay nhất của bài kinh lại đến từ một nhân vật phụ. Tư�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 90: Kinh Kaṇṇakatthala**](#trung-bộ-kinh--bài-kinh-số-90-kinh-kaṇṇakatthala)
+- [**19. Kệ tóm tắt phẩm**](#19-kệ-tóm-tắt-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 90: Kinh Kaṇṇakatthala
 
 *Kaṇṇakatthala Sutta* — bài kinh tại Kaṇṇakatthala

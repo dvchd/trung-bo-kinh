@@ -14,6 +14,13 @@ Phần cuối là cuộc đối thoại với Tôn giả Sabhiya Kaccāna. Vị 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 127: Kinh Anuruddha**](#trung-bộ-kinh--bài-kinh-số-127-kinh-anuruddha)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 127: Kinh Anuruddha
 
 *Anuruddha Sutta* — bài kinh về sự tu tập tâm, về ánh sáng của chư thiên và các cõi tái sinh
@@ -30,7 +37,7 @@ Phần cuối là cuộc đối thoại với Tôn giả Sabhiya Kaccāna. Vị 
 Tôi nghe như vầy.
 
 <!-- seg: mn127:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn127:2.1 -->
 Rồi thợ mộc Pañcakaṅga gọi một người đàn ông:

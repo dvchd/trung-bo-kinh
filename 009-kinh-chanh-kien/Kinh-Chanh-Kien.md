@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Chánh Kiến** (*Sammādiṭṭhi Sutta*) là bài thứ chín trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài giảng diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên). Điều đáng chú ý là người nói không phải Đức Thế Tôn mà là Tôn giả Sāriputta (Xá-lợi-phất), một trong hai vị đệ tử chính của Ngài, nổi tiếng nhất về trí tuệ. Ông dạy một nhóm tỳ-kheo, tức những vị xuất gia sống bằng khất thực, về chánh kiến.
+**Kinh Chánh Kiến** (*Sammādiṭṭhi Sutta*) là bài thứ chín trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài giảng diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà). Điều đáng chú ý là người nói không phải Đức Thế Tôn mà là Tôn giả Sāriputta (Xá-lợi-phất), một trong hai vị đệ tử chính của Ngài, nổi tiếng nhất về trí tuệ. Ông dạy một nhóm tỳ-kheo, tức những vị xuất gia sống bằng khất thực, về chánh kiến.
 
 Chánh kiến nghĩa là cái thấy đúng, và đây là yếu tố đầu tiên trong con đường tám nhánh dẫn đến chấm dứt khổ. Nhưng thấy đúng là thấy cái gì? Bài kinh trả lời câu hỏi ấy bằng nhiều lớp, và mỗi lớp lại đặt ra một câu hỏi mới. Cách dạy này khiến người đọc hôm nay có thể theo dõi từng bước, không phải nuốt trọn một khối giáo lý.
 
@@ -39,7 +39,7 @@ Nhìn theo một chiều, các mục ấy nối thành một chuỗi mười hai
 Tôi nghe như vầy.
 
 <!-- seg: mn9:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tịnh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn9:1.3 -->
 Tại đó, Tôn giả Sāriputta (Xá-lợi-phất) gọi các tỳ-kheo:

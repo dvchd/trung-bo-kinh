@@ -41,7 +41,7 @@ Người đọc lần đầu có thể đọc bài này như một lời nhắc 
 Tôi nghe như vầy.
 
 <!-- seg: mn7:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī, trong vườn Jeta, tại tịnh xá của Anāthapiṇḍika.
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn7:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -50,7 +50,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn7:1.5 -->
-"Bạch Thế Tôn," các tỳ-kheo đáp lời.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn7:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -377,7 +377,7 @@ Với vị ấy, khi biết như vậy và thấy như vậy, tâm được gi�
 Khi đã giải thoát, vị ấy biết "ta đã giải thoát".
 
 <!-- seg: mn7:18.3 -->
-Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa".
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn7:18.4 -->
 Này các tỳ-kheo, đây được gọi là:

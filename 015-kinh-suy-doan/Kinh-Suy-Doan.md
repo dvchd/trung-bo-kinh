@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-Bài kinh này là bài thứ 15 trong Trung Bộ Kinh, tên Pali là *Anumāna Sutta*. Chữ *anumāna* nghĩa là suy đoán, đo lường, phỏng theo cái đã biết để suy ra cái chưa biết. Điều đáng chú ý đầu tiên: người thuyết bài kinh không phải Đức Thế Tôn mà là Tôn giả Mahāmoggallāna (Mục-kiền-liên), một trong hai vị đệ tử lớn nhất của Ngài. Bối cảnh rất giản dị: Tôn giả đang trú tại xứ Bhaggas, trong vườn nai của rừng Bhesakaḷā, và Ngài gọi các tỳ-kheo lại để nói về một chuyện nhỏ mà ai tu hành cũng gặp.
+Bài kinh này là bài thứ 15 trong Trung Bộ Kinh, tên Pali là *Anumāna Sutta*. Chữ *anumāna* nghĩa là suy đoán, đo lường, phỏng theo cái đã biết để suy ra cái chưa biết. Điều đáng chú ý đầu tiên: người thuyết bài kinh không phải Đức Thế Tôn mà là Tôn giả Mahāmoggallāna (Mục-kiền-liên), một trong hai vị đệ tử lớn nhất của Ngài. Bối cảnh rất giản dị: Tôn giả trú tại xứ Bhaggas, trong vườn nai của rừng Bhesakaḷā, và Ngài gọi các tỳ-kheo lại để nói về một chuyện nhỏ mà ai tu hành cũng gặp.
 
 Chuyện ấy là chuyện nhận lời góp ý. Bài kinh dựng lên một tình huống: một tỳ-kheo đứng trước Tăng đoàn, nói rằng xin các vị cứ nói cho tôi biết, tôi đáng được các vị nhắc nhở. Đó là một lời mời rất đẹp. Nhưng Tôn giả chỉ ra rằng có những người mời như vậy mà vẫn khó dạy bảo: họ mời bằng miệng, còn khi lời nhắc thật sự đến thì họ tự ái, cãi lại, chê người nhắc, đổ ngược lỗi cho người khác, nói vòng vo, hoặc tỏ vẻ bực tức. Bài kinh liệt kê mười sáu nét như thế.
 
@@ -13,6 +13,13 @@ Phần thứ hai mới là trọng tâm, và cũng là chỗ đặt tên cho bà
 Phần thứ ba chuyển phép đo ấy vào bên trong. Với từng nét trong mười sáu nét, vị tỳ-kheo tự hỏi: ta có nét này không? Nếu quán xét mà thấy có, thì phải nỗ lực đoạn trừ chính những pháp xấu ác, bất thiện ấy. Nếu thấy không có, thì hãy an trú trong niềm vui và hoan hỷ ấy, ngày đêm tu học trong những pháp thiện. Cách trình bày rất đều, lặp đi lặp lại, và cái lặp ấy chính là phương pháp: mỗi lần lặp là một lần đem cùng một câu hỏi ra thử trên một nét khác của tâm mình.
 
 Bài kinh khép lại bằng một hình ảnh dễ nhớ. Một người nữ hay một người nam còn trẻ, ưa trang điểm, soi mặt trong gương sạch hay trong bát nước trong. Thấy bụi bẩn thì rửa đi; không thấy gì thì vui mừng mà nói rằng thật là lợi lạc cho tôi, tôi thật là trong sạch. Bài kinh muốn người đọc dùng nó đúng như tấm gương ấy, không phải như một bản án để kết tội ai. Các tỳ-kheo nghe xong thì hoan hỷ tán thán; chú giải còn kể rằng các bậc thầy thời xưa gọi bài này là Giới bổn của tỳ-kheo và khuyên dùng nó để tự xét mình ba lần mỗi ngày, hoặc ít nhất một lần. Với người hôm nay, kể cả người chưa từng học Phật, bài kinh này vẫn đọc được như một cẩm nang về phản hồi. Ai cũng từng gặp người mời góp ý rồi giận khi được góp ý, và ai cũng từng là người ấy vào một lúc nào đó. Bài kinh không đòi ta phải hoàn hảo, chỉ đưa ra một cách tập rất cụ thể: lấy chỗ mình không chịu được ở người khác làm chỗ bắt đầu để nhìn lại mình, rồi mỗi ngày xét lại một lần.
+
+---
+
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 15: Kinh Suy Đoán**](#trung-bộ-kinh--bài-kinh-số-15-kinh-suy-đoán)
 
 ---
 

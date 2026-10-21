@@ -16,6 +16,13 @@ Phần cuối bài kinh là ba phép thử, và cả ba đều rất giản dị
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 96: Kinh Esukārī**](#trung-bộ-kinh--bài-kinh-số-96-kinh-esukārī)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 96: Kinh Esukārī
 
 *Esukārī Sutta* — bài kinh về bốn kiểu phục vụ và bốn loại của cải mà giới bà-la-môn đặt ra, và về chỗ đứng của con người tùy theo việc làm chứ không tùy theo giai cấp
@@ -32,7 +39,7 @@ Phần cuối bài kinh là ba phép thử, và cả ba đều rất giản dị
 Tôi nghe như vầy.
 
 <!-- seg: mn96:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn96:2.1 -->
 Rồi bà-la-môn Esukārī đi đến chỗ Đức Thế Tôn; đến nơi rồi, ông chào hỏi Ngài.

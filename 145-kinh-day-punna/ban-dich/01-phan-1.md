@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này cũng xuất hiện ở Tương Ưng Bộ 35.88, chỉ khác đôi chỗ ở phần mở đầu và phần kết. Ngoài hai bản tương ứng trong Hán tạng, câu chuyện còn được kể lại trong Luật tạng Mūlasarvāstivāda và trong Divyāvadāna, đồng thời xuất hiện trong nghệ thuật Phật giáo thời xưa.]
 
 <!-- seg: mn145:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn145:1.3 -->
 Rồi Tôn giả Puṇṇa (Phú Lâu Na), vào buổi chiều, sau khi ra khỏi chỗ tĩnh cư, đi đến chỗ Đức Thế Tôn; đến rồi, đảnh lễ Đức Thế Tôn và ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Puṇṇa thưa với Đức Thế Tôn:

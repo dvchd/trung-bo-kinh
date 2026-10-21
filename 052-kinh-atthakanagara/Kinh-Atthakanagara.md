@@ -16,6 +16,13 @@ Với người đọc hôm nay, bài kinh có thể đọc như một tấm bả
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 52: Kinh Aṭṭhakanāgara**](#trung-bộ-kinh--bài-kinh-số-52-kinh-aṭṭhakanāgara)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 52: Kinh Aṭṭhakanāgara
 
 *Aṭṭhakanāgara Sutta* — bài kinh về vị gia chủ giàu có và mười một cửa bất tử
@@ -55,7 +62,7 @@ Rồi gia chủ Dasama, người Aṭṭhakanāgara, đi đến tu viện Kukku�
 Vì con muốn gặp tôn giả Ānanda."
 
 <!-- seg: mn52:2.4 -->
-"Này gia chủ, tôn giả Ānanda đang trú tại Vesālī, trong làng nhỏ Beluva."
+"Này gia chủ, tôn giả Ānanda trú tại Vesālī, trong làng nhỏ Beluva."
 
 <!-- seg: mn52:3.1 -->
 Rồi gia chủ Dasama, người Aṭṭhakanāgara, làm xong việc ấy ở Pāṭaliputta, liền đi đến Vesālī, đến làng nhỏ Beluva, đến chỗ tôn giả Ānanda. Đến nơi, ông đảnh lễ tôn giả Ānanda rồi ngồi xuống một bên. Khi đã ngồi xuống một bên, gia chủ Dasama, người Aṭṭhakanāgara, thưa với tôn giả Ānanda:

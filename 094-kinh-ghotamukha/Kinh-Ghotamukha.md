@@ -43,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Như thường lệ, việc bài kinh không nhắc đến Đức Thế Tôn ngay từ đầu cho thấy câu chuyện diễn ra sau khi Ngài đã viên tịch, và chi tiết ấy được xác nhận ở phần cuối. Bài kinh cũng cho thấy giáo pháp vẫn tiếp tục ảnh hưởng trong giới giàu có và quyền thế sau khi Ngài viên tịch.]
 
 <!-- seg: mn94:1.2 -->
-Một thuở nọ, Tôn giả Udena đang trú tại Bārāṇasī (Ba-la-nại), trong rừng xoài Khemiya.
+Một thuở nọ, Tôn giả Udena trú tại Bārāṇasī (Ba-la-nại), trong rừng xoài Khemiya.
 
 [Chú thích: Không có vị tỳ-kheo nào tên Udena và cũng không có khu vườn nào tên Khemiya được nhắc đến ở chỗ khác trong các văn bản Phật giáo sơ kỳ.]
 

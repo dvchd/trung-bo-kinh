@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này cũng có trong Tương Ưng Bộ Kinh 22.82, chỉ khác vài chỗ trong bản truyền.]
 
 <!-- seg: mn109:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú gần Sāvatthī (Xá-vệ), tại Pubbārāma (Đông Viên), trong tòa lầu của bà mẹ Migāra (Lộc Tử Mẫu).
+Một thuở nọ, Đức Thế Tôn trú gần Sāvatthī (Xá-vệ), tại Pubbārāma (Đông Viên), trong tòa lầu của bà mẹ Migāra (Lộc Tử Mẫu).
 
 <!-- seg: mn109:2.1 -->
 Lúc bấy giờ, vào ngày bố-tát thứ mười lăm, trong đêm trăng tròn đầy, Đức Thế Tôn đang ngồi ngoài trời, được Tăng đoàn tỳ-kheo vây quanh.

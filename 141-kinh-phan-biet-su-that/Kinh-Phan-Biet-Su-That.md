@@ -48,7 +48,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn141:1.5 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn141:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -438,7 +438,7 @@ việc nói rõ, giảng dạy, nêu ra, thiết lập, mở bày, phân tích v
 Tôn giả Sāriputta nói như vậy.
 
 <!-- seg: mn141:32.4 -->
-Các tỳ-kheo hoan hỷ, tán thán lời Tôn giả Sāriputta dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Tôn giả Sāriputta dạy.
 
 <!-- seg: mn141:32.5 -->
 Kinh Phân Biệt Sự Thật, bài thứ mười một, đến đây là hết.

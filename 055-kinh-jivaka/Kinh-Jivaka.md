@@ -16,6 +16,13 @@ Với người đọc hôm nay, bài kinh là một văn bản ngắn nhưng nhi
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 55: Kinh Jīvaka**](#trung-bộ-kinh--bài-kinh-số-55-kinh-jīvaka)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 55: Kinh Jīvaka
 
 *Jīvaka Sutta* — bài kinh với thầy thuốc Jīvaka

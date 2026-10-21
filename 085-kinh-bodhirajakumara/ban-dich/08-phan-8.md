@@ -68,7 +68,7 @@ Rồi này thái tử, ta nghĩ như vầy:
 "Hiện nay nhóm năm tỳ-kheo đang trú ở đâu?"
 
 <!-- seg: mn85:48.9 -->
-Này thái tử, với thiên nhãn trong sạch, vượt hơn mắt người, ta thấy nhóm năm tỳ-kheo đang trú tại Bārāṇasī, trong vườn nai Isipatana.
+Này thái tử, với thiên nhãn trong sạch, vượt hơn mắt người, ta thấy nhóm năm tỳ-kheo trú tại Bārāṇasī, trong vườn nai Isipatana.
 
 <!-- seg: mn85:49.1 -->
 Rồi này thái tử, sau khi ở Uruvelā bao lâu tùy ý, ta lên đường đi đến Bārāṇasī.

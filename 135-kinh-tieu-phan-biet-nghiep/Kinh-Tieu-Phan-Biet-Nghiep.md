@@ -58,7 +58,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này có nhiều bản tương ứng hơn bất cứ bài nào khác trong Trung Bộ Kinh: sáu bản Hán, hai bản Tây Tạng, hai bản Phạn, và những mảnh rời bằng tiếng Khotan, Sogdia và Tocharia. Nó được ưa chuộng vì nối nghiệp với quả một cách chi tiết mà vẫn dễ hiểu.]
 
 <!-- seg: mn135:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn135:2.1 -->
 Rồi thanh niên Subha, con trai của Todeyya, đi đến chỗ Đức Thế Tôn. Đến nơi, ông chào hỏi Ngài.

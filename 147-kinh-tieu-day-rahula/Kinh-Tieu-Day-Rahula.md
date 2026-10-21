@@ -16,6 +16,13 @@ Chỉ đến cuối, Ngài mới nói câu kết: thấy như vậy, người đ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 147: Tiểu Kinh Dạy Rāhula**](#trung-bộ-kinh--bài-kinh-số-147-tiểu-kinh-dạy-rāhula)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 147: Tiểu Kinh Dạy Rāhula
 
 *Cūḷarāhulovāda Sutta* — bài kinh Đức Thế Tôn dạy Rāhula về sự vô thường của sáu xứ
@@ -36,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này còn xuất hiện ở Tương Ưng Bộ Kinh 35.121.]
 
 <!-- seg: mn147:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn147:1.3 -->
 Rồi khi Đức Thế Tôn ở một mình trong chỗ vắng, ý nghĩ này khởi lên trong tâm Ngài:
@@ -363,7 +370,7 @@ nhàm chán ý, nhàm chán các pháp, nhàm chán thức của ý, nhàm chán
 Do nhàm chán, vị ấy ly tham; do ly tham, vị ấy giải thoát; khi đã giải thoát, vị ấy biết mình đã giải thoát.
 
 <!-- seg: mn147:9.8 -->
-Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn147:9.9 -->
 Đức Thế Tôn nói như vậy.

@@ -16,6 +16,18 @@ Người đọc lần đầu có thể lấy bài kinh này làm một bảng t�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 8: Kinh Loại Bỏ**](#trung-bộ-kinh--bài-kinh-số-8-kinh-loại-bỏ)
+- [**1. Pháp môn loại bỏ**](#1-pháp-môn-loại-bỏ)
+- [**2. Pháp môn khởi tâm**](#2-pháp-môn-khởi-tâm)
+- [**3. Pháp môn vòng qua**](#3-pháp-môn-vòng-qua)
+- [**4. Pháp môn hướng thượng**](#4-pháp-môn-hướng-thượng)
+- [**5. Pháp môn Niết-bàn**](#5-pháp-môn-niết-bàn)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 8: Kinh Loại Bỏ
 
 *Sallekha Sutta* — bài kinh về sự loại bỏ những pháp bất thiện
@@ -34,9 +46,9 @@ Người đọc lần đầu có thể lấy bài kinh này làm một bảng t�
 Tôi nghe như vầy.
 
 <!-- seg: mn8:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
-[Chú thích: Hai bản tương ứng còn lại đặt bài kinh ở nơi khác: MA 91 tại tịnh xá Ghositārāma ở Kosambī, còn EA 47.9 tại Rừng Sóc ở Rājagaha. Phần bối cảnh như vậy do người biên tập thêm vào ở một thời điểm nào đó, không phải lời của Đức Thế Tôn.]
+
 
 <!-- seg: mn8:2.1 -->
 Rồi vào buổi chiều, Tôn giả Mahācunda từ chỗ độc cư bước ra, đi đến chỗ Đức Thế Tôn. Đến rồi, ngài đảnh lễ Đức Thế Tôn và ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Mahācunda bạch Đức Thế Tôn:

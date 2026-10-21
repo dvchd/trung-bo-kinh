@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn132:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn132:2.1 -->
 Lúc bấy giờ, Tôn giả Ānanda (A-nan) đang chỉ dẫn, khuyến khích, sách tấn và làm cho hoan hỷ các tỳ-kheo trong giảng đường bằng một bài pháp thoại, giảng phần tóm tắt và phần phân tích về người có một đêm lành.

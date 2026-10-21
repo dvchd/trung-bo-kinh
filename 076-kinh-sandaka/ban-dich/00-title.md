@@ -6,6 +6,6 @@
 **Trung Bộ Kinh** (*Majjhima Nikāya*) — bộ kinh thứ hai trong Kinh tạng tiếng Pali, gồm 152 bài kinh cỡ vừa — bài kinh số 76.
 
 <!-- seg: mn76:0.2 -->
-**Kinh Sandaka** (*Sandakasutta*) — bài kinh mang tên du sĩ Sandaka, vị thầy của một hội chúng năm trăm du sĩ đang trú tại hang Pilakkha, gần Kosambī (Kiều-thưởng-di).
+**Kinh Sandaka** (*Sandakasutta*) — bài kinh mang tên du sĩ Sandaka, vị thầy của một hội chúng năm trăm du sĩ trú tại hang Pilakkha, gần Kosambī (Kiều-thưởng-di).
 
 [Chú thích: Tên Sandaka và địa điểm này không thấy xuất hiện ở chỗ nào khác trong kinh tạng Pali.]

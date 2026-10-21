@@ -6,7 +6,7 @@
 
 Câu chuyện mở đầu bằng một cuộc gặp không mấy thân thiện. Daṇḍapāṇi, một người trong dòng họ Sakya, chống gậy đi dạo và tìm đến chỗ Đức Thế Tôn. Ông ta hỏi gọn: sa-môn ấy thuyết gì, tuyên bố gì? Đức Thế Tôn trả lời rằng giáo pháp của Ngài không tranh cãi với bất cứ ai trên đời, và nơi vị bà-la-môn đã lìa dục, hết nghi hoặc, hết tham ái, thì các tưởng không còn nằm lại. Daṇḍapāṇi lắc đầu, le lưỡi, nhăn trán rồi bỏ đi.
 
-Buổi chiều, Đức Thế Tôn kể lại việc ấy cho các tỳ-kheo. Một vị hỏi: vậy lời dạy ấy nghĩa là gì? Đức Thế Tôn đáp bằng một câu rất ngắn nhưng dày đặc: từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người, nếu nơi ấy không có gì đáng tán thưởng, đáng hoan nghênh, đáng bám chấp, thì đó chính là chỗ chấm dứt của bảy tùy miên và của mọi chuyện cãi vã, đâm thọc, nói dối. Nói xong, Ngài đứng dậy vào tinh xá, không giảng thêm.
+Buổi chiều, Đức Thế Tôn kể lại việc ấy cho các tỳ-kheo. Một vị hỏi: vậy lời dạy ấy nghĩa là gì? Đức Thế Tôn đáp bằng một câu rất ngắn nhưng dày đặc: từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người, nếu nơi ấy không có gì đáng tán thưởng, đáng hoan nghênh, đáng bám chấp, thì đó chính là chỗ chấm dứt của bảy tùy miên và của mọi chuyện cãi vã, đâm thọc, nói dối. Nói xong, Ngài đứng dậy vào tịnh xá, không giảng thêm.
 
 Các tỳ-kheo ngơ ngác, bèn tìm đến Tôn giả Mahākaccāna, người được xem là giỏi nhất trong việc mở rộng những lời dạy vắn tắt. Tôn giả giải thích bằng một chuỗi rất cụ thể: mắt gặp sắc sinh ra nhãn thức, ba thứ gặp nhau là xúc, xúc làm duyên cho thọ, cảm thọ điều gì thì tưởng nhận điều ấy, tưởng nhận điều gì thì tầm điều ấy, tầm điều gì thì hý luận điều ấy, và chính từ chỗ hý luận ấy mà những phán định ập đến con người. Chuỗi này lặp lại cho đủ sáu giác quan, rồi lặp lại theo chiều ngược lại để cho thấy khi các điều kiện không có mặt thì cả chuỗi cũng không thể có. Hý luận, ở đây, không phải một khái niệm trừu tượng. Đó là thói quen của tâm kể tiếp câu chuyện, thêm bớt, suy diễn, tự bào chữa và tự đánh giá mình so với người. Một âm thanh hay một lời nói đi qua tai chưa đầy một giây, nhưng tâm có thể dựng lên từ đó cả một biên niên sử oán hận. Bài kinh chỉ ra đúng chỗ ấy: giữa một cảm giác trần trụi và một mối thù nhiều năm, có một khoảng mà tưởng, tầm và hý luận làm việc. Và cũng ở khoảng ấy, công việc tu tập có thể bắt đầu.
 
@@ -165,7 +165,7 @@ Tại đây, những pháp ác bất thiện ấy chấm dứt, không còn sót
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn18:9.2 -->
-Nói xong, bậc Thiện thệ từ chỗ ngồi đứng dậy, đi vào tinh xá.
+Nói xong, bậc Thiện thệ từ chỗ ngồi đứng dậy, đi vào tịnh xá.
 
 [Chú thích: Đức Thế Tôn thường cố giảng cho rõ ràng, nhưng đôi khi Ngài để lại một câu bí hiểm để khuyến khích đệ tử tự tìm ra nghĩa.]
 
@@ -173,7 +173,7 @@ Nói xong, bậc Thiện thệ từ chỗ ngồi đứng dậy, đi vào tinh x�
 Rồi khi Đức Thế Tôn vừa rời đi không lâu, các tỳ-kheo ấy nghĩ như vầy:
 
 <!-- seg: mn18:10.2 -->
-Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:10.3 -->
 'Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người.
@@ -211,7 +211,7 @@ Rồi các tỳ-kheo ấy đi đến Tôn giả Mahākaccāna; đến rồi, ch�
 Sau khi trao đổi những lời chào hỏi thân thiện và đáng nhớ, họ ngồi xuống một bên. Ngồi một bên, các tỳ-kheo ấy nói với Tôn giả Mahākaccāna như vầy:
 
 <!-- seg: mn18:11.3 -->
-Này Hiền giả Kaccāna, Đức Thế Tôn đã nói cho chúng tôi một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+Này Hiền giả Kaccāna, Đức Thế Tôn đã nói cho chúng tôi một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:11.4 -->
 'Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người.
@@ -231,7 +231,7 @@ Tại đây, những pháp ác bất thiện ấy chấm dứt, không còn sót
 Này Hiền giả Kaccāna, khi Đức Thế Tôn vừa rời đi không lâu, chúng tôi nghĩ như vầy:
 
 <!-- seg: mn18:11.9 -->
-'Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+'Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:11.10 -->
 "Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người.
@@ -303,7 +303,7 @@ Xin Tôn giả Mahākaccāna giảng rõ cho, đừng nề hà.
 Tôn giả Mahākaccāna nói như vầy:
 
 <!-- seg: mn18:15.1 -->
-Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 [Chú thích: Lời dạy vắn tắt để tụng đọc là uddesa, một đoạn ngắn cần thuộc lòng nguyên văn, rồi sau đó mới gắn vào đó phần phân tích dài.]
 
@@ -427,7 +427,7 @@ Khi tưởng không hiện rõ, thì tầm sẽ hiện rõ — điều ấy khô
 Khi tầm không hiện rõ, thì sự ập đến của những phán định do tưởng hý luận sinh ra sẽ hiện rõ — điều ấy không thể có.
 
 <!-- seg: mn18:19.1 -->
-Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:19.2 -->
 'Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người; nếu nơi ấy không có gì đáng tán thưởng, đáng hoan nghênh, đáng bám chấp, thì đây chính là chỗ chấm dứt của tùy miên tham, đây chính là chỗ chấm dứt của tùy miên sân, đây chính là chỗ chấm dứt của tùy miên kiến, đây chính là chỗ chấm dứt của tùy miên nghi, đây chính là chỗ chấm dứt của tùy miên mạn, đây chính là chỗ chấm dứt của tùy miên tham muốn tái sinh, đây chính là chỗ chấm dứt của tùy miên vô minh; đây chính là chỗ chấm dứt của việc cầm gậy cầm gươm, của tranh cãi, xung đột, luận chiến, mắng nhiếc nhau, nói xấu sau lưng và nói dối.
@@ -445,7 +445,7 @@ Nếu các Tôn giả muốn, các vị hãy đi đến Đức Thế Tôn và h�
 Rồi các tỳ-kheo ấy, sau khi hoan hỷ và tán thán lời Tôn giả Mahākaccāna dạy, từ chỗ ngồi đứng dậy, đi đến Đức Thế Tôn; đến rồi, đảnh lễ Đức Thế Tôn và ngồi xuống một bên. Ngồi một bên, các tỳ-kheo ấy bạch Đức Thế Tôn như vầy:
 
 <!-- seg: mn18:20.2 -->
-Bạch Thế Tôn, Đức Thế Tôn đã nói cho chúng con một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+Bạch Thế Tôn, Đức Thế Tôn đã nói cho chúng con một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:20.3 -->
 'Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người.
@@ -463,7 +463,7 @@ Tại đây, những pháp ác bất thiện ấy chấm dứt, không còn sót
 Bạch Thế Tôn, khi Đức Thế Tôn vừa rời đi không lâu, chúng con nghĩ như vầy:
 
 <!-- seg: mn18:20.8 -->
-'Đức Thế Tôn đã nói cho chúng con một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+'Đức Thế Tôn đã nói cho chúng con một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:20.9 -->
 "Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người.

@@ -18,7 +18,7 @@ Này các tỳ-kheo, trong pháp đã được Ta khéo giảng ấy — rõ rà
 Đức Thế Tôn đã nói như vậy.
 
 <!-- seg: mn22:47.4 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn22:47.5 -->
 Kinh Ví Dụ Con Rắn, bài thứ hai, đã hoàn thành.

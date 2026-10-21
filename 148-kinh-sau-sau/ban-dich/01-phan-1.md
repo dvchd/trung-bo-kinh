@@ -11,7 +11,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn148:1.5 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn148:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -28,7 +28,7 @@ Sáu nhóm sáu.
 Hãy nghe và khéo tác ý, Ta sẽ nói.
 
 <!-- seg: mn148:2.4 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn148:2.5 -->
 Đức Thế Tôn nói như vầy:

@@ -16,6 +16,13 @@ Bài kinh khép lại bằng một cảnh khác ở tầng trời. Một vị d�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 31: Tiểu Kinh Rừng Gosiṅga**](#trung-bộ-kinh--bài-kinh-số-31-tiểu-kinh-rừng-gosiṅga)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 31: Tiểu Kinh Rừng Gosiṅga
 
 *Cūḷagosiṅga Sutta* — bài kinh ngắn về khu rừng cây sa-la tại Gosiṅga

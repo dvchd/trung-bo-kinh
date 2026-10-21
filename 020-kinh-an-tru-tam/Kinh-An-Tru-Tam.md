@@ -42,7 +42,7 @@ Bài kinh khép lại bằng một câu về việc cắt đứt ái, làm tan r
 Tôi nghe như vầy.
 
 <!-- seg: mn20:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn20:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -51,7 +51,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn20:1.5 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn20:1.6 -->
 Đức Thế Tôn nói như vầy:

@@ -14,6 +14,14 @@ Cuối bài không có ai quy y, không có ai chứng quả, không có lời t
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 110: Tiểu Kinh Trăng Tròn**](#trung-bộ-kinh--bài-kinh-số-110-tiểu-kinh-trăng-tròn)
+- [**26. Kệ tóm tắt phẩm**](#26-kệ-tóm-tắt-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 110: Tiểu Kinh Trăng Tròn
 
 *Cūḷapuṇṇama Sutta* — bài kinh ngắn về đêm trăng tròn
@@ -30,7 +38,7 @@ Cuối bài không có ai quy y, không có ai chứng quả, không có lời t
 Tôi nghe như vầy.
 
 <!-- seg: mn110:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú gần Sāvatthī (Xá-vệ), tại Pubbārāma (Đông Viên), trong tòa lầu của bà mẹ Migāra (Lộc Tử Mẫu).
+Một thuở nọ, Đức Thế Tôn trú gần Sāvatthī (Xá-vệ), tại Pubbārāma (Đông Viên), trong tòa lầu của bà mẹ Migāra (Lộc Tử Mẫu).
 
 <!-- seg: mn110:2.1 -->
 Lúc bấy giờ, vào ngày bố-tát thứ mười lăm, trong đêm trăng tròn đầy, Đức Thế Tôn đang ngồi ngoài trời, được Tăng đoàn tỳ-kheo vây quanh.
@@ -307,7 +315,7 @@ Và này các tỳ-kheo, chỗ mà người tốt phải sinh vào là đâu?
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn110:25.2 -->
-Các vị tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn110:25.3 -->
 Tiểu Kinh Trăng Tròn, bài thứ mười, đã kết thúc.

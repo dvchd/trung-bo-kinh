@@ -2,10 +2,10 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn99:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn99:2.1 -->
-Lúc bấy giờ, thanh niên Subha, con trai của Todeyya, đang trú tại Sāvatthī, trong nhà của một gia chủ nọ, vì một việc gì đó cần làm.
+Lúc bấy giờ, thanh niên Subha, con trai của Todeyya, trú tại Sāvatthī, trong nhà của một gia chủ nọ, vì một việc gì đó cần làm.
 
 [Chú thích: Về sau, chính Subha này còn gặp Đức Thế Tôn trong bài kinh số 135 của bộ này để hỏi về nghiệp, và sau khi Đức Thế Tôn nhập diệt thì gặp Ānanda trong Trường Bộ Kinh, bài số 10. Cha của ông là Todeyya, một bà-la-môn nổi tiếng thường được nhắc cùng với Pokkharasāti. Theo chú giải, Todeyya được đặt tên theo làng Tudi ở ngoại ô Sāvatthī.]
 
@@ -22,7 +22,7 @@ Rồi thanh niên Subha, con trai của Todeyya, nói với vị gia chủ có n
 Hôm nay chúng ta nên đến hầu hạ vị sa-môn hay bà-la-môn nào đây?"
 
 <!-- seg: mn99:2.6 -->
-"Thưa ngài, Đức Thế Tôn đang trú tại Sāvatthī, trong rừng Jeta, tại tu viện của Anāthapiṇḍika.
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn99:2.7 -->
 Thưa ngài, xin ngài đến hầu hạ Đức Thế Tôn ấy."

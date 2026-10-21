@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn35:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú gần Vesālī (Tỳ-xá-li), tại rừng Mahāvana (Đại Lâm), trong giảng đường Kūṭāgārasālā (Trùng Các).
+Một thuở nọ, Đức Thế Tôn trú gần Vesālī (Tỳ-xá-li), tại rừng Mahāvana (Đại Lâm), trong giảng đường Kūṭāgārasālā (Trùng Các).
 
 <!-- seg: mn35:2.1 -->
 Lúc bấy giờ, Saccaka, con của các du sĩ Ni-kiền-tử, đang sống ở Vesālī. Ông ta là kẻ hay tranh biện, tự cho mình là người trí, và được đông người kính trọng.

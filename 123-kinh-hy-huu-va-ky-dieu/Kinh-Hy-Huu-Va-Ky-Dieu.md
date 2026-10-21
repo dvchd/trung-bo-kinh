@@ -14,6 +14,13 @@ Với người mới tìm hiểu, đây là một bài kinh dễ đọc: nó nh�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 123: Kinh Hy Hữu và Kỳ Diệu**](#trung-bộ-kinh--bài-kinh-số-123-kinh-hy-hữu-và-kỳ-diệu)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 123: Kinh Hy Hữu và Kỳ Diệu
 
 *Acchariyaabbhuta Sutta* — bài kinh về những phẩm chất hy hữu và kỳ diệu
@@ -32,7 +39,7 @@ Với người mới tìm hiểu, đây là một bài kinh dễ đọc: nó nh�
 Tôi nghe như vầy.
 
 <!-- seg: mn123:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn123:2.1 -->
 Rồi sau bữa ăn, khi đã đi khất thực về, nhiều tỳ-kheo ngồi tụ họp nhau trong giảng đường, và câu chuyện này khởi lên giữa các vị ấy:

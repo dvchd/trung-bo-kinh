@@ -16,6 +16,14 @@ Với người chưa từng học Phật, bài kinh này có thể đọc như m
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 120: Kinh Tái Sinh Theo Hành**](#trung-bộ-kinh--bài-kinh-số-120-kinh-tái-sinh-theo-hành)
+- [**38. Kệ tóm tắt phẩm**](#38-kệ-tóm-tắt-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 120: Kinh Tái Sinh Theo Hành
 
 *Saṅkhārupapatti Sutta* — bài kinh về tái sinh theo hành
@@ -36,7 +44,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này dạy cách một vị tỳ-kheo có thể chọn nơi mình sẽ tái sinh, khác với con đường thường được nói tới là cầu mong thoát khỏi mọi tái sinh. Ở những bài khác, tu tập vì mong được tái sinh bị xem là một ràng buộc, nhưng ở đây Đức Thế Tôn đi từ ước muốn những kiếp sống ngày càng vi tế đến chỗ buông bỏ tái sinh hoàn toàn.]
 
 <!-- seg: mn120:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn120:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -45,7 +53,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn120:1.5 -->
-"Thưa vâng, bạch Ngài," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn120:1.6 -->
 Đức Thế Tôn nói như vầy:

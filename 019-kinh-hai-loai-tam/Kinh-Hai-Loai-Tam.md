@@ -43,7 +43,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh cho thấy người tu thiền phải từ bỏ tầm bất thiện, rồi sau đó cả tầm thiện, trước khi nhập thiền. Đây là một trong nhiều bài dạy chi tiết cách đối xử với tầm trong khi thiền, như MN 18, MN 20 và AN 3.101. Thiền định đã có trước thời Đức Thế Tôn, nhưng lời khuyên thực hành cụ thể như thế này thì không thấy ở nơi khác.]
 
 <!-- seg: mn19:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tu viện của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn19:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -52,7 +52,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn19:1.5 -->
-"Thưa Thế Tôn," các tỳ-kheo đáp lời.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn19:1.6 -->
 Đức Thế Tôn nói như vầy:

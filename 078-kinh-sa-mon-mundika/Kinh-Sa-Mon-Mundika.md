@@ -16,6 +16,13 @@ Bài kinh không có cuộc hoán cải nào. Ông Pañcakaṅga nghe xong, hoan
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 78: Kinh Sa-môn Muṇḍika**](#trung-bộ-kinh--bài-kinh-số-78-kinh-sa-môn-muṇḍika)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 78: Kinh Sa-môn Muṇḍika
 
 *Samaṇamuṇḍikasutta* — bài kinh mang tên du sĩ Samaṇamuṇḍikāputta, ghi lại cuộc đàm luận giữa thợ mộc Pañcakaṅga và Đức Thế Tôn về thế nào mới thật là một vị sa-môn hoàn hảo
@@ -34,10 +41,10 @@ Bài kinh không có cuộc hoán cải nào. Ông Pañcakaṅga nghe xong, hoan
 Tôi nghe như vầy.
 
 <!-- seg: mn78:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tinh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn78:1.3 -->
-Lúc bấy giờ, du sĩ Uggāhamāna Samaṇamuṇḍikāputta đang trú tại ngôi tu viện chỉ có một giảng đường của Mallikā, nơi người ta tranh luận về các học thuyết, có giậu cây tinduka bao quanh, cùng với một hội chúng du sĩ đông đảo, khoảng năm trăm du sĩ.
+Lúc bấy giờ, du sĩ Uggāhamāna Samaṇamuṇḍikāputta trú tại ngôi tu viện chỉ có một giảng đường của Mallikā, nơi người ta tranh luận về các học thuyết, có giậu cây tinduka bao quanh, cùng với một hội chúng du sĩ đông đảo, khoảng năm trăm du sĩ.
 
 [Chú thích: Tên Uggāhamāna dường như mang nghĩa "hay tranh luận", theo tiếng Sanskrit udgrāha, nhưng không gặp ở chỗ khác trong kinh Pali. Mallikā là chánh hậu của vua Pasenadi, và khu vườn của bà cũng được nhắc đến trong một bối cảnh tương tự ở Trường Bộ Kinh 9. Chữ ācīra ở đây nghĩa là bờ giậu, hàng rào bao quanh, chứ không phải tên một loài cây.]
 

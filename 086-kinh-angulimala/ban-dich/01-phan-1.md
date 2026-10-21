@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn86:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà lâm), khu vườn của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn86:2.1 -->
 Lúc bấy giờ, trong lãnh thổ của vua Pasenadi xứ Kosala (Ba-tư-nặc, Câu-tát-la), có một tên cướp tên là Aṅgulimāla, hung bạo, tay vấy máu, chuyên đánh giết, không biết thương xót các chúng sinh.

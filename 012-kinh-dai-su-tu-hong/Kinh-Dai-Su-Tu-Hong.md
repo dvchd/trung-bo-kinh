@@ -16,6 +16,13 @@ Bản dịch này theo sát bản Pali từng đoạn một, kể cả những c
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 12: Đại Kinh Sư Tử Hống**](#trung-bộ-kinh--bài-kinh-số-12-đại-kinh-sư-tử-hống)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 12: Đại Kinh Sư Tử Hống
 
 *Mahāsīhanāda Sutta* — bài kinh về tiếng rống sư tử của bậc Đại sư

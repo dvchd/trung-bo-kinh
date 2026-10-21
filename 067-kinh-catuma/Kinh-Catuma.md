@@ -16,6 +16,13 @@ Với người đọc hôm nay, bài kinh đáng đọc vì nó cho thấy một
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 67: Kinh Cātumā**](#trung-bộ-kinh--bài-kinh-số-67-kinh-cātumā)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 67: Kinh Cātumā
 
 *Cātuma Sutta* — bài kinh về bốn hiểm họa khi bước xuống nước
@@ -428,7 +435,7 @@ Này các tỳ-kheo, đó là bốn mối nguy mà một người nào đó đã
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn67:20.3 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn67:20.4 -->
 Kinh Cātumā, bài thứ bảy, đã hoàn thành.

@@ -126,7 +126,7 @@ Tại đây, những pháp ác bất thiện ấy chấm dứt, không còn sót
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn18:9.2 -->
-Nói xong, bậc Thiện thệ từ chỗ ngồi đứng dậy, đi vào tinh xá.
+Nói xong, bậc Thiện thệ từ chỗ ngồi đứng dậy, đi vào tịnh xá.
 
 [Chú thích: Đức Thế Tôn thường cố giảng cho rõ ràng, nhưng đôi khi Ngài để lại một câu bí hiểm để khuyến khích đệ tử tự tìm ra nghĩa.]
 
@@ -134,7 +134,7 @@ Nói xong, bậc Thiện thệ từ chỗ ngồi đứng dậy, đi vào tinh x�
 Rồi khi Đức Thế Tôn vừa rời đi không lâu, các tỳ-kheo ấy nghĩ như vầy:
 
 <!-- seg: mn18:10.2 -->
-Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:10.3 -->
 'Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người.
@@ -172,7 +172,7 @@ Rồi các tỳ-kheo ấy đi đến Tôn giả Mahākaccāna; đến rồi, ch�
 Sau khi trao đổi những lời chào hỏi thân thiện và đáng nhớ, họ ngồi xuống một bên. Ngồi một bên, các tỳ-kheo ấy nói với Tôn giả Mahākaccāna như vầy:
 
 <!-- seg: mn18:11.3 -->
-Này Hiền giả Kaccāna, Đức Thế Tôn đã nói cho chúng tôi một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+Này Hiền giả Kaccāna, Đức Thế Tôn đã nói cho chúng tôi một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:11.4 -->
 'Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người.

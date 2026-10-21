@@ -155,7 +155,7 @@ Vì sợ bị chê trách, bị công kích và bị bắt lỗi.
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn117:38.5 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn117:38.6 -->
 Đại Kinh Bốn Mươi, bài thứ bảy, đến đây kết thúc.

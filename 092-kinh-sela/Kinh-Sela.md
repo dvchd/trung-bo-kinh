@@ -16,6 +16,13 @@ Cuộc đối đáp tiếp tục, và đây là chỗ đáng chú ý nhất củ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 92: Kinh Sela**](#trung-bộ-kinh--bài-kinh-số-92-kinh-sela)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 92: Kinh Sela
 
 *Selasutta* — bài kinh về bà-la-môn Sela và ba trăm thanh niên học trò của ông, những người đến kiểm chứng ba mươi hai tướng của bậc đại nhân nơi Đức Thế Tôn rồi xuất gia ngay trong buổi gặp ấy

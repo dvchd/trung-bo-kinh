@@ -39,7 +39,7 @@ Sau đó là bài pháp tuần tự quen thuộc — bố thí, giới, cõi tr�
 Tôi nghe như vầy.
 
 <!-- seg: mn56:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú gần Nāḷandā (Na-lan-đà), trong vườn xoài của Pāvārika.
+Một thuở nọ, Đức Thế Tôn trú gần Nāḷandā (Na-lan-đà), trong vườn xoài của Pāvārika.
 
 [Chú thích: Pāvārika nghĩa là "người dệt chăn". Thời ấy nhiều nơi được đặt tên theo nghề sống chính của dân cư, nên rất có thể đây là khu vườn của vị thương nhân đứng đầu nhóm thợ dệt chăn.]
 

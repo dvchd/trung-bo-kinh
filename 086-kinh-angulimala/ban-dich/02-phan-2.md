@@ -54,7 +54,7 @@ Rồi Đức Thế Tôn lên đường du hành về phía Sāvatthī, với Tô
 Đi từng chặng một, cuối cùng Ngài đến Sāvatthī.
 
 <!-- seg: mn86:7.3 -->
-Tại đó, Đức Thế Tôn trú tại Sāvatthī, trong Jetavana, khu vườn của Anāthapiṇḍika.
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn86:8.1 -->
 Lúc bấy giờ, trước cổng cung của vua Pasenadi xứ Kosala, một đám đông lớn đã tụ tập, gây ra tiếng ồn ào, tiếng náo động lớn:

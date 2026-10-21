@@ -2,10 +2,10 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn79:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong Veḷuvana (Trúc Lâm), chỗ nuôi dưỡng sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn79:1.3 -->
-Lúc bấy giờ, du sĩ Sakuludāyī đang trú tại Moranivāpa, khu vườn của các du sĩ, chỗ nuôi dưỡng chim công, cùng với một hội chúng du sĩ đông đảo.
+Lúc bấy giờ, du sĩ Sakuludāyī trú tại Moranivāpa, khu vườn của các du sĩ, chỗ nuôi dưỡng chim công, cùng với một hội chúng du sĩ đông đảo.
 
 <!-- seg: mn79:2.1 -->
 Rồi vào buổi sáng, Đức Thế Tôn đắp y, cầm bát, đi vào Rājagaha để khất thực.

@@ -914,7 +914,7 @@ Với vị ấy biết như vậy, thấy như vậy, tâm được giải thoá
 Khi đã giải thoát, vị ấy biết: "Ta đã giải thoát."
 
 <!-- seg: mn60:55.10 -->
-Vị ấy biết: "Sinh đã tận, đời sống phạm hạnh đã được sống, việc cần làm đã làm, không còn trở lại đời này nữa."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn60:56.1 -->
 Này các gia chủ, đây gọi là hạng người không tự hành hạ mình, không chuyên tâm vào việc tự hành hạ mình, cũng không hành hạ người khác, không chuyên tâm vào việc hành hạ người khác;

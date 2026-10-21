@@ -268,7 +268,7 @@ Rồi Đức Thế Tôn, sau khi nói những bài kệ ấy ngay tại chỗ đ
 [Chú thích: Bālakaloṇakāra nghĩa là "làng của những đứa trẻ làm muối", so với loṇakāradārako ở AN 4.188:5.3. Ở Ấn Độ, trẻ em vẫn được dùng để làm muối cho đến ngày nay.]
 
 <!-- seg: mn128:7.2 -->
-Lúc bấy giờ, đại đức Bhagu đang trú tại làng Bālakaloṇakāra.
+Lúc bấy giờ, đại đức Bhagu trú tại làng Bālakaloṇakāra.
 
 [Chú thích: Bhagu là một trong những vị dòng Sakya xuất sắc đã xuất gia cùng với Bhaddiya, Anuruddha, Ānanda, Kimbila, Devadatta và Upāli, theo Kd 17:1.4.1. Sau cuộc xung đột ở Kosambī, Đức Thế Tôn tìm đến chỗ các vị đồng hương Sakya: trước là Bhagu, rồi đến ba vị sau đây.]
 
@@ -300,7 +300,7 @@ ngồi rồi rửa chân.
 Rồi Đức Thế Tôn dùng lời Pháp để chỉ dạy, khích lệ, làm phấn khởi và làm hoan hỷ đại đức Bhagu; sau đó Ngài đứng dậy khỏi chỗ ngồi và đi đến khu vườn Pācīnavaṁsadāya.
 
 <!-- seg: mn128:8.1 -->
-Lúc bấy giờ, đại đức Anuruddha (A-na-luật-đà), đại đức Nandiya và đại đức Kimbila đang trú tại khu vườn Pācīnavaṁsadāya.
+Lúc bấy giờ, đại đức Anuruddha (A-na-luật-đà), đại đức Nandiya và đại đức Kimbila trú tại khu vườn Pācīnavaṁsadāya.
 
 [Chú thích: Khu vườn này ở xứ Ceti, không xa Kosambī. Prācīnavaṁśa là một giảng đường hay nhà rạp dựng cho lễ nghi, với rui tre (vaṁśa) chạy về phía đông (prācīna). Ngoài bối cảnh, đoạn tiếp theo của bài kinh giống hệt MN 31:2.1 cho đến phần bàn về thiền định.]
 

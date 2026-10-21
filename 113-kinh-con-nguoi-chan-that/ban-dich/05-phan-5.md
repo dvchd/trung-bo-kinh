@@ -41,7 +41,7 @@ Hơn nữa, này các tỳ-kheo, người chân thật vượt qua hoàn toàn x
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn113:29.4 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn113:29.5 -->
 Kinh Con Người Chân Thật, bài thứ ba, đã kết thúc.

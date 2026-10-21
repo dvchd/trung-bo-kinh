@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Đây là bài kinh thiên về lòng sùng mộ, liệt kê tên các vị ẩn sĩ thời xưa, và ở Sri Lanka được tụng như một bài hộ trì. Bản Hán tương đương chỉ giống phần mở đầu rồi khác hẳn, và chỉ có ba tên trùng rõ ràng là Ariṭṭha, Upariṭṭha và Sudassana. Các nhà dịch kinh đều lưu ý rằng nếu không có chú giải thì khó phân biệt đâu là tên người, đâu là phẩm chất, mà chú giải thì bỏ sót nhiều tên.]
 
 <!-- seg: mn116:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), trên ngọn núi Isigili.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trên ngọn núi Isigili.
 
 [Chú thích: Rājagaha được bao quanh bởi một dãy đồi rộng, nơi nhiều hạng ẩn sĩ tìm đến tu tập.]
 
@@ -15,7 +15,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn116:1.5 -->
-"Bạch Thế Tôn," các vị tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn116:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -105,7 +105,7 @@ Hãy lắng nghe điều ấy, khéo tác ý, Ta sẽ nói.
 [Chú thích: Phần lớn tên trong danh sách này không thể xác định chắc chắn, vì thiếu ngữ cảnh, vì nhiều tên vốn thông dụng, và vì nhiều tên lấy từ địa danh hay khái niệm. Đáng chú ý là một số tên trùng với tên các vị tổ sư Kỳ-na giáo, và ngay tên bài kinh cũng là tên một vị ẩn sĩ trong văn bản Kỳ-na giáo Isibhāsiyāiṁ. Có lẽ cả Phật giáo lẫn Kỳ-na giáo đều cùng khai thác một kho truyền thống chung về các bậc ẩn sĩ thời xưa.]
 
 <!-- seg: mn116:3.11 -->
-"Thưa vâng, bạch Thế Tôn," các vị tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn116:3.12 -->
 Đức Thế Tôn nói như vầy:

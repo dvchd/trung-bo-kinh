@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Gopaka** (*Gopakamoggallāna Sutta*) là bài kinh thứ 108 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra ít lâu sau khi Đức Thế Tôn nhập Niết-bàn. Ngài Ānanda, thị giả lâu năm của Ngài, đang trú tại Rājagaha, trong khu rừng tre Veḷuvana. Một buổi sáng, vì đi khất thực còn quá sớm, ngài ghé vào nơi làm việc của bà-la-môn Gopakamoggallāna, và một cuộc đàm đạo bắt đầu từ đó.
+**Kinh Gopaka** (*Gopakamoggallāna Sutta*) là bài kinh thứ 108 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra ít lâu sau khi Đức Thế Tôn nhập Niết-bàn. Ngài Ānanda, thị giả lâu năm của Ngài, trú tại Rājagaha, trong khu rừng tre Veḷuvana. Một buổi sáng, vì đi khất thực còn quá sớm, ngài ghé vào nơi làm việc của bà-la-môn Gopakamoggallāna, và một cuộc đàm đạo bắt đầu từ đó.
 
 Câu hỏi của bà-la-môn rất thẳng: có một vị tỳ-kheo nào, dù chỉ một người, có đủ mọi phẩm chất như ngài Gotama đã có hay không? Ngài Ānanda trả lời: không. Lý do được Ngài nói ngay sau đó: Đức Thế Tôn là người đã làm sinh khởi con đường chưa từng có, là người đầu tiên mở ra lối đi; các đệ tử chỉ là người đi theo con đường ấy và về sau mới thành tựu được nó. Chỉ một câu trả lời ấy thôi đã đặt ra toàn bộ vấn đề của bài kinh.
 
@@ -13,6 +13,13 @@ Khi ấy, đại thần Vassakāra của nước Magadha đi giám sát công vi
 Tiếp đó là danh sách mười phẩm chất mà Tăng đoàn kính trọng: giữ giới, nghe nhiều, biết đủ, chứng được bốn tầng thiền-na, và có sáu thắng trí. Ai có đủ những phẩm chất ấy thì được kính trọng, bất kể người đó là ai. Nói cách khác, sự kính trọng trong Tăng đoàn dựa trên điều một người đã tu thành, không dựa trên chức tước hay tuổi tác. Đây là điểm rất đáng suy nghĩ với người hôm nay, khi ta thường quen với tổ chức có người đứng đầu nắm quyền.
 
 Phần cuối bài kinh là một cuộc tranh luận nhỏ về thiền. Vassakāra nhớ lại việc Đức Thế Tôn ca ngợi mọi thứ thiền, và ngài Ānanda sửa lại: Ngài không ca ngợi thứ thiền mà người ta vẫn mang tham dục, sân hận, hôn trầm, trạo cử hay nghi hoặc ở trong lòng; Ngài ca ngợi bốn tầng thiền-na trong sạch. Khi Vassakāra ra về, bà-la-môn Gopakamoggallāna phàn nàn rằng câu hỏi của mình chưa được trả lời. Ngài Ānanda nhắc lại: đã trả lời rồi, ngay từ đầu, rằng không có ai bằng Đức Thế Tôn. Với người mới đọc kinh, bài này không có giáo lý trừu tượng nào; nó kể một câu chuyện về uy quyền, về sự kính trọng và về cách một cộng đồng tiếp tục sống sau khi người sáng lập đã mất.
+
+---
+
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 108: Kinh Gopaka**](#trung-bộ-kinh--bài-kinh-số-108-kinh-gopaka)
 
 ---
 
@@ -32,7 +39,7 @@ Phần cuối bài kinh là một cuộc tranh luận nhỏ về thiền. Vassak
 Tôi nghe như vầy.
 
 <!-- seg: mn108:1.2 -->
-Một thuở nọ, khi Đức Thế Tôn vừa nhập Niết-bàn không lâu, ngài Ānanda (A-nan) đang trú tại Rājagaha (Vương Xá), trong Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn108:2.1 -->
 Lúc bấy giờ, vua Ajātasattu (A-xà-thế) nước Magadha (Ma-kiệt-đà), con của công chúa Videha, đang cho củng cố Rājagaha vì e ngại vua Pajjota.
@@ -439,7 +446,7 @@ Rồi bà-la-môn Vassakāra, đại thần nước Magadha, nói với ngài Ā
 Quả thật, các ngài ấy thiền và quen nếp thiền.
 
 <!-- seg: mn108:25.8 -->
-Thưa ngài Ānanda, có một lần ngài Gotama ấy đang trú tại Vesālī (Tỳ-xá-li), trong Đại Lâm, tại giảng đường có mái nhọn.
+Thưa ngài Ānanda, có một lần ngài Gotama ấy trú tại Vesālī (Tỳ-xá-li), trong Đại Lâm, tại giảng đường có mái nhọn.
 
 <!-- seg: mn108:25.9 -->
 Rồi thưa ngài Ānanda, tôi đi đến Đại Lâm, đến giảng đường có mái nhọn, đến chỗ ngài Gotama ấy.

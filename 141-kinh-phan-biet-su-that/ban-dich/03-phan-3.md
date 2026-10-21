@@ -65,7 +65,7 @@ việc nói rõ, giảng dạy, nêu ra, thiết lập, mở bày, phân tích v
 Tôn giả Sāriputta nói như vậy.
 
 <!-- seg: mn141:32.4 -->
-Các tỳ-kheo hoan hỷ, tán thán lời Tôn giả Sāriputta dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Tôn giả Sāriputta dạy.
 
 <!-- seg: mn141:32.5 -->
 Kinh Phân Biệt Sự Thật, bài thứ mười một, đến đây là hết.

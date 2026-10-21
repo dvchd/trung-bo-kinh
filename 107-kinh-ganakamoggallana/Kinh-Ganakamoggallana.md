@@ -16,6 +16,13 @@ Cuối cùng, bà-la-môn tán thán lời dạy, xin quy y Tam Bảo và xin đ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 107: Kinh Gaṇakamoggallāna**](#trung-bộ-kinh--bài-kinh-số-107-kinh-gaṇakamoggallāna)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 107: Kinh Gaṇakamoggallāna
 
 *Gaṇakamoggallāna Sutta* — bài kinh về người kế toán Moggallāna và con đường tu tập tuần tự
@@ -32,7 +39,7 @@ Cuối cùng, bà-la-môn tán thán lời dạy, xin quy y Tam Bảo và xin đ
 Tôi nghe như vầy.
 
 <!-- seg: mn107:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong Khu vườn phía Đông, tại ngôi nhà lầu của Migāramātā (Lộc Mẫu).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Khu vườn phía Đông, tại ngôi nhà lầu của Migāramātā (Lộc Mẫu).
 
 <!-- seg: mn107:1.3 -->
 Rồi bà-la-môn Gaṇakamoggallāna đi đến chỗ Đức Thế Tôn; sau khi đến, ông chào hỏi Đức Thế Tôn.

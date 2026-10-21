@@ -52,6 +52,13 @@ hoặc bản tiếng Anh của Bhikkhu Sujato ở bất cứ dòng nào. Các ch
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 44: Tiểu Kinh Phương Quảng**](#trung-bộ-kinh--bài-kinh-số-44-tiểu-kinh-phương-quảng)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 44: Tiểu Kinh Phương Quảng
 
 *Cūḷavedalla Sutta* — bài hỏi đáp mở rộng, bản ngắn
@@ -68,7 +75,7 @@ hoặc bản tiếng Anh của Bhikkhu Sujato ở bất cứ dòng nào. Các ch
 Tôi nghe như vầy.
 
 <!-- seg: mn44:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú gần Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng loài sóc.
+Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn44:1.3 -->
 Rồi cư sĩ Visākha đi đến chỗ tỳ-kheo-ni Dhammadinnā. Đến nơi, ông đảnh lễ tỳ-kheo-ni Dhammadinnā rồi ngồi xuống một bên. Ngồi một bên, cư sĩ Visākha thưa với tỳ-kheo-ni Dhammadinnā:

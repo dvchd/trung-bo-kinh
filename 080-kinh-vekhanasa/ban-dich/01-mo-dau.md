@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn80:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà Lâm), khu vườn của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn80:2.1 -->
 Rồi du sĩ Vekhanasa đi đến chỗ Đức Thế Tôn; đến nơi, ông chào hỏi và hỏi thăm Ngài.

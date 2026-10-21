@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này là bản "Trung Bộ" của Kinh Phạm Võng (DN 1) quen thuộc hơn. Cả hai bài đều nhấn mạnh việc hiểu kiến giải của người khác, vì ta sống và nói chuyện trong một bối cảnh văn hóa, nơi kiến giải được chia sẻ với người khác. Có một bản dịch Tây Tạng của kinh Pañcatraya thuộc Căn bản Thuyết nhất thiết hữu bộ, được Peter Skilling bàn trong Mahāsūtras II, tr. 469–511.]
 
 <!-- seg: mn102:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta, tại khu vườn của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn102:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:

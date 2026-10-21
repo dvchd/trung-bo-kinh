@@ -2,7 +2,7 @@
 Tôi nghe như vầy.
 
 <!-- seg: mn107:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong Khu vườn phía Đông, tại ngôi nhà lầu của Migāramātā (Lộc Mẫu).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Khu vườn phía Đông, tại ngôi nhà lầu của Migāramātā (Lộc Mẫu).
 
 <!-- seg: mn107:1.3 -->
 Rồi bà-la-môn Gaṇakamoggallāna đi đến chỗ Đức Thế Tôn; sau khi đến, ông chào hỏi Đức Thế Tôn.

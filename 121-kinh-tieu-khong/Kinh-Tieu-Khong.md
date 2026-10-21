@@ -16,6 +16,13 @@ Với người chưa từng học đạo, bài kinh này đáng đọc vì nó k
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 121: Tiểu Kinh Không**](#trung-bộ-kinh--bài-kinh-số-121-tiểu-kinh-không)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 121: Tiểu Kinh Không
 
 *Cūḷasuññata Sutta* — bài kinh ngắn về sự trống không
@@ -307,7 +314,7 @@ Khi vị ấy biết như vậy và thấy như vậy, tâm được giải tho�
 Nơi vị ấy đã giải thoát, khởi lên trí biết rằng: "Đã giải thoát."
 
 <!-- seg: mn121:11.8 -->
-Vị ấy hiểu: "Sinh đã tận, phạm hạnh đã sống trọn, việc cần làm đã làm xong, không còn gì nữa cho đời sống này."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn121:12.1 -->
 Vị ấy hiểu như vầy:

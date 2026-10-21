@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Verañjaka** (*Verañjaka Sutta*) là bài kinh thứ 42 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài này gần như trùng với bài trước, Kinh Sāleyyaka: cùng một câu hỏi, cùng một câu trả lời, cùng mười đường qua thân, lời nói và ý. Chỗ khác là bối cảnh. Lần này Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc). Một nhóm bà-la-môn và gia chủ từ Verañjā đang có việc phải ở lại Sāvatthī; nghe tiếng tốt về Ngài, họ tìm đến và ngồi xuống một bên.
+**Kinh Verañjaka** (*Verañjaka Sutta*) là bài kinh thứ 42 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài này gần như trùng với bài trước, Kinh Sāleyyaka: cùng một câu hỏi, cùng một câu trả lời, cùng mười đường qua thân, lời nói và ý. Chỗ khác là bối cảnh. Lần này Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc). Một nhóm bà-la-môn và gia chủ từ Verañjā đang có việc phải ở lại Sāvatthī; nghe tiếng tốt về Ngài, họ tìm đến và ngồi xuống một bên.
 
 Câu hỏi họ đặt ra vừa cũ vừa mới: đâu là nhân, đâu là duyên khiến một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, đường ác, chỗ đọa lạc, địa ngục; và đâu là nhân, đâu là duyên khiến một số khác sinh vào đường lành, cõi trời? Đức Thế Tôn trả lời bằng hai câu ngắn: do hạnh phi pháp và tà vạy mà người ta đi xuống; do hạnh đúng pháp và bình đẳng mà người ta đi lên. Những người nghe không hiểu, bèn xin Ngài giảng rộng, và phần lớn bài kinh là lời giảng rộng ấy.
 

@@ -41,7 +41,7 @@ Bản dịch này làm từ nguyên bản Pali, đối chiếu với bản tiế
 Tôi nghe như vầy.
 
 <!-- seg: mn134:1.2 -->
-Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn134:1.3 -->
 Lúc bấy giờ, Tôn giả Lomasakaṅgiya đang trú trong xứ Sākya (Thích-ca), tại Kapilavatthu (Ca-tỳ-la-vệ), trong tịnh xá Nigrodha.

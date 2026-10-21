@@ -41,7 +41,7 @@ Tôi nghe như vầy.
 [Chú thích: Bài kinh này cảnh báo đừng vội kết luận, và đề cao lối tiếp cận thận trọng, thực tiễn đối với sự thật; chủ đề ấy được khai triển thêm trong các bài MN 47, MN 60 và MN 99. Theo biên niên sử Mahāvaṁsa của Tích Lan, đây là bài kinh đầu tiên mà vị A-la-hán Mahinda giảng cho vua Devanampiyatissa, khiến nhà vua quy y và Phật giáo lan rộng ở Tích Lan vào khoảng năm 250 trước Công nguyên.]
 
 <!-- seg: mn27:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tinh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn27:2.1 -->
 Lúc bấy giờ, bà-la-môn Jānussoṇi giữa ban ngày đi ra khỏi Sāvatthī trên cỗ xe toàn trắng do các ngựa cái kéo.
@@ -473,7 +473,7 @@ Vị ấy tránh xa việc nhận voi, bò, ngựa và ngựa cái.
 <!-- seg: mn27:13.21 -->
 Vị ấy tránh xa việc nhận ruộng đất.
 
-[Chú thích: Đất để xây tinh xá có thể được Tăng đoàn nhận với tư cách tập thể, nhưng cá nhân tỳ-kheo thì không.]
+[Chú thích: Đất để xây tịnh xá có thể được Tăng đoàn nhận với tư cách tập thể, nhưng cá nhân tỳ-kheo thì không.]
 
 <!-- seg: mn27:13.22 -->
 Vị ấy tránh xa việc làm sứ giả, đưa tin, đi lại lo việc ấy.
@@ -483,7 +483,7 @@ Vị ấy tránh xa việc làm sứ giả, đưa tin, đi lại lo việc ấy.
 <!-- seg: mn27:13.23 -->
 Vị ấy tránh xa việc mua bán.
 
-[Chú thích: Chẳng hạn như mua bán tài sản của tinh xá.]
+[Chú thích: Chẳng hạn như mua bán tài sản của tịnh xá.]
 
 <!-- seg: mn27:13.24 -->
 Vị ấy tránh xa việc cân thiếu, đo gian, lường giả.

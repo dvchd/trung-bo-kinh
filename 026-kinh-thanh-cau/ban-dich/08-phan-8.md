@@ -34,7 +34,7 @@ Vì vị ấy đã đi ra ngoài tầm với của Ác ma.
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn26:42.7 -->
-Các tỳ-kheo ấy hoan hỷ, tín thọ lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn26:42.8 -->
 Bài kinh Pāsarāsi, bài thứ sáu, đã hoàn thành.

@@ -14,7 +14,7 @@ Với vị ấy biết như vậy, thấy như vậy, tâm được giải thoá
 Trong sự giải thoát ấy, khởi lên trí biết rằng đã được giải thoát.
 
 <!-- seg: mn76:50.3 -->
-Vị ấy biết: "Sinh đã hết, đời phạm hạnh đã sống xong, việc cần làm đã làm, không còn gì nữa cho đời sống này."
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn76:50.4 -->
 Này Sandaka, một vị thầy mà dưới vị ấy một đệ tử đạt được một sự thù thắng cao quý như vậy, thì ở nơi vị ấy, một người sáng suốt, dù có cố gắng hết sức, cũng nên sống đời phạm hạnh; và khi sống như vậy, người ấy sẽ thành tựu được pháp thiện khéo đúng lý.

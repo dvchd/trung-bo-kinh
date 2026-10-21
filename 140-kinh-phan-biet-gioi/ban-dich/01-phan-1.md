@@ -96,7 +96,7 @@ và tôi tin theo Pháp của Đức Thế Tôn ấy."
 [Chú thích: Ở một chỗ khác trong Tăng Chi Bộ, Sāvatthī lại được nói là ở phía đông, có lẽ là tính từ Madhurā.]
 
 <!-- seg: mn140:5.10 -->
-Hiện nay Đức Thế Tôn ấy, bậc A-la-hán, Chánh đẳng giác, đang trú tại đó."
+Hiện nay Đức Thế Tôn ấy, bậc A-la-hán, Chánh đẳng giác, trú tại đó."
 
 <!-- seg: mn140:5.11 -->
 "Này tỳ-kheo, ông đã từng thấy Đức Thế Tôn ấy chưa?

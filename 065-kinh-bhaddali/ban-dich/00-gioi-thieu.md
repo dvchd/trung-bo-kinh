@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Bhaddāli** (*Bhaddālisutta*) là bài thứ sáu mươi lăm trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong khu vườn Jetavana (Kỳ-đà-lâm) của ông Anāthapiṇḍika (Cấp Cô Độc), và xoay quanh một vị tỳ-kheo ít ai biết tên: Bhaddāli. Chuyện bắt đầu rất giản dị — một quy định về cách ăn — nhưng từ đó mở ra một chuỗi bài học về sự kiêu căng, lòng sám hối, và lý do vì sao các giới điều của Tăng đoàn ngày càng nhiều.
+**Kinh Bhaddāli** (*Bhaddālisutta*) là bài thứ sáu mươi lăm trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong khu vườn rừng Jeta (Kỳ-đà) của ông Anāthapiṇḍika (Cấp Cô Độc), và xoay quanh một vị tỳ-kheo ít ai biết tên: Bhaddāli. Chuyện bắt đầu rất giản dị — một quy định về cách ăn — nhưng từ đó mở ra một chuỗi bài học về sự kiêu căng, lòng sám hối, và lý do vì sao các giới điều của Tăng đoàn ngày càng nhiều.
 
 Đức Thế Tôn kể rằng Ngài ăn ngày một bữa, chỉ ngồi một lần, và nhờ vậy thấy mình ít bệnh, nhẹ nhàng, khỏe mạnh. Ngài khuyên các tỳ-kheo làm theo. Hạnh này không phải mệnh lệnh bắt buộc, nhưng là một cách sống tiết độ được Ngài khuyến khích. Bhaddāli liền từ chối thẳng: ông sợ rằng khi chỉ ăn một bữa, mình sẽ day dứt và hối hận. Đức Thế Tôn bèn mở cho ông một lối khác — ăn một phần tại chỗ được mời, phần còn lại mang về ăn — nhưng ông vẫn từ chối.
 

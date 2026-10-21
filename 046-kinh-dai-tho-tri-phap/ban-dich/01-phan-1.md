@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 [Chú thích: Đức Thế Tôn bàn kỹ hơn về đề tài này trong Kinh Nên Thân Cận và Không Nên Thân Cận (MN 114).]
 
 <!-- seg: mn46:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), tại tinh xá của gia chủ Anāthapiṇḍika (Cấp Cô Độc).
+Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn46:1.3 -->
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
@@ -13,7 +13,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn46:1.5 -->
-"Bạch Thế Tôn," các tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn46:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -37,7 +37,7 @@ Này các tỳ-kheo, vậy các ông thấy nguyên nhân của việc ấy là 
 "Vậy thì, này các tỳ-kheo, hãy nghe và khéo tác ý, Ta sẽ nói."
 
 <!-- seg: mn46:2.7 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lại.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn46:2.8 -->
 Đức Thế Tôn nói như vầy:

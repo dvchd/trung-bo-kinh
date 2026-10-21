@@ -90,7 +90,7 @@ Này các tỳ-kheo, vị tỳ-kheo ấy phải nương theo người ấy cho �
 Đức Thế Tôn đã nói như vầy.
 
 <!-- seg: mn17:26.9 -->
-Các tỳ-kheo ấy hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn17:26.10 -->
 Kinh Khu Rừng, bài thứ bảy, đã hoàn thành.

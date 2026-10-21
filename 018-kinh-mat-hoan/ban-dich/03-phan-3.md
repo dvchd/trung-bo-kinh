@@ -44,7 +44,7 @@ Khi tưởng không hiện rõ, thì tầm sẽ hiện rõ — điều ấy khô
 Khi tầm không hiện rõ, thì sự ập đến của những phán định do tưởng hý luận sinh ra sẽ hiện rõ — điều ấy không thể có.
 
 <!-- seg: mn18:19.1 -->
-Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+Này các Hiền giả, Đức Thế Tôn đã nói cho chúng ta một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:19.2 -->
 'Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người; nếu nơi ấy không có gì đáng tán thưởng, đáng hoan nghênh, đáng bám chấp, thì đây chính là chỗ chấm dứt của tùy miên tham, đây chính là chỗ chấm dứt của tùy miên sân, đây chính là chỗ chấm dứt của tùy miên kiến, đây chính là chỗ chấm dứt của tùy miên nghi, đây chính là chỗ chấm dứt của tùy miên mạn, đây chính là chỗ chấm dứt của tùy miên tham muốn tái sinh, đây chính là chỗ chấm dứt của tùy miên vô minh; đây chính là chỗ chấm dứt của việc cầm gậy cầm gươm, của tranh cãi, xung đột, luận chiến, mắng nhiếc nhau, nói xấu sau lưng và nói dối.
@@ -62,7 +62,7 @@ Nếu các Tôn giả muốn, các vị hãy đi đến Đức Thế Tôn và h�
 Rồi các tỳ-kheo ấy, sau khi hoan hỷ và tán thán lời Tôn giả Mahākaccāna dạy, từ chỗ ngồi đứng dậy, đi đến Đức Thế Tôn; đến rồi, đảnh lễ Đức Thế Tôn và ngồi xuống một bên. Ngồi một bên, các tỳ-kheo ấy bạch Đức Thế Tôn như vầy:
 
 <!-- seg: mn18:20.2 -->
-Bạch Thế Tôn, Đức Thế Tôn đã nói cho chúng con một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+Bạch Thế Tôn, Đức Thế Tôn đã nói cho chúng con một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:20.3 -->
 'Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người.
@@ -80,7 +80,7 @@ Tại đây, những pháp ác bất thiện ấy chấm dứt, không còn sót
 Bạch Thế Tôn, khi Đức Thế Tôn vừa rời đi không lâu, chúng con nghĩ như vầy:
 
 <!-- seg: mn18:20.8 -->
-'Đức Thế Tôn đã nói cho chúng con một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tinh xá:
+'Đức Thế Tôn đã nói cho chúng con một lời dạy vắn tắt, chưa phân tích ý nghĩa một cách rộng rãi, rồi từ chỗ ngồi đứng dậy đi vào tịnh xá:
 
 <!-- seg: mn18:20.9 -->
 "Này tỳ-kheo, từ nguồn gốc nào mà những phán định do tưởng hý luận sinh ra ập đến con người.
