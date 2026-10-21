@@ -7,7 +7,7 @@ Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong r
 <!-- seg: mn44:1.3 -->
 Rồi cư sĩ Visākha đi đến chỗ tỳ-kheo-ni Dhammadinnā. Đến nơi, ông đảnh lễ tỳ-kheo-ni Dhammadinnā rồi ngồi xuống một bên. Ngồi một bên, cư sĩ Visākha thưa với tỳ-kheo-ni Dhammadinnā:
 
-[Chú thích: Cả hai nhân vật này đều ít được nhắc đến trong kinh tạng, khác với bài phương quảng trước, nơi hai vị tỳ-kheo nổi tiếng về tuệ đối thoại với nhau. Tỳ-kheo-ni Dhammadinnā được tôn là bậc nhất về thuyết pháp trong hàng ni chúng, có lẽ nhờ chính bài kinh này, và chỉ có một bài kệ mang tên bà. Cư sĩ Visākha không xuất hiện ở chỗ nào khác trong kinh tạng; chú giải nói ông không phải vị tỳ-kheo Visākha, con của Pañcāli.]
+[Chú thích: Cả hai nhân vật này đều ít được nhắc đến trong kinh tạng, khác với bài Đại Kinh Phương Quảng trước, nơi hai vị tỳ-kheo nổi tiếng về tuệ đối thoại với nhau. Tỳ-kheo-ni Dhammadinnā được tôn là bậc nhất về thuyết pháp trong hàng ni chúng, có lẽ nhờ chính bài kinh này, và chỉ có một bài kệ mang tên bà. Cư sĩ Visākha không xuất hiện ở chỗ nào khác trong kinh tạng; chú giải nói ông không phải vị tỳ-kheo Visākha, con của Pañcāli.]
 
 <!-- seg: mn44:2.1 -->
 "Thưa Ni sư, người ta nói đến 'hữu thân', 'hữu thân'.
@@ -38,7 +38,7 @@ Năm thủ uẩn này, này Visākha, được Đức Thế Tôn gọi là hữu
 Nguồn gốc của hữu thân mà Đức Thế Tôn nói đến là gì?"
 
 <!-- seg: mn44:3.3 -->
-"Chính là tham ái đưa đến tái sinh, đi kèm với thích thú và tham đắm, tìm vui chỗ này chỗ kia, tức là:
+"Này Visākha, chính là tham ái đưa đến tái sinh, đi kèm với thích thú và tham đắm, tìm vui chỗ này chỗ kia, tức là:
 
 [Chú thích: Ở đây hữu thân được trình bày theo khuôn bốn sự thật cao quý, cách làm cũng gặp ở nhiều chỗ khác như Tăng Chi Bộ 4.33 và Tương Ưng 22.103, 22.105, 22.78.]
 
@@ -55,7 +55,7 @@ Này Visākha, đây là nguồn gốc của hữu thân mà Đức Thế Tôn n
 Sự chấm dứt của hữu thân mà Đức Thế Tôn nói đến là gì?"
 
 <!-- seg: mn44:4.3 -->
-"Chính là sự ly tham và chấm dứt không còn dư tàn đối với chính tham ái ấy; là sự buông bỏ, sự từ bỏ, sự giải thoát, sự không bám víu.
+"Này Visākha, chính là sự ly tham và chấm dứt không còn dư tàn đối với chính tham ái ấy; là sự buông bỏ, sự từ bỏ, sự giải thoát, sự không bám víu.
 
 <!-- seg: mn44:4.4 -->
 Này Visākha, đây là sự chấm dứt của hữu thân mà Đức Thế Tôn nói đến."

@@ -125,7 +125,7 @@ Mà tâm của vị ấy đã được tu tập từ trước, đến mức dẫ
 lạc thọ, khổ thọ, và thọ không khổ không lạc."
 
 <!-- seg: mn44:23.1 -->
-"Thế nào là lạc thọ, thế nào là khổ thọ, thế nào là thọ không khổ không lạc?"
+"Nhưng thưa Ni sư, thế nào là lạc thọ, thế nào là khổ thọ, thế nào là thọ không khổ không lạc?"
 
 <!-- seg: mn44:23.2 -->
 "Này Visākha, cái gì được cảm nhận là lạc, là dễ chịu, thuộc thân hay thuộc tâm:
@@ -174,4 +174,4 @@ Thọ không khổ không lạc thì lạc khi có trí hiểu biết, khổ khi
 [Chú thích: Bậc A-la-hán vẫn có cảm thọ, nhưng không còn tùy miên nào.]
 
 <!-- seg: mn44:27.1 -->
-"Nơi lạc thọ, cái gì cần được đoạn trừ? Nơi khổ thọ, cái gì cần được đoạn trừ? Nơi thọ không khổ không lạc, cái gì cần được đoạn trừ?"
+"Nhưng thưa Ni sư, nơi lạc thọ, cái gì cần được đoạn trừ? Nơi khổ thọ, cái gì cần được đoạn trừ? Nơi thọ không khổ không lạc, cái gì cần được đoạn trừ?"

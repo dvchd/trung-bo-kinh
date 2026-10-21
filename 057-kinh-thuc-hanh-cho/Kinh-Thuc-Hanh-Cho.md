@@ -31,7 +31,7 @@ Kết thúc, Puṇṇa quy y làm người cư sĩ. Seniya xin xuất gia; đư�
 **Trung Bộ Kinh** (*Majjhima Nikāya*) — bộ kinh thứ hai trong Kinh tạng tiếng Pali, gồm 152 bài kinh cỡ vừa — bài kinh số 57.
 
 <!-- seg: mn57:0.2 -->
-**Kinh Thực Hành Chó** (*Kukkuravatika Sutta*) — bài kinh mang tên du sĩ lõa thể Seniya, người tu hạnh chó, một trong hai nhân vật chính; người kia là Puṇṇa, con trai người Koliya, tu hạnh bò.
+**Kinh Thực Hành Chó** (*Kukkuravatika Sutta*) — bài kinh lấy tên theo người tu hạnh chó, tức du sĩ lõa thể Seniya, một trong hai nhân vật chính; người kia là Puṇṇa, con trai người Koliya, tu hạnh bò.
 
 ---
 
@@ -93,7 +93,7 @@ Nhưng ta vẫn sẽ trả lời ông.
 Này Puṇṇa, ở đây có người tu tập hạnh chó trọn vẹn, không gián đoạn; tu tập giới chó trọn vẹn, không gián đoạn; tu tập tâm chó trọn vẹn, không gián đoạn; tu tập cách sinh hoạt của loài chó trọn vẹn, không gián đoạn.
 
 <!-- seg: mn57:3.2 -->
-Sau khi tu tập hạnh chó trọn vẹn, không gián đoạn, tu tập giới chó trọn vẹn, không gián đoạn, tu tập tâm chó trọn vẹn, không gián đoạn, tu tập cách sinh hoạt của loài chó trọn vẹn, không gián đoạn, khi thân hoại mạng chung, sau khi chết, người ấy tái sinh vào hội chúng của loài chó.
+Sau khi tu tập hạnh chó trọn vẹn, không gián đoạn, tu tập giới chó trọn vẹn, không gián đoạn, tu tập tâm chó trọn vẹn, không gián đoạn, tu tập cách sinh hoạt của loài chó trọn vẹn, không gián đoạn. Khi thân hoại mạng chung, sau khi chết, người ấy tái sinh vào hội chúng của loài chó.
 
 <!-- seg: mn57:3.3 -->
 Nhưng nếu người ấy có tà kiến như vầy: 'Do giới này, do hạnh này, do khổ hạnh này, do phạm hạnh này, ta sẽ trở thành một vị trời, hay một trong các vị trời', thì đó là tà kiến của người ấy.
@@ -164,7 +164,7 @@ Nhưng ta vẫn sẽ trả lời ông.
 Này Seniya, ở đây có người tu tập hạnh bò trọn vẹn, không gián đoạn; tu tập giới bò trọn vẹn, không gián đoạn; tu tập tâm bò trọn vẹn, không gián đoạn; tu tập cách sinh hoạt của loài bò trọn vẹn, không gián đoạn.
 
 <!-- seg: mn57:5.2 -->
-Sau khi tu tập hạnh bò trọn vẹn, không gián đoạn, tu tập giới bò trọn vẹn, không gián đoạn, tu tập tâm bò trọn vẹn, không gián đoạn, tu tập cách sinh hoạt của loài bò trọn vẹn, không gián đoạn, khi thân hoại mạng chung, sau khi chết, người ấy tái sinh vào hội chúng của loài bò.
+Sau khi tu tập hạnh bò trọn vẹn, không gián đoạn, tu tập giới bò trọn vẹn, không gián đoạn, tu tập tâm bò trọn vẹn, không gián đoạn, tu tập cách sinh hoạt của loài bò trọn vẹn, không gián đoạn. Khi thân hoại mạng chung, sau khi chết, người ấy tái sinh vào hội chúng của loài bò.
 
 [Chú thích: Nghĩa là tái sinh làm một con bò, chứ không phải sinh vào Goloka, cõi trời dành cho bò trong Ấn Độ giáo.]
 
@@ -388,7 +388,7 @@ Bạch Thế Tôn, mong con được xuất gia ngay trước mặt Đức Thế
 Rồi du sĩ lõa thể Seniya, người tu hạnh chó, được xuất gia ngay trước mặt Đức Thế Tôn, và được thọ cụ túc giới.
 
 <!-- seg: mn57:15.2 -->
-Không lâu sau khi thọ cụ túc giới, tôn giả Seniya sống một mình, ẩn cư, không phóng dật, nhiệt tâm, quyết chí; chẳng bao lâu, ngay trong đời này, vị ấy đã tự mình thắng tri, chứng ngộ và an trú vào mục đích tối thượng của phạm hạnh — mục đích mà những người con trai của gia đình tốt lành đúng đắn rời bỏ gia đình, xuất gia vì nó.
+Không lâu sau khi thọ cụ túc giới, tôn giả Seniya sống một mình, ẩn cư, không phóng dật, nhiệt tâm, quyết chí; chẳng bao lâu, ngay trong đời này, vị ấy đã tự mình thắng tri, chứng ngộ và an trú vào mục đích tối thượng của phạm hạnh — mục đích mà những người con trai của gia đình tốt lành đúng đắn rời bỏ gia đình, xuất gia vì mục đích ấy.
 
 <!-- seg: mn57:15.3 -->
 Vị ấy biết rõ: "Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa."
@@ -399,4 +399,4 @@ Và tôn giả Seniya đã trở thành một trong các bậc A-la-hán.
 <!-- seg: mn57:15.5 -->
 Kinh Thực Hành Chó, bài thứ bảy, đã hoàn tất.
 
-[Chú thích: Đây là dòng ghi kết thúc bài kinh trong bản Pali, không phải lời thoại.]
+[Chú thích: Đây là dòng ghi kết thúc bài kinh trong bản Pali, không phải lời thoại. Đây là chú thích của người dịch.]

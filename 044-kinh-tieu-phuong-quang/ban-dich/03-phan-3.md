@@ -88,7 +88,7 @@ Vì này Visākha, đời sống phạm hạnh lấy Niết-bàn làm chỗ nư�
 Nếu muốn, này Visākha, ông hãy đến chỗ Đức Thế Tôn mà hỏi Ngài về điều này; Ngài trả lời thế nào thì ông hãy ghi nhớ như thế."
 
 <!-- seg: mn44:30.1 -->
-Rồi cư sĩ Visākha hoan hỷ, tán thán lời tỳ-kheo-ni Dhammadinnā dạy, đứng dậy khỏi chỗ ngồi, đảnh lễ tỳ-kheo-ni Dhammadinnā, đi nhiễu quanh phía bên phải, rồi đi đến chỗ Đức Thế Tôn. Đến nơi, ông đảnh lễ Đức Thế Tôn và ngồi xuống một bên.
+Rồi cư sĩ Visākha hoan hỷ, tán thán lời tỳ-kheo-ni Dhammadinnā dạy, đứng dậy khỏi chỗ ngồi, đảnh lễ tỳ-kheo-ni Dhammadinnā, đi nhiễu quanh vị ni theo phía bên phải, rồi đi đến chỗ Đức Thế Tôn. Đến nơi, ông đảnh lễ Đức Thế Tôn và ngồi xuống một bên.
 
 <!-- seg: mn44:30.2 -->
 Ngồi một bên, cư sĩ Visākha thuật lại cho Đức Thế Tôn nghe toàn bộ cuộc đàm đạo với tỳ-kheo-ni Dhammadinnā.

@@ -29,7 +29,7 @@ Bạch Thế Tôn, mong con được xuất gia ngay trước mặt Đức Thế
 Rồi du sĩ lõa thể Seniya, người tu hạnh chó, được xuất gia ngay trước mặt Đức Thế Tôn, và được thọ cụ túc giới.
 
 <!-- seg: mn57:15.2 -->
-Không lâu sau khi thọ cụ túc giới, tôn giả Seniya sống một mình, ẩn cư, không phóng dật, nhiệt tâm, quyết chí; chẳng bao lâu, ngay trong đời này, vị ấy đã tự mình thắng tri, chứng ngộ và an trú vào mục đích tối thượng của phạm hạnh — mục đích mà những người con trai của gia đình tốt lành đúng đắn rời bỏ gia đình, xuất gia vì nó.
+Không lâu sau khi thọ cụ túc giới, tôn giả Seniya sống một mình, ẩn cư, không phóng dật, nhiệt tâm, quyết chí; chẳng bao lâu, ngay trong đời này, vị ấy đã tự mình thắng tri, chứng ngộ và an trú vào mục đích tối thượng của phạm hạnh — mục đích mà những người con trai của gia đình tốt lành đúng đắn rời bỏ gia đình, xuất gia vì mục đích ấy.
 
 <!-- seg: mn57:15.3 -->
 Vị ấy biết rõ: "Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa."
@@ -40,4 +40,4 @@ Và tôn giả Seniya đã trở thành một trong các bậc A-la-hán.
 <!-- seg: mn57:15.5 -->
 Kinh Thực Hành Chó, bài thứ bảy, đã hoàn tất.
 
-[Chú thích: Đây là dòng ghi kết thúc bài kinh trong bản Pali, không phải lời thoại.]
+[Chú thích: Đây là dòng ghi kết thúc bài kinh trong bản Pali, không phải lời thoại. Đây là chú thích của người dịch.]

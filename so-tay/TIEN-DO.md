@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 20 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 22 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,13 +15,15 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 20/152 bài
+## Đợt đọc lại văn phong: 22/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
 
 | Bài | Chỗ sửa | Ghi chú |
 |---|---|---|
+| MN 44 | 6 | thiếu xưng hô so với PLI, tên kinh viết thường trong chú thích |
+| MN 57 | 5 | câu chữ và quy ước |
 | MN 69 | 8 | 18.4 thiếu nghĩa "vượt khỏi sắc, thuộc cõi vô sắc" |
 | MN 112 | 10 | công thức "Lành thay" bị dịch thành lời tỳ-kheo |
 | MN 115 | 10 | lặp động từ, thiếu trợ từ, câu giới thiệu viết theo trí nhớ |
@@ -43,12 +45,12 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 151 | 10 | trật tự từ ở công thức quán sáu xứ |
 | MN 152 | 4 | hô cách ở 9.10, chữ "rơi" thêm vào ở 6.9 |
 
-Tổng 145 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+Tổng 156 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
 nhắc mà **không** sửa (khoảng 110 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 132 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+1. Đọc lại 130 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
    trình như trên.
 2. Quyết khoảng 100 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
    giữa hai cách hiểu Pali, không phải lỗi rõ ràng.

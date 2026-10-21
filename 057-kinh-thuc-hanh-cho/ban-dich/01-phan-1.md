@@ -56,7 +56,7 @@ Nhưng ta vẫn sẽ trả lời ông.
 Này Puṇṇa, ở đây có người tu tập hạnh chó trọn vẹn, không gián đoạn; tu tập giới chó trọn vẹn, không gián đoạn; tu tập tâm chó trọn vẹn, không gián đoạn; tu tập cách sinh hoạt của loài chó trọn vẹn, không gián đoạn.
 
 <!-- seg: mn57:3.2 -->
-Sau khi tu tập hạnh chó trọn vẹn, không gián đoạn, tu tập giới chó trọn vẹn, không gián đoạn, tu tập tâm chó trọn vẹn, không gián đoạn, tu tập cách sinh hoạt của loài chó trọn vẹn, không gián đoạn, khi thân hoại mạng chung, sau khi chết, người ấy tái sinh vào hội chúng của loài chó.
+Sau khi tu tập hạnh chó trọn vẹn, không gián đoạn, tu tập giới chó trọn vẹn, không gián đoạn, tu tập tâm chó trọn vẹn, không gián đoạn, tu tập cách sinh hoạt của loài chó trọn vẹn, không gián đoạn. Khi thân hoại mạng chung, sau khi chết, người ấy tái sinh vào hội chúng của loài chó.
 
 <!-- seg: mn57:3.3 -->
 Nhưng nếu người ấy có tà kiến như vầy: 'Do giới này, do hạnh này, do khổ hạnh này, do phạm hạnh này, ta sẽ trở thành một vị trời, hay một trong các vị trời', thì đó là tà kiến của người ấy.
@@ -127,7 +127,7 @@ Nhưng ta vẫn sẽ trả lời ông.
 Này Seniya, ở đây có người tu tập hạnh bò trọn vẹn, không gián đoạn; tu tập giới bò trọn vẹn, không gián đoạn; tu tập tâm bò trọn vẹn, không gián đoạn; tu tập cách sinh hoạt của loài bò trọn vẹn, không gián đoạn.
 
 <!-- seg: mn57:5.2 -->
-Sau khi tu tập hạnh bò trọn vẹn, không gián đoạn, tu tập giới bò trọn vẹn, không gián đoạn, tu tập tâm bò trọn vẹn, không gián đoạn, tu tập cách sinh hoạt của loài bò trọn vẹn, không gián đoạn, khi thân hoại mạng chung, sau khi chết, người ấy tái sinh vào hội chúng của loài bò.
+Sau khi tu tập hạnh bò trọn vẹn, không gián đoạn, tu tập giới bò trọn vẹn, không gián đoạn, tu tập tâm bò trọn vẹn, không gián đoạn, tu tập cách sinh hoạt của loài bò trọn vẹn, không gián đoạn. Khi thân hoại mạng chung, sau khi chết, người ấy tái sinh vào hội chúng của loài bò.
 
 [Chú thích: Nghĩa là tái sinh làm một con bò, chứ không phải sinh vào Goloka, cõi trời dành cho bò trong Ấn Độ giáo.]
 
