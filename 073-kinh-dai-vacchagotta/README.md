@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Du sĩ Vacchagotta đến gặp Đức Thế Tôn tại Rājagaha và xin Ngài dạy vắn tắt thế nào là thiện, thế nào là bất thiện. Đức Thế Tôn đáp bằng ba gốc — tham, sân, si — rồi mở thành mười cặp hành động, và kết lại bằng định nghĩa về bậc A-la-hán: người đã đoạn tận tham ái tận gốc. Vacchagotta bèn lần lượt hỏi có bao nhiêu đệ tử của Ngài đã chứng được giải thoát ấy, từ tỳ-kheo, tỳ-kheo-ni đến các hạng cư sĩ tại gia; lần nào Đức Thế Tôn cũng đáp rằng không phải một trăm hay năm trăm, mà còn nhiều hơn thế nữa. Ông kết luận bằng hình ảnh sông Gaṅgā nghiêng về biển, rồi xin xuất gia và tình nguyện trải qua bốn năm thử thách thay vì bốn tháng. Nửa tháng sau khi thọ cụ túc giới, ông được Đức Thế Tôn dạy tu tập chỉ và quán, rồi chứng quả vị A-la-hán và gửi lời đảnh lễ cuối tới Ngài.
 
 ## Con số
 
@@ -20,7 +20,13 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`ban-dich/00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người mới đọc kinh |
+| [`ban-dich/00-title.md`](ban-dich/00-title.md) | Nhan đề bài kinh |
+| [`ban-dich/01-phan-1.md`](ban-dich/01-phan-1.md) | Bối cảnh tại Rājagaha; câu hỏi về thiện và bất thiện; ba gốc và mười cặp hành động; định nghĩa bậc A-la-hán; Vacchagotta hỏi về các đệ tử đã giải thoát |
+| [`ban-dich/02-phan-2.md`](ban-dich/02-phan-2.md) | Sáu hạng đệ tử đã chứng quả; lý lẽ về sự trọn vẹn của đời sống phạm hạnh; ví dụ sông Gaṅgā; quy y và xin xuất gia; bốn tháng thử thách; chỉ và quán; các loại thần thông |
+| [`ban-dich/03-phan-3.md`](ban-dich/03-phan-3.md) | Tha tâm thông; túc mạng minh; thiên nhãn minh; lậu tận minh; Vacchagotta chứng A-la-hán; lời nhắn gửi Đức Thế Tôn; lời kết kinh |
 
 ## Cách đọc và góp ý
 

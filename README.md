@@ -3,7 +3,7 @@
 > 152 bài kinh trong *Majjhima Nikāya* (Trung Bộ Kinh), dịch từ nguyên bản Pali, đối chiếu bản tiếng
 > Anh của Bhikkhu Sujato, viết cho người Việt hiện đại không học Phật vẫn đọc hiểu được.
 
-**Trạng thái: 1/152 bài đã dịch.** Mỗi bài hoàn thành được đánh dấu ✅ trong bảng mục lục bên dưới.
+**Trạng thái: 152/152 bài đã dịch.** Mỗi bài hoàn thành được đánh dấu ✅ trong bảng mục lục bên dưới.
 
 ---
 
@@ -46,6 +46,21 @@ Các bài còn lại xem ở [mục lục đầy đủ](#mục-lục-152-bài).
   lần đầu xuất hiện; không dùng lối Hán-Việt cổ.
 - **Quy ước đầy đủ**: [`HUONG-DAN-CHUNG.md`](HUONG-DAN-CHUNG.md).
 - Các chỗ Sujato có chú thích đáng giữ thì bản dịch có `[Chú thích: …]` ngay sau đoạn liên quan.
+
+---
+
+## Con số
+
+| | |
+|---|---|
+| Bài kinh | **152** — trọn bộ Trung Bộ Kinh |
+| Từ | **889.704** (đếm trên bản đã ghép) |
+| Đoạn dịch | **26.891**, mỗi đoạn ứng với đúng một đoạn nguồn SuttaCentral |
+| Tệp bản dịch theo đoạn | **905** trong 152 thư mục `ban-dich/` |
+
+Toàn bộ đã qua kiểm tra tự động: đủ neo đoạn và đúng thứ tự, ngoặc kép cân trong từng tệp, không
+ngoặc kép cong, không dấu lửng ngoài `[Chú thích: …]`, không dùng mười từ ngữ bị cấm trong
+[`HUONG-DAN-CHUNG.md`](HUONG-DAN-CHUNG.md).
 
 ---
 
@@ -145,11 +160,11 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 66 | [Kinh Ví Dụ Con Chim Cút](066-kinh-vi-du-con-chim-cut/Kinh-Vi-Du-Con-Chim-Cut.md) | *Laṭukikopama* | ✅ |
 | 67 | [Kinh Cātumā](067-kinh-catuma/Kinh-Catuma.md) | *Cātuma* | ✅ |
 | 68 | [Kinh Naḷakapāna](068-kinh-nalakapana/Kinh-Nalakapana.md) | *Naḷakapāna* | ✅ |
-| 69 | Kinh Gulissāni | *Gulissāni* | — |
+| 69 | [Kinh Gulissāni](069-kinh-gulissani/Kinh-Gulissani.md) | *Gulissāni* | ✅ |
 | 70 | [Kinh Kīṭāgiri](070-kinh-kitagiri/Kinh-Kitagiri.md) | *Kīṭāgiri* | ✅ |
 | 71 | [Kinh Vacchagotta về Tam Minh](071-kinh-vacchagotta-ve-tam-minh/Kinh-Vacchagotta-Ve-Tam-Minh.md) | *Tevijjavacchagotta* | ✅ |
 | 72 | [Kinh Vacchagotta về Lửa](072-kinh-vacchagotta-ve-lua/Kinh-Vacchagotta-Ve-Lua.md) | *Aggivacchagotta* | ✅ |
-| 73 | Đại Kinh Vacchagotta | *Mahāvacchagotta* | — |
+| 73 | [Đại Kinh Vacchagotta](073-kinh-dai-vacchagotta/Kinh-Dai-Vacchagotta.md) | *Mahāvacchagotta* | ✅ |
 | 74 | [Kinh Dīghanakha](074-kinh-dighanakha/Kinh-Dighanakha.md) | *Dīghanakha* | ✅ |
 | 75 | [Kinh Māgaṇḍiya](075-kinh-magandiya/Kinh-Magandiya.md) | *Māgaṇḍiya* | ✅ |
 | 76 | [Kinh Sandaka](076-kinh-sandaka/Kinh-Sandaka.md) | *Sandaka* | ✅ |
@@ -190,8 +205,8 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 111 | [Kinh Tùy Quán](111-kinh-tuy-quan/Kinh-Tuy-Quan.md) | *Anupada* | ✅ |
 | 112 | [Kinh Sáu Thanh Tịnh](112-kinh-sau-thanh-tinh/Kinh-Sau-Thanh-Tinh.md) | *Chabbisodhana* | ✅ |
 | 113 | [Kinh Con Người Chân Thật](113-kinh-con-nguoi-chan-that/Kinh-Con-Nguoi-Chan-That.md) | *Sappurisa* | ✅ |
-| 114 | Kinh Nên Thân Cận và Không Nên Thân Cận | *Sevitabbāsevitabba* | — |
-| 115 | Kinh Nhiều Giới | *Bahudhātuka* | — |
+| 114 | [Kinh Nên Thân Cận và Không Nên Thân Cận](114-kinh-nen-than-can-va-khong-nen-than-can/Kinh-Nen-Than-Can-Va-Khong-Nen-Than-Can.md) | *Sevitabbāsevitabba* | ✅ |
+| 115 | [Kinh Nhiều Giới](115-kinh-nhieu-gioi/Kinh-Nhieu-Gioi.md) | *Bahudhātuka* | ✅ |
 | 116 | [Kinh Isigili](116-kinh-isigili/Kinh-Isigili.md) | *Isigili* | ✅ |
 | 117 | [Đại Kinh Bốn Mươi](117-kinh-dai-bon-muoi/Kinh-Dai-Bon-Muoi.md) | *Mahācattārīsaka* | ✅ |
 | 118 | [Kinh Niệm Hơi Thở](118-kinh-niem-hoi-tho/Kinh-Niem-Hoi-Tho.md) | *Ānāpānassati* | ✅ |
@@ -227,7 +242,7 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 148 | [Kinh Sáu Sáu](148-kinh-sau-sau/Kinh-Sau-Sau.md) | *Chachakka* | ✅ |
 | 149 | [Đại Kinh Sáu Xứ](149-kinh-dai-sau-xu/Kinh-Dai-Sau-Xu.md) | *Mahāsaḷāyatanika* | ✅ |
 | 150 | [Kinh Nagaravinda](150-kinh-nagaravinda/Kinh-Nagaravinda.md) | *Nagaravindeyya* | ✅ |
-| 151 | Kinh Thanh Tịnh Việc Khất Thực | *Piṇḍapātapārisuddhi* | — |
+| 151 | [Kinh Thanh Tịnh Việc Khất Thực](151-kinh-thanh-tinh-viec-khat-thuc/Kinh-Thanh-Tinh-Viec-Khat-Thuc.md) | *Piṇḍapātapārisuddhi* | ✅ |
 | 152 | [Kinh Tu Tập Các Căn](152-kinh-tu-tap-cac-can/Kinh-Tu-Tap-Cac-Can.md) | *Indriyabhāvanā* | ✅ |
 <!-- KET THUC MUC LUC -->
 

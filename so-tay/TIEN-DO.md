@@ -1,22 +1,19 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-21, cuối phiên ngắn 13:00–14:45 JST.
+> Cập nhật: 2026-10-21, phiên dài 19:00 — HOÀN TẤT.
 
-## Đã xong: 147/152 bài
+## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
-Tất cả các bài từ 1 đến 152, trừ 69 và 73. Mỗi bài có `Kinh-<Tên>.md`, `ban-dich/`,
-`00-gioi-thieu.md`, `README.md`, `HUONG-DAN-DICH.md`, đã qua `kiem-tra-marker.py` và `ra-soat.py`.
+Mọi bài 1–152 đều có `Kinh-<Tên>.md`, `ban-dich/`, `00-gioi-thieu.md`, `README.md`,
+`HUONG-DAN-DICH.md`, và đã qua `kiem-tra-marker.py` + `ra-soat.py` (ĐẠT).
 
-## Còn lại: 2 bài
+Tổng: 889.704 từ, 26.891 đoạn dịch, 905 tệp `ban-dich/`.
 
-69 (Gulissāni), 73 (Đại kinh Vacchagotta).
+## Việc còn lại (tùy chọn)
 
-## Việc cuối cùng sau khi dịch xong 2 bài
-
-1. `python3 cong-cu/tao-muc-luc-goc.py` — cập nhật bảng 152 dòng và dòng trạng thái README.
-2. `python3 cong-cu/ra-soat-toan-bo.py` — phải in `TONG VAN DE: 0`.
-3. Đọc lại README gốc, thêm mục tổng kết (số bài, số từ, cách dùng repo).
-4. Commit cuối và push.
+1. Đọc lại toàn bộ một lượt để bắt lỗi văn phong (chưa làm).
+2. Bổ sung sổ tay chú giải cho các bài lớn nếu muốn (như bên Trường Bộ Kinh).
+3. Cập nhật `README.md` gốc nếu thêm mục mới; chạy `cong-cu/ra-soat-toan-bo.py` sau mỗi lần sửa.
 
 ## Quy trình một bài
 

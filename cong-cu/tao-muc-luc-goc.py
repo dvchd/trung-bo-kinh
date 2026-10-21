@@ -36,9 +36,9 @@ if '<!-- BAT DAU MUC LUC -->' not in src:
     src = src.replace(
         '<!-- Bảng mục lục đầy đủ do cong-cu/tao-muc-luc-goc.py sinh ra; sẽ cập nhật khi các bài hoàn thành. -->\n\nBảng mục lục đang được hoàn thiện cùng tiến độ dịch.',
         '<!-- BAT DAU MUC LUC -->\n<!-- KET THUC MUC LUC -->')
-    src = re.sub(r'\*\*Trạng thái: đang dịch\.\*\*[^\n]*',
-                 '**Trạng thái: %d/152 bài đã dịch.** Mỗi bài hoàn thành được đánh dấu ✅ trong bảng mục lục bên dưới.' % so_xong,
-                 src)
+src = re.sub(r'\*\*Trạng thái: .*?bài đã dịch\.\*\*[^\n]*',
+             '**Trạng thái: %d/152 bài đã dịch.** Mỗi bài hoàn thành được đánh dấu ✅ trong bảng mục lục bên dưới.' % so_xong,
+             src)
 src = re.sub(r'<!-- BAT DAU MUC LUC -->.*?<!-- KET THUC MUC LUC -->',
              '<!-- BAT DAU MUC LUC -->\n' + bang + '\n<!-- KET THUC MUC LUC -->',
              src, flags=re.S)
