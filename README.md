@@ -209,24 +209,24 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 130 | [Kinh Sứ Giả Của Thần Chết](130-kinh-su-gia-cua-than-chet/Kinh-Su-Gia-Cua-Than-Chet.md) | *Devadūta* | ✅ |
 | 131 | [Kinh Một Đêm Lành](131-kinh-mot-dem-lanh/Kinh-Mot-Dem-Lanh.md) | *Bhaddekaratta* | ✅ |
 | 132 | [Kinh Ānanda Một Đêm Lành](132-kinh-ananda-mot-dem-lanh/Kinh-Ananda-Mot-Dem-Lanh.md) | *Ānandabhaddekaratta* | ✅ |
-| 133 | Đại Kinh Kaccāna Một Đêm Lành | *Mahākaccānabhaddekaratta* | — |
-| 134 | Kinh Lomasakaṅgiya | *Lomasakaṅgiya* | — |
+| 133 | [Đại Kinh Kaccāna Một Đêm Lành](133-kinh-dai-kaccana-mot-dem-lanh/Kinh-Dai-Kaccana-Mot-Dem-Lanh.md) | *Mahākaccānabhaddekaratta* | ✅ |
+| 134 | [Kinh Lomasakaṅgiya](134-kinh-lomasakangiya/Kinh-Lomasakangiya.md) | *Lomasakaṅgiya* | ✅ |
 | 135 | [Tiểu Kinh Phân Biệt Nghiệp](135-kinh-tieu-phan-biet-nghiep/Kinh-Tieu-Phan-Biet-Nghiep.md) | *Cūḷakammavibhaṅga* | ✅ |
 | 136 | [Đại Kinh Phân Biệt Nghiệp](136-kinh-dai-phan-biet-nghiep/Kinh-Dai-Phan-Biet-Nghiep.md) | *Mahākammavibhaṅga* | ✅ |
 | 137 | [Kinh Phân Biệt Sáu Xứ](137-kinh-phan-biet-sau-xu/Kinh-Phan-Biet-Sau-Xu.md) | *Salāyatanavibhaṅga* | ✅ |
-| 138 | Kinh Phân Biệt Tóm Tắt | *Uddesavibhaṅga* | — |
+| 138 | [Kinh Phân Biệt Tóm Tắt](138-kinh-phan-biet-tom-tat/Kinh-Phan-Biet-Tom-Tat.md) | *Uddesavibhaṅga* | ✅ |
 | 139 | [Kinh Phân Biệt Không Tranh Cãi](139-kinh-phan-biet-khong-tranh-cai/Kinh-Phan-Biet-Khong-Tranh-Cai.md) | *Araṇavibhaṅga* | ✅ |
 | 140 | [Kinh Phân Biệt Giới](140-kinh-phan-biet-gioi/Kinh-Phan-Biet-Gioi.md) | *Dhātuvibhaṅga* | ✅ |
 | 141 | [Kinh Phân Biệt Sự Thật](141-kinh-phan-biet-su-that/Kinh-Phan-Biet-Su-That.md) | *Saccavibhaṅga* | ✅ |
 | 142 | [Kinh Phân Biệt Cúng Dường](142-kinh-phan-biet-cung-duong/Kinh-Phan-Biet-Cung-Duong.md) | *Dakkhiṇāvibhaṅga* | ✅ |
 | 143 | [Kinh Dạy Anāthapiṇḍika](143-kinh-day-anathapindika/Kinh-Day-Anathapindika.md) | *Anāthapiṇḍikovāda* | ✅ |
 | 144 | [Kinh Dạy Channa](144-kinh-day-channa/Kinh-Day-Channa.md) | *Channovāda* | ✅ |
-| 145 | Kinh Dạy Puṇṇa | *Puṇṇovāda* | — |
+| 145 | [Kinh Dạy Puṇṇa](145-kinh-day-punna/Kinh-Day-Punna.md) | *Puṇṇovāda* | ✅ |
 | 146 | [Kinh Dạy Nandaka](146-kinh-day-nandaka/Kinh-Day-Nandaka.md) | *Nandakovāda* | ✅ |
 | 147 | [Tiểu Kinh Dạy Rāhula](147-kinh-tieu-day-rahula/Kinh-Tieu-Day-Rahula.md) | *Cūḷarāhulovāda* | ✅ |
 | 148 | [Kinh Sáu Sáu](148-kinh-sau-sau/Kinh-Sau-Sau.md) | *Chachakka* | ✅ |
-| 149 | Đại Kinh Sáu Xứ | *Mahāsaḷāyatanika* | — |
-| 150 | Kinh Nagaravinda | *Nagaravindeyya* | — |
+| 149 | [Đại Kinh Sáu Xứ](149-kinh-dai-sau-xu/Kinh-Dai-Sau-Xu.md) | *Mahāsaḷāyatanika* | ✅ |
+| 150 | [Kinh Nagaravinda](150-kinh-nagaravinda/Kinh-Nagaravinda.md) | *Nagaravindeyya* | ✅ |
 | 151 | Kinh Thanh Tịnh Việc Khất Thực | *Piṇḍapātapārisuddhi* | — |
 | 152 | [Kinh Tu Tập Các Căn](152-kinh-tu-tap-cac-can/Kinh-Tu-Tap-Cac-Can.md) | *Indriyabhāvanā* | ✅ |
 <!-- KET THUC MUC LUC -->
