@@ -6,7 +6,7 @@
 
 Ai mới tìm hiểu Phật giáo cũng dễ nghĩ rằng tu hành là lánh đời: vào rừng, ở một mình, không ai nhắc nhở, muốn ngồi đâu thì ngồi, muốn đi đâu thì đi. Bài kinh này lật lại quan niệm ấy bằng một lý lẽ rất thực tế. Sống một mình thì dễ tự do theo ý mình, và cái tự do ấy rất dễ thành thói quen. Khi thói quen ấy theo người ta về lại giữa cộng đồng, nó lộ ra ngay: chen vào chỗ các vị lớn tuổi, đến làng quá sớm, ghé nhà này nhà kia trước và sau bữa ăn, nói năng tràn lan, khó nghe lời nhắc nhở. Người ngoài nhìn vào sẽ hỏi một câu rất khó trả lời: sống một mình trong rừng để làm gì, nếu về đây lại cư xử như vậy?
 
-Câu hỏi ấy là linh hồn của bài kinh, và nó được lặp lại mười tám lần theo một khuôn gần như không đổi. Mỗi lần như vậy có bốn bước: trước hết là điều một tỳ-kheo ở rừng phải làm; thứ hai là trường hợp vị ấy không làm được; thứ ba là lời chê của những người chung quanh, đặt trong ngoặc kép; thứ tư là câu kết: vì vậy, điều ấy phải được giữ. Mười tám điều ấy đi từ những chuyện bên ngoài — kính trọng các vị đồng tu, biết chọn chỗ ngồi, biết cả những phép tắc nhỏ, không vào làng quá sớm, không đi lại thân thiết với các gia đình — đến những chuyện bên trong: không dao động, không nhẹ dạ, không ăn nói thô lỗ, dễ dạy và có bạn lành, phòng hộ các cửa giác quan, biết tiết độ trong ăn uống, chuyên tâm vào sự thức tỉnh, dốc lòng tinh tấn, an trú chánh niệm, có định tâm, có tuệ. Rồi cao hơn nữa là học hiểu Pháp và Luật, chuyên tâm vào các sự giải thoát an tịnh vượt khỏi sắc, và cuối cùng là pháp siêu nhân — mục đích của chính việc xuất gia.
+Câu hỏi ấy là linh hồn của bài kinh, và nó trở lại mười tám lần trong những lời chê, theo một khuôn gần như không đổi. Mỗi lần như vậy có bốn bước: trước hết là điều một tỳ-kheo ở rừng phải làm; thứ hai là trường hợp vị ấy không làm được; thứ ba là lời chê của những người chung quanh, đặt trong ngoặc kép; thứ tư là câu kết: vì vậy, điều ấy phải được giữ. Mười tám điều ấy đi từ những chuyện bên ngoài — kính trọng các vị đồng tu, biết chọn chỗ ngồi, biết cả những phép tắc nhỏ, không vào làng quá sớm, không đi lại thân thiết với các gia đình — đến những chuyện bên trong: không dao động, không nhẹ dạ, không ăn nói thô lỗ, dễ dạy và có bạn lành, phòng hộ các cửa giác quan, biết tiết độ trong ăn uống, chuyên tâm vào sự thức tỉnh, dốc lòng tinh tấn, an trú chánh niệm, có định tâm, có tuệ. Rồi cao hơn nữa là học hiểu Pháp và Luật, chuyên tâm vào các sự giải thoát an tịnh vượt khỏi sắc, và cuối cùng là pháp siêu nhân — mục đích của chính việc xuất gia.
 
 Điều đáng chú ý là lời chê trong bài không phải chuyện đàm tiếu. Nó là tấm gương: người ta không chê vị ấy vì phạm lỗi nặng, mà vì một sự không nhất quán. Một người rời làng vào rừng để sống viễn ly, nhưng viễn ly ấy chỉ có giá trị nếu nó làm cho người ta nhẹ nhàng hơn, dễ dạy hơn, biết giữ phép hơn khi trở lại với mọi người. Nếu không, cả chuyện vào rừng lẫn chuyện về chùa đều thành vô nghĩa. Bài kinh vì thế không phải danh sách luật lệ, mà là một bài học về sự nhất quán giữa chỗ mình sống và cách mình sống.
 
@@ -31,7 +31,7 @@ Với người đọc hôm nay, Kinh Gulissāni đọc như một cuốn sổ ta
 **Trung Bộ Kinh** (*Majjhima Nikāya*) — bộ kinh thứ hai trong Kinh tạng tiếng Pali, gồm 152 bài kinh cỡ vừa — bài kinh số 69.
 
 <!-- seg: mn69:0.2 -->
-**Kinh Gulissāni** (*Gulissānisutta*) — bài kinh do tôn giả Sāriputta nói về tỳ-kheo Gulissāni, một vị sống ở rừng có hạnh kiểm thô lỗ, và về những điều người sống ở rừng phải giữ khi về giữa Tăng đoàn.
+**Kinh Gulissāni** (*Gulissāni Sutta*) — bài kinh do tôn giả Sāriputta nói về tỳ-kheo Gulissāni, một vị sống ở rừng có hạnh kiểm thô lỗ, và về những điều người sống ở rừng phải giữ khi về giữa Tăng đoàn.
 
 [Chú thích của người dịch: Bản Pali dùng trong bài này in tên kinh là *Goliyānisutta* và tên vị tỳ-kheo là *Goliyāni*, đó là dị bản của *Gulissāni*. Bản dịch giữ *Gulissāni* cho thống nhất với nhan đề quen dùng của bài kinh.]
 
@@ -140,7 +140,7 @@ Sẽ có những người nói về vị ấy như vậy.
 Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, không được đi lại thân thiết với các gia đình trước bữa ăn và sau bữa ăn.
 
 <!-- seg: mn69:7.1 -->
-Này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, phải không dao động, không nhẹ dạ.
+Này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, không được dao động, không được nhẹ dạ.
 
 <!-- seg: mn69:7.2 -->
 Nếu một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, mà dao động, nhẹ dạ, thì sẽ có những người nói về vị ấy rằng:
@@ -152,10 +152,10 @@ Nếu một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và �
 Sẽ có những người nói về vị ấy như vậy.
 
 <!-- seg: mn69:7.5 -->
-Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, phải không dao động, không nhẹ dạ.
+Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, không được dao động, không được nhẹ dạ.
 
 <!-- seg: mn69:8.1 -->
-Này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, phải không ăn nói thô lỗ, không nói năng tràn lan.
+Này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, không được ăn nói thô lỗ, không được nói năng tràn lan.
 
 <!-- seg: mn69:8.2 -->
 Nếu một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, mà ăn nói thô lỗ, nói năng tràn lan, thì sẽ có những người nói về vị ấy rằng:
@@ -167,7 +167,7 @@ Nếu một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và �
 Sẽ có những người nói về vị ấy như vậy.
 
 <!-- seg: mn69:8.5 -->
-Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, phải không ăn nói thô lỗ, không nói năng tràn lan.
+Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, không được ăn nói thô lỗ, không được nói năng tràn lan.
 
 <!-- seg: mn69:9.1 -->
 Này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, phải dễ dạy và có bạn lành.
@@ -321,7 +321,7 @@ Này các hiền giả, sẽ có những người hỏi vị tỳ-kheo sống �
 Nếu một tỳ-kheo sống ở rừng, khi được hỏi về các sự giải thoát an tịnh, vượt khỏi sắc, thuộc cõi vô sắc ấy, mà không giải đáp được, thì sẽ có những người nói về vị ấy rằng:
 
 <!-- seg: mn69:18.4 -->
-"Vị tôn giả ở rừng này sống một mình nơi rừng vắng, tự do theo ý mình, nào có ích gì, khi mà vị ấy được hỏi về các sự giải thoát an tịnh ấy mà không giải đáp được?"
+"Vị tôn giả ở rừng này sống một mình nơi rừng vắng, tự do theo ý mình, nào có ích gì, khi mà vị ấy được hỏi về các sự giải thoát an tịnh, vượt khỏi sắc, thuộc cõi vô sắc ấy, mà không giải đáp được?"
 
 <!-- seg: mn69:18.5 -->
 Sẽ có những người nói về vị ấy như vậy.
@@ -350,7 +350,7 @@ Sẽ có những người nói về vị ấy như vậy.
 Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng phải chuyên tâm vào pháp siêu nhân.
 
 <!-- seg: mn69:19.7 -->
-Khi những lời ấy vừa dứt, tôn giả Mahāmoggallāna (Mục-kiền-liên) nói với tôn giả Sāriputta:
+Khi nghe vậy, tôn giả Mahāmoggallāna (Mục-kiền-liên) nói với tôn giả Sāriputta:
 
 <!-- seg: mn69:19.8 -->
 "Thưa hiền giả Sāriputta, những pháp này chỉ tỳ-kheo sống ở rừng mới phải thọ trì và thực hành, hay cả những vị sống trong làng cũng vậy?"

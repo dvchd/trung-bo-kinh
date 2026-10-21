@@ -1,5 +1,5 @@
 <!-- seg: mn149:11.2 -->
-Câu trả lời là: 'Năm thủ uẩn',
+Phải nói rằng: 'Năm thủ uẩn',
 
 <!-- seg: mn149:11.3 -->
 đó là: thủ uẩn về sắc, thủ uẩn về thọ, thủ uẩn về tưởng, thủ uẩn về hành, thủ uẩn về thức.
@@ -113,7 +113,7 @@ Người ấy bằng thắng trí mà chứng ngộ những pháp cần được
 Và này các tỳ-kheo, những pháp nào cần được hiểu biết tận tường bằng thắng trí?
 
 <!-- seg: mn149:23.2 -->
-Câu trả lời là: 'Năm thủ uẩn', đó là:
+Phải nói rằng: 'Năm thủ uẩn', đó là:
 
 <!-- seg: mn149:23.3 -->
 thủ uẩn về sắc, thủ uẩn về thọ, thủ uẩn về tưởng, thủ uẩn về hành, thủ uẩn về thức.

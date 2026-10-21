@@ -50,7 +50,7 @@ Khi được hỏi như vậy, này các gia chủ, các ông hãy trả lời n
 Vì sao vậy?
 
 <!-- seg: mn150:4.6 -->
-Vì chính chúng tôi cũng chưa lìa tham, chưa lìa sân, chưa lìa si đối với những hình sắc được nhận biết bằng mắt, nội tâm chưa lắng dịu, lại cư xử lệch lạc bằng thân, bằng lời, bằng ý; nên chúng tôi không thấy nơi họ có cách cư xử nào cao hơn chúng tôi.
+Vì chính chúng tôi cũng chưa lìa tham, chưa lìa sân, chưa lìa si đối với những hình sắc được nhận biết bằng mắt, nội tâm chưa lắng dịu, lại cư xử lệch lạc bằng thân, bằng lời, bằng ý, nên chúng tôi không thấy nơi họ có cách cư xử nào cao hơn chúng tôi.
 
 <!-- seg: mn150:4.7 -->
 Vì vậy, những vị sa-môn, bà-la-môn ấy không đáng được kính trọng, không đáng được tôn trọng, không đáng được tôn kính, không đáng được cúng dường.
@@ -74,7 +74,7 @@ Những sa-môn, bà-la-môn nào chưa lìa tham, chưa lìa sân, chưa lìa s
 Vì sao vậy?
 
 <!-- seg: mn150:4.14 -->
-Vì chính chúng tôi cũng chưa lìa tham, chưa lìa sân, chưa lìa si đối với những pháp được nhận biết bằng ý, nội tâm chưa lắng dịu, lại cư xử lệch lạc bằng thân, bằng lời, bằng ý; nên chúng tôi không thấy nơi họ có cách cư xử nào cao hơn chúng tôi.
+Vì chính chúng tôi cũng chưa lìa tham, chưa lìa sân, chưa lìa si đối với những pháp được nhận biết bằng ý, nội tâm chưa lắng dịu, lại cư xử lệch lạc bằng thân, bằng lời, bằng ý, nên chúng tôi không thấy nơi họ có cách cư xử nào cao hơn chúng tôi.
 
 <!-- seg: mn150:4.15 -->
 Vì vậy, những vị sa-môn, bà-la-môn ấy không đáng được kính trọng, không đáng được tôn trọng, không đáng được tôn kính, không đáng được cúng dường."
@@ -100,7 +100,7 @@ Khi được hỏi như vậy, này các gia chủ, các ông hãy trả lời n
 Vì sao vậy?
 
 <!-- seg: mn150:5.6 -->
-Vì chính chúng tôi cũng chưa lìa tham, chưa lìa sân, chưa lìa si đối với những hình sắc được nhận biết bằng mắt, nội tâm chưa lắng dịu, lại cư xử lệch lạc bằng thân, bằng lời, bằng ý; nên chúng tôi thấy nơi họ có cách cư xử cao hơn chúng tôi.
+Vì chính chúng tôi cũng chưa lìa tham, chưa lìa sân, chưa lìa si đối với những hình sắc được nhận biết bằng mắt, nội tâm chưa lắng dịu, lại cư xử lệch lạc bằng thân, bằng lời, bằng ý, nên chúng tôi thấy nơi họ có cách cư xử cao hơn chúng tôi.
 
 <!-- seg: mn150:5.7 -->
 Vì vậy, những vị sa-môn, bà-la-môn ấy đáng được kính trọng, đáng được tôn trọng, đáng được tôn kính, đáng được cúng dường.
@@ -124,7 +124,7 @@ Những sa-môn, bà-la-môn nào đã lìa tham, đã lìa sân, đã lìa si �
 Vì sao vậy?
 
 <!-- seg: mn150:5.14 -->
-Vì chính chúng tôi cũng chưa lìa tham, chưa lìa sân, chưa lìa si đối với những pháp được nhận biết bằng ý, nội tâm chưa lắng dịu, lại cư xử lệch lạc bằng thân, bằng lời, bằng ý; nên chúng tôi thấy nơi họ có cách cư xử cao hơn chúng tôi.
+Vì chính chúng tôi cũng chưa lìa tham, chưa lìa sân, chưa lìa si đối với những pháp được nhận biết bằng ý, nội tâm chưa lắng dịu, lại cư xử lệch lạc bằng thân, bằng lời, bằng ý, nên chúng tôi thấy nơi họ có cách cư xử cao hơn chúng tôi.
 
 <!-- seg: mn150:5.15 -->
 Vì vậy, những vị sa-môn, bà-la-môn ấy đáng được kính trọng, đáng được tôn trọng, đáng được tôn kính, đáng được cúng dường."

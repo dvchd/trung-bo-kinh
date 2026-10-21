@@ -14,7 +14,7 @@ Ví như người ta lật lại vật đang bị úp, mở ra vật đang bị 
 Chúng con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn150:7.5 -->
-Mong ngài Gotama nhớ đến chúng con như những người cư sĩ đã quy y, từ hôm nay cho đến trọn đời."
+Mong ngài Gotama nhớ đến chúng con như những người cư sĩ đã quy y từ hôm nay cho đến trọn đời."
 
 <!-- seg: mn150:7.6 -->
 Kinh Nagaravinda, bài thứ tám, đã hoàn thành.

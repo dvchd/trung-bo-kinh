@@ -8,11 +8,12 @@
 người giảng nghĩa. Người giảng không phải Đức Thế Tôn mà là Tôn giả Mahākaccāna, một vị đệ tử được
 Ngài khen là có tuệ lớn. Cuối bài, chính Đức Thế Tôn xác nhận lời giảng ấy đúng là ý của Ngài.
 
-Bối cảnh là tịnh xá trong rừng Jeta, gần Sāvatthī, nơi Đức Thế Tôn thường trú. Ngài gọi các tỳ-kheo
-lại và nói sẽ giảng bản tóm tắt cùng phần phân tích của nó. Nhưng câu tóm tắt chỉ có một câu duy
-nhất: một tỳ-kheo hãy quán sát thế nào để thức của mình không bị tán loạn ra ngoài, không bị mắc kẹt
-bên trong, và không vì chấp thủ mà hoảng sợ; khi ấy sẽ không còn sự sinh khởi của khổ đau sinh, già,
-chết trong tương lai. Nói xong, Ngài đứng dậy vào tịnh thất, không giảng thêm một chữ.
+Bối cảnh là tịnh xá trong rừng Jeta, gần Sāvatthī, nơi Đức Thế Tôn thường trú. Ngài gọi các
+tỳ-kheo lại và nói sẽ giảng bản tóm tắt cùng phần phân tích của nó. Nhưng phần tóm tắt chỉ vỏn vẹn
+một câu duy nhất: một tỳ-kheo hãy quán sát thế nào để thức của mình không bị tán loạn ra ngoài,
+không bị mắc kẹt bên trong, và không vì chấp thủ mà hoảng sợ; khi ấy sẽ không còn sự sinh khởi của
+khổ đau, tức sinh, già và chết, trong tương lai. Nói xong, Ngài đứng dậy vào tịnh thất, không
+giảng thêm một chữ.
 
 Phần còn lại của bài kinh là chuyện của các tỳ-kheo và Tôn giả Mahākaccāna, gồm hai mạch lồng vào
 nhau. Thứ nhất là tấm gương tìm người thầy đúng: các tỳ-kheo suýt bỏ qua vị thầy gần mình nhất là
@@ -30,10 +31,10 @@ lo ấy sinh ra từ sự chấp thủ. Người đã hiểu thì không xem ch�
 
 Điểm cần lưu ý là bài kinh không chê thiền định. Nó chỉ cảnh báo rằng sự buông bỏ phải được đem áp
 dụng cả vào chính trạng thái yên tĩnh do buông bỏ mà có, nếu không thì người tu dừng lại sớm. Cách
-sửa không phải là tránh định vì sợ dính mắc, mà là làm sâu thêm sự buông bỏ để từng tầng dày qua
-tầng khác.
+sửa không phải là tránh định vì sợ dính mắc, mà là làm sâu thêm sự buông bỏ, lần lượt đi từ tầng
+này sang tầng khác.
 
-Cuối bài, các tỳ-kheo lên thuật lại với Đức Thế Tôn lời giảng của Mahākaccāna. Ngài khen Mahākaccāna
+Cuối bài, các tỳ-kheo thuật lại với Đức Thế Tôn lời giảng của Mahākaccāna. Ngài khen Mahākaccāna
 là người trí, tuệ lớn, và nói rằng nếu các tỳ-kheo hỏi chính Ngài thì Ngài cũng sẽ trả lời y như vậy.
 Lời xác nhận ấy khép bài kinh lại, và cũng trả lời câu hỏi mà bài kinh đã dựng lên ngay từ đầu: một
 người chỉ nghe câu tóm tắt rồi tự đi tìm chỗ hiểu, cuối cùng vẫn được chính bậc Đạo sư xác nhận là

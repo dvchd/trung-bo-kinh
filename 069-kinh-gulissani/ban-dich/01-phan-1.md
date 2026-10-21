@@ -101,7 +101,7 @@ Sẽ có những người nói về vị ấy như vậy.
 Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, không được đi lại thân thiết với các gia đình trước bữa ăn và sau bữa ăn.
 
 <!-- seg: mn69:7.1 -->
-Này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, phải không dao động, không nhẹ dạ.
+Này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, không được dao động, không được nhẹ dạ.
 
 <!-- seg: mn69:7.2 -->
 Nếu một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, mà dao động, nhẹ dạ, thì sẽ có những người nói về vị ấy rằng:
@@ -113,10 +113,10 @@ Nếu một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và �
 Sẽ có những người nói về vị ấy như vậy.
 
 <!-- seg: mn69:7.5 -->
-Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, phải không dao động, không nhẹ dạ.
+Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, không được dao động, không được nhẹ dạ.
 
 <!-- seg: mn69:8.1 -->
-Này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, phải không ăn nói thô lỗ, không nói năng tràn lan.
+Này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, không được ăn nói thô lỗ, không được nói năng tràn lan.
 
 <!-- seg: mn69:8.2 -->
 Nếu một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, mà ăn nói thô lỗ, nói năng tràn lan, thì sẽ có những người nói về vị ấy rằng:
@@ -128,7 +128,7 @@ Nếu một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và �
 Sẽ có những người nói về vị ấy như vậy.
 
 <!-- seg: mn69:8.5 -->
-Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, phải không ăn nói thô lỗ, không nói năng tràn lan.
+Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, không được ăn nói thô lỗ, không được nói năng tràn lan.
 
 <!-- seg: mn69:9.1 -->
 Này các hiền giả, một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và đang sống trong Tăng đoàn, phải dễ dạy và có bạn lành.

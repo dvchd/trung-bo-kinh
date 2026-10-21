@@ -159,7 +159,7 @@ Nói xong, vị ấy biến mất ngay tại chỗ ấy.
 Rồi Tôn giả Lomasakaṅgiya, khi đêm ấy đã qua, dọn dẹp chỗ trú, mang bát và y, lên đường du hành về phía Sāvatthī.
 
 <!-- seg: mn134:5.2 -->
-Đi từng chặng, Tôn giả đến Sāvatthī, đến vườn Jeta, tịnh xá của Anāthapiṇḍika, đến chỗ Đức Thế Tôn; đến rồi, đảnh lễ Đức Thế Tôn, ngồi xuống sang một bên. Ngồi xuống sang một bên, Tôn giả Lomasakaṅgiya bạch Đức Thế Tôn:
+Đi từng chặng, Tôn giả đến Sāvatthī, đến rừng Jeta, tịnh xá của Anāthapiṇḍika, đến chỗ Đức Thế Tôn; đến rồi, đảnh lễ Đức Thế Tôn, ngồi xuống sang một bên. Ngồi xuống sang một bên, Tôn giả Lomasakaṅgiya bạch Đức Thế Tôn:
 
 <!-- seg: mn134:5.3 -->
 Bạch Thế Tôn, một thuở nọ con đang trú trong xứ Sākya, tại Kapilavatthu, trong tịnh xá Nigrodha.
@@ -209,7 +209,7 @@ Tại đó, Đức Thế Tôn giảng cho chư thiên cõi Tāvatiṁsa phần t
 'Chớ có quay về với quá khứ,
 
 <!-- seg: mn134:5.18 -->
-Chớ có mong đợi tương lai. Cái gì đã qua thì đã bỏ lại, tương lai thì chưa tới. Và pháp nào đang có mặt, thì thấy rõ ở từng chỗ, từng chỗ. Cái không lay chuyển, không dao động: biết rõ điều ấy, hãy vun bồi nó. Ngay hôm nay, hãy tinh cần làm việc cần làm, ai mà biết cái chết có đến vào ngày mai? Vì chẳng có sự mặc cả nào với thần Chết cùng đạo quân hùng hậu của nó. Ai sống như vậy, tinh cần, không mệt mỏi cả ngày lẫn đêm,
+chớ có mong đợi tương lai. Cái gì đã qua thì đã bỏ lại, tương lai thì chưa tới; và pháp nào đang có mặt, thì thấy rõ ở từng chỗ, từng chỗ; cái không lay chuyển, không dao động: biết rõ điều ấy, hãy vun bồi nó. Ngay hôm nay, hãy tinh cần làm việc cần làm, ai mà biết cái chết có đến vào ngày mai? Vì chẳng có sự mặc cả nào với thần Chết cùng đạo quân hùng hậu của nó. Ai sống như vậy, tinh cần, không mệt mỏi cả ngày lẫn đêm,
 
 <!-- seg: mn134:5.19 -->
 người ấy thật được gọi là người có một đêm lành —

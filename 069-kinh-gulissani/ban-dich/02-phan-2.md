@@ -118,7 +118,7 @@ Này các hiền giả, sẽ có những người hỏi vị tỳ-kheo sống �
 Nếu một tỳ-kheo sống ở rừng, khi được hỏi về các sự giải thoát an tịnh, vượt khỏi sắc, thuộc cõi vô sắc ấy, mà không giải đáp được, thì sẽ có những người nói về vị ấy rằng:
 
 <!-- seg: mn69:18.4 -->
-"Vị tôn giả ở rừng này sống một mình nơi rừng vắng, tự do theo ý mình, nào có ích gì, khi mà vị ấy được hỏi về các sự giải thoát an tịnh ấy mà không giải đáp được?"
+"Vị tôn giả ở rừng này sống một mình nơi rừng vắng, tự do theo ý mình, nào có ích gì, khi mà vị ấy được hỏi về các sự giải thoát an tịnh, vượt khỏi sắc, thuộc cõi vô sắc ấy, mà không giải đáp được?"
 
 <!-- seg: mn69:18.5 -->
 Sẽ có những người nói về vị ấy như vậy.
@@ -147,7 +147,7 @@ Sẽ có những người nói về vị ấy như vậy.
 Vì vậy, này các hiền giả, một tỳ-kheo sống ở rừng phải chuyên tâm vào pháp siêu nhân.
 
 <!-- seg: mn69:19.7 -->
-Khi những lời ấy vừa dứt, tôn giả Mahāmoggallāna (Mục-kiền-liên) nói với tôn giả Sāriputta:
+Khi nghe vậy, tôn giả Mahāmoggallāna (Mục-kiền-liên) nói với tôn giả Sāriputta:
 
 <!-- seg: mn69:19.8 -->
 "Thưa hiền giả Sāriputta, những pháp này chỉ tỳ-kheo sống ở rừng mới phải thọ trì và thực hành, hay cả những vị sống trong làng cũng vậy?"

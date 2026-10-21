@@ -54,7 +54,7 @@ Rồi các tỳ-kheo ấy, khi Đức Thế Tôn vừa rời đi không lâu, kh
 'Này các tỳ-kheo, tỳ-kheo hãy quán sát theo cách nào để khi quán sát theo cách ấy, thức của vị ấy ở bên ngoài không bị tán loạn, không bị phân tán, ở bên trong không bị mắc kẹt, và vị ấy không vì chấp thủ mà hoảng sợ.
 
 <!-- seg: mn138:5.4 -->
-Khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết.'
+Này các tỳ-kheo, khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết.'
 
 <!-- seg: mn138:5.5 -->
 Vậy ai có thể phân tích rộng nghĩa của bản tóm tắt này, bản mà Đức Thế Tôn đã nêu vắn tắt, chưa phân tích nghĩa rộng?"
@@ -86,7 +86,7 @@ Sau khi trao đổi những lời chào hỏi thân thiện, họ ngồi xuống
 'Này các tỳ-kheo, tỳ-kheo hãy quán sát theo cách nào để khi quán sát theo cách ấy, thức của vị ấy ở bên ngoài không bị tán loạn, không bị phân tán, ở bên trong không bị mắc kẹt, và vị ấy không vì chấp thủ mà hoảng sợ.
 
 <!-- seg: mn138:6.5 -->
-Khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết.'
+Này các tỳ-kheo, khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết.'
 
 <!-- seg: mn138:6.6 -->
 Thưa hiền giả Kaccāna, khi Đức Thế Tôn vừa rời đi không lâu, chúng tôi khởi lên ý này:
@@ -98,7 +98,7 @@ Thưa hiền giả Kaccāna, khi Đức Thế Tôn vừa rời đi không lâu, 
 "Này các tỳ-kheo, tỳ-kheo hãy quán sát theo cách nào để khi quán sát theo cách ấy, thức của vị ấy ở bên ngoài không bị tán loạn, không bị phân tán, ở bên trong không bị mắc kẹt, và vị ấy không vì chấp thủ mà hoảng sợ.
 
 <!-- seg: mn138:6.9 -->
-Khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết."
+Này các tỳ-kheo, khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết."
 
 <!-- seg: mn138:6.10 -->
 Vậy ai có thể phân tích rộng nghĩa của bản tóm tắt này, bản mà Đức Thế Tôn đã nêu vắn tắt, chưa phân tích nghĩa rộng?'
@@ -122,7 +122,7 @@ xin Tôn giả Mahākaccāna hãy phân tích."
 "Ví như, này chư hiền, có người cần lõi cây, tìm lõi cây, đi lang thang tìm lõi cây; người ấy gặp một cây lớn đang đứng đó, có lõi cây, nhưng lại bỏ qua rễ, bỏ qua thân, mà nghĩ rằng phải tìm lõi cây ở cành và lá,
 
 <!-- seg: mn138:7.2 -->
-Các vị hóa ra là vậy: khi bậc Đạo sư đang ở ngay trước mặt, các vị đã bỏ qua Đức Thế Tôn mà nghĩ rằng nên hỏi tôi về việc này.
+các vị hóa ra là vậy: khi bậc Đạo sư đang ở ngay trước mặt, các vị đã bỏ qua Đức Thế Tôn mà nghĩ rằng nên hỏi tôi về việc này.
 
 <!-- seg: mn138:7.3 -->
 Này chư hiền, Đức Thế Tôn ấy biết điều đáng biết, thấy điều đáng thấy; Ngài đã thành con mắt, đã thành trí biết, đã thành Pháp, đã thành Phạm; Ngài là người nói, người tuyên bố, người dẫn ra ý nghĩa, người ban bất tử, bậc chủ của Pháp, Như Lai.

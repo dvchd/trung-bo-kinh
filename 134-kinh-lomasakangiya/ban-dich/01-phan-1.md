@@ -120,7 +120,7 @@ Nói xong, vị ấy biến mất ngay tại chỗ ấy.
 Rồi Tôn giả Lomasakaṅgiya, khi đêm ấy đã qua, dọn dẹp chỗ trú, mang bát và y, lên đường du hành về phía Sāvatthī.
 
 <!-- seg: mn134:5.2 -->
-Đi từng chặng, Tôn giả đến Sāvatthī, đến vườn Jeta, tịnh xá của Anāthapiṇḍika, đến chỗ Đức Thế Tôn; đến rồi, đảnh lễ Đức Thế Tôn, ngồi xuống sang một bên. Ngồi xuống sang một bên, Tôn giả Lomasakaṅgiya bạch Đức Thế Tôn:
+Đi từng chặng, Tôn giả đến Sāvatthī, đến rừng Jeta, tịnh xá của Anāthapiṇḍika, đến chỗ Đức Thế Tôn; đến rồi, đảnh lễ Đức Thế Tôn, ngồi xuống sang một bên. Ngồi xuống sang một bên, Tôn giả Lomasakaṅgiya bạch Đức Thế Tôn:
 
 <!-- seg: mn134:5.3 -->
 Bạch Thế Tôn, một thuở nọ con đang trú trong xứ Sākya, tại Kapilavatthu, trong tịnh xá Nigrodha.

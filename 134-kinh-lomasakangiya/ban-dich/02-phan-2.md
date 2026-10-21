@@ -14,7 +14,7 @@ Tại đó, Đức Thế Tôn giảng cho chư thiên cõi Tāvatiṁsa phần t
 'Chớ có quay về với quá khứ,
 
 <!-- seg: mn134:5.18 -->
-Chớ có mong đợi tương lai. Cái gì đã qua thì đã bỏ lại, tương lai thì chưa tới. Và pháp nào đang có mặt, thì thấy rõ ở từng chỗ, từng chỗ. Cái không lay chuyển, không dao động: biết rõ điều ấy, hãy vun bồi nó. Ngay hôm nay, hãy tinh cần làm việc cần làm, ai mà biết cái chết có đến vào ngày mai? Vì chẳng có sự mặc cả nào với thần Chết cùng đạo quân hùng hậu của nó. Ai sống như vậy, tinh cần, không mệt mỏi cả ngày lẫn đêm,
+chớ có mong đợi tương lai. Cái gì đã qua thì đã bỏ lại, tương lai thì chưa tới; và pháp nào đang có mặt, thì thấy rõ ở từng chỗ, từng chỗ; cái không lay chuyển, không dao động: biết rõ điều ấy, hãy vun bồi nó. Ngay hôm nay, hãy tinh cần làm việc cần làm, ai mà biết cái chết có đến vào ngày mai? Vì chẳng có sự mặc cả nào với thần Chết cùng đạo quân hùng hậu của nó. Ai sống như vậy, tinh cần, không mệt mỏi cả ngày lẫn đêm,
 
 <!-- seg: mn134:5.19 -->
 người ấy thật được gọi là người có một đêm lành —

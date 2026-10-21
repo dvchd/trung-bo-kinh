@@ -8,7 +8,7 @@ Tôn giả Mahākaccāna nói như vầy:
 Này chư hiền, Đức Thế Tôn đã nêu cho chúng tôi một bản tóm tắt vắn tắt, chưa phân tích nghĩa rộng, rồi đứng dậy khỏi chỗ ngồi và đi vào tịnh thất:
 
 <!-- seg: mn138:9.5 -->
-'Này các tỳ-kheo, tỳ-kheo hãy quán sát theo cách nào để khi quán sát theo cách ấy, thức của vị ấy ở bên ngoài không bị tán loạn, không bị phân tán, ở bên trong không bị mắc kẹt, và vị ấy không vì chấp thủ mà hoảng sợ. Khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết.'
+'Này các tỳ-kheo, tỳ-kheo hãy quán sát theo cách nào để khi quán sát theo cách ấy, thức của vị ấy ở bên ngoài không bị tán loạn, không bị phân tán, ở bên trong không bị mắc kẹt, và vị ấy không vì chấp thủ mà hoảng sợ. Này các tỳ-kheo, khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết.'
 
 <!-- seg: mn138:9.6 -->
 Này chư hiền, tôi hiểu nghĩa rộng của bản tóm tắt mà Đức Thế Tôn đã nêu vắn tắt, chưa phân tích nghĩa rộng, như vầy.
@@ -139,7 +139,7 @@ Và này chư hiền, thế nào là hoảng sợ vì chấp thủ?
 [Chú thích: Mọi bản Pali đều ghi "hoảng sợ vì không nắm giữ", một cách đọc khó hiểu nhưng được bản chú giải chấp nhận và giảng giải. Tương Ưng Bộ có nhiều đoạn tương tự đều ghi "hoảng sợ vì nắm giữ" (SN 22.7, SN 22.8, SN 22.90:3.13), nên có lẽ Trung Bộ giữ một lỗi cũ và cách đọc của Tương Ưng đáng theo hơn.]
 
 <!-- seg: mn138:20.2 -->
-Ở đây, này chư hiền, kẻ phàm phu không học, không thấy các bậc thánh, không thuần thục Pháp của các bậc thánh, không được huấn luyện trong Pháp của các bậc thánh; không thấy các bậc chân nhân, không thuần thục Pháp của các bậc chân nhân, không được huấn luyện trong Pháp của các bậc chân nhân,
+Ở đây, này chư hiền, kẻ phàm phu không học, không thấy các bậc thánh, không thông hiểu Pháp của các bậc thánh, không được huấn luyện trong Pháp của các bậc thánh; không thấy các bậc chân nhân, không thông hiểu Pháp của các bậc chân nhân, không được huấn luyện trong Pháp của các bậc chân nhân,
 
 <!-- seg: mn138:20.3 -->
 vị ấy xem sắc là tự ngã, hay xem tự ngã có sắc, hay xem sắc ở trong tự ngã, hay xem tự ngã ở trong sắc.

@@ -23,7 +23,7 @@ Này chư hiền, đó là cách hoảng sợ vì chấp thủ.
 Và này chư hiền, thế nào là không hoảng sợ vì chấp thủ?
 
 <!-- seg: mn138:21.2 -->
-Ở đây, này chư hiền, bậc thánh đệ tử có học, đã thấy các bậc thánh, thuần thục Pháp của các bậc thánh, được khéo huấn luyện trong Pháp của các bậc thánh; đã thấy các bậc chân nhân, thuần thục Pháp của các bậc chân nhân, được khéo huấn luyện trong Pháp của các bậc chân nhân,
+Ở đây, này chư hiền, bậc thánh đệ tử có học, đã thấy các bậc thánh, thông hiểu Pháp của các bậc thánh, được khéo huấn luyện trong Pháp của các bậc thánh; đã thấy các bậc chân nhân, thông hiểu Pháp của các bậc chân nhân, được khéo huấn luyện trong Pháp của các bậc chân nhân,
 
 <!-- seg: mn138:21.3 -->
 vị ấy không xem sắc là tự ngã, không xem tự ngã có sắc, không xem sắc ở trong tự ngã, không xem tự ngã ở trong sắc.
@@ -74,7 +74,7 @@ Này chư hiền, Đức Thế Tôn đã nêu cho chúng tôi một bản tóm t
 'Này các tỳ-kheo, tỳ-kheo hãy quán sát theo cách nào để khi quán sát theo cách ấy, thức của vị ấy ở bên ngoài không bị tán loạn, không bị phân tán, ở bên trong không bị mắc kẹt, và vị ấy không vì chấp thủ mà hoảng sợ.
 
 <!-- seg: mn138:22.3 -->
-Khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết.'
+Này các tỳ-kheo, khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết.'
 
 <!-- seg: mn138:22.4 -->
 Và này chư hiền, đó là cách tôi hiểu nghĩa rộng của bản tóm tắt mà Đức Thế Tôn đã nêu vắn tắt, chưa phân tích nghĩa rộng.
@@ -95,7 +95,7 @@ Rồi các tỳ-kheo ấy, hoan hỷ tán thán lời Tôn giả Mahākaccāna d
 'Này các tỳ-kheo, tỳ-kheo hãy quán sát theo cách nào để khi quán sát theo cách ấy, thức của vị ấy ở bên ngoài không bị tán loạn, không bị phân tán, ở bên trong không bị mắc kẹt, và vị ấy không vì chấp thủ mà hoảng sợ.
 
 <!-- seg: mn138:23.4 -->
-Khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết.'
+Này các tỳ-kheo, khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết.'
 
 <!-- seg: mn138:23.5 -->
 Bạch Thế Tôn, khi Đức Thế Tôn vừa rời đi không lâu, chúng con khởi lên ý này:
@@ -107,7 +107,7 @@ Bạch Thế Tôn, khi Đức Thế Tôn vừa rời đi không lâu, chúng con
 "Này các tỳ-kheo, tỳ-kheo hãy quán sát theo cách nào để khi quán sát theo cách ấy, thức của vị ấy ở bên ngoài không bị tán loạn, không bị phân tán, ở bên trong không bị mắc kẹt, và vị ấy không vì chấp thủ mà hoảng sợ.
 
 <!-- seg: mn138:23.8 -->
-Khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết."
+Này các tỳ-kheo, khi thức ở bên ngoài không bị tán loạn, không bị phân tán, khi ở bên trong không bị mắc kẹt, khi vị ấy không vì chấp thủ mà hoảng sợ, thì tương lai không có sự sinh khởi của nguồn gốc khổ đau, gồm sinh, già và chết."
 
 <!-- seg: mn138:23.9 -->
 Vậy ai có thể phân tích rộng nghĩa của bản tóm tắt này, bản mà Đức Thế Tôn đã nêu vắn tắt, chưa phân tích nghĩa rộng?'

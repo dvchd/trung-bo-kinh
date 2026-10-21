@@ -244,7 +244,7 @@ bạch Thiện Thệ, con sẽ nghĩ như vậy."
 "Lành thay, lành thay, này Puṇṇa!
 
 <!-- seg: mn145:6.2 -->
-Này Puṇṇa, với sự điều phục và an tịnh này, ông sẽ có thể sống được ở xứ Sunāparanta.
+Này Puṇṇa, với sự điều phục và an tịnh này, ông sẽ sống được ở xứ Sunāparanta.
 
 <!-- seg: mn145:6.3 -->
 Này Puṇṇa, giờ ông hãy đi khi ông thấy thuận tiện."
@@ -259,7 +259,7 @@ Rồi Tôn giả Puṇṇa, sau khi hoan hỷ và tán thán lời Đức Thế 
 Tại đó, Tôn giả Puṇṇa sống ở xứ Sunāparanta.
 
 <!-- seg: mn145:7.4 -->
-Ngay trong mùa an cư ấy, Tôn giả Puṇṇa đã giúp khoảng năm trăm nam cư sĩ và khoảng năm trăm nữ cư sĩ chứng ngộ; cũng trong mùa an cư ấy, Tôn giả đã chứng đắc ba minh.
+Ngay trong mùa an cư ấy, Tôn giả Puṇṇa đã giúp khoảng năm trăm nam cư sĩ chứng ngộ; ngay trong mùa an cư ấy, Tôn giả đã giúp khoảng năm trăm nữ cư sĩ chứng ngộ; ngay trong mùa an cư ấy, Tôn giả đã chứng đắc ba minh.
 
 <!-- seg: mn145:7.5 -->
 Rồi một thời gian sau, Tôn giả Puṇṇa nhập Niết-bàn.
