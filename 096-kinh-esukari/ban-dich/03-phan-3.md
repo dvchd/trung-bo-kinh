@@ -26,7 +26,7 @@ Này bà-la-môn, nếu có người sinh ra trong gia đình bà-la-môn mà xu
 Này bà-la-môn, nếu có người sinh ra trong gia đình thương nhân mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý.
 
 <!-- seg: mn96:14.12 -->
-Này bà-la-môn, nếu có người sinh ra trong gia đình nô lệ mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý.
+Này bà-la-môn, nếu có người sinh ra trong gia đình nô lệ mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý."
 
 <!-- seg: mn96:15.1 -->
 "Này bà-la-môn, ông nghĩ sao,
@@ -64,7 +64,7 @@ Này bà-la-môn, nếu có người sinh ra trong gia đình bà-la-môn mà xu
 Này bà-la-môn, nếu có người sinh ra trong gia đình thương nhân mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý.
 
 <!-- seg: mn96:15.12 -->
-Này bà-la-môn, nếu có người sinh ra trong gia đình nô lệ mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý.
+Này bà-la-môn, nếu có người sinh ra trong gia đình nô lệ mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý."
 
 <!-- seg: mn96:16.1 -->
 "Này bà-la-môn, ông nghĩ sao,

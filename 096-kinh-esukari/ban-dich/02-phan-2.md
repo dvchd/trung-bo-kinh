@@ -8,7 +8,7 @@ Và này bà-la-môn, cũng có kẻ có của cải dồi dào mà từ bỏ s�
 Vì thế mà Ta nói rằng: "của cải dồi dào không làm người ta kém hơn".
 
 <!-- seg: mn96:9.1 -->
-"Này bà-la-môn, Ta không nói rằng 'phải phục vụ tất cả', mà Ta cũng không nói rằng 'không phục vụ ai cả'.
+"Này bà-la-môn, Ta không nói rằng 'phải phục vụ tất cả'; Ta cũng không nói rằng 'không phải phục vụ ai cả'.
 
 <!-- seg: mn96:9.2 -->
 Này bà-la-môn, nếu phục vụ ai mà do việc phục vụ ấy lòng tin tăng trưởng, giới tăng trưởng, sự nghe học tăng trưởng, sự bố thí tăng trưởng, tuệ tăng trưởng, thì Ta nói rằng 'phải phục vụ người ấy'.
@@ -92,7 +92,7 @@ Cũng vậy, này bà-la-môn, các bà-la-môn đặt ra bốn loại của c�
 <!-- seg: mn96:12.1 -->
 Này bà-la-môn, Ta chủ trương của cải của một con người là Pháp cao quý, vượt ra ngoài thế gian.
 
-[Chú thích: Chữ lokuttara, dịch là siêu xuất thế gian, chỉ giáo pháp dẫn ra khỏi thế gian. Cách dùng chữ này trong câu trên cũng gặp ở Tương Ưng Bộ Kinh 20.7 và Tăng Chi Bộ Kinh 2.47, 5.79.]
+[Chú thích: Chữ lokuttara chỉ cái vượt ra ngoài thế gian, tức giáo pháp đưa ra khỏi thế gian. Cách dùng chữ này trong câu trên cũng gặp ở Tương Ưng Bộ Kinh 20.7 và Tăng Chi Bộ Kinh 2.47, 5.79.]
 
 <!-- seg: mn96:12.2 -->
 Nhưng cứ theo dòng dõi cha mẹ truyền lại từ đời xưa, thì sinh ra ở đâu, người ta được gọi tên theo đó.

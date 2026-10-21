@@ -4,9 +4,9 @@
 
 **Kinh Esukārī** (*Esukārī Sutta*) là bài kinh thứ 96 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra ở Sāvatthī, nơi Đức Thế Tôn trú trong rừng Jeta. Một bà-la-môn tên là Esukārī đến thăm Ngài, chào hỏi theo lệ, rồi ngồi xuống một bên và bắt đầu kể ra những điều mà giới bà-la-môn thời ấy vẫn dạy về trật tự xã hội.
 
-Chuyện thứ nhất là bốn kiểu phục vụ. Giới bà-la-môn dạy rằng một người bà-la-môn thì ai cũng phục vụ được, nhưng chính bà-la-môn thì không phục vụ ai; một người vua chúa thì có người vua chúa, thương nhân và nô lệ phục vụ; một thương nhân thì chỉ có thương nhân và nô lệ phục vụ; còn một nô lệ thì chỉ nô lệ phục vụ nô lệ, vì còn ai khác nữa mà đi phục vụ một nô lệ. Nói cách khác, đây là trật tự giai cấp được diễn đạt thành một bảng phân công ai được sai bảo ai.
+Chuyện thứ nhất là bốn kiểu phục vụ. Giới bà-la-môn dạy rằng một người bà-la-môn thì ai cũng phục vụ được, nhưng chính bà-la-môn thì chỉ phục vụ bà-la-môn; một người vua chúa thì có người vua chúa, thương nhân và nô lệ phục vụ; một thương nhân thì chỉ có thương nhân và nô lệ phục vụ; còn một nô lệ thì chỉ nô lệ phục vụ nô lệ, vì còn ai khác nữa mà đi phục vụ một nô lệ. Nói cách khác, đây là trật tự giai cấp được diễn đạt thành một bảng phân công ai được sai bảo ai.
 
-Đức Thế Tôn không tranh cãi vào bảng ấy. Ngài hỏi một câu đơn giản: cả thế gian có cho phép các bà-la-môn đặt ra luật ấy không? Esukārī đáp không. Ngài bèn ví chuyện đó như người ta treo một miếng thịt lên cổ một kẻ nghèo khó, dù anh ta không muốn, rồi bắt anh ta ăn và trả tiền. Một luật do một nhóm người tự đặt ra rồi áp lên tất cả mọi người thì cũng vậy.
+Đức Thế Tôn không tranh cãi về bảng ấy. Ngài hỏi một câu đơn giản: cả thế gian có cho phép các bà-la-môn đặt ra luật ấy không? Esukārī đáp không. Ngài bèn ví chuyện đó như người ta treo một miếng thịt lên cổ một kẻ nghèo khó, dù anh ta không muốn, rồi bắt anh ta ăn và trả tiền. Một luật do một nhóm người tự đặt ra rồi áp lên tất cả mọi người thì cũng vậy.
 
 Từ chỗ ấy, Ngài đưa ra tiêu chuẩn khác để quyết định nên phục vụ ai. Không phải phục vụ tất cả, cũng không phải không phục vụ ai. Hãy phục vụ người mà khi phục vụ, mình trở nên tốt hơn chứ không kém hơn, nghĩa là lòng tin, giới, sự nghe học, sự bố thí và tuệ nơi mình tăng trưởng. Còn dòng dõi cao sang, sắc đẹp hay của cải thì không làm ai tốt hơn hay kém hơn, vì có kẻ sinh ra trong dòng dõi cao sang mà vẫn sát sinh, trộm cắp, nói dối, và cũng có kẻ sinh ra trong dòng dõi ấy mà làm ngược lại.
 
@@ -116,7 +116,7 @@ Ngài Gotama nói sao về việc này?"
 <!-- seg: mn96:4.4 -->
 Cũng vậy, này bà-la-môn, các bà-la-môn đặt ra bốn kiểu phục vụ ấy mà không có sự thừa nhận của những sa-môn và bà-la-môn kia."
 
-[Chú thích: Cụm "những vị ấy" ở đây có vẻ lạc chỗ, vì trước đó chưa hề nhắc đến sa-môn hay bà-la-môn nào. Ở đoạn tương đương trong Tăng Chi Bộ Kinh 6.57 thì câu này lại hợp mạch, nên rất có thể nó được chép từ đó sang.]
+[Chú thích: Chữ "kia" ở đây có vẻ lạc chỗ, vì trước đó chưa hề nhắc đến sa-môn hay bà-la-môn nào. Ở đoạn tương đương trong Tăng Chi Bộ Kinh 6.57 thì câu này lại hợp mạch, nên rất có thể nó được chép từ đó sang.]
 
 <!-- seg: mn96:5.1 -->
 "Này bà-la-môn, Ta không nói rằng 'phải phục vụ tất cả'; Ta cũng không nói rằng 'không phải phục vụ ai cả'.
@@ -143,10 +143,10 @@ Vậy ông sẽ phục vụ ai trong hai người ấy?', thì này bà-la-môn,
 "Này bà-la-môn, nếu người ta hỏi một bà-la-môn như vầy: 'Nên phục vụ ai đây: người mà khi phục vụ, do việc phục vụ ấy mình trở nên kém hơn chứ không tốt hơn, hay người mà khi phục vụ, do việc phục vụ ấy mình trở nên tốt hơn chứ không kém hơn? Vậy ông sẽ phục vụ ai trong hai người ấy?', thì này bà-la-môn, một bà-la-môn trả lời đúng đắn cũng sẽ trả lời như vầy: 'Người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên kém hơn chứ không tốt hơn, thì tôi sẽ không phục vụ người ấy; còn người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên tốt hơn chứ không kém hơn, thì tôi sẽ phục vụ người ấy.'"
 
 <!-- seg: mn96:7.2 -->
-Này bà-la-môn, nếu người ta hỏi một thương nhân như vầy: 'Nên phục vụ ai đây: người mà khi phục vụ, do việc phục vụ ấy mình trở nên kém hơn chứ không tốt hơn, hay người mà khi phục vụ, do việc phục vụ ấy mình trở nên tốt hơn chứ không kém hơn? Vậy ông sẽ phục vụ ai trong hai người ấy?', thì này bà-la-môn, một thương nhân trả lời đúng đắn cũng sẽ trả lời như vầy: 'Người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên kém hơn chứ không tốt hơn, thì tôi sẽ không phục vụ người ấy; còn người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên tốt hơn chứ không kém hơn, thì tôi sẽ phục vụ người ấy.'"
+"Này bà-la-môn, nếu người ta hỏi một thương nhân như vầy: 'Nên phục vụ ai đây: người mà khi phục vụ, do việc phục vụ ấy mình trở nên kém hơn chứ không tốt hơn, hay người mà khi phục vụ, do việc phục vụ ấy mình trở nên tốt hơn chứ không kém hơn? Vậy ông sẽ phục vụ ai trong hai người ấy?', thì này bà-la-môn, một thương nhân trả lời đúng đắn cũng sẽ trả lời như vầy: 'Người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên kém hơn chứ không tốt hơn, thì tôi sẽ không phục vụ người ấy; còn người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên tốt hơn chứ không kém hơn, thì tôi sẽ phục vụ người ấy.'"
 
 <!-- seg: mn96:7.3 -->
-Này bà-la-môn, nếu người ta hỏi một nô lệ như vầy:
+"Này bà-la-môn, nếu người ta hỏi một nô lệ như vầy:
 
 <!-- seg: mn96:7.4 -->
 'Nên phục vụ ai đây: người mà khi phục vụ, do việc phục vụ ấy mình trở nên kém hơn chứ không tốt hơn, hay người mà khi phục vụ, do việc phục vụ ấy mình trở nên tốt hơn chứ không kém hơn?
@@ -207,7 +207,7 @@ Và này bà-la-môn, cũng có kẻ có của cải dồi dào mà từ bỏ s�
 Vì thế mà Ta nói rằng: "của cải dồi dào không làm người ta kém hơn".
 
 <!-- seg: mn96:9.1 -->
-"Này bà-la-môn, Ta không nói rằng 'phải phục vụ tất cả', mà Ta cũng không nói rằng 'không phục vụ ai cả'.
+"Này bà-la-môn, Ta không nói rằng 'phải phục vụ tất cả'; Ta cũng không nói rằng 'không phải phục vụ ai cả'.
 
 <!-- seg: mn96:9.2 -->
 Này bà-la-môn, nếu phục vụ ai mà do việc phục vụ ấy lòng tin tăng trưởng, giới tăng trưởng, sự nghe học tăng trưởng, sự bố thí tăng trưởng, tuệ tăng trưởng, thì Ta nói rằng 'phải phục vụ người ấy'.
@@ -291,7 +291,7 @@ Cũng vậy, này bà-la-môn, các bà-la-môn đặt ra bốn loại của c�
 <!-- seg: mn96:12.1 -->
 Này bà-la-môn, Ta chủ trương của cải của một con người là Pháp cao quý, vượt ra ngoài thế gian.
 
-[Chú thích: Chữ lokuttara, dịch là siêu xuất thế gian, chỉ giáo pháp dẫn ra khỏi thế gian. Cách dùng chữ này trong câu trên cũng gặp ở Tương Ưng Bộ Kinh 20.7 và Tăng Chi Bộ Kinh 2.47, 5.79.]
+[Chú thích: Chữ lokuttara chỉ cái vượt ra ngoài thế gian, tức giáo pháp đưa ra khỏi thế gian. Cách dùng chữ này trong câu trên cũng gặp ở Tương Ưng Bộ Kinh 20.7 và Tăng Chi Bộ Kinh 2.47, 5.79.]
 
 <!-- seg: mn96:12.2 -->
 Nhưng cứ theo dòng dõi cha mẹ truyền lại từ đời xưa, thì sinh ra ở đâu, người ta được gọi tên theo đó.
@@ -389,7 +389,7 @@ Này bà-la-môn, nếu có người sinh ra trong gia đình bà-la-môn mà xu
 Này bà-la-môn, nếu có người sinh ra trong gia đình thương nhân mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý.
 
 <!-- seg: mn96:14.12 -->
-Này bà-la-môn, nếu có người sinh ra trong gia đình nô lệ mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý.
+Này bà-la-môn, nếu có người sinh ra trong gia đình nô lệ mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý."
 
 <!-- seg: mn96:15.1 -->
 "Này bà-la-môn, ông nghĩ sao,
@@ -427,7 +427,7 @@ Này bà-la-môn, nếu có người sinh ra trong gia đình bà-la-môn mà xu
 Này bà-la-môn, nếu có người sinh ra trong gia đình thương nhân mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý.
 
 <!-- seg: mn96:15.12 -->
-Này bà-la-môn, nếu có người sinh ra trong gia đình nô lệ mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý.
+Này bà-la-môn, nếu có người sinh ra trong gia đình nô lệ mà xuất gia, từ bỏ đời sống gia đình để sống không nhà, rồi nương vào giáo pháp và giới luật do Như Lai tuyên thuyết mà từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ phi phạm hạnh, từ bỏ nói dối, từ bỏ nói hai lưỡi, từ bỏ nói lời thô ác, từ bỏ nói chuyện vô ích, không tham lam, tâm không sân hận, có chánh kiến, thì vị ấy cũng thành tựu được pháp thiện lành, đúng theo chánh lý."
 
 <!-- seg: mn96:16.1 -->
 "Này bà-la-môn, ông nghĩ sao,

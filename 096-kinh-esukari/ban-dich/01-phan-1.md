@@ -79,7 +79,7 @@ Ngài Gotama nói sao về việc này?"
 <!-- seg: mn96:4.4 -->
 Cũng vậy, này bà-la-môn, các bà-la-môn đặt ra bốn kiểu phục vụ ấy mà không có sự thừa nhận của những sa-môn và bà-la-môn kia."
 
-[Chú thích: Cụm "những vị ấy" ở đây có vẻ lạc chỗ, vì trước đó chưa hề nhắc đến sa-môn hay bà-la-môn nào. Ở đoạn tương đương trong Tăng Chi Bộ Kinh 6.57 thì câu này lại hợp mạch, nên rất có thể nó được chép từ đó sang.]
+[Chú thích: Chữ "kia" ở đây có vẻ lạc chỗ, vì trước đó chưa hề nhắc đến sa-môn hay bà-la-môn nào. Ở đoạn tương đương trong Tăng Chi Bộ Kinh 6.57 thì câu này lại hợp mạch, nên rất có thể nó được chép từ đó sang.]
 
 <!-- seg: mn96:5.1 -->
 "Này bà-la-môn, Ta không nói rằng 'phải phục vụ tất cả'; Ta cũng không nói rằng 'không phải phục vụ ai cả'.
@@ -106,10 +106,10 @@ Vậy ông sẽ phục vụ ai trong hai người ấy?', thì này bà-la-môn,
 "Này bà-la-môn, nếu người ta hỏi một bà-la-môn như vầy: 'Nên phục vụ ai đây: người mà khi phục vụ, do việc phục vụ ấy mình trở nên kém hơn chứ không tốt hơn, hay người mà khi phục vụ, do việc phục vụ ấy mình trở nên tốt hơn chứ không kém hơn? Vậy ông sẽ phục vụ ai trong hai người ấy?', thì này bà-la-môn, một bà-la-môn trả lời đúng đắn cũng sẽ trả lời như vầy: 'Người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên kém hơn chứ không tốt hơn, thì tôi sẽ không phục vụ người ấy; còn người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên tốt hơn chứ không kém hơn, thì tôi sẽ phục vụ người ấy.'"
 
 <!-- seg: mn96:7.2 -->
-Này bà-la-môn, nếu người ta hỏi một thương nhân như vầy: 'Nên phục vụ ai đây: người mà khi phục vụ, do việc phục vụ ấy mình trở nên kém hơn chứ không tốt hơn, hay người mà khi phục vụ, do việc phục vụ ấy mình trở nên tốt hơn chứ không kém hơn? Vậy ông sẽ phục vụ ai trong hai người ấy?', thì này bà-la-môn, một thương nhân trả lời đúng đắn cũng sẽ trả lời như vầy: 'Người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên kém hơn chứ không tốt hơn, thì tôi sẽ không phục vụ người ấy; còn người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên tốt hơn chứ không kém hơn, thì tôi sẽ phục vụ người ấy.'"
+"Này bà-la-môn, nếu người ta hỏi một thương nhân như vầy: 'Nên phục vụ ai đây: người mà khi phục vụ, do việc phục vụ ấy mình trở nên kém hơn chứ không tốt hơn, hay người mà khi phục vụ, do việc phục vụ ấy mình trở nên tốt hơn chứ không kém hơn? Vậy ông sẽ phục vụ ai trong hai người ấy?', thì này bà-la-môn, một thương nhân trả lời đúng đắn cũng sẽ trả lời như vầy: 'Người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên kém hơn chứ không tốt hơn, thì tôi sẽ không phục vụ người ấy; còn người mà khi tôi phục vụ, do việc phục vụ ấy tôi trở nên tốt hơn chứ không kém hơn, thì tôi sẽ phục vụ người ấy.'"
 
 <!-- seg: mn96:7.3 -->
-Này bà-la-môn, nếu người ta hỏi một nô lệ như vầy:
+"Này bà-la-môn, nếu người ta hỏi một nô lệ như vầy:
 
 <!-- seg: mn96:7.4 -->
 'Nên phục vụ ai đây: người mà khi phục vụ, do việc phục vụ ấy mình trở nên kém hơn chứ không tốt hơn, hay người mà khi phục vụ, do việc phục vụ ấy mình trở nên tốt hơn chứ không kém hơn?

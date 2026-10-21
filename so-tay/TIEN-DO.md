@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 19 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 20 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 19/152 bài
+## Đợt đọc lại văn phong: 20/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -32,6 +32,7 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 128 | 6 | ngoặc kép thừa, nghĩa của `dhovitvā`, chú thích nói sai vị trí |
 | MN 131 | 1 | dòng ghi kết thúc bài kinh |
 | MN 132 | 2 | lặp danh hiệu ở chỗ quy ước dùng "Ngài" |
+| MN 96 | 9 | ngoặc kép lệch, hai chú thích dẫn chữ không khớp, một công thức lặp dịch lệch |
 | MN 134 | 2 | dấu câu, nhất quán địa danh |
 | MN 137 | 18 | bớt hô cách trong câu trích, câu văn hỏng vì dịch sát |
 | MN 138 | 16 | bớt hô cách, bốn câu giới thiệu hỏng |
@@ -42,12 +43,12 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 151 | 10 | trật tự từ ở công thức quán sáu xứ |
 | MN 152 | 4 | hô cách ở 9.10, chữ "rơi" thêm vào ở 6.9 |
 
-Tổng 136 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 100 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 145 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 110 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 133 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+1. Đọc lại 132 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
    trình như trên.
 2. Quyết khoảng 100 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
    giữa hai cách hiểu Pali, không phải lỗi rõ ràng.
