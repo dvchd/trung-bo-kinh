@@ -115,10 +115,10 @@ Tôi biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong,
 Thưa các hiền giả, tôi biết như vầy, thấy như vầy, nên đối với thân có thức này và đối với mọi tướng bên ngoài, sự tạo tác cái 'ta', sự tạo tác cái 'của ta' và tùy miên ngã mạn đều được đoạn trừ.
 
 <!-- seg: mn112:21.1 -->
-Này các tỳ-kheo, các ông nên hoan hỷ và tán thán lời nói 'Lành thay!' của vị tỳ-kheo ấy.
+Này các tỳ-kheo, các ông nên hoan hỷ và tán thán lời nói của vị tỳ-kheo ấy bằng câu 'Lành thay!'.
 
 <!-- seg: mn112:21.2 -->
-Sau khi hoan hỷ và tán thán lời nói 'Lành thay!' ấy, các ông nên nói với vị ấy như vầy:
+Sau khi hoan hỷ và tán thán lời nói ấy bằng câu 'Lành thay!', các ông nên nói với vị ấy như vầy:
 
 <!-- seg: mn112:21.3 -->
 "Thật là điều may mắn cho chúng tôi, thưa hiền giả, thật là khéo được cho chúng tôi, thưa hiền giả,
@@ -131,8 +131,6 @@ vì chúng tôi được thấy một vị đồng phạm hạnh như vị đây
 
 <!-- seg: mn112:21.6 -->
 Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
-
-
 
 <!-- seg: mn112:21.7 -->
 Kinh Sáu Thanh Tịnh đã kết thúc, bài thứ hai.

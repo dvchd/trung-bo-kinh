@@ -6,7 +6,7 @@
 
 Bối cảnh rất giản dị. Tại Sāvatthī (Xá-vệ), sau bữa ăn và chuyến khất thực, một nhóm tỳ-kheo — những nhà sư sống nhờ đồ bố thí — ngồi lại trong giảng đường và bàn về một chuyện lạ. Làm sao Đức Thế Tôn biết được tên, dòng họ, giới, giáo pháp, tuệ, cách sống và sự giải thoát của các vị Phật đã nhập Niết-bàn từ thời xa xưa? Tôn giả Ānanda (A-nan) nghe vậy bèn nói thêm rằng chư Như Lai vốn hy hữu, và những phẩm chất của các Ngài cũng hy hữu. Câu chuyện đang dở thì Đức Thế Tôn từ chỗ độc cư bước vào, ngồi xuống và hỏi các vị đang nói chuyện gì.
 
-Khi nghe lại câu chuyện, Ngài bảo Ānanda hãy nói thêm về những phẩm chất hy hữu và kỳ diệu của Như Lai. Ānanda bèn kể mười chín điều, theo một khuôn lặp đi lặp lại: nghe sao thì thuật lại vậy, rồi nói rằng mình ghi nhớ điều ấy là phẩm chất hy hữu của Đức Thế Tôn. Những điều ấy nối nhau thành một câu chuyện về sự ra đời của vị Bồ-tát, bậc đang trên đường giác ngộ. Ngài có chánh niệm và tỉnh giác khi sinh lên cõi trời Đâu-suất, ở lại đó suốt tuổi thọ của cõi ấy, rồi từ đó mệnh chung và nhập vào thai mẹ. Mẹ Ngài tự nhiên giữ năm giới, không còn tâm dục, không bệnh, và thấy con trong thai như người ta nhìn một viên ngọc quý xâu chỉ. Ngài ra đời trong tư thế đứng, chư thiên đỡ trước loài người, thân thể vốn đã thanh tịnh, có hai dòng nước ấm lạnh từ trời tắm cho hai mẹ con, và vừa sinh ra đã bước bảy bước, nhìn khắp bốn phương rồi cất lên lời tuyên bố về lần sinh cuối cùng của mình.
+Khi nghe lại câu chuyện, Ngài bảo Ānanda hãy nói thêm về những phẩm chất hy hữu và kỳ diệu của Như Lai. Ānanda bèn kể mười chín điều, theo một khuôn lặp đi lặp lại: nghe sao thì thuật lại vậy, rồi nói rằng mình ghi nhớ điều ấy là phẩm chất hy hữu của Đức Thế Tôn. Những điều ấy nối nhau thành một câu chuyện về sự ra đời của vị Bồ-tát, bậc đang trên đường giác ngộ. Ngài có chánh niệm và tỉnh giác khi sinh lên cõi trời Đâu-suất, ở lại đó suốt tuổi thọ của cõi ấy, rồi từ đó mệnh chung và nhập vào thai mẹ. Mẹ Ngài tự nhiên giữ năm giới, không còn tâm dục, không bệnh, và thấy con trong thai như người ta nhìn một viên ngọc quý xâu chỉ. Ngài ra đời trong tư thế đứng, chư thiên đỡ trước loài người, thân thể vốn đã thanh tịnh, có hai dòng nước ấm lạnh từ trời tắm cho hai mẹ con, và vừa sinh ra đã bước bảy bước, nhìn khắp các phương rồi cất lên lời tuyên bố về lần sinh cuối cùng của mình.
 
 Điều đáng chú ý là đoạn kết. Đức Thế Tôn không chỉ im lặng nghe lời tán thán. Ngài thêm vào một phẩm chất của chính mình: biết rõ cảm thọ, tưởng và tầm khi chúng sinh khởi, khi an trú và khi biến mất. Đó không phải chuyện thần kỳ thời thơ ấu mà là công phu tỉnh giác trong từng khoảnh khắc của tâm. Như vậy, sau một loạt chuyện lạ về ngày sinh, bài kinh khép lại bằng chính phép tu mà người đọc có thể thực hành. Ānanda hiểu ý, tán thán lần nữa, và bài kinh kết thúc bằng việc Đức Thế Tôn chấp nhận lời ấy.
 
@@ -42,7 +42,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn123:2.1 -->
-Rồi sau bữa ăn, khi đã đi khất thực về, nhiều tỳ-kheo ngồi tụ họp nhau trong giảng đường, và câu chuyện này khởi lên giữa các vị ấy:
+Rồi sau bữa ăn, khi đã đi khất thực về, nhiều tỳ-kheo cùng ngồi tụ họp trong giảng đường, và câu chuyện này khởi lên giữa các vị ấy:
 
 <!-- seg: mn123:2.2 -->
 "Thật hy hữu thay, này các hiền giả! Thật kỳ diệu thay, này các hiền giả! Như Lai có đại thần lực và đại uy lực đến thế,
@@ -64,7 +64,7 @@ Khi nghe nói vậy, Tôn giả Ānanda (A-nan) nói với các tỳ-kheo ấy:
 <!-- seg: mn123:2.7 -->
 các Như Lai thật kỳ diệu, này các hiền giả, và các Ngài có những phẩm chất kỳ diệu."
 
-[Chú thích: Đây là ví dụ tiêu biểu cho thể loại chuyện hy hữu, một trong chín thể loại của giáo pháp, và thể loại này gắn chặt với Tôn giả Ānanda đến mức có thể xem ngài là người khởi xướng. Khi Ānanda đang ở lúc buồn bã, Đức Thế Tôn đã chuyển câu chuyện sang những phẩm chất hy hữu của chính ngài.]
+[Chú thích: Đây là ví dụ tiêu biểu cho thể loại chuyện hy hữu, một trong chín thể loại của giáo pháp, và thể loại này gắn chặt với Tôn giả Ānanda đến mức có thể xem ngài là người khởi xướng. Khi Ānanda đang ở lúc buồn bã, Đức Thế Tôn đã chuyển câu chuyện sang những phẩm chất hy hữu của chính Ānanda.]
 
 <!-- seg: mn123:2.8 -->
 Câu chuyện ấy giữa các tỳ-kheo vẫn còn đang dở dang.
@@ -152,7 +152,7 @@ Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức 
 thì trong thế giới này cùng với chư thiên, Ma vương và Phạm Thiên, giữa đám đông có cả sa-môn và bà-la-môn, chư thiên và loài người, một ánh sáng vô lượng, rực rỡ xuất hiện, vượt qua cả uy lực của chư thiên.
 
 <!-- seg: mn123:7.4 -->
-Những khoảng không giữa các thế giới, mênh mông, tối tăm, đen kịt, nơi mặt trăng và mặt trời có đại thần lực và đại uy lực như vậy cũng không chiếu tới được bằng ánh sáng của chúng — ngay cả ở đó, một ánh sáng vô lượng, rực rỡ cũng xuất hiện trong thế gian, vượt qua cả uy lực của chư thiên.
+Những khoảng không giữa các thế giới, mênh mông, tối tăm, đen kịt, nơi mặt trăng và mặt trời, dù có đại thần lực và đại uy lực đến vậy, cũng không chiếu tới được bằng ánh sáng của chúng — ngay cả ở đó, một ánh sáng vô lượng, rực rỡ cũng xuất hiện trong thế gian, vượt qua cả uy lực của chư thiên.
 
 [Chú thích: Chú giải đồng nhất vùng tối tăm này với một địa ngục lạnh, tương ứng với địa ngục andhatāmisra trong văn học Purāṇa. Chữ agha ở đây là khoảng không, đồng nghĩa với hư không; asaṁvutā nghĩa là mênh mông không giới hạn, chứ không phải vực thẳm như một bản dịch cũ từng hiểu. Nānubhonti nghĩa là không có hiệu lực, tức không chiếu tới được.]
 
@@ -193,10 +193,10 @@ Việc mẹ của vị Bồ-tát tự nhiên có giới, tránh xa sát sinh, tr
 Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức Thế Tôn, ngay trước mặt Ngài:
 
 <!-- seg: mn123:10.2 -->
-"Khi vị Bồ-tát đã nhập vào thai mẹ, này Ānanda, tâm hướng đến đàn ông và gắn với dục công đức không khởi lên nơi mẹ vị Bồ-tát; và mẹ vị Bồ-tát không thể bị người đàn ông nào có tâm tham đắm xâm phạm."
+"Khi vị Bồ-tát đã nhập vào thai mẹ, này Ānanda, nơi mẹ vị Bồ-tát không khởi lên tâm hướng đến đàn ông gắn với dục công đức; và mẹ vị Bồ-tát không thể bị người đàn ông nào có tâm tham đắm xâm phạm."
 
 <!-- seg: mn123:10.3 -->
-Việc tâm hướng đến đàn ông và gắn với dục công đức không khởi lên nơi mẹ vị Bồ-tát, và bà không thể bị người đàn ông có tâm tham đắm xâm phạm — điều ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
+Việc nơi mẹ vị Bồ-tát không khởi lên tâm hướng đến đàn ông gắn với dục công đức, và bà không thể bị người đàn ông có tâm tham đắm xâm phạm — điều ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
 
 <!-- seg: mn123:11.1 -->
 Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức Thế Tôn, ngay trước mặt Ngài:
@@ -209,13 +209,13 @@ Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức 
 [Chú thích: Dục lạc tuy khơi dậy sự dính mắc, nhưng vẫn là một thứ an lạc, nên ở đây là dấu hiệu của đức hạnh và nghiệp tốt đời trước.]
 
 <!-- seg: mn123:11.3 -->
-Việc mẹ vị Bồ-tát có được năm thứ dục công đức khi vị Bồ-tát nhập vào thai mẹ, và vui hưởng chúng với đầy đủ phương tiện — điều ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
+Việc mẹ vị Bồ-tát có được năm thứ dục công đức khi vị Bồ-tát nhập vào thai mẹ, và vui hưởng chúng, được cung cấp đầy đủ và trang bị trọn vẹn — điều ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
 
 <!-- seg: mn123:12.1 -->
 Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức Thế Tôn, ngay trước mặt Ngài:
 
 <!-- seg: mn123:12.2 -->
-"Khi vị Bồ-tát đã nhập vào thai mẹ, này Ānanda, mẹ vị Bồ-tát không phát sinh bất cứ bệnh tật nào; bà an vui, thân không mệt nhọc; và bà thấy vị Bồ-tát ở trong thai, đầy đủ mọi chi phần lớn nhỏ, các căn không khuyết tổn.
+"Khi vị Bồ-tát đã nhập vào thai mẹ, này Ānanda, nơi mẹ vị Bồ-tát không phát sinh bất cứ bệnh tật nào; bà an vui, thân không mệt nhọc; và bà thấy vị Bồ-tát ở trong thai, đầy đủ mọi chi phần lớn nhỏ, các căn không khuyết tổn.
 
 <!-- seg: mn123:12.3 -->
 Ví như, này Ānanda, một viên ngọc lưu ly (beryl) đẹp, có phẩm chất tự nhiên, tám mặt, được mài giũa khéo léo, và một sợi chỉ xanh, vàng, đỏ, trắng hay nâu vàng được xâu qua đó.
@@ -224,7 +224,7 @@ Ví như, này Ānanda, một viên ngọc lưu ly (beryl) đẹp, có phẩm ch
 Một người có mắt sáng cầm viên ngọc ấy trong tay và quán sát: 'Viên ngọc lưu ly này đẹp, có phẩm chất tự nhiên, tám mặt, được mài giũa khéo léo, và sợi chỉ xanh, vàng, đỏ, trắng hay nâu vàng này được xâu qua đó.'
 
 <!-- seg: mn123:12.5 -->
-Cũng vậy, này Ānanda, khi vị Bồ-tát đã nhập vào thai mẹ, mẹ vị Bồ-tát không phát sinh bất cứ bệnh tật nào; bà an vui, thân không mệt nhọc; và bà thấy vị Bồ-tát ở trong thai, đầy đủ mọi chi phần lớn nhỏ, các căn không khuyết tổn."
+Cũng vậy, này Ānanda, khi vị Bồ-tát đã nhập vào thai mẹ, nơi mẹ vị Bồ-tát không phát sinh bất cứ bệnh tật nào; bà an vui, thân không mệt nhọc; và bà thấy vị Bồ-tát ở trong thai, đầy đủ mọi chi phần lớn nhỏ, các căn không khuyết tổn."
 
 <!-- seg: mn123:12.6 -->
 Việc khi vị Bồ-tát nhập vào thai mẹ, mẹ Ngài không sinh bệnh gì, an vui và thân không mệt nhọc, lại thấy vị Bồ-tát trong thai đầy đủ mọi chi phần, các căn không khuyết tổn — ví như người có mắt sáng cầm viên ngọc lưu ly tám mặt trong tay mà quán sát, thấy sợi chỉ xanh, vàng, đỏ, trắng hay nâu vàng xâu qua đó — điều ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
@@ -330,7 +330,7 @@ Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức 
 "Khi vị Bồ-tát ra khỏi thai mẹ, này Ānanda, thì trong thế giới này cùng với chư thiên, Ma vương và Phạm Thiên, giữa đám đông có cả sa-môn và bà-la-môn, chư thiên và loài người, một ánh sáng vô lượng, rực rỡ xuất hiện, vượt qua cả uy lực của chư thiên.
 
 <!-- seg: mn123:21.3 -->
-Những khoảng không giữa các thế giới, mênh mông, tối tăm, đen kịt, nơi mặt trăng và mặt trời có đại thần lực và đại uy lực như vậy cũng không chiếu tới được bằng ánh sáng của chúng — ngay cả ở đó, một ánh sáng vô lượng, rực rỡ cũng xuất hiện trong thế gian, vượt qua cả uy lực của chư thiên.
+Những khoảng không giữa các thế giới, mênh mông, tối tăm, đen kịt, nơi mặt trăng và mặt trời, dù có đại thần lực và đại uy lực đến vậy, cũng không chiếu tới được bằng ánh sáng của chúng — ngay cả ở đó, một ánh sáng vô lượng, rực rỡ cũng xuất hiện trong thế gian, vượt qua cả uy lực của chư thiên.
 
 <!-- seg: mn123:21.4 -->
 Và những chúng sinh đã sinh lên ở đó, nhờ ánh sáng ấy, chúng nhận ra nhau: 'Hóa ra cũng có những chúng sinh khác đã sinh lên ở đây!'
@@ -339,7 +339,7 @@ Và những chúng sinh đã sinh lên ở đó, nhờ ánh sáng ấy, chúng n
 Và cõi thế giới mười ngàn này rung chuyển, chấn động, lay động; một ánh sáng vô lượng, rực rỡ xuất hiện trong thế gian, vượt qua cả uy lực của chư thiên."
 
 <!-- seg: mn123:21.6 -->
-Việc khi vị Bồ-tát ra khỏi thai mẹ, một ánh sáng vô lượng, rực rỡ xuất hiện trong thế giới có chư thiên, Ma vương, Phạm Thiên, có sa-môn, bà-la-môn, chư thiên và loài người, vượt qua cả uy lực của chư thiên; ánh sáng ấy còn xuất hiện ở những khoảng không đen tối giữa các thế giới, và chúng sinh ở đó nhận ra nhau; cõi thế giới mười ngàn này rung chuyển, chấn động, lay động — việc ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
+Việc khi vị Bồ-tát ra khỏi thai mẹ, một ánh sáng vô lượng, rực rỡ xuất hiện trong thế giới có chư thiên, Ma vương, Phạm Thiên, có sa-môn, bà-la-môn, chư thiên và loài người, vượt qua cả uy lực của chư thiên; ánh sáng ấy còn xuất hiện cả ở những khoảng không đen tối giữa các thế giới, nơi mặt trăng và mặt trời không chiếu tới được, và chúng sinh ở đó nhận ra nhau; cõi thế giới mười ngàn này rung chuyển, chấn động, lay động — việc ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
 
 [Chú thích: Bản Hán tương ứng thêm vào đây mười mục, phần lớn là các chi tiết trong đời sống của Siddhattha (Tất-đạt-đa) trước khi giác ngộ.]
 

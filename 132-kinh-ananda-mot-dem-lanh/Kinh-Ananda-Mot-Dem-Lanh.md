@@ -4,7 +4,7 @@
 
 **Kinh Ānanda Một Đêm Lành** (*Ānandabhaddekaratta Sutta*) là bài kinh thứ 132 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng Pali. Đây là bài thứ hai trong bốn bài kinh liên tiếp cùng xoay quanh một bài kệ ngắn về người có một đêm lành, gồm MN 131, MN 132, MN 133 và MN 134. Bốn bài không phải bốn dị bản của cùng một bài; mỗi bài đặt bài kệ ấy vào một hoàn cảnh khác nhau. Bài này có cách trình bày riêng: người giảng bài kệ không phải Đức Thế Tôn mà là Tôn giả Ānanda.
 
-Bài kinh mở ra tại Sāvatthī, trong vườn Jeta. Buổi chiều, Đức Thế Tôn từ chỗ độc cư đứng dậy, đi đến giảng đường và hỏi các tỳ-kheo: ai đã giảng cho họ nghe phần tóm tắt và phần phân tích về người có một đêm lành? Các tỳ-kheo thưa rằng đó là Tôn giả Ānanda. Đức Thế Tôn bèn hỏi Ānanda đã giảng thế nào, và Ānanda nhắc lại trọn bài giảng của mình, gồm bài kệ và lời giải thích từng câu kệ.
+Bài kinh mở ra tại Sāvatthī, trong vườn Jeta. Buổi chiều, Đức Thế Tôn từ chỗ độc cư đứng dậy, đi đến giảng đường và hỏi các tỳ-kheo: ai đã giảng cho họ nghe phần tóm tắt và phần phân tích về người có một đêm lành? Các tỳ-kheo thưa rằng đó là Tôn giả Ānanda. Ngài bèn hỏi Ānanda đã giảng thế nào, và Ānanda nhắc lại trọn bài giảng của mình, gồm bài kệ và lời giải thích từng câu kệ.
 
 Nội dung bài kệ rất gọn. Đừng chạy về quá khứ, đừng mong đợi tương lai: cái đã qua thì đã bỏ lại, cái chưa tới thì chưa tới. Chỉ có những gì đang có mặt ngay lúc này là chỗ để thấy rõ. Và vì cái chết có thể đến ngay ngày mai, việc cần làm phải làm ngay hôm nay. Người sống như vậy, không mệt mỏi ngày đêm, được gọi là người có "một đêm lành".
 
@@ -350,7 +350,7 @@ bậc hiền triết an tịnh ấy tuyên bố như vậy."
 ---
 
 <!-- seg: mn132:13-19.18 -->
-Tôn giả Ānanda hoan hỷ, tán thán lời Đức Thế Tôn dạy.
+Tôn giả Ānanda hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn132:13-19.19 -->
 Kinh Ānanda Một Đêm Lành, bài thứ hai, đã hoàn tất.

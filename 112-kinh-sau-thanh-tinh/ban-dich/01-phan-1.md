@@ -41,7 +41,7 @@ Bốn là những gì?
 <!-- seg: mn112:3.5 -->
 Nói điều đã thấy đúng như điều đã thấy, nói điều đã nghe đúng như điều đã nghe, nói điều đã cảm nhận đúng như điều đã cảm nhận, nói điều đã biết đúng như điều đã biết.
 
-[Chú thích: Bốn mục này không phải sáu giác quan — phần sáu xứ sẽ được nói ở sau — mà là bốn cách người ta học những sự thật về đường tu. Vì thế kinh mới nói là nói về những gì mình đã học được.]
+[Chú thích: Bốn mục này không phải sáu giác quan — phần sáu xứ sẽ được nói ở sau — mà là bốn cách người ta học những sự thật về đường tu. Vì thế kinh mới nói về những gì mình đã học được.]
 
 <!-- seg: mn112:3.6 -->
 Thưa hiền giả, đó là bốn cách nói đã được Đức Thế Tôn, bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác, thuyết giảng đúng đắn.
@@ -55,7 +55,9 @@ Này các tỳ-kheo, với một tỳ-kheo đã tận các lậu hoặc, đã s�
 <!-- seg: mn112:4.2 -->
 Về điều đã thấy, thưa các hiền giả, tôi sống không bám vào, không lảng tránh, không nương tựa, không bị trói buộc, được giải thoát, không còn ràng buộc, với tâm không còn giới hạn.
 
-[Chú thích: Không bám vào, không lảng tránh là không bị tham hay sân lôi kéo, tức thái độ điềm tĩnh, không phản ứng. Cụm từ hiếm gặp này cũng có trong MN 111:4.5.]
+[Chú thích của người dịch: Không bám vào, không lảng tránh là không bị tham hay sân lôi kéo, tức thái độ điềm tĩnh, không phản ứng.]
+
+[Chú thích: Cụm từ hiếm gặp này cũng có trong MN 111:4.5.]
 
 <!-- seg: mn112:4.3 -->
 Về điều đã nghe, thưa các hiền giả, tôi sống không bám vào, không lảng tránh, không nương tựa, không bị trói buộc, được giải thoát, không còn ràng buộc, với tâm không còn giới hạn.
@@ -70,10 +72,10 @@ Về điều đã biết, thưa các hiền giả, tôi sống không bám vào,
 Thưa các hiền giả, tôi biết như vầy, thấy như vầy, nên đối với bốn cách nói này, nhờ không thủ chấp, tâm tôi được giải thoát khỏi các lậu hoặc.
 
 <!-- seg: mn112:5.1 -->
-Này các tỳ-kheo, các ông nên hoan hỷ và tán thán lời nói 'Lành thay!' của vị tỳ-kheo ấy.
+Này các tỳ-kheo, các ông nên hoan hỷ và tán thán lời nói của vị tỳ-kheo ấy bằng câu 'Lành thay!'.
 
 <!-- seg: mn112:5.2 -->
-Sau khi hoan hỷ và tán thán lời nói 'Lành thay!' ấy, các ông nên hỏi thêm:
+Sau khi hoan hỷ và tán thán lời nói ấy bằng câu 'Lành thay!', các ông nên hỏi thêm:
 
 <!-- seg: mn112:5.3 -->
 Thưa hiền giả, năm uẩn chấp thủ này đã được Đức Thế Tôn, bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác, thuyết giảng đúng đắn.
@@ -114,10 +116,10 @@ Thưa các hiền giả, sau khi biết rõ rằng thức là bất lực, là p
 Thưa các hiền giả, tôi biết như vầy, thấy như vầy, nên đối với năm uẩn chấp thủ này, nhờ không thủ chấp, tâm tôi được giải thoát khỏi các lậu hoặc.
 
 <!-- seg: mn112:7.1 -->
-Này các tỳ-kheo, các ông nên hoan hỷ và tán thán lời nói 'Lành thay!' của vị tỳ-kheo ấy.
+Này các tỳ-kheo, các ông nên hoan hỷ và tán thán lời nói của vị tỳ-kheo ấy bằng câu 'Lành thay!'.
 
 <!-- seg: mn112:7.2 -->
-Sau khi hoan hỷ và tán thán lời nói 'Lành thay!' ấy, các ông nên hỏi thêm:
+Sau khi hoan hỷ và tán thán lời nói ấy bằng câu 'Lành thay!', các ông nên hỏi thêm:
 
 <!-- seg: mn112:7.3 -->
 Thưa hiền giả, sáu giới này đã được Đức Thế Tôn, bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác, thuyết giảng đúng đắn.

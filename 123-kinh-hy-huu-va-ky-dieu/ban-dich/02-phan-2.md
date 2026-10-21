@@ -4,13 +4,13 @@
 [Chú thích: Dục lạc tuy khơi dậy sự dính mắc, nhưng vẫn là một thứ an lạc, nên ở đây là dấu hiệu của đức hạnh và nghiệp tốt đời trước.]
 
 <!-- seg: mn123:11.3 -->
-Việc mẹ vị Bồ-tát có được năm thứ dục công đức khi vị Bồ-tát nhập vào thai mẹ, và vui hưởng chúng với đầy đủ phương tiện — điều ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
+Việc mẹ vị Bồ-tát có được năm thứ dục công đức khi vị Bồ-tát nhập vào thai mẹ, và vui hưởng chúng, được cung cấp đầy đủ và trang bị trọn vẹn — điều ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
 
 <!-- seg: mn123:12.1 -->
 Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức Thế Tôn, ngay trước mặt Ngài:
 
 <!-- seg: mn123:12.2 -->
-"Khi vị Bồ-tát đã nhập vào thai mẹ, này Ānanda, mẹ vị Bồ-tát không phát sinh bất cứ bệnh tật nào; bà an vui, thân không mệt nhọc; và bà thấy vị Bồ-tát ở trong thai, đầy đủ mọi chi phần lớn nhỏ, các căn không khuyết tổn.
+"Khi vị Bồ-tát đã nhập vào thai mẹ, này Ānanda, nơi mẹ vị Bồ-tát không phát sinh bất cứ bệnh tật nào; bà an vui, thân không mệt nhọc; và bà thấy vị Bồ-tát ở trong thai, đầy đủ mọi chi phần lớn nhỏ, các căn không khuyết tổn.
 
 <!-- seg: mn123:12.3 -->
 Ví như, này Ānanda, một viên ngọc lưu ly (beryl) đẹp, có phẩm chất tự nhiên, tám mặt, được mài giũa khéo léo, và một sợi chỉ xanh, vàng, đỏ, trắng hay nâu vàng được xâu qua đó.
@@ -19,7 +19,7 @@ Ví như, này Ānanda, một viên ngọc lưu ly (beryl) đẹp, có phẩm ch
 Một người có mắt sáng cầm viên ngọc ấy trong tay và quán sát: 'Viên ngọc lưu ly này đẹp, có phẩm chất tự nhiên, tám mặt, được mài giũa khéo léo, và sợi chỉ xanh, vàng, đỏ, trắng hay nâu vàng này được xâu qua đó.'
 
 <!-- seg: mn123:12.5 -->
-Cũng vậy, này Ānanda, khi vị Bồ-tát đã nhập vào thai mẹ, mẹ vị Bồ-tát không phát sinh bất cứ bệnh tật nào; bà an vui, thân không mệt nhọc; và bà thấy vị Bồ-tát ở trong thai, đầy đủ mọi chi phần lớn nhỏ, các căn không khuyết tổn."
+Cũng vậy, này Ānanda, khi vị Bồ-tát đã nhập vào thai mẹ, nơi mẹ vị Bồ-tát không phát sinh bất cứ bệnh tật nào; bà an vui, thân không mệt nhọc; và bà thấy vị Bồ-tát ở trong thai, đầy đủ mọi chi phần lớn nhỏ, các căn không khuyết tổn."
 
 <!-- seg: mn123:12.6 -->
 Việc khi vị Bồ-tát nhập vào thai mẹ, mẹ Ngài không sinh bệnh gì, an vui và thân không mệt nhọc, lại thấy vị Bồ-tát trong thai đầy đủ mọi chi phần, các căn không khuyết tổn — ví như người có mắt sáng cầm viên ngọc lưu ly tám mặt trong tay mà quán sát, thấy sợi chỉ xanh, vàng, đỏ, trắng hay nâu vàng xâu qua đó — điều ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
@@ -125,7 +125,7 @@ Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức 
 "Khi vị Bồ-tát ra khỏi thai mẹ, này Ānanda, thì trong thế giới này cùng với chư thiên, Ma vương và Phạm Thiên, giữa đám đông có cả sa-môn và bà-la-môn, chư thiên và loài người, một ánh sáng vô lượng, rực rỡ xuất hiện, vượt qua cả uy lực của chư thiên.
 
 <!-- seg: mn123:21.3 -->
-Những khoảng không giữa các thế giới, mênh mông, tối tăm, đen kịt, nơi mặt trăng và mặt trời có đại thần lực và đại uy lực như vậy cũng không chiếu tới được bằng ánh sáng của chúng — ngay cả ở đó, một ánh sáng vô lượng, rực rỡ cũng xuất hiện trong thế gian, vượt qua cả uy lực của chư thiên.
+Những khoảng không giữa các thế giới, mênh mông, tối tăm, đen kịt, nơi mặt trăng và mặt trời, dù có đại thần lực và đại uy lực đến vậy, cũng không chiếu tới được bằng ánh sáng của chúng — ngay cả ở đó, một ánh sáng vô lượng, rực rỡ cũng xuất hiện trong thế gian, vượt qua cả uy lực của chư thiên.
 
 <!-- seg: mn123:21.4 -->
 Và những chúng sinh đã sinh lên ở đó, nhờ ánh sáng ấy, chúng nhận ra nhau: 'Hóa ra cũng có những chúng sinh khác đã sinh lên ở đây!'
@@ -134,7 +134,7 @@ Và những chúng sinh đã sinh lên ở đó, nhờ ánh sáng ấy, chúng n
 Và cõi thế giới mười ngàn này rung chuyển, chấn động, lay động; một ánh sáng vô lượng, rực rỡ xuất hiện trong thế gian, vượt qua cả uy lực của chư thiên."
 
 <!-- seg: mn123:21.6 -->
-Việc khi vị Bồ-tát ra khỏi thai mẹ, một ánh sáng vô lượng, rực rỡ xuất hiện trong thế giới có chư thiên, Ma vương, Phạm Thiên, có sa-môn, bà-la-môn, chư thiên và loài người, vượt qua cả uy lực của chư thiên; ánh sáng ấy còn xuất hiện ở những khoảng không đen tối giữa các thế giới, và chúng sinh ở đó nhận ra nhau; cõi thế giới mười ngàn này rung chuyển, chấn động, lay động — việc ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
+Việc khi vị Bồ-tát ra khỏi thai mẹ, một ánh sáng vô lượng, rực rỡ xuất hiện trong thế giới có chư thiên, Ma vương, Phạm Thiên, có sa-môn, bà-la-môn, chư thiên và loài người, vượt qua cả uy lực của chư thiên; ánh sáng ấy còn xuất hiện cả ở những khoảng không đen tối giữa các thế giới, nơi mặt trăng và mặt trời không chiếu tới được, và chúng sinh ở đó nhận ra nhau; cõi thế giới mười ngàn này rung chuyển, chấn động, lay động — việc ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
 
 [Chú thích: Bản Hán tương ứng thêm vào đây mười mục, phần lớn là các chi tiết trong đời sống của Siddhattha (Tất-đạt-đa) trước khi giác ngộ.]
 

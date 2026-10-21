@@ -63,7 +63,7 @@ Lại nữa, này các tỳ-kheo, vị tỳ-kheo có lòng tin, có giới, có 
 Vị ấy nghĩ như vầy:
 
 <!-- seg: mn120:4-5.3 -->
-'Ước gì khi thân này tan rã, sau khi chết, tôi được tái sinh vào hàng ngũ những bà-la-môn giàu sang; ước gì khi thân này tan rã, sau khi chết, tôi được tái sinh
+'Ước gì khi thân này tan rã, sau khi chết, tôi được tái sinh vào hàng ngũ những bà-la-môn giàu sang.' Vị ấy nghĩ như vầy: 'Ước gì khi thân này tan rã, sau khi chết, tôi được tái sinh
 
 <!-- seg: mn120:4-5.4 -->
 vào hàng ngũ những gia chủ giàu sang.'
@@ -152,7 +152,7 @@ Này các tỳ-kheo, vị Phạm Thiên của một ngàn cõi tỏa khắp mộ
 [Chú thích: Bản Pali không nói rõ tỏa khắp nghĩa là gì, nhưng có lẽ đó là bốn vô lượng tâm, vốn được mô tả là được rải ra hay tỏa khắp trong các kinh khác.]
 
 <!-- seg: mn120:12.5 -->
-Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào và an trú.
+Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:12.6 -->
 Này các tỳ-kheo, ví như một người có mắt sáng đặt một quả āmaṇḍa (một loại quả nhỏ, tròn, vỏ cứng) vào lòng bàn tay rồi xem xét;
@@ -161,7 +161,7 @@ Này các tỳ-kheo, ví như một người có mắt sáng đặt một quả 
 cũng vậy, này các tỳ-kheo, vị Phạm Thiên của một ngàn cõi tỏa khắp một ngàn cõi thế giới, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:12.8 -->
-Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào và an trú.
+Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:12.9 -->
 Vị ấy nghĩ như vầy:
@@ -208,7 +208,7 @@ vị Phạm Thiên của năm ngàn cõi sống lâu, xinh đẹp, nhiều an l�
 Này các tỳ-kheo, vị Phạm Thiên của năm ngàn cõi tỏa khắp năm ngàn cõi thế giới, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:13-16.10 -->
-Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào và an trú.
+Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:13-16.11 -->
 Này các tỳ-kheo, ví như một người có mắt sáng đặt năm quả āmaṇḍa vào lòng bàn tay rồi xem xét;
@@ -217,7 +217,7 @@ Này các tỳ-kheo, ví như một người có mắt sáng đặt năm quả �
 cũng vậy, này các tỳ-kheo, vị Phạm Thiên của năm ngàn cõi tỏa khắp năm ngàn cõi thế giới, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:13-16.13 -->
-Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào và an trú.
+Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:13-16.14 -->
 Vị ấy nghĩ như vầy:
@@ -253,7 +253,7 @@ Vị ấy nghe rằng:
 Này các tỳ-kheo, vị Phạm Thiên của mười ngàn cõi tỏa khắp mười ngàn cõi thế giới, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:17.7 -->
-Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào và an trú.
+Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:17.8 -->
 Này các tỳ-kheo, ví như một viên ngọc veḷuriya đẹp, tự nhiên trong sáng, tám cạnh, được mài giũa khéo léo, khi đặt trên một tấm nệm len màu vàng nhạt thì sáng lên, tỏa sáng và rực rỡ;
@@ -262,7 +262,7 @@ Này các tỳ-kheo, ví như một viên ngọc veḷuriya đẹp, tự nhiên 
 cũng vậy, này các tỳ-kheo, vị Phạm Thiên của mười ngàn cõi tỏa khắp mười ngàn cõi thế giới, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:17.10 -->
-Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào và an trú.
+Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:17.11 -->
 Vị ấy nghĩ như vầy:
@@ -301,7 +301,7 @@ Vị ấy nghe rằng:
 Này các tỳ-kheo, vị Phạm Thiên của một trăm ngàn cõi tỏa khắp một trăm ngàn cõi thế giới, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:18.8 -->
-Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào và an trú.
+Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:18.9 -->
 Này các tỳ-kheo, ví như một chiếc vòng vàng sông Jambu, do một người thợ vàng khéo tay nấu chảy trong lò và rèn giũa thật kỹ, khi đặt trên một tấm nệm len màu vàng nhạt thì sáng lên, tỏa sáng và rực rỡ;
@@ -312,7 +312,7 @@ Này các tỳ-kheo, ví như một chiếc vòng vàng sông Jambu, do một ng
 cũng vậy, này các tỳ-kheo, vị Phạm Thiên của một trăm ngàn cõi tỏa khắp một trăm ngàn cõi thế giới, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:18.11 -->
-Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào và an trú.
+Những chúng sinh nào đã tái sinh tại đó, vị Phạm Thiên ấy cũng tỏa khắp, hướng tâm vào đó và an trú.
 
 <!-- seg: mn120:18.12 -->
 Vị ấy nghĩ như vầy:

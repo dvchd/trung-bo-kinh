@@ -91,7 +91,7 @@ Thế là tên gọi "Isigili, Isigili" ra đời.
 <!-- seg: mn116:3.7 -->
 Này các tỳ-kheo, Ta sẽ nói ra tên của các bậc Độc Giác;
 
-[Chú thích: Thiên Mahāvastu liệt kê nhiều vị Chánh đẳng giác thời quá khứ, trong đó có những tên trùng với danh sách các bậc Độc Giác ở đây, như Aparājita, Supatiṭṭhita, Bandhumā, Ariṭṭha, Tagarasikhī, Tissa, Sikhī, Accutagāma, Asayha, Uppala, Sudassana, Ketu, Jayanta và Uttara.]
+[Chú thích: Văn bản Mahāvastu liệt kê nhiều vị Chánh đẳng giác thời quá khứ, trong đó có những tên trùng với danh sách các bậc Độc Giác ở đây, như Aparājita, Supatiṭṭhita, Bandhumā, Ariṭṭha, Tagarasikhī, Tissa, Sikhī, Accutagāma, Asayha, Uppala, Sudassana, Ketu, Jayanta và Uttara.]
 
 <!-- seg: mn116:3.8 -->
 Ta sẽ tán thán tên của các bậc Độc Giác;
@@ -118,7 +118,7 @@ Này các tỳ-kheo, bậc Độc Giác tên Ariṭṭha đã trú lâu dài tr�
 <!-- seg: mn116:4.2 -->
 Này các tỳ-kheo, bậc Độc Giác tên Upariṭṭha đã trú lâu dài trên ngọn núi Isigili này;
 
-[Chú thích: Tên này nghĩa là "con của Ariṭṭha". Trong Thag 16.9, đây là tên của ngài Anuruddha (A-na-luật) trong một đời trước khi làm ẩn sĩ, nhưng không thể là cùng một người, vì bậc Độc Giác không còn tái sinh.]
+[Chú thích: Tên này nghĩa là "con của Ariṭṭha". Trong Thag 16.9, đây là tên của đại đức Anuruddha (A-na-luật) trong một đời trước, khi còn là ẩn sĩ, nhưng không thể là cùng một người, vì bậc Độc Giác không còn tái sinh.]
 
 <!-- seg: mn116:4.3 -->
 Này các tỳ-kheo, bậc Độc Giác tên Tagarasikhī đã trú lâu dài trên ngọn núi Isigili này;
@@ -179,7 +179,7 @@ những vị đã tự mình chứng đạt giác ngộ;
 của những bậc tối thượng trong loài người ấy, những vị đã nhổ sạch mũi tên,
 
 <!-- seg: mn116:5.4 -->
-hãy nghe ta tán thán tên của các vị ấy.
+hãy nghe Ta tán thán tên của các vị ấy.
 
 <!-- seg: mn116:5.5 -->
 Ariṭṭha, Upariṭṭha, Tagarasikhī, Yasassī,

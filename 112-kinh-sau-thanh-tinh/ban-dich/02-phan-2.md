@@ -5,10 +5,10 @@ Và tôi biết rõ rằng tâm tôi được giải thoát nhờ sự đoạn t
 Thưa các hiền giả, tôi biết như vầy, thấy như vầy, nên đối với sáu giới này, nhờ không thủ chấp, tâm tôi được giải thoát khỏi các lậu hoặc.
 
 <!-- seg: mn112:9.1 -->
-Này các tỳ-kheo, các ông nên hoan hỷ và tán thán lời nói 'Lành thay!' của vị tỳ-kheo ấy.
+Này các tỳ-kheo, các ông nên hoan hỷ và tán thán lời nói của vị tỳ-kheo ấy bằng câu 'Lành thay!'.
 
 <!-- seg: mn112:9.2 -->
-Sau khi hoan hỷ và tán thán lời nói 'Lành thay!' ấy, các ông nên hỏi thêm:
+Sau khi hoan hỷ và tán thán lời nói ấy bằng câu 'Lành thay!', các ông nên hỏi thêm:
 
 <!-- seg: mn112:9.3 -->
 Thưa hiền giả, sáu xứ trong và ngoài này đã được Đức Thế Tôn, bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác, thuyết giảng đúng đắn.
@@ -31,7 +31,7 @@ Này các tỳ-kheo, với một tỳ-kheo đã tận các lậu hoặc, đã s�
 <!-- seg: mn112:10.2 -->
 Thưa các hiền giả, đối với mắt, các sắc, nhãn thức và các pháp do nhãn thức biết — những gì là ước muốn, là tham, là thích thú, là ái, và những sự bám víu và thủ chấp, những sự cố định, sự cố chấp và tùy miên của tâm — nhờ sự đoạn tận, sự ly tham, sự chấm dứt, sự từ bỏ và sự buông xả những điều ấy, tôi biết rõ rằng tâm tôi được giải thoát.
 
-[Chú thích: Cụm mắt, sắc, nhãn thức và các pháp do nhãn thức biết có vẻ trùng lặp, vì sắc chính là những gì nhãn thức biết. Bản Hán tương đương bỏ chữ sắc ở đây, nên nhiều khả năng nguyên bản không có chữ ấy mà do người biên tập thêm vào.]
+[Chú thích: Cụm 'mắt, sắc, nhãn thức và các pháp do nhãn thức biết' có vẻ trùng lặp, vì sắc chính là những gì nhãn thức biết. Bản Hán tương đương bỏ chữ sắc ở đây, nên nhiều khả năng nguyên bản không có chữ ấy mà do người biên tập thêm vào.]
 
 <!-- seg: mn112:10.3 -->
 Thưa các hiền giả, đối với tai, các tiếng, nhĩ thức và các pháp do nhĩ thức biết — những gì là ước muốn, là tham, là thích thú, là ái, và những sự bám víu và thủ chấp, những sự cố định, sự cố chấp và tùy miên của tâm — nhờ sự đoạn tận, sự ly tham, sự chấm dứt, sự từ bỏ và sự buông xả những điều ấy, tôi biết rõ rằng tâm tôi được giải thoát.
@@ -52,10 +52,10 @@ Thưa các hiền giả, đối với ý, các pháp, ý thức và các pháp d
 Thưa các hiền giả, tôi biết như vầy, thấy như vầy, nên đối với sáu xứ trong và ngoài này, nhờ không thủ chấp, tâm tôi được giải thoát khỏi các lậu hoặc.
 
 <!-- seg: mn112:11.1 -->
-Này các tỳ-kheo, các ông nên hoan hỷ và tán thán lời nói 'Lành thay!' của vị tỳ-kheo ấy.
+Này các tỳ-kheo, các ông nên hoan hỷ và tán thán lời nói của vị tỳ-kheo ấy bằng câu 'Lành thay!'.
 
 <!-- seg: mn112:11.2 -->
-Sau khi hoan hỷ và tán thán lời nói 'Lành thay!' ấy, các ông nên hỏi thêm:
+Sau khi hoan hỷ và tán thán lời nói ấy bằng câu 'Lành thay!', các ông nên hỏi thêm:
 
 <!-- seg: mn112:11.3 -->
 Thưa hiền giả, vị biết như thế nào, thấy như thế nào mà đối với thân có thức này và đối với mọi tướng bên ngoài, sự tạo tác cái 'ta', sự tạo tác cái 'của ta' và tùy miên ngã mạn đều được đoạn trừ?

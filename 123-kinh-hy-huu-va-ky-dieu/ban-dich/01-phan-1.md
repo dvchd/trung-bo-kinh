@@ -5,7 +5,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn123:2.1 -->
-Rồi sau bữa ăn, khi đã đi khất thực về, nhiều tỳ-kheo ngồi tụ họp nhau trong giảng đường, và câu chuyện này khởi lên giữa các vị ấy:
+Rồi sau bữa ăn, khi đã đi khất thực về, nhiều tỳ-kheo cùng ngồi tụ họp trong giảng đường, và câu chuyện này khởi lên giữa các vị ấy:
 
 <!-- seg: mn123:2.2 -->
 "Thật hy hữu thay, này các hiền giả! Thật kỳ diệu thay, này các hiền giả! Như Lai có đại thần lực và đại uy lực đến thế,
@@ -27,7 +27,7 @@ Khi nghe nói vậy, Tôn giả Ānanda (A-nan) nói với các tỳ-kheo ấy:
 <!-- seg: mn123:2.7 -->
 các Như Lai thật kỳ diệu, này các hiền giả, và các Ngài có những phẩm chất kỳ diệu."
 
-[Chú thích: Đây là ví dụ tiêu biểu cho thể loại chuyện hy hữu, một trong chín thể loại của giáo pháp, và thể loại này gắn chặt với Tôn giả Ānanda đến mức có thể xem ngài là người khởi xướng. Khi Ānanda đang ở lúc buồn bã, Đức Thế Tôn đã chuyển câu chuyện sang những phẩm chất hy hữu của chính ngài.]
+[Chú thích: Đây là ví dụ tiêu biểu cho thể loại chuyện hy hữu, một trong chín thể loại của giáo pháp, và thể loại này gắn chặt với Tôn giả Ānanda đến mức có thể xem ngài là người khởi xướng. Khi Ānanda đang ở lúc buồn bã, Đức Thế Tôn đã chuyển câu chuyện sang những phẩm chất hy hữu của chính Ānanda.]
 
 <!-- seg: mn123:2.8 -->
 Câu chuyện ấy giữa các tỳ-kheo vẫn còn đang dở dang.
@@ -115,7 +115,7 @@ Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức 
 thì trong thế giới này cùng với chư thiên, Ma vương và Phạm Thiên, giữa đám đông có cả sa-môn và bà-la-môn, chư thiên và loài người, một ánh sáng vô lượng, rực rỡ xuất hiện, vượt qua cả uy lực của chư thiên.
 
 <!-- seg: mn123:7.4 -->
-Những khoảng không giữa các thế giới, mênh mông, tối tăm, đen kịt, nơi mặt trăng và mặt trời có đại thần lực và đại uy lực như vậy cũng không chiếu tới được bằng ánh sáng của chúng — ngay cả ở đó, một ánh sáng vô lượng, rực rỡ cũng xuất hiện trong thế gian, vượt qua cả uy lực của chư thiên.
+Những khoảng không giữa các thế giới, mênh mông, tối tăm, đen kịt, nơi mặt trăng và mặt trời, dù có đại thần lực và đại uy lực đến vậy, cũng không chiếu tới được bằng ánh sáng của chúng — ngay cả ở đó, một ánh sáng vô lượng, rực rỡ cũng xuất hiện trong thế gian, vượt qua cả uy lực của chư thiên.
 
 [Chú thích: Chú giải đồng nhất vùng tối tăm này với một địa ngục lạnh, tương ứng với địa ngục andhatāmisra trong văn học Purāṇa. Chữ agha ở đây là khoảng không, đồng nghĩa với hư không; asaṁvutā nghĩa là mênh mông không giới hạn, chứ không phải vực thẳm như một bản dịch cũ từng hiểu. Nānubhonti nghĩa là không có hiệu lực, tức không chiếu tới được.]
 
@@ -156,10 +156,10 @@ Việc mẹ của vị Bồ-tát tự nhiên có giới, tránh xa sát sinh, tr
 Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức Thế Tôn, ngay trước mặt Ngài:
 
 <!-- seg: mn123:10.2 -->
-"Khi vị Bồ-tát đã nhập vào thai mẹ, này Ānanda, tâm hướng đến đàn ông và gắn với dục công đức không khởi lên nơi mẹ vị Bồ-tát; và mẹ vị Bồ-tát không thể bị người đàn ông nào có tâm tham đắm xâm phạm."
+"Khi vị Bồ-tát đã nhập vào thai mẹ, này Ānanda, nơi mẹ vị Bồ-tát không khởi lên tâm hướng đến đàn ông gắn với dục công đức; và mẹ vị Bồ-tát không thể bị người đàn ông nào có tâm tham đắm xâm phạm."
 
 <!-- seg: mn123:10.3 -->
-Việc tâm hướng đến đàn ông và gắn với dục công đức không khởi lên nơi mẹ vị Bồ-tát, và bà không thể bị người đàn ông có tâm tham đắm xâm phạm — điều ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
+Việc nơi mẹ vị Bồ-tát không khởi lên tâm hướng đến đàn ông gắn với dục công đức, và bà không thể bị người đàn ông có tâm tham đắm xâm phạm — điều ấy nữa, bạch Thế Tôn, con cũng ghi nhớ là phẩm chất hy hữu và kỳ diệu của Đức Thế Tôn.
 
 <!-- seg: mn123:11.1 -->
 Bạch Thế Tôn, con đã nghe và đã thọ nhận điều này từ Đức Thế Tôn, ngay trước mặt Ngài:

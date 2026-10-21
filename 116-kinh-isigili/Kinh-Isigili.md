@@ -128,7 +128,7 @@ Thế là tên gọi "Isigili, Isigili" ra đời.
 <!-- seg: mn116:3.7 -->
 Này các tỳ-kheo, Ta sẽ nói ra tên của các bậc Độc Giác;
 
-[Chú thích: Thiên Mahāvastu liệt kê nhiều vị Chánh đẳng giác thời quá khứ, trong đó có những tên trùng với danh sách các bậc Độc Giác ở đây, như Aparājita, Supatiṭṭhita, Bandhumā, Ariṭṭha, Tagarasikhī, Tissa, Sikhī, Accutagāma, Asayha, Uppala, Sudassana, Ketu, Jayanta và Uttara.]
+[Chú thích: Văn bản Mahāvastu liệt kê nhiều vị Chánh đẳng giác thời quá khứ, trong đó có những tên trùng với danh sách các bậc Độc Giác ở đây, như Aparājita, Supatiṭṭhita, Bandhumā, Ariṭṭha, Tagarasikhī, Tissa, Sikhī, Accutagāma, Asayha, Uppala, Sudassana, Ketu, Jayanta và Uttara.]
 
 <!-- seg: mn116:3.8 -->
 Ta sẽ tán thán tên của các bậc Độc Giác;
@@ -155,7 +155,7 @@ Này các tỳ-kheo, bậc Độc Giác tên Ariṭṭha đã trú lâu dài tr�
 <!-- seg: mn116:4.2 -->
 Này các tỳ-kheo, bậc Độc Giác tên Upariṭṭha đã trú lâu dài trên ngọn núi Isigili này;
 
-[Chú thích: Tên này nghĩa là "con của Ariṭṭha". Trong Thag 16.9, đây là tên của ngài Anuruddha (A-na-luật) trong một đời trước khi làm ẩn sĩ, nhưng không thể là cùng một người, vì bậc Độc Giác không còn tái sinh.]
+[Chú thích: Tên này nghĩa là "con của Ariṭṭha". Trong Thag 16.9, đây là tên của đại đức Anuruddha (A-na-luật) trong một đời trước, khi còn là ẩn sĩ, nhưng không thể là cùng một người, vì bậc Độc Giác không còn tái sinh.]
 
 <!-- seg: mn116:4.3 -->
 Này các tỳ-kheo, bậc Độc Giác tên Tagarasikhī đã trú lâu dài trên ngọn núi Isigili này;
@@ -216,7 +216,7 @@ những vị đã tự mình chứng đạt giác ngộ;
 của những bậc tối thượng trong loài người ấy, những vị đã nhổ sạch mũi tên,
 
 <!-- seg: mn116:5.4 -->
-hãy nghe ta tán thán tên của các vị ấy.
+hãy nghe Ta tán thán tên của các vị ấy.
 
 <!-- seg: mn116:5.5 -->
 Ariṭṭha, Upariṭṭha, Tagarasikhī, Yasassī,
@@ -295,12 +295,12 @@ Aparājita đã chiến thắng uy lực của Ma vương.
 <!-- seg: mn116:6.13 -->
 Satthar, Pavattar, Sarabhaṅga, Lomahaṁsa,
 
-[Chú thích: Satthar nghĩa là "bậc thầy", dùng được cả trong Phật giáo lẫn Kỳ-na giáo; Pavattar nghĩa là "người tuyên bố, người vận chuyển". Sarabhaṅga nghĩa là "kẻ bẻ gãy mũi tên", từng là ẩn sĩ trong rừng Daṇḍaka, có nhắc trong MN 56; Lomahaṁsa nghĩa là "dựng tóc gáy".]
+[Chú thích: Satthar nghĩa là "bậc thầy", dùng được cả trong Phật giáo lẫn Kỳ-na giáo; Pavattar nghĩa là "người tuyên bố, người chuyển vận". Sarabhaṅga nghĩa là "kẻ bẻ gãy mũi tên", từng là ẩn sĩ trong rừng Daṇḍaka, có nhắc trong MN 56; Lomahaṁsa nghĩa là "dựng tóc gáy".]
 
 <!-- seg: mn116:6.14 -->
 Uccaṅgamāya, Asita, Anāsava;
 
-[Chú thích: Asita nghĩa là "người sẫm tối", tên vị ẩn sĩ đã đến thăm Siddhattha sau khi thái tử ra đời (Snp 3.11), và cũng là tên một vị ẩn sĩ khác có nhắc trong MN 93. Anāsava nghĩa là "không còn lậu hoặc"; sự sạch hết ô nhiễm là một khái niệm then chốt của Kỳ-na giáo.]
+[Chú thích: Asita nghĩa là "người sẫm tối", tên vị ẩn sĩ đã đến thăm Siddhattha sau khi thái tử ra đời (Snp 3.11), và cũng là tên một vị ẩn sĩ khác có nhắc trong MN 93. Anāsava nghĩa là "không còn lậu hoặc"; thoát khỏi mọi ô nhiễm là một khái niệm then chốt của Kỳ-na giáo.]
 
 <!-- seg: mn116:6.15 -->
 Manomaya, và Bandhumā, người đã cắt đứt lòng kiêu mạn,
@@ -308,7 +308,7 @@ Manomaya, và Bandhumā, người đã cắt đứt lòng kiêu mạn,
 <!-- seg: mn116:6.16 -->
 rồi Adhimutta, và Ketumā, bậc không còn ô nhiễm.
 
-[Chú thích: Chú giải cho rằng cả cụm Tadādhimutta là một tên, nhưng ở đây tách tadā ra làm từ nối và lấy Adhimutta làm tên riêng. Ketumā nghĩa là "được trang điểm bằng cờ hiệu", giống như mặt trời, và tương ứng với Ketu trong Mahāvastu. Vimala có thể là phẩm chất "không ô nhiễm", nhưng cũng có thể là tên riêng, trùng với vị tổ sư thứ mười ba của Kỳ-na giáo.]
+[Chú thích: Chú giải cho rằng trong dòng này chỉ có Tadādhimutta là tên, nhưng ở đây tách tadā ra làm từ nối và lấy Adhimutta làm tên riêng. Ketumā nghĩa là "được trang điểm bằng cờ hiệu", giống như mặt trời, và tương ứng với Ketu trong Mahāvastu. Riêng vimalo thì theo chú giải là phẩm chất "không còn ô nhiễm", nhưng cũng có thể là tên riêng, trùng với vị tổ sư thứ mười ba của Kỳ-na giáo.]
 
 <!-- seg: mn116:6.17 -->
 Ketumbharāga, Mātaṅga, và Ariya,
@@ -341,7 +341,7 @@ một vị ẩn sĩ khác là Sayha, bậc có sự nỗ lực không ai bằng;
 [Chú thích: Sayha là tên một vùng núi, nơi sông Godāvarī bắt nguồn, ở phía nam Ujjeni. Có lẽ cả tên này lẫn tên trước đều chỉ người từ những vùng ấy.]
 
 <!-- seg: mn116:6.23 -->
-mười hai vị Ānanda, Nanda và Upananda,
+Ānanda, Nanda và Upananda, mười hai vị,
 
 [Chú thích: Chú giải nói mỗi tên có bốn vị, cộng lại là mười hai. Cả ba tên đều thông dụng và đều nghĩa là "niềm vui".]
 
@@ -408,7 +408,7 @@ Mānatthaddha, Sobhita, bậc không còn tham,
 <!-- seg: mn116:6.36 -->
 và Kaṇha đã giác ngộ, bậc có tâm khéo giải thoát.
 
-[Chú thích: Kaṇha nghĩa là "đen", quen thuộc hơn với tên tiếng Phạn là Krishna. Vị thần ấy không nổi bật trong các bài kinh, nhưng DN 3 cho thấy một số nét trong câu chuyện về vị thần ấy đã được biết đến.]
+[Chú thích: Kaṇha nghĩa là "đen", quen thuộc hơn với tên tiếng Phạn là Krishna. Vị thần ấy không nổi bật trong các bài kinh, nhưng DN 3 cho thấy người ta đã biết đến một số nét trong câu chuyện về vị ấy.]
 
 <!-- seg: mn116:7.1 -->
 Những vị này và những vị khác, bậc đại uy lực,
