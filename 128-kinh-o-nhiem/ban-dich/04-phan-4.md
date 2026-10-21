@@ -1,7 +1,7 @@
 <!-- seg: mn128:16.7 -->
 "Nghi ngờ khởi lên nơi ta, và vì nghi ngờ mà định của ta rơi mất.
 
-[Chú thích: Khi định chưa được củng cố, chỉ một chút do dự về cách hành thiền cũng đủ làm xáo động. Nghi ngờ cũng có thể khởi lên về việc những gì mình thấy trong thiền có thật hay không, và cách đối trị là quyết định rõ đề mục ngay từ đầu. Ba câu dưới đây dùng thì rất chính xác: một sự việc được nhớ lại ở thì quá khứ, một nguyên lý được suy ra ở thì hiện tại, và một quyết tâm được lập ra ở thì tương lai.]
+[Chú thích: Khi định chưa được củng cố, chỉ một chút do dự về cách hành thiền cũng đủ làm xáo động. Nghi ngờ cũng có thể khởi lên về việc những gì mình thấy trong thiền có thật hay không, và cách đối trị là quyết định rõ đề mục ngay từ đầu. Ba câu này dùng thì rất chính xác: một sự việc được nhớ lại ở thì quá khứ, một nguyên lý được suy ra ở thì hiện tại, và một quyết tâm được lập ra ở thì tương lai.]
 
 <!-- seg: mn128:16.8 -->
 Khi định rơi mất thì ánh sáng và sự thấy các sắc ấy cũng biến mất.

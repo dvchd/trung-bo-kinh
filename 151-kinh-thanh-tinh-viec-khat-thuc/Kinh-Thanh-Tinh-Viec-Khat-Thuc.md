@@ -16,6 +16,13 @@ Với người chưa học Phật, có thể đọc bài kinh này như một b�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 151: Kinh Thanh Tịnh Việc Khất Thực**](#trung-bộ-kinh--bài-kinh-số-151-kinh-thanh-tịnh-việc-khất-thực)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 151: Kinh Thanh Tịnh Việc Khất Thực
 
 *Piṇḍapātapārisuddhi Sutta* — bài kinh về việc làm cho trong sạch bữa ăn khất thực
@@ -69,7 +76,7 @@ Vì thế, này Sāriputta, nếu tỳ-kheo ước muốn:
 "Mong rằng ta an trú nhiều trong trú xứ trống không" — thì này Sāriputta, tỳ-kheo ấy phải suy xét như vầy:
 
 <!-- seg: mn151:3.3 -->
-"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những hình sắc được nhận biết bằng mắt, có chăng nơi ta lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?"
+"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những hình sắc được nhận biết bằng mắt, nơi ta có chăng lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?"
 
 [Chú thích: Ở đây phép quán sáu xứ giác quan được dạy trong bối cảnh thu thúc giác quan, bằng cách chủ động phát triển tuệ.]
 
@@ -77,43 +84,43 @@ Vì thế, này Sāriputta, nếu tỳ-kheo ước muốn:
 Này Sāriputta, nếu tỳ-kheo trong khi quán xét biết như vầy:
 
 <!-- seg: mn151:3.5 -->
-"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những hình sắc được nhận biết bằng mắt, có nơi ta lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm" — thì này Sāriputta, tỳ-kheo ấy phải nỗ lực đoạn trừ chính những pháp xấu ác, bất thiện ấy.
+"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những hình sắc được nhận biết bằng mắt, nơi ta có lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm" — thì này Sāriputta, tỳ-kheo ấy phải nỗ lực đoạn trừ chính những pháp xấu ác, bất thiện ấy.
 
 <!-- seg: mn151:3.6 -->
 Này Sāriputta, nhưng nếu tỳ-kheo trong khi quán xét biết như vầy:
 
 <!-- seg: mn151:3.7 -->
-"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những hình sắc được nhận biết bằng mắt, không có nơi ta lòng ham muốn, không có lòng tham, không có lòng sân, không có lòng si, cũng không có sự chống đối của tâm" — thì này Sāriputta, tỳ-kheo ấy hãy an trú trong chính niềm vui và hoan hỷ ấy, ngày đêm tu học trong những pháp thiện.
+"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những hình sắc được nhận biết bằng mắt, nơi ta không có lòng ham muốn, không có lòng tham, không có lòng sân, không có lòng si, cũng không có sự chống đối của tâm" — thì này Sāriputta, tỳ-kheo ấy hãy an trú trong chính niềm vui và hoan hỷ ấy, ngày đêm tu học trong những pháp thiện.
 
 <!-- seg: mn151:4-8.1 -->
 Lại nữa, này Sāriputta, tỳ-kheo phải suy xét như vầy:
 
 <!-- seg: mn151:4-8.2 -->
-"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những âm thanh được nhận biết bằng tai, có chăng nơi ta lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?
+"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những âm thanh được nhận biết bằng tai, nơi ta có chăng lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?
 
 <!-- seg: mn151:4-8.3 -->
-Ở đó, đối với những mùi được nhận biết bằng mũi, có chăng nơi ta lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?
+Ở đó, đối với những mùi được nhận biết bằng mũi, nơi ta có chăng lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?
 
 <!-- seg: mn151:4-8.4 -->
-Ở đó, đối với những vị được nhận biết bằng lưỡi, có chăng nơi ta lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?
+Ở đó, đối với những vị được nhận biết bằng lưỡi, nơi ta có chăng lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?
 
 <!-- seg: mn151:4-8.5 -->
-Ở đó, đối với những vật xúc chạm được nhận biết bằng thân, có chăng nơi ta lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?
+Ở đó, đối với những vật xúc chạm được nhận biết bằng thân, nơi ta có chăng lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?
 
 <!-- seg: mn151:4-8.6 -->
-Ở đó, đối với những pháp được nhận biết bằng ý, có chăng nơi ta lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?"
+Ở đó, đối với những pháp được nhận biết bằng ý, nơi ta có chăng lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm?"
 
 <!-- seg: mn151:4-8.7 -->
 Này Sāriputta, nếu tỳ-kheo trong khi quán xét biết như vầy:
 
 <!-- seg: mn151:4-8.8 -->
-"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những pháp được nhận biết bằng ý, có nơi ta lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm" — thì này Sāriputta, tỳ-kheo ấy phải nỗ lực đoạn trừ chính những pháp xấu ác, bất thiện ấy.
+"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những pháp được nhận biết bằng ý, nơi ta có lòng ham muốn, lòng tham, lòng sân, lòng si, hay sự chống đối của tâm" — thì này Sāriputta, tỳ-kheo ấy phải nỗ lực đoạn trừ chính những pháp xấu ác, bất thiện ấy.
 
 <!-- seg: mn151:4-8.9 -->
 Này Sāriputta, nhưng nếu tỳ-kheo trong khi quán xét biết như vầy:
 
 <!-- seg: mn151:4-8.10 -->
-"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những pháp được nhận biết bằng ý, không có nơi ta lòng ham muốn, không có lòng tham, không có lòng sân, không có lòng si, cũng không có sự chống đối của tâm" — thì này Sāriputta, tỳ-kheo ấy hãy an trú trong chính niềm vui và hoan hỷ ấy, ngày đêm tu học trong những pháp thiện.
+"Trên con đường ta đi vào làng để khất thực, ở chỗ ta đi khất thực, và trên con đường ta từ làng khất thực trở về — ở đó, đối với những pháp được nhận biết bằng ý, nơi ta không có lòng ham muốn, không có lòng tham, không có lòng sân, không có lòng si, cũng không có sự chống đối của tâm" — thì này Sāriputta, tỳ-kheo ấy hãy an trú trong chính niềm vui và hoan hỷ ấy, ngày đêm tu học trong những pháp thiện.
 
 <!-- seg: mn151:9.1 -->
 Lại nữa, này Sāriputta, tỳ-kheo phải suy xét như vầy:

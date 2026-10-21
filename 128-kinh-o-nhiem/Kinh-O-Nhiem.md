@@ -329,7 +329,7 @@ Xin đừng làm cho họ khó chịu."
 Đại đức Anuruddha nghe được lời người giữ công viên đang nói với Đức Thế Tôn,
 
 <!-- seg: mn128:9.2 -->
-nghe xong, Ngài nói với người giữ công viên:
+nghe xong, đại đức ấy nói với người giữ công viên:
 
 <!-- seg: mn128:9.3 -->
 "Này ông bạn giữ công viên, xin đừng ngăn Đức Thế Tôn lại.
@@ -338,7 +338,7 @@ nghe xong, Ngài nói với người giữ công viên:
 Đức Thế Tôn, bậc Đạo sư của chúng tôi, đã đến rồi."
 
 <!-- seg: mn128:10.1 -->
-Rồi đại đức Anuruddha đi đến chỗ đại đức Nandiya và đại đức Kimbila; đến nơi, Ngài nói với đại đức Nandiya và đại đức Kimbila:
+Rồi đại đức Anuruddha đi đến chỗ đại đức Nandiya và đại đức Kimbila; đến nơi, đại đức ấy nói với đại đức Nandiya và đại đức Kimbila:
 
 <!-- seg: mn128:10.2 -->
 "Các đại đức hãy lại đây, các đại đức hãy lại đây! Đức Thế Tôn, bậc Đạo sư của chúng tôi, đã đến rồi."
@@ -409,7 +409,7 @@ Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn d�
 Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn128:12.11 -->
-Đại đức Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con lại nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một.""
+Đại đức Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con lại nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn128:12.12 -->
 Đại đức Kimbila cũng nói với Đức Thế Tôn như vầy:
@@ -466,7 +466,7 @@ Các ông có đang sống không phóng dật, nhiệt tâm, dốc lòng không
 Vị nào về sau, nếu còn đồ ăn thừa và nếu muốn thì ăn; nếu không muốn thì đổ ở chỗ ít cỏ mọc, hoặc dìm xuống nước không có chúng sinh.
 
 <!-- seg: mn128:14.5 -->
-Vị ấy dọn chỗ ngồi, dọn nước uống và nước dùng, dọn chậu đựng rác, và quét nhà ăn.
+Vị ấy dọn chỗ ngồi, dọn nước uống và nước dùng, rửa chậu đựng rác rồi cất đi, và quét nhà ăn.
 
 <!-- seg: mn128:14.6 -->
 Vị nào thấy ghè nước uống, ghè nước dùng hay ghè nước vệ sinh đã cạn trống thì chuẩn bị lại cho đầy.
@@ -504,7 +504,7 @@ mà chúng con không thấu rõ được căn nguyên ấy."
 [Chú thích: Ở dưới, Đức Thế Tôn truy xét theo "nhân và duyên", nên chú giải hiểu nimitta ở đây là căn nguyên. Cần phân biệt: "ánh sáng và sự thấy các sắc" ở câu trên không phải là nimitta, vì trong các văn bản sơ kỳ nimitta không mang nghĩa ấy.]
 
 <!-- seg: mn128:16.1 -->
-"Này Anuruddha, các ông cần phải thấu rõ căn nguyên ấy.
+Này Anuruddha, các ông cần phải thấu rõ căn nguyên ấy.
 
 <!-- seg: mn128:16.2 -->
 Này Anuruddha, trước khi giác ngộ, khi ta còn chưa giác ngộ và đang là một vị bồ-tát, ta cũng nhận biết được ánh sáng và thấy được các sắc.
@@ -528,7 +528,7 @@ Này Anuruddha, ta lại suy nghĩ:
 <!-- seg: mn128:16.7 -->
 "Nghi ngờ khởi lên nơi ta, và vì nghi ngờ mà định của ta rơi mất.
 
-[Chú thích: Khi định chưa được củng cố, chỉ một chút do dự về cách hành thiền cũng đủ làm xáo động. Nghi ngờ cũng có thể khởi lên về việc những gì mình thấy trong thiền có thật hay không, và cách đối trị là quyết định rõ đề mục ngay từ đầu. Ba câu dưới đây dùng thì rất chính xác: một sự việc được nhớ lại ở thì quá khứ, một nguyên lý được suy ra ở thì hiện tại, và một quyết tâm được lập ra ở thì tương lai.]
+[Chú thích: Khi định chưa được củng cố, chỉ một chút do dự về cách hành thiền cũng đủ làm xáo động. Nghi ngờ cũng có thể khởi lên về việc những gì mình thấy trong thiền có thật hay không, và cách đối trị là quyết định rõ đề mục ngay từ đầu. Ba câu này dùng thì rất chính xác: một sự việc được nhớ lại ở thì quá khứ, một nguyên lý được suy ra ở thì hiện tại, và một quyết tâm được lập ra ở thì tương lai.]
 
 <!-- seg: mn128:16.8 -->
 Khi định rơi mất thì ánh sáng và sự thấy các sắc ấy cũng biến mất.
@@ -912,7 +912,7 @@ sau khi hiểu rằng "quá chú mục vào các sắc là ô nhiễm của tâm
 Này Anuruddha, ta suy nghĩ:
 
 <!-- seg: mn128:31.2 -->
-"Những ô nhiễm của tâm nơi ta đã được ta từ bỏ.
+"Những ô nhiễm của tâm nơi ta đã được từ bỏ.
 
 <!-- seg: mn128:31.3 -->
 Nào, giờ ta hãy tu tập định theo ba cách."

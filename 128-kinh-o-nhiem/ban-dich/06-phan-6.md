@@ -53,7 +53,7 @@ sau khi hiểu rằng "quá chú mục vào các sắc là ô nhiễm của tâm
 Này Anuruddha, ta suy nghĩ:
 
 <!-- seg: mn128:31.2 -->
-"Những ô nhiễm của tâm nơi ta đã được ta từ bỏ.
+"Những ô nhiễm của tâm nơi ta đã được từ bỏ.
 
 <!-- seg: mn128:31.3 -->
 Nào, giờ ta hãy tu tập định theo ba cách."

@@ -44,7 +44,7 @@ Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn d�
 Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn128:12.11 -->
-Đại đức Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con lại nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một.""
+Đại đức Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con lại nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn128:12.12 -->
 Đại đức Kimbila cũng nói với Đức Thế Tôn như vầy:
@@ -101,7 +101,7 @@ Các ông có đang sống không phóng dật, nhiệt tâm, dốc lòng không
 Vị nào về sau, nếu còn đồ ăn thừa và nếu muốn thì ăn; nếu không muốn thì đổ ở chỗ ít cỏ mọc, hoặc dìm xuống nước không có chúng sinh.
 
 <!-- seg: mn128:14.5 -->
-Vị ấy dọn chỗ ngồi, dọn nước uống và nước dùng, dọn chậu đựng rác, và quét nhà ăn.
+Vị ấy dọn chỗ ngồi, dọn nước uống và nước dùng, rửa chậu đựng rác rồi cất đi, và quét nhà ăn.
 
 <!-- seg: mn128:14.6 -->
 Vị nào thấy ghè nước uống, ghè nước dùng hay ghè nước vệ sinh đã cạn trống thì chuẩn bị lại cho đầy.
@@ -139,7 +139,7 @@ mà chúng con không thấu rõ được căn nguyên ấy."
 [Chú thích: Ở dưới, Đức Thế Tôn truy xét theo "nhân và duyên", nên chú giải hiểu nimitta ở đây là căn nguyên. Cần phân biệt: "ánh sáng và sự thấy các sắc" ở câu trên không phải là nimitta, vì trong các văn bản sơ kỳ nimitta không mang nghĩa ấy.]
 
 <!-- seg: mn128:16.1 -->
-"Này Anuruddha, các ông cần phải thấu rõ căn nguyên ấy.
+Này Anuruddha, các ông cần phải thấu rõ căn nguyên ấy.
 
 <!-- seg: mn128:16.2 -->
 Này Anuruddha, trước khi giác ngộ, khi ta còn chưa giác ngộ và đang là một vị bồ-tát, ta cũng nhận biết được ánh sáng và thấy được các sắc.

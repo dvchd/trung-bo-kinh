@@ -130,7 +130,7 @@ Xin đừng làm cho họ khó chịu."
 Đại đức Anuruddha nghe được lời người giữ công viên đang nói với Đức Thế Tôn,
 
 <!-- seg: mn128:9.2 -->
-nghe xong, Ngài nói với người giữ công viên:
+nghe xong, đại đức ấy nói với người giữ công viên:
 
 <!-- seg: mn128:9.3 -->
 "Này ông bạn giữ công viên, xin đừng ngăn Đức Thế Tôn lại.
@@ -139,7 +139,7 @@ nghe xong, Ngài nói với người giữ công viên:
 Đức Thế Tôn, bậc Đạo sư của chúng tôi, đã đến rồi."
 
 <!-- seg: mn128:10.1 -->
-Rồi đại đức Anuruddha đi đến chỗ đại đức Nandiya và đại đức Kimbila; đến nơi, Ngài nói với đại đức Nandiya và đại đức Kimbila:
+Rồi đại đức Anuruddha đi đến chỗ đại đức Nandiya và đại đức Kimbila; đến nơi, đại đức ấy nói với đại đức Nandiya và đại đức Kimbila:
 
 <!-- seg: mn128:10.2 -->
 "Các đại đức hãy lại đây, các đại đức hãy lại đây! Đức Thế Tôn, bậc Đạo sư của chúng tôi, đã đến rồi."
