@@ -87,12 +87,12 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 8 | [Kinh Loại Bỏ](008-kinh-loai-bo/Kinh-Loai-Bo.md) | *Sallekha* | ✅ |
 | 9 | [Kinh Chánh Kiến](009-kinh-chanh-kien/Kinh-Chanh-Kien.md) | *Sammādiṭṭhi* | ✅ |
 | 10 | [Kinh Niệm Xứ](010-kinh-niem-xu/Kinh-Niem-Xu.md) | *Satipaṭṭhāna* | ✅ |
-| 11 | Tiểu Kinh Sư Tử Hống | *Cūḷasīhanāda* | — |
+| 11 | [Tiểu Kinh Sư Tử Hống](011-kinh-tieu-su-tu-hong/Kinh-Tieu-Su-Tu-Hong.md) | *Cūḷasīhanāda* | ✅ |
 | 12 | [Đại Kinh Sư Tử Hống](012-kinh-dai-su-tu-hong/Kinh-Dai-Su-Tu-Hong.md) | *Mahāsīhanāda* | ✅ |
 | 13 | [Đại Kinh Khổ Uẩn](013-kinh-dai-kho-uan/Kinh-Dai-Kho-Uan.md) | *Mahādukkhakkhandha* | ✅ |
-| 14 | Tiểu Kinh Khổ Uẩn | *Cūḷadukkhakkhandha* | — |
-| 15 | Kinh Suy Đoán | *Anumāna* | — |
-| 16 | Kinh Tâm Hoang Vu | *Cetokhila* | — |
+| 14 | [Tiểu Kinh Khổ Uẩn](014-kinh-tieu-kho-uan/Kinh-Tieu-Kho-Uan.md) | *Cūḷadukkhakkhandha* | ✅ |
+| 15 | [Kinh Suy Đoán](015-kinh-suy-doan/Kinh-Suy-Doan.md) | *Anumāna* | ✅ |
+| 16 | [Kinh Tâm Hoang Vu](016-kinh-tam-hoang-vu/Kinh-Tam-Hoang-Vu.md) | *Cetokhila* | ✅ |
 | 17 | [Kinh Khu Rừng](017-kinh-khu-rung/Kinh-Khu-Rung.md) | *Vanapattha* | ✅ |
 | 18 | [Kinh Mật Hoàn](018-kinh-mat-hoan/Kinh-Mat-Hoan.md) | *Madhupiṇḍika* | ✅ |
 | 19 | [Kinh Hai Loại Tầm](019-kinh-hai-loai-tam/Kinh-Hai-Loai-Tam.md) | *Dvedhāvitakka* | ✅ |
@@ -127,8 +127,8 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 48 | [Kinh Kosambī](048-kinh-kosambi/Kinh-Kosambi.md) | *Kosambiya* | ✅ |
 | 49 | [Kinh Phạm Thiên Mời](049-kinh-pham-thien-moi/Kinh-Pham-Thien-Moi.md) | *Brahmanimantanika* | ✅ |
 | 50 | [Kinh Sự Khiển Trách Ma](050-kinh-su-khien-trach-ma/Kinh-Su-Khien-Trach-Ma.md) | *Māratajjanīya* | ✅ |
-| 51 | Kinh Kandaraka | *Kandaraka* | — |
-| 52 | Kinh Aṭṭhakanāgara | *Aṭṭhakanāgara* | — |
+| 51 | [Kinh Kandaraka](051-kinh-kandaraka/Kinh-Kandaraka.md) | *Kandaraka* | ✅ |
+| 52 | [Kinh Aṭṭhakanāgara](052-kinh-atthakanagara/Kinh-Atthakanagara.md) | *Aṭṭhakanāgara* | ✅ |
 | 53 | [Kinh Hữu Học](053-kinh-huu-hoc/Kinh-Huu-Hoc.md) | *Sekha* | ✅ |
 | 54 | [Kinh Potaliya](054-kinh-potaliya/Kinh-Potaliya.md) | *Potaliya* | ✅ |
 | 55 | [Kinh Jīvaka](055-kinh-jivaka/Kinh-Jivaka.md) | *Jīvaka* | ✅ |

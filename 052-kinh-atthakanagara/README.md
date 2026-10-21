@@ -8,7 +8,14 @@
 
 ## Về bài kinh
 
-<!-- Người dịch viết 3–6 câu: bài nói về ai, việc gì, kết thúc thế nào. -->
+Gia chủ Dasama, một người giàu có ở Aṭṭhakanāgara, nhân chuyến đi Pāṭaliputta liền tìm đến tôn
+giả Ānanda để hỏi có pháp nào duy nhất đưa đến giải thoát trọn vẹn. Ānanda đáp có, rồi kể ra mười
+một pháp: bốn thiền-na, bốn tâm vô lượng (từ, bi, hỷ, xả) và ba tầng thiền vô sắc. Mỗi pháp được
+trình bày theo cùng một khuôn: sau khi chứng và trú, vị ấy nhìn lại trạng thái ấy, thấy nó do tạo
+tác và ý chí làm nên, nên vô thường, hoại diệt; nhờ đó hoặc đoạn tận các lậu hoặc ngay đời này,
+hoặc chứng quả bất hoàn. Dasama hoan hỷ ví mình như người tìm một cửa kho báu mà được mười một
+cửa, rồi cúng dường Tăng đoàn ở hai thành và tặng y cùng tịnh thất cho Ānanda. Bài kinh là một ví
+dụ rõ về cách lấy thiền-na làm nền cho tuệ quán.
 
 ## Con số
 
@@ -20,7 +27,12 @@
 
 ## Cấu trúc
 
-<!-- Liệt kê các tệp trong ban-dich/ kèm một dòng nội dung, sau khi dịch xong. -->
+| Tệp | Nội dung |
+|---|---|
+| [`ban-dich/00-gioi-thieu.md`](ban-dich/00-gioi-thieu.md) | Lời giới thiệu cho người chưa học Phật |
+| [`ban-dich/00-title.md`](ban-dich/00-title.md) | Nhan đề bài kinh |
+| [`ban-dich/01-phan-1.md`](ban-dich/01-phan-1.md) | Bối cảnh tại Beluva; câu hỏi của gia chủ Dasama về một pháp; bốn thiền-na, bốn tâm vô lượng và không vô biên xứ, mỗi mục theo khuôn quán vô thường |
+| [`ban-dich/02-phan-2.md`](ban-dich/02-phan-2.md) | Thức vô biên xứ và vô sở hữu xứ; lời tán thán mười một cửa bất tử; cúng dường Tăng đoàn hai thành và kết kinh |
 
 ## Cách đọc và góp ý
 
