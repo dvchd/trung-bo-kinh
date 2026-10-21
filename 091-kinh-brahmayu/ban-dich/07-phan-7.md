@@ -1,5 +1,5 @@
 <!-- seg: mn91:39.5 -->
-"Ông ấy đã tái sinh về đâu, đời sau ra sao?"
+Ông ấy sẽ đi về đâu, đời sau sẽ thế nào?"
 
 <!-- seg: mn91:39.6 -->
 "Này các tỳ-kheo, bà-la-môn Brahmāyu là người sáng suốt. Ông ấy đã thực hành Pháp theo đúng Pháp, và không làm khó ta về chuyện Pháp.

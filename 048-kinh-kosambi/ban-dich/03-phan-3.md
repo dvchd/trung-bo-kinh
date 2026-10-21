@@ -1,5 +1,5 @@
 <!-- seg: mn48:14.5 -->
-Người ấy hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn48:14.6 -->
 'Người thành tựu tri kiến có sức mạnh như thế nào thì ta cũng có sức mạnh như thế ấy.'

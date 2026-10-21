@@ -16,6 +16,13 @@ Bài kinh khép lại bằng một tiêu chuẩn cho người nói: trả lời 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 103: Kinh Như Thế Nào**](#trung-bộ-kinh--bài-kinh-số-103-kinh-như-thế-nào)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 103: Kinh Như Thế Nào
 
 *Kinti Sutta* — bài kinh về câu hỏi "các ông nghĩ về ta như thế nào" và cách giữ hòa hợp khi có bất đồng về Pháp
@@ -44,7 +51,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn103:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn103:2.1 -->
 Này các tỳ-kheo, có phải các ông nghĩ về ta như thế này:

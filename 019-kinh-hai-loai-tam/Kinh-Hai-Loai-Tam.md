@@ -55,7 +55,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn19:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn19:2.1 -->
 Này các tỳ-kheo, trước khi Ta giác ngộ, khi chưa chứng ngộ trọn vẹn, còn là Bồ-tát, Ta đã nghĩ như vầy:

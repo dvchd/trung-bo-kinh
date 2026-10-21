@@ -14,7 +14,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Bạch Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn7:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn7:2.1 -->
 Này các tỳ-kheo, ví như một tấm vải dơ bẩn, vấy đầy cáu bẩn.

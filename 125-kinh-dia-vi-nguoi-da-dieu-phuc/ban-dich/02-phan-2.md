@@ -8,7 +8,7 @@
 'Đứng trên đỉnh núi, tôi thấy những khu vườn, khu rừng, khoảng đất và ao sen đẹp mắt!'
 
 <!-- seg: mn125:9.18 -->
-Người bạn vừa được đưa lên đỉnh sẽ nói như vầy:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn125:9.19 -->
 "Này bạn, chính vì bị ngọn núi lớn này che khuất mà tôi đã không thấy được điều có thể thấy."

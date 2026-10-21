@@ -2,7 +2,7 @@
 Này các tỳ-kheo, nếu tỳ-kheo đang gây gổ, cãi vã, tranh chấp, lấy lời nói nhọn như mũi giáo châm chích lẫn nhau thì tâm người ấy đúng là bị chế ngự.
 
 <!-- seg: mn48:8.12 -->
-Người ấy hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn48:8.13 -->
 'Nơi ta không có sự chế ngự nào bên trong chưa được đoạn trừ, khiến cho ta vì tâm bị chế ngự bởi sự ấy mà không thể như thật biết, như thật thấy.
@@ -20,7 +20,7 @@ Hơn nữa, này các tỳ-kheo, vị thánh đệ tử suy xét như vầy:
 'Khi ta thực hành, tu tập, làm cho sung mãn tri kiến này, ta có tự mình đạt được sự an tịnh, tự mình đạt được sự tịch diệt chăng?'
 
 <!-- seg: mn48:9.3 -->
-Người ấy hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn48:9.4 -->
 'Khi ta thực hành, tu tập, làm cho sung mãn tri kiến này, ta tự mình đạt được sự an tịnh, tự mình đạt được sự tịch diệt.'
@@ -35,7 +35,7 @@ Hơn nữa, này các tỳ-kheo, vị thánh đệ tử suy xét như vầy:
 'Với tri kiến mà ta đang có, bên ngoài giáo pháp này có sa-môn hay bà-la-môn nào khác cũng có tri kiến như thế chăng?'
 
 <!-- seg: mn48:10.3 -->
-Người ấy hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn48:10.4 -->
 'Với tri kiến mà ta đang có, bên ngoài giáo pháp này không có sa-môn hay bà-la-môn nào khác cũng có tri kiến như thế.'
@@ -76,7 +76,7 @@ dù người ấy có phạm một lỗi thuộc loại còn có thể sửa đ�
 sau khi trình bày, mở ra, phơi bày như vậy, về sau người ấy tự thu thúc.
 
 <!-- seg: mn48:11.11 -->
-Người ấy hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn48:11.12 -->
 'Người thành tựu tri kiến có bản tính như thế nào thì ta cũng có bản tính như thế ấy.'
@@ -111,7 +111,7 @@ Cũng vậy, này các tỳ-kheo, bản tính của người thành tựu tri ki
 dù người ấy có dấn thân vào đủ mọi công việc lớn nhỏ vì các bạn đồng tu, người ấy vẫn tha thiết hướng tới sự học giới cao thượng, sự học tâm cao thượng, sự học tuệ cao thượng.
 
 <!-- seg: mn48:12.9 -->
-Người ấy hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn48:12.10 -->
 'Người thành tựu tri kiến có bản tính như thế nào thì ta cũng có bản tính như thế ấy.'
@@ -132,7 +132,7 @@ Và này các tỳ-kheo, sức mạnh của người thành tựu tri kiến là
 Này các tỳ-kheo, sức mạnh của người thành tựu tri kiến là như vầy: khi Pháp và Luật do Như Lai tuyên bố đang được giảng dạy, người ấy chú tâm, để tâm, dốc trọn tâm ý, tai hướng về mà nghe Pháp.
 
 <!-- seg: mn48:13.5 -->
-Người ấy hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn48:13.6 -->
 'Người thành tựu tri kiến có sức mạnh như thế nào thì ta cũng có sức mạnh như thế ấy.'

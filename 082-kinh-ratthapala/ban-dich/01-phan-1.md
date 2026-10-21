@@ -27,7 +27,7 @@ Ngài đã tự mình chứng ngộ bằng thắng trí rồi công bố cho th�
 Ngài dạy Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có nghĩa, có văn; Ngài công bố đời sống phạm hạnh hoàn toàn đầy đủ và hoàn toàn thanh tịnh.
 
 <!-- seg: mn82:2.7 -->
-Thật là tốt lành khi được gặp những bậc A-la-hán như vậy."
+Thật tốt lành thay khi được gặp những bậc A-la-hán như vậy."
 
 <!-- seg: mn82:3.1 -->
 Rồi các bà-la-môn và gia chủ ở Thullakoṭṭhika đến chỗ Đức Thế Tôn. Khi đến, có người đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên; có người chào hỏi, nói những lời thăm hỏi thân thiện rồi ngồi xuống một bên; có người chắp tay hướng về Đức Thế Tôn rồi ngồi xuống một bên; có người xưng tên họ trước Đức Thế Tôn rồi ngồi xuống một bên; có người chỉ im lặng ngồi xuống một bên.

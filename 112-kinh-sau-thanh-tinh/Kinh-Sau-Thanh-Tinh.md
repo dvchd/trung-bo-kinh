@@ -16,6 +16,13 @@ Với người mới tìm hiểu Phật giáo, bài kinh này hữu ích ở ch�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 112: Kinh Sáu Thanh Tịnh**](#trung-bộ-kinh--bài-kinh-số-112-kinh-sáu-thanh-tịnh)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 112: Kinh Sáu Thanh Tịnh
 
 *Chabbisodhana Sutta* — bài kinh về cách xét cho trong sạch một lời tuyên bố chứng quả
@@ -37,7 +44,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ Viên), tinh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn112:1.3 -->
-Ở đó, Đức Thế Tôn gọi các tỳ-kheo:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn112:1.4 -->
 "Này các tỳ-kheo!"

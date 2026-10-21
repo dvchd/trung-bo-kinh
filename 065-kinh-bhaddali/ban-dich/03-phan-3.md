@@ -1,5 +1,5 @@
 <!-- seg: mn65:17.2 -->
-"Vì sao vậy?
+Vì sao vậy?
 
 <!-- seg: mn65:17.3 -->
 Vì đó là điều tự nhiên, này Bhaddāli, đối với người làm tròn sự học tập theo lời dạy của bậc Đạo sư.

@@ -79,7 +79,7 @@ Rồi không lâu sau khi Đức Thế Tôn rời đi, Tôn giả Sāriputta g�
 "Thưa vâng, thưa Tôn giả", các tỳ-kheo đáp lại Tôn giả Sāriputta.
 
 <!-- seg: mn141:7.4 -->
-Tôn giả Sāriputta nói như vầy:
+Tôn giả Sāriputta nói điều này:
 
 <!-- seg: mn141:8.1 -->
 Thưa các vị, tại Bārāṇasi, trong vườn nai Isipatana, Như Lai, bậc A-la-hán, Chánh đẳng giác, đã chuyển vận bánh xe Pháp tối thượng; bánh xe ấy không thể bị chuyển ngược lại bởi sa-môn, bà-la-môn, chư thiên, Ma vương, Phạm Thiên hay bất cứ ai trên đời, đó là—

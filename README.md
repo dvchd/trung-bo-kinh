@@ -32,7 +32,7 @@ Các bài còn lại xem ở [mục lục đầy đủ](#mục-lục-152-bài).
    nhất trong bộ.
 3. **Muốn đọc như truyện** — các bài có cốt truyện rõ: [Kinh Aṅgulimāla](086-kinh-angulimala/Kinh-Angulimala.md)
    (kẻ giết người đổi đời), [Kinh Thánh Cầu](026-kinh-thanh-cau/Kinh-Thanh-Cau.md) (Đức Thế Tôn kể lại
-   cuộc đời mình), Kinh Dạy Channa.
+   cuộc đời mình), [Kinh Dạy Channa](144-kinh-day-channa/Kinh-Day-Channa.md).
 
 ---
 
@@ -46,6 +46,17 @@ Các bài còn lại xem ở [mục lục đầy đủ](#mục-lục-152-bài).
   lần đầu xuất hiện; không dùng lối Hán-Việt cổ.
 - **Quy ước đầy đủ**: [`HUONG-DAN-CHUNG.md`](HUONG-DAN-CHUNG.md).
 - Các chỗ Sujato có chú thích đáng giữ thì bản dịch có `[Chú thích: …]` ngay sau đoạn liên quan.
+
+---
+
+## Sổ tay
+
+Đọc kèm khi cần:
+
+- **[Giới thiệu bộ Trung Bộ Kinh](so-tay/GIOI-THIEU-BO-KINH.md)** — bộ kinh này là gì, cấu trúc
+  ba phần, nên đọc từ đâu, và cách đọc một bài kinh truyền miệng.
+- **[Bảng thuật ngữ Pali – Việt](so-tay/BANG-THUAT-NGU.md)** — các thuật ngữ quan trọng cùng cách
+  dịch đã dùng thống nhất trong 152 bài.
 
 ---
 

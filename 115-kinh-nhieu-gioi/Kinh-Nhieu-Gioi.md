@@ -16,6 +16,13 @@ Người đọc hôm nay có thể hỏi: một bài kinh toàn danh sách như 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 115: Kinh Nhiều Giới**](#trung-bộ-kinh--bài-kinh-số-115-kinh-nhiều-giới)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 115: Kinh Nhiều Giới
 
 *Bahudhātuka Sutta* — bài kinh về nhiều loại giới
@@ -35,7 +42,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ Viên), tinh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn115:1.3 -->
-Ở đó, Đức Thế Tôn gọi các tỳ-kheo:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn115:1.4 -->
 "Này các tỳ-kheo!"

@@ -16,6 +16,13 @@ Nửa sau bài kinh mở rộng câu chuyện ra khỏi chuyện ăn uống. Đ�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 66: Kinh Ví Dụ Con Chim Cút**](#trung-bộ-kinh--bài-kinh-số-66-kinh-ví-dụ-con-chim-cút)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 66: Kinh Ví Dụ Con Chim Cút
 
 *Laṭukikopamasutta* — bài kinh dùng hình ảnh con chim cút bị trói bằng dây leo mục để nói về sức mạnh hay yếu ớt của những mối ràng buộc
@@ -380,7 +387,7 @@ Còn các tỳ-kheo mong muốn học tập, sau khi từ bỏ điều ấy, s�
 "Này Udāyī, có bốn hạng người này đang hiện hữu trong thế gian.
 
 <!-- seg: mn66:13.2 -->
-Bốn là những gì?"
+Bốn là những gì?
 
 <!-- seg: mn66:14.1 -->
 "Này Udāyī, ở đây có một hạng người thực hành để từ bỏ sự bám víu, để buông bỏ sự bám víu.

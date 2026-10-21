@@ -16,6 +16,13 @@ Bài kinh khép lại bằng một lần Ma vương lên tiếng nữa, lần n�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 49: Kinh Phạm Thiên Mời**](#trung-bộ-kinh--bài-kinh-số-49-kinh-phạm-thiên-mời)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 49: Kinh Phạm Thiên Mời
 
 *Brahmanimantanika Sutta* — bài kinh về lời thỉnh mời của Phạm Thiên Baka
@@ -46,7 +53,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn49:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn49:2.1 -->
 Này các tỳ-kheo, có một thuở Ta đang trú tại Ukkaṭṭhā, trong rừng Subhaga, dưới gốc cây sa-la vua.

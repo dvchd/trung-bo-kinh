@@ -16,7 +16,7 @@ Tại đó, Tôn giả Sāriputta (Xá-lợi-phất) gọi các tỳ-kheo:
 "Thưa Tôn giả," các tỳ-kheo ấy đáp lại Tôn giả Sāriputta.
 
 <!-- seg: mn5:1.6 -->
-Tôn giả Sāriputta nói như vầy:
+Tôn giả Sāriputta nói điều này:
 
 <!-- seg: mn5:2.1 -->
 Này các vị, trên đời có bốn hạng người đang sống và đang có mặt.

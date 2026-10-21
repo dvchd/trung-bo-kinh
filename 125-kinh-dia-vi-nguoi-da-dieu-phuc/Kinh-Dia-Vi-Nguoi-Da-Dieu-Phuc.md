@@ -16,6 +16,13 @@ Tên bài, *Dantabhūmi*, nghĩa là địa vị của người đã được đ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 125: Kinh Địa Vị Người Đã Điều Phục**](#trung-bộ-kinh--bài-kinh-số-125-kinh-địa-vị-người-đã-điều-phục)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 125: Kinh Địa Vị Người Đã Điều Phục
 
 *Dantabhūmi Sutta* — bài kinh về địa vị của người đã được điều phục
@@ -163,7 +170,7 @@ Người bạn đứng ở chân núi ấy sẽ nói với người bạn đang 
 "Này bạn, đứng trên đỉnh núi, bạn thấy những gì?"
 
 <!-- seg: mn125:9.5 -->
-Người bạn trên đỉnh sẽ đáp:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn125:9.6 -->
 "Này bạn, đứng trên đỉnh núi, tôi thấy những khu vườn, khu rừng, khoảng đất và ao sen đẹp mắt."
@@ -181,7 +188,7 @@ Thế rồi người bạn đang đứng trên đỉnh núi đi xuống chân n�
 "Này bạn, đứng trên đỉnh núi, bạn thấy những gì?"
 
 <!-- seg: mn125:9.11 -->
-Người kia sẽ đáp:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn125:9.12 -->
 "Này bạn, đứng trên đỉnh núi, tôi thấy những khu vườn, khu rừng, khoảng đất và ao sen đẹp mắt."
@@ -204,7 +211,7 @@ Người bạn đã ở trên đỉnh sẽ nói như vầy:
 'Đứng trên đỉnh núi, tôi thấy những khu vườn, khu rừng, khoảng đất và ao sen đẹp mắt!'
 
 <!-- seg: mn125:9.18 -->
-Người bạn vừa được đưa lên đỉnh sẽ nói như vầy:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn125:9.19 -->
 "Này bạn, chính vì bị ngọn núi lớn này che khuất mà tôi đã không thấy được điều có thể thấy."

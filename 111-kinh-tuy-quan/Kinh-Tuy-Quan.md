@@ -16,6 +16,13 @@ Bài kinh khép lại bằng ba lời tán thán của Đức Thế Tôn. Ngài 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 111: Kinh Tùy Quán**](#trung-bộ-kinh--bài-kinh-số-111-kinh-tùy-quán)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 111: Kinh Tùy Quán
 
 *Anupada Sutta* — bài kinh về sự quán sát các pháp từng cái một
@@ -37,7 +44,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ Viên), tinh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn111:1.3 -->
-Ở đó, Đức Thế Tôn gọi các tỳ-kheo:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn111:1.4 -->
 "Này các tỳ-kheo!"
@@ -95,7 +102,7 @@ Các pháp ấy sinh khởi, ngài đều biết rõ; hiện hữu, ngài đều
 [Chú thích: Ngài tỉnh giác theo dõi tầng chứng đắc mang những phẩm chất ấy, từ lúc nó sinh khởi, tồn tại đến lúc hoại diệt. Theo Anālayo, điều này không thể là quán sát sự diệt của các pháp ngay bên trong tầng thiền, vì chính tầng thiền được định nghĩa bằng sự tồn tại của chúng; ngài biết được tính vô thường của tầng thiền, chứ không phải tính vô thường trong tầng thiền. Có thể so với phép tu định ở AN 4.41, nơi hành giả quán thọ, tưởng và các suy nghĩ theo cùng cách ấy.]
 
 <!-- seg: mn111:4.3 -->
-Ngài hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn111:4.4 -->
 "Thật vậy, các pháp này, khi chưa có thì sinh khởi, khi đã có thì lại tan biến."
@@ -129,7 +136,7 @@ Và các pháp trong tầng thiền-na thứ hai — sự thanh tịnh nội tâ
 Các pháp ấy sinh khởi, ngài đều biết rõ; hiện hữu, ngài đều biết rõ; và đi đến chỗ biến mất, ngài cũng đều biết rõ.
 
 <!-- seg: mn111:6.3 -->
-Ngài hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn111:6.4 -->
 "Thật vậy, các pháp này, khi chưa có thì sinh khởi, khi đã có thì lại tan biến."
@@ -153,7 +160,7 @@ Và các pháp trong tầng thiền-na thứ ba — lạc, chánh niệm, tỉnh
 các pháp ấy được ngài phân định từng cái một; các pháp ấy sinh khởi, ngài đều biết rõ; hiện hữu, ngài đều biết rõ; và đi đến chỗ biến mất, ngài cũng đều biết rõ.
 
 <!-- seg: mn111:8.3 -->
-Ngài hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn111:8.4 -->
 "Thật vậy, các pháp này, khi chưa có thì sinh khởi, khi đã có thì lại tan biến."
@@ -179,7 +186,7 @@ Và các pháp trong tầng thiền-na thứ tư — xả, thọ không khổ kh
 Các pháp ấy sinh khởi, ngài đều biết rõ; hiện hữu, ngài đều biết rõ; và đi đến chỗ biến mất, ngài cũng đều biết rõ.
 
 <!-- seg: mn111:10.3 -->
-Ngài hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn111:10.4 -->
 "Thật vậy, các pháp này, khi chưa có thì sinh khởi, khi đã có thì lại tan biến."
@@ -205,7 +212,7 @@ Các pháp ấy sinh khởi, ngài đều biết rõ; hiện hữu, ngài đều
 <!-- hết phần 1 -->
 
 <!-- seg: mn111:12.3 -->
-Ngài hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn111:12.4 -->
 "Thật vậy, các pháp này, khi chưa có thì sinh khởi, khi đã có thì lại tan biến."
@@ -229,7 +236,7 @@ Và các pháp trong tầng định thức vô biên — tưởng về thức v�
 Các pháp ấy sinh khởi, ngài đều biết rõ; hiện hữu, ngài đều biết rõ; và đi đến chỗ biến mất, ngài cũng đều biết rõ.
 
 <!-- seg: mn111:14.3 -->
-Ngài hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn111:14.4 -->
 "Thật vậy, các pháp này, khi chưa có thì sinh khởi, khi đã có thì lại tan biến."
@@ -253,7 +260,7 @@ Và các pháp trong tầng định không có gì cả — tưởng về không
 Các pháp ấy sinh khởi, ngài đều biết rõ; hiện hữu, ngài đều biết rõ; và đi đến chỗ biến mất, ngài cũng đều biết rõ.
 
 <!-- seg: mn111:16.3 -->
-Ngài hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn111:16.4 -->
 "Thật vậy, các pháp này, khi chưa có thì sinh khởi, khi đã có thì lại tan biến."

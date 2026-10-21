@@ -16,6 +16,13 @@ Bản dịch này làm từ nguyên bản Pali, đối chiếu với bản tiế
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 134: Kinh Lomasakaṅgiya**](#trung-bộ-kinh--bài-kinh-số-134-kinh-lomasakaṅgiya)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 134: Kinh Lomasakaṅgiya
 
 *Lomasakaṅgiya Sutta* — bài kinh Lomasakaṅgiya, về người có một đêm lành
@@ -255,7 +262,7 @@ Vậy thì này tỳ-kheo, hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 "Thưa vâng, bạch Thế Tôn," Tôn giả Lomasakaṅgiya đáp lời Đức Thế Tôn.
 
 <!-- seg: mn134:6.7 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn134:7.1 -->
 "Chớ có quay về với quá khứ,

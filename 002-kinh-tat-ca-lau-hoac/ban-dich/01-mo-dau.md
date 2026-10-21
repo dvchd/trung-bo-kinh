@@ -16,7 +16,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn2:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn2:2.1 -->
 Này các tỳ-kheo, Ta sẽ giảng cho các ông pháp môn về sự thu thúc tất cả lậu hoặc.
@@ -32,7 +32,7 @@ Hãy lắng nghe và khéo chú tâm, Ta sẽ nói.
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn2:2.4 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn2:3.1 -->
 Này các tỳ-kheo, Ta nói rằng lậu hoặc được đoạn tận nơi người biết và thấy, không phải nơi người không biết và không thấy.

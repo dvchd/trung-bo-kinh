@@ -16,7 +16,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn49:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn49:2.1 -->
 Này các tỳ-kheo, có một thuở Ta đang trú tại Ukkaṭṭhā, trong rừng Subhaga, dưới gốc cây sa-la vua.

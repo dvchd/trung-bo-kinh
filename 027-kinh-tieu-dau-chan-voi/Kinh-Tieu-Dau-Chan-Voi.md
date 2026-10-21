@@ -16,6 +16,13 @@ Chỉ khi tâm đã giải thoát hoàn toàn, thoát khỏi lậu hoặc của 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 27: Tiểu Kinh Dấu Chân Voi**](#trung-bộ-kinh--bài-kinh-số-27-tiểu-kinh-dấu-chân-voi)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 27: Tiểu Kinh Dấu Chân Voi
 
 *Cūḷahatthipadopama Sutta* — "Phép so sánh dấu chân voi"
@@ -199,7 +206,7 @@ Sa-môn Gotama cho họ xuất gia.
 Sau khi xuất gia, sống viễn ly, không phóng dật, nhiệt tâm, quyết chí, chẳng bao lâu họ tự mình chứng ngộ bằng thắng trí và ngay trong đời này chứng đạt, an trú mục đích tối thượng của đời sống phạm hạnh — mục đích mà những người con trai của các gia đình lành vì nó mà xuất gia, từ bỏ gia đình, sống không gia đình.
 
 <!-- seg: mn27:7.14 -->
-Họ nói:
+Họ nói như vầy:
 
 <!-- seg: mn27:7.15 -->
 'Thưa ngài, chúng ta thật gần như đã mất! Chúng ta thật gần như đã tiêu tan!
@@ -241,7 +248,7 @@ Mong rằng một lúc nào đó, sớm hay muộn, tôi cũng được gặp ng
 Rồi bà-la-môn Jānussoṇi đi đến chỗ Đức Thế Tôn; đến nơi, ông chào hỏi Đức Thế Tôn.
 
 <!-- seg: mn27:9.2 -->
-Sau khi trao đổi những lời chào hỏi thân thiện và xã giao, ông ngồi xuống một bên.
+Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lễ độ, ông ngồi xuống một bên.
 
 <!-- seg: mn27:9.3 -->
 Ngồi một bên, bà-la-môn Jānussoṇi trình bày với Đức Thế Tôn toàn bộ câu chuyện ông đã trao đổi với du sĩ Pilotika.
@@ -277,7 +284,7 @@ Người thợ săn voi khéo léo vẫn chưa đi đến kết luận:
 'Đây hẳn là một con voi đực lớn.'
 
 <!-- seg: mn27:10.5 -->
-Vì sao?
+Vì sao vậy?
 
 <!-- seg: mn27:10.6 -->
 Vì trong rừng voi có những con voi cái lùn có dấu chân lớn, và dấu chân này có thể là của chúng.
@@ -297,7 +304,7 @@ Người thợ săn voi khéo léo vẫn chưa đi đến kết luận:
 'Đây hẳn là một con voi đực lớn.'
 
 <!-- seg: mn27:10.11 -->
-Vì sao?
+Vì sao vậy?
 
 <!-- seg: mn27:10.12 -->
 Vì trong rừng voi có những con voi cái cao lớn có dấu chân lớn, và dấu chân này có thể là của chúng.
@@ -317,7 +324,7 @@ Người thợ săn voi khéo léo vẫn chưa đi đến kết luận:
 'Đây hẳn là một con voi đực lớn.'
 
 <!-- seg: mn27:10.17 -->
-Vì sao?
+Vì sao vậy?
 
 <!-- seg: mn27:10.18 -->
 Vì trong rừng voi có những con voi cái đầu đàn có dấu chân lớn, và dấu chân này có thể là của chúng.
@@ -356,7 +363,7 @@ Ngài thuyết Pháp thiện ở đầu, thiện ở giữa, thiện ở cuối,
 Một gia chủ, hay con trai một gia chủ, hay một người sinh ra trong một gia đình nào đó nghe Pháp ấy.
 
 <!-- seg: mn27:12.2 -->
-Người ấy nghe Pháp ấy xong, khởi lên lòng tin nơi Như Lai,
+Sau khi nghe Pháp ấy, người ấy có được lòng tin nơi Như Lai.
 
 <!-- seg: mn27:12.3 -->
 Người ấy thành tựu lòng tin ấy, suy nghĩ như vầy:

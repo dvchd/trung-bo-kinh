@@ -54,7 +54,7 @@ Khi nghe vậy, Daṇḍapāṇi người Sakya lắc đầu, le lưỡi, như�
 Rồi vào buổi chiều, Đức Thế Tôn ra khỏi chỗ độc cư, đi đến Nigrodhārāma; đến rồi, Ngài ngồi xuống chỗ ngồi đã được trải sẵn.
 
 <!-- seg: mn18:6.2 -->
-Ngồi xong, Đức Thế Tôn gọi các tỳ-kheo:
+Ngồi xuống rồi, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn18:6.3 -->
 Này các tỳ-kheo, ở đây, vào buổi sáng, Ta mặc y, cầm bát và y, đi vào Kapilavatthu để khất thực.

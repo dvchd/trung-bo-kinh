@@ -14,7 +14,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Ngài," các tỳ-kheo đáp lại Đức Thế Tôn.
 
 <!-- seg: mn33:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn33:2.1 -->
 Này các tỳ-kheo, người chăn bò hội đủ mười một chi phần thì không thể chăn giữ đàn bò và làm cho đàn bò sinh sôi nảy nở.

@@ -33,7 +33,7 @@ người ấy cọ xát cây que cọ lửa vào khúc gỗ tươi còn nhựa �
 "Thưa ngài Gotama, không."
 
 <!-- seg: mn36:17.8 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn36:17.9 -->
 "Thưa ngài Gotama, vì đó là khúc gỗ tươi còn nhựa, mà lại còn bị đặt trong nước.
@@ -72,7 +72,7 @@ người ấy cọ xát cây que cọ lửa vào khúc gỗ tươi còn nhựa �
 "Thưa ngài Gotama, không."
 
 <!-- seg: mn36:18.8 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn36:18.9 -->
 "Thưa ngài Gotama, vì đó vẫn là khúc gỗ tươi còn nhựa, dẫu rằng nó nằm trên mặt đất khô xa nước.
@@ -108,7 +108,7 @@ người ấy cọ xát cây que cọ lửa vào khúc gỗ khô đã mục ấy
 "Thưa ngài Gotama, đúng vậy."
 
 <!-- seg: mn36:19.8 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn36:19.9 -->
 "Thưa ngài Gotama, vì đó là khúc gỗ khô đã mục, mà lại còn nằm trên mặt đất khô xa nước."

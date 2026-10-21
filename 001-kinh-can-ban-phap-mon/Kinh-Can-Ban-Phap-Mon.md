@@ -32,7 +32,6 @@ nhịp thì các vòng sau sẽ tự mở ra.
 
 - [Lời giới thiệu](#lời-giới-thiệu)
 - [**Trung Bộ Kinh — bài kinh số 1: Kinh Căn Bản Pháp Môn**](#trung-bộ-kinh--bài-kinh-số-1-kinh-căn-bản-pháp-môn)
-- [**1. Hạng phàm phu**](#1-hạng-phàm-phu)
 - [**2. Bậc hữu học**](#2-bậc-hữu-học)
 - [**3. Bậc A-la-hán — đã hiểu biết trọn vẹn**](#3-bậc-a-la-hán--đã-hiểu-biết-trọn-vẹn)
 - [**4. Bậc A-la-hán — tham đã tận**](#4-bậc-a-la-hán--tham-đã-tận)
@@ -77,7 +76,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn1:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn1:2.1 -->
 Này các tỳ-kheo, Ta sẽ giảng cho các ông pháp môn về cội nguồn của mọi pháp.
@@ -89,9 +88,9 @@ Hãy lắng nghe và khéo tác ý, Ta sẽ nói.
 "Thưa vâng, Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn1:2.4 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
-## 1. Hạng phàm phu
+
 
 <!-- seg: mn1:3.1 -->
 Này các tỳ-kheo, ở đây có kẻ phàm phu không nghe Pháp, chưa từng thấy các bậc thánh, không hiểu biết và không được huấn luyện trong Pháp của các bậc thánh; chưa từng thấy những bậc chân nhân, không hiểu biết và không được huấn luyện trong Pháp của những bậc chân nhân.

@@ -14,6 +14,13 @@ Với người mới tìm hiểu kinh điển, bài này là một bản đồ �
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 41: Kinh Sāleyyaka**](#trung-bộ-kinh--bài-kinh-số-41-kinh-sāleyyaka)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 41: Kinh Sāleyyaka
 
 *Sāleyyaka Sutta* — bài kinh về những người dân làng Sālā
@@ -56,7 +63,7 @@ Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn g
 Ngài làm sáng tỏ đời sống phạm hạnh hoàn toàn viên mãn và thanh tịnh.
 
 <!-- seg: mn41:2.8 -->
-Thật tốt lành thay khi được thấy những bậc A-la-hán như vậy.
+Thật tốt lành thay khi được gặp những bậc A-la-hán như vậy."
 
 <!-- seg: mn41:3.1 -->
 Rồi các bà-la-môn và gia chủ làng Sālā đi đến chỗ Đức Thế Tôn. Khi đến, một số người đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên; một số người chào hỏi, nói những lời thăm hỏi thân thiện rồi ngồi xuống một bên; một số người chắp tay hướng về Đức Thế Tôn rồi ngồi xuống một bên; một số người xưng tên họ trước Đức Thế Tôn rồi ngồi xuống một bên; một số người im lặng ngồi xuống một bên. Sau khi ngồi xuống một bên, các bà-la-môn và gia chủ làng Sālā thưa với Đức Thế Tôn:

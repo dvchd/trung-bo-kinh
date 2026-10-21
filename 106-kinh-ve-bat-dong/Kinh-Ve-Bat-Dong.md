@@ -16,6 +16,13 @@ Với người chưa từng học Phật, bài kinh này nói về một điều
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 106: Kinh Về Bất Động**](#trung-bộ-kinh--bài-kinh-số-106-kinh-về-bất-động)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 106: Kinh Về Bất Động
 
 *Āneñjasappāya Sutta* — bài kinh về các cách tu tập dẫn đến bất động, vô sở hữu xứ và phi tưởng phi phi tưởng xứ, cùng sự giải thoát của bậc thánh nhờ không chấp thủ
@@ -37,7 +44,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại xứ Kuru, gần thị trấn Kammāsadhamma của người Kuru.
 
 <!-- seg: mn106:1.3 -->
-Ở đó, Đức Thế Tôn gọi các tỳ-kheo:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn106:1.4 -->
 "Này các tỳ-kheo!"

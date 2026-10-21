@@ -16,6 +16,13 @@ Phần cuối bài kinh là hình ảnh con ngựa giống quý được ngườ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 65: Kinh Bhaddāli**](#trung-bộ-kinh--bài-kinh-số-65-kinh-bhaddāli)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 65: Kinh Bhaddāli
 
 *Bhaddālisutta* — bài kinh mang tên Tôn giả Bhaddāli, vị tỳ-kheo đã từ chối một giới điều rồi sám hối
@@ -37,7 +44,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà-lâm), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn65:1.3 -->
-Tại đó, Đức Thế Tôn gọi các tỳ-kheo và nói:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn65:1.4 -->
 "Này các tỳ-kheo!"
@@ -349,7 +356,7 @@ Lại nữa, này Bhaddāli, do tầm và tứ lắng yên, vị ấy chứng v�
 ---
 
 <!-- seg: mn65:17.2 -->
-"Vì sao vậy?
+Vì sao vậy?
 
 <!-- seg: mn65:17.3 -->
 Vì đó là điều tự nhiên, này Bhaddāli, đối với người làm tròn sự học tập theo lời dạy của bậc Đạo sư.

@@ -76,7 +76,7 @@ Người ấy có còn muốn ăn lại món ăn ấy nữa không?"
 "Thưa không, bạch Thế Tôn."
 
 <!-- seg: mn105:15.5 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn105:15.6 -->
 "Bạch Thế Tôn, vì món ăn ấy đã bị xem là đáng ghê tởm."

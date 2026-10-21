@@ -14,7 +14,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn20:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn20:2.1 -->
 "Này các tỳ-kheo, vị tỳ-kheo đã dấn thân tu tập tâm cao thượng phải tùy lúc chú tâm đến năm đề mục.

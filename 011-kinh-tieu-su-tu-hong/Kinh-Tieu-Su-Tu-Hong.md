@@ -16,6 +16,13 @@ Người đọc lần đầu có thể thấy bài kinh này khô khan, nhiều 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 11: Tiểu Kinh Sư Tử Hống**](#trung-bộ-kinh--bài-kinh-số-11-tiểu-kinh-sư-tử-hống)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 11: Tiểu Kinh Sư Tử Hống
 
 *Cūḷasīhanāda Sutta* — bài kinh ngắn về tiếng rống sư tử
@@ -48,7 +55,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn11:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn11:2.1 -->
 "Này các tỳ-kheo, chỉ ở đây mới có bậc sa-môn, ở đây có bậc sa-môn thứ hai, ở đây có bậc sa-môn thứ ba, ở đây có bậc sa-môn thứ tư;

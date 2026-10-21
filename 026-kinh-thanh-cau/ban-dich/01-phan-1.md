@@ -78,7 +78,7 @@ bạch Thế Tôn, tịnh xá của bà-la-môn Rammaka thật thanh nhã.
 Lành thay, bạch Thế Tôn, mong Đức Thế Tôn vì lòng thương xót mà đi đến tịnh xá của bà-la-môn Rammaka."
 
 <!-- seg: mn26:3.15 -->
-Đức Thế Tôn nhận lời bằng sự im lặng.
+Đức Thế Tôn nhận lời bằng cách im lặng.
 
 <!-- seg: mn26:4.1 -->
 Rồi Đức Thế Tôn đi đến tịnh xá của bà-la-môn Rammaka.
@@ -103,7 +103,7 @@ Các tỳ-kheo ấy mở cửa cho Đức Thế Tôn,
 rồi Đức Thế Tôn bước vào tịnh xá, ngồi xuống chỗ ngồi đã được trải sẵn.
 
 <!-- seg: mn26:4.7 -->
-Ngồi xong, Đức Thế Tôn gọi các tỳ-kheo:
+Ngồi xuống rồi, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn26:4.8 -->
 "Này các tỳ-kheo, các ông đang ngồi bàn chuyện gì vậy? Câu chuyện giữa chừng ấy bị bỏ dở ở đâu?"

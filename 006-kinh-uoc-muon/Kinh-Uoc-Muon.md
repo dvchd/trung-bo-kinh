@@ -14,6 +14,13 @@ Cuối bài có một chi tiết đáng nhớ. Sau khi đi hết mười bảy �
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 6: Kinh Ước Muốn**](#trung-bộ-kinh--bài-kinh-số-6-kinh-ước-muốn)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 6: Kinh Ước Muốn
 
 *Ākaṅkheyya Sutta* — bài kinh về điều một vị tỳ-kheo có thể ước muốn
@@ -38,7 +45,7 @@ Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong vư
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn6:1.4 -->
-"Này các tỳ-kheo."
+"Này các tỳ-kheo!"
 
 <!-- seg: mn6:1.5 -->
 "Thưa vâng, bạch Thế Tôn", các tỳ-kheo ấy đáp lại Đức Thế Tôn.

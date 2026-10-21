@@ -16,6 +16,13 @@ Người đọc hôm nay có thể thấy bài kinh này như một chuyện v�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 73: Đại Kinh Vacchagotta**](#trung-bộ-kinh--bài-kinh-số-73-đại-kinh-vacchagotta)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 73: Đại Kinh Vacchagotta
 
 *Mahāvacchagotta Sutta* — bài kinh về du sĩ Vacchagotta, từ câu hỏi thế nào là thiện và bất thiện đến quả vị A-la-hán
@@ -63,7 +70,7 @@ Hãy nghe và khéo tác ý, ta sẽ nói."
 "Dạ vâng, thưa ngài" — du sĩ Vacchagotta đáp lời Đức Thế Tôn.
 
 <!-- seg: mn73:3.7 -->
-Đức Thế Tôn nói:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn73:4.1 -->
 "Này Vaccha, tham là bất thiện, không tham là thiện.

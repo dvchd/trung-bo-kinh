@@ -102,7 +102,7 @@ Rồi nhiều tỳ-kheo đi đến chỗ Đức Thế Tôn; đến nơi, các v�
 "Bạch Thế Tôn, thiện nam tử tên là Pukkusāti, người đã được Đức Thế Tôn khuyên dạy bằng lời dạy vắn tắt, nay đã mạng chung.
 
 <!-- seg: mn140:36.3 -->
-Vị ấy sẽ đi về đâu, đời sau sẽ ra sao?"
+Ông ấy sẽ đi về đâu, đời sau sẽ thế nào?"
 
 <!-- seg: mn140:36.4 -->
 "Này các tỳ-kheo, thiện nam tử Pukkusāti là người trí; ông ấy đã thực hành đúng theo Pháp, và đã không làm phiền Ta vì chuyện Pháp.

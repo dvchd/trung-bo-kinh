@@ -16,6 +16,13 @@ Với người mới đọc, bài kinh này có thể đọc như hai lớp. L�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 3: Kinh Người Thừa Kế Pháp**](#trung-bộ-kinh--bài-kinh-số-3-kinh-người-thừa-kế-pháp)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 3: Kinh Người Thừa Kế Pháp
 
 *Dhammadāyāda Sutta* — bài kinh về những người thừa kế Pháp
@@ -44,7 +51,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn3:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn3:2.1 -->
 "Này các tỳ-kheo, hãy làm người thừa kế Pháp của Ta, chớ làm người thừa kế vật chất."

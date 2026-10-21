@@ -16,6 +16,13 @@ Lời giải thích cuối cùng rất gọn: quả của một nghiệp có th�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 136: Đại Kinh Phân Biệt Nghiệp**](#trung-bộ-kinh--bài-kinh-số-136-đại-kinh-phân-biệt-nghiệp)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 136: Đại Kinh Phân Biệt Nghiệp
 
 *Mahākammavibhaṅga Sutta* — bài phân tích nghiệp, bản lớn
@@ -94,7 +101,7 @@ Rồi du sĩ Potaliputta không tán thán cũng không bác bỏ lời Tôn gi�
 Rồi Tôn giả Samiddhi, khi du sĩ Potaliputta vừa rời đi không lâu, liền đi đến chỗ Tôn giả Ānanda. Đến nơi, hai vị chào hỏi thân thiện với nhau.
 
 <!-- seg: mn136:3.2 -->
-Sau khi trao đổi những lời chào hỏi thân mật và những câu chuyện thăm hỏi, Tôn giả Samiddhi ngồi xuống một bên.
+Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lễ độ, ông ngồi xuống một bên.
 
 <!-- seg: mn136:3.3 -->
 Khi đã ngồi xuống một bên, Tôn giả Samiddhi thuật lại cho Tôn giả Ānanda nghe toàn bộ câu chuyện đã diễn ra với du sĩ Potaliputta.

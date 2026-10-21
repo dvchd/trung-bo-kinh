@@ -16,6 +16,13 @@ Dhanañjāni qua đời không lâu sau đó và tái sinh vào cõi Phạm Thi�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 97: Kinh Dhānañjāni**](#trung-bộ-kinh--bài-kinh-số-97-kinh-dhānañjāni)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 97: Kinh Dhānañjāni
 
 *Dhānañjāni Sutta* — bài kinh kể chuyện Tôn giả Sāriputta khuyên dạy bà-la-môn Dhanañjāni trên giường bệnh
@@ -680,7 +687,7 @@ hãy nghe và khéo tác ý, ta sẽ nói."
 "Thưa vâng, thưa ngài", bà-la-môn Dhanañjāni vâng lời Tôn giả Sāriputta.
 
 <!-- seg: mn97:31.11 -->
-Tôn giả Sāriputta nói:
+Tôn giả Sāriputta nói điều này:
 
 <!-- seg: mn97:32.1 -->
 "Này Dhanañjāni, thế nào là con đường đi đến cõi chung với Phạm Thiên?

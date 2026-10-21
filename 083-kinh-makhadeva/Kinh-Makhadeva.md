@@ -16,6 +16,13 @@ Người đọc lần đầu có thể thấy bài kinh này lạ, vì nó dành
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 83: Kinh Makhādeva**](#trung-bộ-kinh--bài-kinh-số-83-kinh-makhādeva)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 83: Kinh Makhādeva
 
 *Makhādeva Sutta* — bài kinh về vua Maghadeva, người thấy tóc bạc liền nhường ngôi mà xuất gia
@@ -608,7 +615,7 @@ Này Ānanda, Ta nói với các ông như vầy:
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn83:21.19 -->
-Tôn giả Ānanda hoan hỷ, tán thán lời Ngài dạy.
+Tôn giả Ānanda hoan hỷ, tán thán lời Đức Thế Tôn dạy.
 
 <!-- seg: mn83:21.20 -->
 Kinh Maghadeva, bài thứ ba, đã hoàn tất.

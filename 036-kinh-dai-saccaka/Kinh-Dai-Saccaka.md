@@ -40,6 +40,13 @@ hoặc bản tiếng Anh của Bhikkhu Sujato ở bất cứ dòng nào. Các ch
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 36: Đại Kinh Saccaka**](#trung-bộ-kinh--bài-kinh-số-36-đại-kinh-saccaka)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 36: Đại Kinh Saccaka
 
 *Mahāsaccaka Sutta* — bài kinh dài hơn về Saccaka
@@ -205,7 +212,7 @@ hãy nghe và khéo tác ý, Ta sẽ nói."
 "Thưa vâng, thưa ngài," Saccaka, con của các du sĩ Ni-kiền-tử, đáp lời Đức Thế Tôn.
 
 <!-- seg: mn36:7.7 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn36:8.1 -->
 "Này Aggivessana, thế nào là người chưa tu tập thân và chưa tu tập tâm?
@@ -288,7 +295,7 @@ Này Aggivessana, từ khi Ta cắt tóc râu, khoác y màu hoại sắc, xuấ
 Này Aggivessana, trước khi giác ngộ, khi còn là Bồ-tát, chưa chứng Chánh đẳng giác, Ta đã nghĩ rằng:
 
 <!-- seg: mn36:12.3 -->
-'Đời sống tại gia thì chật hẹp, là nẻo đường đầy bụi bặm; đời sống xuất gia thì rộng mở.
+"Đời sống tại gia thì chật hẹp, là đường bụi bặm; đời sống xuất gia thì rộng mở.
 
 <!-- seg: mn36:12.4 -->
 Người sống trong nhà khó có thể sống đời phạm hạnh hoàn toàn đầy đủ, hoàn toàn trong sạch, như vỏ ốc đã được mài sáng.
@@ -565,7 +572,7 @@ người ấy cọ xát cây que cọ lửa vào khúc gỗ tươi còn nhựa �
 "Thưa ngài Gotama, không."
 
 <!-- seg: mn36:17.8 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn36:17.9 -->
 "Thưa ngài Gotama, vì đó là khúc gỗ tươi còn nhựa, mà lại còn bị đặt trong nước.
@@ -604,7 +611,7 @@ người ấy cọ xát cây que cọ lửa vào khúc gỗ tươi còn nhựa �
 "Thưa ngài Gotama, không."
 
 <!-- seg: mn36:18.8 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn36:18.9 -->
 "Thưa ngài Gotama, vì đó vẫn là khúc gỗ tươi còn nhựa, dẫu rằng nó nằm trên mặt đất khô xa nước.
@@ -640,7 +647,7 @@ người ấy cọ xát cây que cọ lửa vào khúc gỗ khô đã mục ấy
 "Thưa ngài Gotama, đúng vậy."
 
 <!-- seg: mn36:19.8 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn36:19.9 -->
 "Thưa ngài Gotama, vì đó là khúc gỗ khô đã mục, mà lại còn nằm trên mặt đất khô xa nước."
@@ -1111,7 +1118,7 @@ hãy nghe và khéo tác ý, Ta sẽ nói."
 "Thưa vâng, thưa ngài," Saccaka, con của các du sĩ Ni-kiền-tử, đáp lời Đức Thế Tôn.
 
 <!-- seg: mn36:46.7 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn36:47.1 -->
 "Này Aggivessana, với bất cứ ai mà những lậu hoặc ô nhiễm, đưa đến tái sinh, đem theo sợ hãi, quả là khổ đau, dẫn đến sinh, già, chết trong tương lai, chưa được đoạn trừ — Ta gọi người ấy là si mê.

@@ -18,6 +18,13 @@ Người đọc lần đầu có thể thấy bài kinh lặp nhiều: câu "Đ�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 89: Kinh Bảo Tháp Pháp**](#trung-bộ-kinh--bài-kinh-số-89-kinh-bảo-tháp-pháp)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 89: Kinh Bảo Tháp Pháp
 
 *Dhammacetiya Sutta* — bài kinh về những bảo tháp dựng bằng Pháp
@@ -251,7 +258,7 @@ Con đi đến chỗ họ và nói:
 'Thưa các vị tôn giả, vì sao các vị lại gầy gò, khô héo, xấu xí, xanh xao, thân nổi đầy gân, hình như chẳng khiến người ta muốn nhìn như vậy?'
 
 <!-- seg: mn89:12.8 -->
-Họ đáp lại:
+Họ nói như vầy:
 
 <!-- seg: mn89:12.9 -->
 'Chúng tôi mắc bệnh vàng da, thưa đại vương.'

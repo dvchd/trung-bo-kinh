@@ -16,6 +16,14 @@ Với người chưa quen với kinh điển, có thể đọc bài kinh này th
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 130: Kinh Sứ Giả Của Thần Chết**](#trung-bộ-kinh--bài-kinh-số-130-kinh-sứ-giả-của-thần-chết)
+- [**Tóm tắt phẩm**](#tóm-tắt-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 130: Kinh Sứ Giả Của Thần Chết
 
 *Devadūta Sutta* — bài kinh về những sứ giả của Thần Chết nhắc con người nhớ đến cái chết
@@ -40,13 +48,13 @@ Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong r�
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn130:1.4 -->
-"Này các tỳ-kheo."
+"Này các tỳ-kheo!"
 
 <!-- seg: mn130:1.5 -->
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
 
 <!-- seg: mn130:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn130:2.1 -->
 Này các tỳ-kheo, ví như có hai ngôi nhà có cửa, và một người sáng mắt đứng ở giữa, sẽ thấy những người đi vào nhà, đi ra khỏi nhà, đi tới đi lui.

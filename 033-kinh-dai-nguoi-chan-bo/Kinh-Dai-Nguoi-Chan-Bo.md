@@ -16,6 +16,13 @@ Với người đọc hôm nay, hình ảnh ấy vẫn còn sức nói. Một ng
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 33: Đại Kinh Người Chăn Bò**](#trung-bộ-kinh--bài-kinh-số-33-đại-kinh-người-chăn-bò)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 33: Đại Kinh Người Chăn Bò
 
 *Mahāgopālakasutta* — bài kinh lớn về người chăn bò, ví mười một đức tính của người chăn bò giỏi với mười một phẩm chất của vị tỳ-kheo biết tu tập
@@ -46,7 +53,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Ngài," các tỳ-kheo đáp lại Đức Thế Tôn.
 
 <!-- seg: mn33:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn33:2.1 -->
 Này các tỳ-kheo, người chăn bò hội đủ mười một chi phần thì không thể chăn giữ đàn bò và làm cho đàn bò sinh sôi nảy nở.

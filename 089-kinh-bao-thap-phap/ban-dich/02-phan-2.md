@@ -45,7 +45,7 @@ Con đi đến chỗ họ và nói:
 'Thưa các vị tôn giả, vì sao các vị lại gầy gò, khô héo, xấu xí, xanh xao, thân nổi đầy gân, hình như chẳng khiến người ta muốn nhìn như vậy?'
 
 <!-- seg: mn89:12.8 -->
-Họ đáp lại:
+Họ nói như vầy:
 
 <!-- seg: mn89:12.9 -->
 'Chúng tôi mắc bệnh vàng da, thưa đại vương.'

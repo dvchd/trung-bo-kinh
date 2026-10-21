@@ -16,6 +16,13 @@ Bài kinh khép lại bằng một câu ngắn: điều Như Lai giác ngộ là
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 102: Kinh Năm và Ba**](#trung-bộ-kinh--bài-kinh-số-102-kinh-năm-và-ba)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 102: Kinh Năm và Ba
 
 *Pañcattaya Sutta* — bài kinh về năm lối khẳng định và ba loại kiến giải
@@ -46,7 +53,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn102:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn102:2.1 -->
 Này các tỳ-kheo, có những sa-môn và bà-la-môn suy đoán về tương lai, có kiến giải về tương lai, và nêu ra nhiều lối khẳng định khác nhau về tương lai.

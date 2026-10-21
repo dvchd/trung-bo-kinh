@@ -16,6 +16,15 @@ Bài kinh này đáng đọc vì nó đặt một câu hỏi mà người đời
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 100: Kinh Saṅgārava**](#trung-bộ-kinh--bài-kinh-số-100-kinh-saṅgārava)
+- [**Tóm tắt phẩm**](#tóm-tắt-phẩm)
+- [**Tóm tắt các phẩm**](#tóm-tắt-các-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 100: Kinh Saṅgārava
 
 *Saṅgārava Sutta* — bài kinh về thanh niên bà-la-môn Saṅgārava và câu hỏi ai là người thật sự đã đi đến tận cùng của sự hiểu biết
@@ -142,7 +151,7 @@ Này Bhāradvāja, có thể hiểu điều này bằng một cách khác nữa,
 Này Bhāradvāja, trước khi Ta giác ngộ, khi còn chưa giác ngộ, còn là Bồ-tát, Ta đã nghĩ như vầy:
 
 <!-- seg: mn100:9.2 -->
-'Đời sống tại gia là chật hẹp, là con đường bụi bặm; đời sống xuất gia là khoảng trời rộng mở.
+"Đời sống tại gia thì chật hẹp, là đường bụi bặm; đời sống xuất gia thì rộng mở.
 
 <!-- seg: mn100:9.3 -->
 Thật không dễ cho người sống trong nhà mà thực hành đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh, như vỏ ốc được mài nhẵn.

@@ -2,7 +2,7 @@
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn22:13.4 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn22:13.5 -->
 "Ví như, này các tỳ-kheo, một người đang đi trên đường dài.

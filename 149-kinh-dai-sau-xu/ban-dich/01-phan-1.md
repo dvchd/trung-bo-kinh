@@ -8,13 +8,13 @@ Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong r�
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn149:1.4 -->
-"Này các tỳ-kheo."
+"Này các tỳ-kheo!"
 
 <!-- seg: mn149:1.5 -->
 "Thưa Ngài," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
 
 <!-- seg: mn149:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn149:2.1 -->
 Này các tỳ-kheo, Ta sẽ dạy các ông bài giảng lớn về sáu xứ.
@@ -28,7 +28,7 @@ Hãy nghe và khéo tác ý, Ta sẽ nói.
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
 
 <!-- seg: mn149:2.4 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn149:3.1 -->
 Này các tỳ-kheo, người không biết và không thấy đúng như thật nơi mắt, nơi hình sắc, nơi thức của mắt, nơi xúc của mắt, nơi cảm giác dễ chịu, khó chịu hay trung tính phát sinh do xúc của mắt làm duyên, thì tham đắm nơi mắt, tham đắm nơi hình sắc, tham đắm nơi thức của mắt, tham đắm nơi xúc của mắt, tham đắm cả nơi cảm giác dễ chịu, khó chịu hay trung tính phát sinh do xúc của mắt làm duyên.

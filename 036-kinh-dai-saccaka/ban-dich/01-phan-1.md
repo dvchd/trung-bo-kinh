@@ -151,7 +151,7 @@ hãy nghe và khéo tác ý, Ta sẽ nói."
 "Thưa vâng, thưa ngài," Saccaka, con của các du sĩ Ni-kiền-tử, đáp lời Đức Thế Tôn.
 
 <!-- seg: mn36:7.7 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn36:8.1 -->
 "Này Aggivessana, thế nào là người chưa tu tập thân và chưa tu tập tâm?

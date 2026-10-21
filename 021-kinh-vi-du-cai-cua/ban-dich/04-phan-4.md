@@ -32,7 +32,7 @@ Các ông phải học đúng như vậy, này các tỳ-kheo.
 Ví như, này các tỳ-kheo, có một người đến, mang theo cánh kiến đỏ, nghệ, chàm, hay điều.
 
 <!-- seg: mn21:14.2 -->
-Người ấy nói như vầy:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn21:14.3 -->
 "Ta sẽ vẽ hình vào hư không, làm cho hình hiện ra ở đấy."
@@ -47,7 +47,7 @@ Người ấy có thể vẽ hình vào hư không, làm cho hình hiện ra ở
 "Bạch Thế Tôn, không phải vậy."
 
 <!-- seg: mn21:14.7 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn21:14.8 -->
 "Bạch Thế Tôn, vì hư không không có hình sắc, không thể thấy.
@@ -73,7 +73,7 @@ Các ông phải học đúng như vậy, này các tỳ-kheo.
 Ví như, này các tỳ-kheo, có một người đến, mang theo một bó cỏ đang cháy.
 
 <!-- seg: mn21:16.2 -->
-Người ấy nói như vầy:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn21:16.3 -->
 "Ta sẽ dùng bó cỏ đang cháy này để đốt nóng và thiêu rụi sông Gaṅgā (sông Hằng)."
@@ -88,7 +88,7 @@ Người ấy có thể dùng bó cỏ đang cháy đốt nóng và thiêu rụi
 "Bạch Thế Tôn, không phải vậy."
 
 <!-- seg: mn21:16.7 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn21:16.8 -->
 "Bạch Thế Tôn, vì sông Gaṅgā sâu thẳm, không thể đo lường.
@@ -115,7 +115,7 @@ Ví như, này các tỳ-kheo, một túi da mèo đã được chà, chà kỹ,
 Rồi có một người đến, mang theo một khúc gỗ hay một hòn đá.
 
 <!-- seg: mn21:18.3 -->
-Người ấy nói như vầy:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn21:18.4 -->
 "Ta sẽ dùng khúc gỗ hay hòn đá này mà làm cho túi da mèo ấy kêu sột soạt và lạo xạo, dù nó đã được chà, chà kỹ, chà thật kỹ, mềm mại, mượt như bông, không còn tiếng sột soạt, không còn tiếng lạo xạo."
@@ -130,7 +130,7 @@ Người ấy có thể dùng khúc gỗ hay hòn đá làm cho túi da mèo ấ
 "Bạch Thế Tôn, không phải vậy."
 
 <!-- seg: mn21:18.8 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn21:18.9 -->
 "Bạch Thế Tôn, vì túi da mèo ấy đã được chà, chà kỹ, chà thật kỹ, mềm mại, mượt như bông, không còn tiếng sột soạt, không còn tiếng lạo xạo.

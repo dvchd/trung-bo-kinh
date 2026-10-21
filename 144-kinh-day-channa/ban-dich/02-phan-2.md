@@ -73,7 +73,7 @@ Rồi Tôn giả Sāriputta đi đến chỗ Đức Thế Tôn; đến rồi, đ
 "Bạch Thế Tôn, Tôn giả Channa đã lấy dao kết liễu đời mình.
 
 <!-- seg: mn144:13.3 -->
-Vị ấy đã đi về đâu, sẽ tái sinh về đâu?"
+Ông ấy sẽ đi về đâu, đời sau sẽ thế nào?"
 
 <!-- seg: mn144:13.4 -->
 "Này Sāriputta, chẳng phải tỳ-kheo Channa đã tuyên bố ngay trước mặt ông rằng mình không đáng chê trách đó sao?"

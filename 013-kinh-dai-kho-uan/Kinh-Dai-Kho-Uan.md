@@ -14,6 +14,13 @@ Cái tên "khổ uẩn" không có nghĩa là bài kinh chỉ nói về khổ. N
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 13: Đại Kinh Khổ Uẩn**](#trung-bộ-kinh--bài-kinh-số-13-đại-kinh-khổ-uẩn)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 13: Đại Kinh Khổ Uẩn
 
 *Mahādukkhakkhandha Sutta* — bài kinh về khối khổ lớn
@@ -159,7 +166,7 @@ Và này các tỳ-kheo, cái gì là sự thích thú của các dục?
 Này các tỳ-kheo, có năm loại dục.
 
 <!-- seg: mn13:7.3 -->
-Đó là năm loại nào?
+Năm là những gì?
 
 <!-- seg: mn13:7.4 -->
 Các sắc do mắt nhận biết, đáng yêu, đáng thích, dễ chịu, dễ mến, liên quan đến dục, khêu gợi lòng tham,

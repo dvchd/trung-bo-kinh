@@ -133,7 +133,7 @@ Người bạn đứng ở chân núi ấy sẽ nói với người bạn đang 
 "Này bạn, đứng trên đỉnh núi, bạn thấy những gì?"
 
 <!-- seg: mn125:9.5 -->
-Người bạn trên đỉnh sẽ đáp:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn125:9.6 -->
 "Này bạn, đứng trên đỉnh núi, tôi thấy những khu vườn, khu rừng, khoảng đất và ao sen đẹp mắt."
@@ -151,7 +151,7 @@ Thế rồi người bạn đang đứng trên đỉnh núi đi xuống chân n�
 "Này bạn, đứng trên đỉnh núi, bạn thấy những gì?"
 
 <!-- seg: mn125:9.11 -->
-Người kia sẽ đáp:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn125:9.12 -->
 "Này bạn, đứng trên đỉnh núi, tôi thấy những khu vườn, khu rừng, khoảng đất và ao sen đẹp mắt."

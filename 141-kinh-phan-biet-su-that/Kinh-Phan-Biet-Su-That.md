@@ -16,6 +16,13 @@ Vậy đọc bài này để làm gì? Trước hết, vì nó cho thấy bốn 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 141: Kinh Phân Biệt Sự Thật**](#trung-bộ-kinh--bài-kinh-số-141-kinh-phân-biệt-sự-thật)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 141: Kinh Phân Biệt Sự Thật
 
 *Saccavibhaṅga Sutta* — bài phân tích về bốn sự thật cao quý
@@ -109,7 +116,7 @@ Rồi không lâu sau khi Đức Thế Tôn rời đi, Tôn giả Sāriputta g�
 "Thưa vâng, thưa Tôn giả", các tỳ-kheo đáp lại Tôn giả Sāriputta.
 
 <!-- seg: mn141:7.4 -->
-Tôn giả Sāriputta nói như vầy:
+Tôn giả Sāriputta nói điều này:
 
 <!-- seg: mn141:8.1 -->
 Thưa các vị, tại Bārāṇasi, trong vườn nai Isipatana, Như Lai, bậc A-la-hán, Chánh đẳng giác, đã chuyển vận bánh xe Pháp tối thượng; bánh xe ấy không thể bị chuyển ngược lại bởi sa-môn, bà-la-môn, chư thiên, Ma vương, Phạm Thiên hay bất cứ ai trên đời, đó là—

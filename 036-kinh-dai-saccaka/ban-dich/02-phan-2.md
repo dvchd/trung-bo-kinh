@@ -68,7 +68,7 @@ Này Aggivessana, từ khi Ta cắt tóc râu, khoác y màu hoại sắc, xuấ
 Này Aggivessana, trước khi giác ngộ, khi còn là Bồ-tát, chưa chứng Chánh đẳng giác, Ta đã nghĩ rằng:
 
 <!-- seg: mn36:12.3 -->
-'Đời sống tại gia thì chật hẹp, là nẻo đường đầy bụi bặm; đời sống xuất gia thì rộng mở.
+"Đời sống tại gia thì chật hẹp, là đường bụi bặm; đời sống xuất gia thì rộng mở.
 
 <!-- seg: mn36:12.4 -->
 Người sống trong nhà khó có thể sống đời phạm hạnh hoàn toàn đầy đủ, hoàn toàn trong sạch, như vỏ ốc đã được mài sáng.

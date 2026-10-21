@@ -14,7 +14,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Ngài," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn137:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn137:2.1 -->
 "Này các tỳ-kheo, Ta sẽ dạy các ông bài phân tích sáu xứ.
@@ -28,7 +28,7 @@ Hãy nghe và khéo tác ý, Ta sẽ nói."
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn137:2.4 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn137:3.1 -->
 "Sáu nội xứ cần được hiểu. Sáu ngoại xứ cần được hiểu. Sáu nhóm thức cần được hiểu. Sáu nhóm xúc cần được hiểu. Mười tám sự hướng tâm cần được hiểu. Ba mươi sáu trạng thái của chúng sinh cần được hiểu. Ở đó, nương vào cái này, các ông hãy từ bỏ cái kia. Ba niệm xứ mà bậc Thánh tu tập; nhờ tu tập ba niệm xứ ấy, vị ấy xứng đáng là bậc Đạo sư hướng dẫn một hội chúng. Trong các bậc thầy dạy tu tập, Ngài được gọi là bậc tối thượng dẫn dắt những người cần được điều ngự."

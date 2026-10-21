@@ -111,7 +111,7 @@ và con là người lãnh nhận các bài tụng."
 Đi dần từng chặng, anh đến chỗ Đức Thế Tôn; đến nơi, anh chào hỏi thân thiện với Ngài.
 
 <!-- seg: mn91:6.3 -->
-Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lễ độ, anh ngồi xuống một bên.
+Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lễ độ, ông ngồi xuống một bên.
 
 <!-- seg: mn91:6.4 -->
 Ngồi một bên, thanh niên Uttara quan sát thân Đức Thế Tôn để tìm ba mươi hai tướng của bậc đại nhân.

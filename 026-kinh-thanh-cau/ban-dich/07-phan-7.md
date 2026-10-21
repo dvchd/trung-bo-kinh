@@ -46,7 +46,7 @@ Này các tỳ-kheo, có năm loại dục lạc này.
 [Chú thích: Đức Thế Tôn trở lại cách dạy trực tiếp cho các tỳ-kheo ở tịnh xá của Rammaka một cách khá đột ngột. Đề tài này nhắc lại ví dụ khúc gỗ có nhựa, tuy không có ở đây, nhưng ở MN 36:17.1 được giới thiệu khi Bồ-tát bắt đầu nỗ lực ở Uruvelā.]
 
 <!-- seg: mn26:31.2 -->
-Năm loại ấy là gì?
+Năm là những gì?
 
 <!-- seg: mn26:31.3 -->
 Các sắc do mắt nhận biết, khả ái, đáng yêu, vừa ý, dễ thương, liên hệ đến dục, khơi dậy tham,

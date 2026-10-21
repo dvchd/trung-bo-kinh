@@ -16,6 +16,13 @@ Với người mới tìm hiểu, bài kinh này đáng đọc vì nó không b�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 18: Kinh Mật Hoàn**](#trung-bộ-kinh--bài-kinh-số-18-kinh-mật-hoàn)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 18: Kinh Mật Hoàn
 
 *Madhupiṇḍika Sutta* — bài kinh về chiếc bánh mật
@@ -86,7 +93,7 @@ Khi nghe vậy, Daṇḍapāṇi người Sakya lắc đầu, le lưỡi, như�
 Rồi vào buổi chiều, Đức Thế Tôn ra khỏi chỗ độc cư, đi đến Nigrodhārāma; đến rồi, Ngài ngồi xuống chỗ ngồi đã được trải sẵn.
 
 <!-- seg: mn18:6.2 -->
-Ngồi xong, Đức Thế Tôn gọi các tỳ-kheo:
+Ngồi xuống rồi, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn18:6.3 -->
 Này các tỳ-kheo, ở đây, vào buổi sáng, Ta mặc y, cầm bát và y, đi vào Kapilavatthu để khất thực.

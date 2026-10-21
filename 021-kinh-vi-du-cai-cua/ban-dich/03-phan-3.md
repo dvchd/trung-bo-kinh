@@ -111,7 +111,7 @@ Các ông phải học đúng như vậy, này các tỳ-kheo.
 Ví như, này các tỳ-kheo, có một người đến, mang theo cái cuốc và cái giỏ.
 
 <!-- seg: mn21:12.2 -->
-Người ấy nói như vầy:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn21:12.3 -->
 "Ta sẽ làm cho quả đất lớn này không còn là đất."
@@ -132,7 +132,7 @@ Người ấy có thể làm cho quả đất lớn này không còn là đất 
 "Bạch Thế Tôn, không phải vậy."
 
 <!-- seg: mn21:12.9 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn21:12.10 -->
 "Bạch Thế Tôn, vì quả đất lớn này sâu thẳm, không thể đo lường.

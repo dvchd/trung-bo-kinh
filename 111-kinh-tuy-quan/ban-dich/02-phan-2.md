@@ -1,5 +1,5 @@
 <!-- seg: mn111:12.3 -->
-Ngài hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn111:12.4 -->
 "Thật vậy, các pháp này, khi chưa có thì sinh khởi, khi đã có thì lại tan biến."
@@ -23,7 +23,7 @@ Và các pháp trong tầng định thức vô biên — tưởng về thức v�
 Các pháp ấy sinh khởi, ngài đều biết rõ; hiện hữu, ngài đều biết rõ; và đi đến chỗ biến mất, ngài cũng đều biết rõ.
 
 <!-- seg: mn111:14.3 -->
-Ngài hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn111:14.4 -->
 "Thật vậy, các pháp này, khi chưa có thì sinh khởi, khi đã có thì lại tan biến."
@@ -47,7 +47,7 @@ Và các pháp trong tầng định không có gì cả — tưởng về không
 Các pháp ấy sinh khởi, ngài đều biết rõ; hiện hữu, ngài đều biết rõ; và đi đến chỗ biến mất, ngài cũng đều biết rõ.
 
 <!-- seg: mn111:16.3 -->
-Ngài hiểu như vầy:
+Vị ấy hiểu như vầy:
 
 <!-- seg: mn111:16.4 -->
 "Thật vậy, các pháp này, khi chưa có thì sinh khởi, khi đã có thì lại tan biến."

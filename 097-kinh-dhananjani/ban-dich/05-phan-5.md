@@ -20,7 +20,7 @@ hãy nghe và khéo tác ý, ta sẽ nói."
 "Thưa vâng, thưa ngài", bà-la-môn Dhanañjāni vâng lời Tôn giả Sāriputta.
 
 <!-- seg: mn97:31.11 -->
-Tôn giả Sāriputta nói:
+Tôn giả Sāriputta nói điều này:
 
 <!-- seg: mn97:32.1 -->
 "Này Dhanañjāni, thế nào là con đường đi đến cõi chung với Phạm Thiên?

@@ -16,6 +16,13 @@ Bài kinh khép lại rất nhẹ: Sunakkhatta hoan hỷ, tán thán lời Đứ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 105: Kinh Sunakkhatta**](#trung-bộ-kinh--bài-kinh-số-105-kinh-sunakkhatta)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 105: Kinh Sunakkhatta
 
 *Sunakkhattasutta* — bài kinh dạy cho thanh niên Licchavi Sunakkhatta về năm loại dục lạc, về các cảnh giới thiền định cao hơn và về Niết-bàn, qua hình ảnh vết thương, mũi tên và thuốc độc
@@ -268,7 +275,7 @@ Người ấy có còn muốn ăn lại món ăn ấy nữa không?"
 "Thưa không, bạch Thế Tôn."
 
 <!-- seg: mn105:15.5 -->
-"Vì sao vậy?"
+Vì sao vậy?
 
 <!-- seg: mn105:15.6 -->
 "Bạch Thế Tôn, vì món ăn ấy đã bị xem là đáng ghê tởm."

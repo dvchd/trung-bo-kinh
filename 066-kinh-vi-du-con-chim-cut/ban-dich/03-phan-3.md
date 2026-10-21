@@ -26,7 +26,7 @@ Còn các tỳ-kheo mong muốn học tập, sau khi từ bỏ điều ấy, s�
 "Này Udāyī, có bốn hạng người này đang hiện hữu trong thế gian.
 
 <!-- seg: mn66:13.2 -->
-Bốn là những gì?"
+Bốn là những gì?
 
 <!-- seg: mn66:14.1 -->
 "Này Udāyī, ở đây có một hạng người thực hành để từ bỏ sự bám víu, để buông bỏ sự bám víu.

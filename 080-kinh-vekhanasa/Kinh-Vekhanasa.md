@@ -16,6 +16,14 @@ Vekhanasa nghe xong thì hoan hỷ, lặp lại câu nói ấy. Nhưng khi Đứ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 80: Kinh Vekhanasa**](#trung-bộ-kinh--bài-kinh-số-80-kinh-vekhanasa)
+- [**18. Kệ tóm tắt phẩm**](#18-kệ-tóm-tắt-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 80: Kinh Vekhanasa
 
 *Vekhanasasutta* — bài kinh về cuộc đối thoại giữa Đức Thế Tôn và du sĩ Vekhanasa, người tuyên bố có một vẻ rực rỡ tối thượng mà không mô tả được vẻ rực rỡ ấy
@@ -192,7 +200,7 @@ Thế nhưng này Kaccāna, ông lại nói rằng 'vẻ rực rỡ nào còn th
 Này Kaccāna, có năm loại dục lạc.
 
 <!-- seg: mn80:12.2 -->
-Năm loại ấy là những gì?
+Năm là những gì?
 
 <!-- seg: mn80:12.3 -->
 Những hình sắc do mắt nhận biết, khả ái, đáng yêu, dễ chịu, vừa ý, liên hệ đến dục, khêu gợi tham muốn;

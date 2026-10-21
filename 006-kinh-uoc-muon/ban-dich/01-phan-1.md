@@ -8,7 +8,7 @@ Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong vư
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn6:1.4 -->
-"Này các tỳ-kheo."
+"Này các tỳ-kheo!"
 
 <!-- seg: mn6:1.5 -->
 "Thưa vâng, bạch Thế Tôn", các tỳ-kheo ấy đáp lại Đức Thế Tôn.

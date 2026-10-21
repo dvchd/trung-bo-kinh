@@ -16,6 +16,13 @@ Bản dịch này làm từ nguyên bản Pali, đối chiếu với bản tiế
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 131: Kinh Một Đêm Lành**](#trung-bộ-kinh--bài-kinh-số-131-kinh-một-đêm-lành)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 131: Kinh Một Đêm Lành
 
 *Bhaddekaratta Sutta* — bài kinh về một đêm lành
@@ -48,7 +55,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn131:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn131:2.1 -->
 "Này các tỳ-kheo, Ta sẽ giảng cho các ông phần tóm tắt và phần phân tích về người có một đêm lành.
@@ -60,7 +67,7 @@ Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn131:2.4 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn131:3.1 -->
 "Chớ có quay về với quá khứ,

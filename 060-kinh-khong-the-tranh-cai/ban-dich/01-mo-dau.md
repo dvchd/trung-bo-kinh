@@ -27,7 +27,7 @@ Ngài đã tự mình chứng biết bằng thắng trí về thế giới này 
 Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có nghĩa lý và văn cú; Ngài nêu rõ đời sống phạm hạnh hoàn toàn đầy đủ và trong sạch.
 
 <!-- seg: mn60:2.7 -->
-Thật lành thay được thấy những bậc A-la-hán như vậy."
+Thật tốt lành thay khi được gặp những bậc A-la-hán như vậy."
 
 <!-- seg: mn60:3.1 -->
 Rồi các bà-la-môn và gia chủ xứ Sālā đi đến chỗ Đức Thế Tôn. Đến nơi, một số người đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Một số người chào hỏi thân thiện, nói với nhau những lời chào hỏi xã giao rồi ngồi xuống một bên. Một số người chắp tay hướng về Đức Thế Tôn rồi ngồi xuống một bên. Một số người nói tên họ và dòng dõi mình trước Đức Thế Tôn rồi ngồi xuống một bên. Một số người im lặng ngồi xuống một bên. Khi các bà-la-môn và gia chủ xứ Sālā đã ngồi xuống một bên, Đức Thế Tôn nói với họ:

@@ -9,7 +9,7 @@ Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), t
 [Chú thích: Rājagaha được bao quanh bởi một dãy đồi rộng, nơi nhiều hạng ẩn sĩ tìm đến tu tập.]
 
 <!-- seg: mn116:1.3 -->
-Ở đó, Đức Thế Tôn gọi các tỳ-kheo:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn116:1.4 -->
 "Này các tỳ-kheo!"

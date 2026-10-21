@@ -78,7 +78,7 @@ Rồi nhiều tỳ-kheo đi đến chỗ Đức Thế Tôn; đến rồi, đản
 "Bạch Thế Tôn, thiện nam tử tên là Puṇṇa, người đã được Đức Thế Tôn khuyên dạy bằng lời dạy vắn tắt, nay đã mạng chung.
 
 <!-- seg: mn145:8.3 -->
-Ông ấy đã đi về đâu, đời sau sẽ thế nào?"
+Ông ấy sẽ đi về đâu, đời sau sẽ thế nào?"
 
 <!-- seg: mn145:8.4 -->
 "Này các tỳ-kheo, thiện nam tử Puṇṇa là người sáng suốt. Ông ấy đã thực hành đúng theo Pháp, thuận hợp với Pháp, và đã không làm Ta phải bận lòng về chuyện Pháp.

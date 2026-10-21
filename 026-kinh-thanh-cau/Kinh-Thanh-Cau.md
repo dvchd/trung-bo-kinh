@@ -14,6 +14,13 @@ Với người chưa quen kinh điển, có thể đọc bài này như một c�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 26: Kinh Thánh Cầu**](#trung-bộ-kinh--bài-kinh-số-26-kinh-thánh-cầu)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 26: Kinh Thánh Cầu
 
 *Pāsarāsisutta* — "Đống Bẫy"; còn gọi *Ariyapariyesanā*, "Sự tìm cầu cao quý"
@@ -106,7 +113,7 @@ bạch Thế Tôn, tịnh xá của bà-la-môn Rammaka thật thanh nhã.
 Lành thay, bạch Thế Tôn, mong Đức Thế Tôn vì lòng thương xót mà đi đến tịnh xá của bà-la-môn Rammaka."
 
 <!-- seg: mn26:3.15 -->
-Đức Thế Tôn nhận lời bằng sự im lặng.
+Đức Thế Tôn nhận lời bằng cách im lặng.
 
 <!-- seg: mn26:4.1 -->
 Rồi Đức Thế Tôn đi đến tịnh xá của bà-la-môn Rammaka.
@@ -131,7 +138,7 @@ Các tỳ-kheo ấy mở cửa cho Đức Thế Tôn,
 rồi Đức Thế Tôn bước vào tịnh xá, ngồi xuống chỗ ngồi đã được trải sẵn.
 
 <!-- seg: mn26:4.7 -->
-Ngồi xong, Đức Thế Tôn gọi các tỳ-kheo:
+Ngồi xuống rồi, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn26:4.8 -->
 "Này các tỳ-kheo, các ông đang ngồi bàn chuyện gì vậy? Câu chuyện giữa chừng ấy bị bỏ dở ở đâu?"
@@ -1114,7 +1121,7 @@ Này các tỳ-kheo, có năm loại dục lạc này.
 [Chú thích: Đức Thế Tôn trở lại cách dạy trực tiếp cho các tỳ-kheo ở tịnh xá của Rammaka một cách khá đột ngột. Đề tài này nhắc lại ví dụ khúc gỗ có nhựa, tuy không có ở đây, nhưng ở MN 36:17.1 được giới thiệu khi Bồ-tát bắt đầu nỗ lực ở Uruvelā.]
 
 <!-- seg: mn26:31.2 -->
-Năm loại ấy là gì?
+Năm là những gì?
 
 <!-- seg: mn26:31.3 -->
 Các sắc do mắt nhận biết, khả ái, đáng yêu, vừa ý, dễ thương, liên hệ đến dục, khơi dậy tham,

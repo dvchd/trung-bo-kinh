@@ -16,7 +16,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn101:2.3 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn101:2.4 -->
 Này các tỳ-kheo, có những sa-môn và bà-la-môn nói như vầy và có kiến giải như vầy:

@@ -109,7 +109,7 @@ hãy nghe và khéo tác ý, Ta sẽ nói."
 "Thưa vâng, thưa ngài," Saccaka, con của các du sĩ Ni-kiền-tử, đáp lời Đức Thế Tôn.
 
 <!-- seg: mn36:46.7 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn36:47.1 -->
 "Này Aggivessana, với bất cứ ai mà những lậu hoặc ô nhiễm, đưa đến tái sinh, đem theo sợ hãi, quả là khổ đau, dẫn đến sinh, già, chết trong tương lai, chưa được đoạn trừ — Ta gọi người ấy là si mê.

@@ -16,6 +16,14 @@ Bài kinh khép lại bằng một câu về việc cắt đứt ái, làm tan r
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 20: Kinh An Trú Tầm**](#trung-bộ-kinh--bài-kinh-số-20-kinh-an-trú-tầm)
+- [**Tóm tắt phẩm**](#tóm-tắt-phẩm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 20: Kinh An Trú Tầm
 
 *Vitakkasaṇṭhāna Sutta* — bài kinh về cách an trú tầm, tức cách làm lắng đọng những suy nghĩ.
@@ -46,7 +54,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn20:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn20:2.1 -->
 "Này các tỳ-kheo, vị tỳ-kheo đã dấn thân tu tập tâm cao thượng phải tùy lúc chú tâm đến năm đề mục.

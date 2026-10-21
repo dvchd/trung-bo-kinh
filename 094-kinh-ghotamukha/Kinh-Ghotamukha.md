@@ -16,6 +16,13 @@ Với người đọc hôm nay, bài kinh có một câu hỏi rất gọn để
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 94: Kinh Ghoṭamukha**](#trung-bộ-kinh--bài-kinh-số-94-kinh-ghoṭamukha)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 94: Kinh Ghoṭamukha
 
 *Ghoṭamukha Sutta* — bài kinh về cuộc đối thoại giữa Tôn giả Udena và bà-la-môn Ghoṭamukha về bốn hạng người trong thế gian
@@ -359,7 +366,7 @@ Ngài thuyết Pháp tốt đẹp ở đầu, tốt đẹp ở giữa, tốt đ�
 Một gia chủ, hay con một gia chủ, hay một người sinh ra trong một gia đình nào đó, nghe Pháp ấy.
 
 <!-- seg: mn94:15.2 -->
-Sau khi nghe Pháp ấy, người ấy có được lòng tin nơi Như Lai,
+Sau khi nghe Pháp ấy, người ấy có được lòng tin nơi Như Lai.
 
 <!-- seg: mn94:15.3 -->
 Người ấy, với lòng tin đã có được, suy nghĩ như vầy:

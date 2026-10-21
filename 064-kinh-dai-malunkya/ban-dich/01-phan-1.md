@@ -5,7 +5,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà-lâm), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn64:1.3 -->
-Tại đó, Đức Thế Tôn gọi các tỳ-kheo và nói:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn64:1.4 -->
 "Này các tỳ-kheo!"

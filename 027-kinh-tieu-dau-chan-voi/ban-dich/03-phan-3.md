@@ -2,7 +2,7 @@
 Một gia chủ, hay con trai một gia chủ, hay một người sinh ra trong một gia đình nào đó nghe Pháp ấy.
 
 <!-- seg: mn27:12.2 -->
-Người ấy nghe Pháp ấy xong, khởi lên lòng tin nơi Như Lai,
+Sau khi nghe Pháp ấy, người ấy có được lòng tin nơi Như Lai.
 
 <!-- seg: mn27:12.3 -->
 Người ấy thành tựu lòng tin ấy, suy nghĩ như vầy:

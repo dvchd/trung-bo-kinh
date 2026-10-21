@@ -16,6 +16,13 @@ Với người chưa quen kinh điển, bài này dễ đọc hơn nhiều bài 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 5: Kinh Không Uế Nhiễm**](#trung-bộ-kinh--bài-kinh-số-5-kinh-không-uế-nhiễm)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 5: Kinh Không Uế Nhiễm
 
 *Anaṅgaṇa Sutta* — bài kinh về vết nhơ trong tâm và người biết rõ mình có vết nhơ
@@ -46,7 +53,7 @@ Tại đó, Tôn giả Sāriputta (Xá-lợi-phất) gọi các tỳ-kheo:
 "Thưa Tôn giả," các tỳ-kheo ấy đáp lại Tôn giả Sāriputta.
 
 <!-- seg: mn5:1.6 -->
-Tôn giả Sāriputta nói như vầy:
+Tôn giả Sāriputta nói điều này:
 
 <!-- seg: mn5:2.1 -->
 Này các vị, trên đời có bốn hạng người đang sống và đang có mặt.

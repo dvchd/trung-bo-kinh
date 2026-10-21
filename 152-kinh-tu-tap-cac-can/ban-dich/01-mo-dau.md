@@ -64,7 +64,7 @@ Rồi Đức Thế Tôn, biết thanh niên Uttara, học trò của Pārāsiviy
 "Thưa vâng, bạch Thế Tôn", Tôn giả Ānanda đáp lại Đức Thế Tôn.
 
 <!-- seg: mn152:3.7 -->
-Đức Thế Tôn nói:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn152:4.1 -->
 "Và thế nào, này Ānanda, trong giới luật của bậc thánh lại có sự tu tập các căn tối thượng?
@@ -384,7 +384,7 @@ Này Ānanda, đây là những gốc cây, đây là những chỗ trống vắ
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn152:18.4 -->
-Tôn giả Ānanda hoan hỷ, tán thán lời Ngài dạy.
+Tôn giả Ānanda hoan hỷ, tán thán lời Đức Thế Tôn dạy.
 
 <!-- seg: mn152:18.5 -->
 Kinh Tu Tập Các Căn, bài thứ mười, đã hoàn thành.

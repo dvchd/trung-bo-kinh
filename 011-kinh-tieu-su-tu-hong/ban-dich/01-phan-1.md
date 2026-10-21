@@ -16,7 +16,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn11:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn11:2.1 -->
 "Này các tỳ-kheo, chỉ ở đây mới có bậc sa-môn, ở đây có bậc sa-môn thứ hai, ở đây có bậc sa-môn thứ ba, ở đây có bậc sa-môn thứ tư;

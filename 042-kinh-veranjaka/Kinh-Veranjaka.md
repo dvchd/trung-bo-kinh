@@ -14,6 +14,13 @@ Kết thúc, những người dân Verañjā hiểu ra. Họ dùng bốn hình �
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 42: Kinh Verañjaka**](#trung-bộ-kinh--bài-kinh-số-42-kinh-verañjaka)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 42: Kinh Verañjaka
 
 *Verañjaka Sutta* — bài kinh về những người dân Verañjā
@@ -58,7 +65,7 @@ Ngài đã tự mình chứng biết bằng thắng trí thế giới này cùng
 Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có ý nghĩa và có văn cú. Ngài làm sáng tỏ đời sống phạm hạnh hoàn toàn viên mãn và thanh tịnh.
 
 <!-- seg: mn42:2.8 -->
-Thật tốt lành thay khi được thấy những bậc A-la-hán như vậy.
+Thật tốt lành thay khi được gặp những bậc A-la-hán như vậy."
 
 <!-- seg: mn42:3.1 -->
 Rồi các bà-la-môn và gia chủ người Verañjā đi đến chỗ Đức Thế Tôn. Khi đến, một số người đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên; một số người chào hỏi, nói những lời thăm hỏi thân thiện rồi ngồi xuống một bên; một số người chắp tay hướng về Đức Thế Tôn rồi ngồi xuống một bên; một số người xưng tên họ trước Đức Thế Tôn rồi ngồi xuống một bên; một số người im lặng ngồi xuống một bên. Sau khi ngồi xuống một bên, các bà-la-môn và gia chủ người Verañjā thưa với Đức Thế Tôn:

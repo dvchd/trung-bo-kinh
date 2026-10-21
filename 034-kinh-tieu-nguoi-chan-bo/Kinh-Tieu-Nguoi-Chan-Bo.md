@@ -14,6 +14,13 @@ Bài kinh khép lại bằng mấy câu kệ. Trong đó có một hình ảnh �
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 34: Tiểu Kinh Người Chăn Bò**](#trung-bộ-kinh--bài-kinh-số-34-tiểu-kinh-người-chăn-bò)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 34: Tiểu Kinh Người Chăn Bò
 
 *Cūḷagopālakasutta* — bài kinh ngắn về người chăn bò
@@ -46,7 +53,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn34:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn34:2.1 -->
 Này các tỳ-kheo, thuở xưa có một người chăn bò xứ Magadha (Ma-kiệt-đà) bẩm sinh thiếu trí. Vào tháng cuối mùa mưa, khi đã sang tiết thu, ông ta không nhìn xem bờ bên này của sông Gaṅgā, không nhìn xem bờ bên kia, mà cứ thế lùa đàn bò băng qua chỗ không có bến, sang bờ phía bắc, nơi đất của người Suvideha.

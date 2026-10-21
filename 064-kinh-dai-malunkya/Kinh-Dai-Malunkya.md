@@ -16,6 +16,13 @@ Bài kinh khép lại bằng một câu hỏi tinh tế của Tôn giả Ānanda
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 64: Đại Kinh Māluṅkya**](#trung-bộ-kinh--bài-kinh-số-64-đại-kinh-māluṅkya)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 64: Đại Kinh Māluṅkya
 
 *Mahāmālukyasutta* — bài kinh lớn về Māluṅkya, bàn về năm hạ phần kiết sử và con đường đoạn trừ chúng
@@ -37,7 +44,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Jetavana (Kỳ-đà-lâm), tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn64:1.3 -->
-Tại đó, Đức Thế Tôn gọi các tỳ-kheo và nói:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn64:1.4 -->
 "Này các tỳ-kheo!"

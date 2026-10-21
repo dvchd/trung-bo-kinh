@@ -16,6 +16,13 @@ Sau đó là bài pháp tuần tự quen thuộc — bố thí, giới, cõi tr�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 56: Kinh Upāli**](#trung-bộ-kinh--bài-kinh-số-56-kinh-upāli)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 56: Kinh Upāli
 
 *Upāli Sutta* — bài kinh về gia chủ Upāli
@@ -462,7 +469,7 @@ Nāḷandā này có giàu có, phồn thịnh, đông dân, đầy ắp ngườ
 giả sử có một người mang gươm tuốt trần đi đến đây.
 
 <!-- seg: mn56:13.6 -->
-Người ấy nói như vầy:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn56:13.7 -->
 "Trong một sát-na, trong một khoảnh khắc, ta sẽ biến tất cả sinh vật trong phạm vi Nāḷandā này thành một đống thịt, một khối thịt."
@@ -486,7 +493,7 @@ Một người hèn mọn thì có đáng gì?"
 giả sử có một sa-môn hay bà-la-môn có thần thông, đạt được sự làm chủ tâm, đi đến đây.
 
 <!-- seg: mn56:13.14 -->
-Người ấy nói như vầy:
+Người ấy sẽ nói như vầy:
 
 <!-- seg: mn56:13.15 -->
 "Ta sẽ dùng một niệm sân độc nhất mà biến Nāḷandā này thành tro bụi."

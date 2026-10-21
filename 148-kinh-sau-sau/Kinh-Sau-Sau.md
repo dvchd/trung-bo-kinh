@@ -16,6 +16,13 @@ Bài kinh khép lại bằng một đoạn ngắn: vị đệ tử cao quý th�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 148: Kinh Sáu Sáu**](#trung-bộ-kinh--bài-kinh-số-148-kinh-sáu-sáu)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 148: Kinh Sáu Sáu
 
 *Chachakka Sutta* — bài kinh về sáu nhóm, mỗi nhóm sáu
@@ -38,13 +45,13 @@ Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong r�
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn148:1.4 -->
-"Này các tỳ-kheo."
+"Này các tỳ-kheo!"
 
 <!-- seg: mn148:1.5 -->
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
 
 <!-- seg: mn148:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn148:2.1 -->
 Này các tỳ-kheo, Ta sẽ thuyết Pháp cho các ông, tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có nghĩa lý và văn cú, và Ta sẽ công bố đời sống phạm hạnh hoàn toàn viên mãn, trong sạch, ấy là:
@@ -61,7 +68,7 @@ Hãy nghe và khéo tác ý, Ta sẽ nói.
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
 
 <!-- seg: mn148:2.5 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn148:3.1 -->
 Này các tỳ-kheo, sáu xứ bên trong phải được hiểu biết, sáu xứ bên ngoài phải được hiểu biết, sáu loại thức phải được hiểu biết, sáu loại xúc phải được hiểu biết, sáu loại thọ phải được hiểu biết, sáu loại ái phải được hiểu biết.

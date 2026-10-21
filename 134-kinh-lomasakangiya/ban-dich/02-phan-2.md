@@ -67,7 +67,7 @@ Vậy thì này tỳ-kheo, hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 "Thưa vâng, bạch Thế Tôn," Tôn giả Lomasakaṅgiya đáp lời Đức Thế Tôn.
 
 <!-- seg: mn134:6.7 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn134:7.1 -->
 "Chớ có quay về với quá khứ,

@@ -16,7 +16,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn117:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn117:2.1 -->
 Này các tỳ-kheo, Ta sẽ giảng cho các ông về chánh định cao quý, cùng với những điều kiện nền tảng và những phương tiện hỗ trợ của nó.
@@ -30,7 +30,7 @@ Này các tỳ-kheo, Ta sẽ giảng cho các ông về chánh định cao quý,
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn117:2.4 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn117:3.1 -->
 Và này các tỳ-kheo, thế nào là chánh định cao quý, cùng với những điều kiện nền tảng và những phương tiện hỗ trợ của nó?

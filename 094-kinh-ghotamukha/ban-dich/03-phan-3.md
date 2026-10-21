@@ -5,7 +5,7 @@ Ngài thuyết Pháp tốt đẹp ở đầu, tốt đẹp ở giữa, tốt đ�
 Một gia chủ, hay con một gia chủ, hay một người sinh ra trong một gia đình nào đó, nghe Pháp ấy.
 
 <!-- seg: mn94:15.2 -->
-Sau khi nghe Pháp ấy, người ấy có được lòng tin nơi Như Lai,
+Sau khi nghe Pháp ấy, người ấy có được lòng tin nơi Như Lai.
 
 <!-- seg: mn94:15.3 -->
 Người ấy, với lòng tin đã có được, suy nghĩ như vầy:

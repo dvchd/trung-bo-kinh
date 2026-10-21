@@ -16,6 +16,13 @@ Bài kinh khép lại bằng hai câu cân xứng: đây là toàn bộ cảnh g
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 129: Kinh Kẻ Ngu và Người Trí**](#trung-bộ-kinh--bài-kinh-số-129-kinh-kẻ-ngu-và-người-trí)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 129: Kinh Kẻ Ngu và Người Trí
 
 *Bālapaṇḍita Sutta* — bài kinh về kẻ ngu và người trí
@@ -40,13 +47,13 @@ Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong r�
 Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn129:1.4 -->
-"Này các tỳ-kheo."
+"Này các tỳ-kheo!"
 
 <!-- seg: mn129:1.5 -->
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lại Đức Thế Tôn.
 
 <!-- seg: mn129:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn129:2.1 -->
 Này các tỳ-kheo, có ba đặc điểm, ba dấu hiệu và ba biểu hiện của kẻ ngu.

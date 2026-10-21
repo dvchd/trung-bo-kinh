@@ -16,6 +16,13 @@ Bài kinh khép lại bằng bốn câu kệ: các vị ấy đã đoạn tận 
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 116: Kinh Isigili**](#trung-bộ-kinh--bài-kinh-số-116-kinh-isigili)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 116: Kinh Isigili
 
 *Isigili Sutta* — bài kinh về ngọn núi Isigili, nơi năm trăm bậc Độc Giác từng trú
@@ -39,7 +46,7 @@ Một thuở nọ, Đức Thế Tôn đang trú tại Rājagaha (Vương Xá), t
 [Chú thích: Rājagaha được bao quanh bởi một dãy đồi rộng, nơi nhiều hạng ẩn sĩ tìm đến tu tập.]
 
 <!-- seg: mn116:1.3 -->
-Ở đó, Đức Thế Tôn gọi các tỳ-kheo:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn116:1.4 -->
 "Này các tỳ-kheo!"

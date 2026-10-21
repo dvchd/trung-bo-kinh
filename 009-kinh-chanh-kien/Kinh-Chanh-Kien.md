@@ -16,6 +16,13 @@ Nhìn theo một chiều, các mục ấy nối thành một chuỗi mười hai
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 9: Kinh Chánh Kiến**](#trung-bộ-kinh--bài-kinh-số-9-kinh-chánh-kiến)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 9: Kinh Chánh Kiến
 
 *Sammādiṭṭhi Sutta* — bài kinh về chánh kiến, tức cái thấy đúng
@@ -160,7 +167,7 @@ Này các vị, có bốn loại dưỡng chất để duy trì các chúng sinh
 [Chú thích: Bốn loại dưỡng chất cũng được nói ở MN 38 và nhiều bài trong Tương Ưng Bộ. "Những chúng sinh sắp sinh" dịch theo nghĩa phân từ tương lai; chú giải lại hiểu là "đang tìm cách sinh". Cụm từ này là một trong vài chỗ trong kinh gợi đến trạng thái trung gian giữa hai đời sống, dù A-tỳ-đàm Thượng tọa bộ chính thức bác bỏ quan điểm ấy.]
 
 <!-- seg: mn9:11.3 -->
-Bốn loại ấy là gì?
+Bốn là những gì?
 
 <!-- seg: mn9:11.4 -->
 Thứ nhất là dưỡng chất đồ ăn, thô hay tế; thứ hai là xúc; thứ ba là ý chí trong tâm; thứ tư là thức.
@@ -173,7 +180,7 @@ Do tham ái sinh khởi nên dưỡng chất sinh khởi. Do tham ái chấm d�
 [Chú thích: Chữ āhāra nghĩa đen là "cái được đưa vào", cùng gốc với upādāna, "nắm lấy". Cả hai đều mang hai nghĩa: một là chất nuôi dưỡng, hai là sự nắm giữ, bám víu.]
 
 <!-- seg: mn9:11.6 -->
-Chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định.
+chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định.
 
 <!-- seg: mn9:12.1 -->
 Khi bậc thánh đệ tử, này các vị, hiểu như vậy về dưỡng chất, hiểu như vậy về nguồn gốc của dưỡng chất, hiểu như vậy về sự chấm dứt của dưỡng chất, hiểu như vậy về con đường dẫn đến sự chấm dứt của dưỡng chất, vị ấy đoạn trừ hoàn toàn khuynh hướng ngầm của tham, xua tan khuynh hướng ngầm của sân, nhổ sạch khuynh hướng ngầm của tà kiến và ngã mạn "ta là", đoạn trừ vô minh, làm phát sinh minh, và ngay trong đời này, vị ấy chấm dứt khổ đau—

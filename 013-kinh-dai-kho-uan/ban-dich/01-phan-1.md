@@ -129,7 +129,7 @@ Và này các tỳ-kheo, cái gì là sự thích thú của các dục?
 Này các tỳ-kheo, có năm loại dục.
 
 <!-- seg: mn13:7.3 -->
-Đó là năm loại nào?
+Năm là những gì?
 
 <!-- seg: mn13:7.4 -->
 Các sắc do mắt nhận biết, đáng yêu, đáng thích, dễ chịu, dễ mến, liên quan đến dục, khêu gợi lòng tham,

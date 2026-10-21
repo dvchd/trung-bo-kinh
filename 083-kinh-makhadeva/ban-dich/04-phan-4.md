@@ -86,7 +86,7 @@ Này Ānanda, Ta nói với các ông như vầy:
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn83:21.19 -->
-Tôn giả Ānanda hoan hỷ, tán thán lời Ngài dạy.
+Tôn giả Ānanda hoan hỷ, tán thán lời Đức Thế Tôn dạy.
 
 <!-- seg: mn83:21.20 -->
 Kinh Maghadeva, bài thứ ba, đã hoàn tất.

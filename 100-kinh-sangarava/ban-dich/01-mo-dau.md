@@ -112,7 +112,7 @@ Này Bhāradvāja, có thể hiểu điều này bằng một cách khác nữa,
 Này Bhāradvāja, trước khi Ta giác ngộ, khi còn chưa giác ngộ, còn là Bồ-tát, Ta đã nghĩ như vầy:
 
 <!-- seg: mn100:9.2 -->
-'Đời sống tại gia là chật hẹp, là con đường bụi bặm; đời sống xuất gia là khoảng trời rộng mở.
+"Đời sống tại gia thì chật hẹp, là đường bụi bặm; đời sống xuất gia thì rộng mở.
 
 <!-- seg: mn100:9.3 -->
 Thật không dễ cho người sống trong nhà mà thực hành đời sống phạm hạnh hoàn toàn viên mãn, hoàn toàn thanh tịnh, như vỏ ốc được mài nhẵn.

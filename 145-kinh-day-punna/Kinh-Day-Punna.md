@@ -14,6 +14,13 @@ Bài kinh này đáng đọc vì nó cho thấy giáo pháp được truyền đ
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 145: Kinh Dạy Puṇṇa**](#trung-bộ-kinh--bài-kinh-số-145-kinh-dạy-puṇṇa)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 145: Kinh Dạy Puṇṇa
 
 *Puṇṇovāda Sutta* — lời khuyên dạy Tôn giả Puṇṇa
@@ -266,7 +273,7 @@ Rồi nhiều tỳ-kheo đi đến chỗ Đức Thế Tôn; đến rồi, đản
 "Bạch Thế Tôn, thiện nam tử tên là Puṇṇa, người đã được Đức Thế Tôn khuyên dạy bằng lời dạy vắn tắt, nay đã mạng chung.
 
 <!-- seg: mn145:8.3 -->
-Ông ấy đã đi về đâu, đời sau sẽ thế nào?"
+Ông ấy sẽ đi về đâu, đời sau sẽ thế nào?"
 
 <!-- seg: mn145:8.4 -->
 "Này các tỳ-kheo, thiện nam tử Puṇṇa là người sáng suốt. Ông ấy đã thực hành đúng theo Pháp, thuận hợp với Pháp, và đã không làm Ta phải bận lòng về chuyện Pháp.

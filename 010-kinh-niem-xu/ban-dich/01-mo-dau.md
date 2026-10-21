@@ -16,7 +16,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Thưa Thế Tôn," các tỳ-kheo đáp lời.
 
 <!-- seg: mn10:1.6 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn10:2.1 -->
 Này các tỳ-kheo, đây là con đường hội tụ về một mối, để chúng sinh được thanh tịnh, để vượt qua sầu bi và than khóc, để chấm dứt khổ đau và ưu phiền, để đạt được chánh lý, để chứng ngộ Niết-bàn, đó là bốn niệm xứ.

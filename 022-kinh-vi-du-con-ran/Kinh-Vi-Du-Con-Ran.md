@@ -16,6 +16,13 @@ Người đọc hôm nay có thể đọc bài kinh này như một lời cảnh
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 22: Kinh Ví Dụ Con Rắn**](#trung-bộ-kinh--bài-kinh-số-22-kinh-ví-dụ-con-rắn)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 22: Kinh Ví Dụ Con Rắn
 
 *Alagaddūpama Sutta* — bài kinh về ví dụ con rắn
@@ -526,7 +533,7 @@ Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 "Thưa vâng, bạch Thế Tôn," các tỳ-kheo ấy đáp lời Đức Thế Tôn.
 
 <!-- seg: mn22:13.4 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn22:13.5 -->
 "Ví như, này các tỳ-kheo, một người đang đi trên đường dài.

@@ -63,7 +63,7 @@ Vậy thì, này thanh niên, hãy nghe và khéo tác ý, Ta sẽ nói.
 "Thưa vâng, thưa ngài," thanh niên Subha, con trai của Todeyya, đáp lời Đức Thế Tôn.
 
 <!-- seg: mn135:4.8 -->
-Đức Thế Tôn nói điều này:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn135:5.1 -->
 Này thanh niên, ở đây có người đàn bà hay người đàn ông sát sinh, hung dữ, tay lấm máu, chìm đắm trong đánh đập và giết chóc, không có lòng thương xót đối với các loài hữu tình.

@@ -5,16 +5,16 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn đang trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tu viện của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn25:1.3 -->
-Tại đó, Đức Thế Tôn bảo các tỳ-kheo:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn25:1.4 -->
-"Này các tỳ-kheo."
+"Này các tỳ-kheo!"
 
 <!-- seg: mn25:1.5 -->
 Các tỳ-kheo ấy đáp lời Đức Thế Tôn: "Bạch Thế Tôn."
 
 <!-- seg: mn25:1.6 -->
-Đức Thế Tôn dạy như vầy:
+Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn25:2.1 -->
 "Này các tỳ-kheo, người gieo mồi không gieo mồi cho loài nai với ý nghĩ:

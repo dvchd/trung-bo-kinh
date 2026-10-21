@@ -14,6 +14,13 @@ Bài kinh khép lại bằng một việc nhỏ nhưng đáng nhớ. Sau khi Đ�
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 91: Kinh Brahmāyu**](#trung-bộ-kinh--bài-kinh-số-91-kinh-brahmāyu)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 91: Kinh Brahmāyu
 
 *Brahmāyusutta* — bài kinh về bà-la-môn Brahmāyu ở Mithilā, một vị thầy trăm hai mươi tuổi thông suốt ba bộ Vệ-đà, người đã sai học trò Uttara đi kiểm chứng ba mươi hai tướng của bậc đại nhân nơi Đức Thế Tôn, rồi đích thân đến nghe Pháp, quy y và sau khi qua đời được Đức Thế Tôn xác nhận đã đắc quả Bất hoàn
@@ -139,7 +146,7 @@ và con là người lãnh nhận các bài tụng."
 Đi dần từng chặng, anh đến chỗ Đức Thế Tôn; đến nơi, anh chào hỏi thân thiện với Ngài.
 
 <!-- seg: mn91:6.3 -->
-Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lễ độ, anh ngồi xuống một bên.
+Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lễ độ, ông ngồi xuống một bên.
 
 <!-- seg: mn91:6.4 -->
 Ngồi một bên, thanh niên Uttara quan sát thân Đức Thế Tôn để tìm ba mươi hai tướng của bậc đại nhân.
@@ -1033,7 +1040,7 @@ Rồi nhiều tỳ-kheo đi đến chỗ Đức Thế Tôn; đến nơi, các v�
 ---
 
 <!-- seg: mn91:39.5 -->
-"Ông ấy đã tái sinh về đâu, đời sau ra sao?"
+Ông ấy sẽ đi về đâu, đời sau sẽ thế nào?"
 
 <!-- seg: mn91:39.6 -->
 "Này các tỳ-kheo, bà-la-môn Brahmāyu là người sáng suốt. Ông ấy đã thực hành Pháp theo đúng Pháp, và không làm khó ta về chuyện Pháp.

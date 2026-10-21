@@ -7,7 +7,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại xứ Kuru, gần thị trấn Kammāsadhamma của người Kuru.
 
 <!-- seg: mn106:1.3 -->
-Ở đó, Đức Thế Tôn gọi các tỳ-kheo:
+Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 
 <!-- seg: mn106:1.4 -->
 "Này các tỳ-kheo!"

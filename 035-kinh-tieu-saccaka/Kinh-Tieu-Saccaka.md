@@ -16,6 +16,13 @@ Với người hôm nay, bài kinh này đọc được theo hai lớp. Lớp th
 
 ---
 
+## Mục lục
+
+- [Lời giới thiệu](#lời-giới-thiệu)
+- [**Trung Bộ Kinh — bài kinh số 35: Tiểu Kinh Saccaka**](#trung-bộ-kinh--bài-kinh-số-35-tiểu-kinh-saccaka)
+
+---
+
 ## Trung Bộ Kinh — bài kinh số 35: Tiểu Kinh Saccaka
 
 *Cūḷasaccaka Sutta* — bài kinh ngắn hơn về Saccaka
@@ -173,7 +180,7 @@ Vì chúng tôi muốn được gặp ngài Gotama."
 Rồi Saccaka, con của các du sĩ Ni-kiền-tử, cùng với hội chúng Licchavī đông đảo đi sâu vào rừng Mahāvana, đến chỗ Đức Thế Tôn, và chào hỏi Ngài.
 
 <!-- seg: mn35:8.2 -->
-Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện xã giao, ông ta ngồi xuống một bên.
+Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lễ độ, ông ngồi xuống một bên.
 
 <!-- seg: mn35:8.3 -->
 Những người Licchavī ấy cũng vậy: một số người đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên; một số người chào hỏi và trò chuyện xã giao với Ngài rồi ngồi xuống một bên; một số người chắp tay hướng về Đức Thế Tôn rồi ngồi xuống một bên; một số người xưng tên họ trước Đức Thế Tôn rồi ngồi xuống một bên; một số người im lặng ngồi xuống một bên.
