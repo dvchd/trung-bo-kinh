@@ -1,0 +1,15 @@
+# Đại Kinh Trăng Tròn — bản dịch tiếng Việt hiện đại
+
+## Lời giới thiệu
+
+**Đại Kinh Trăng Tròn** (*Mahāpuṇṇama Sutta*) là bài kinh thứ 109 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bối cảnh của nó rất đơn giản: một đêm rằm, Đức Thế Tôn ngồi ngoài trời gần thành Sāvatthī, chung quanh là các tỳ-kheo, tức những người xuất gia sống bằng khất thực. Một vị trong số đó đứng dậy, chắp tay xin phép hỏi, và cuộc vấn đáp kéo dài suốt phần lớn bài kinh. Không có phép lạ, không có vua chúa, chỉ có một nhóm người ngồi dưới trăng và hỏi nhau những câu hỏi căn bản nhất về việc mình là ai.
+
+Muốn theo được bài kinh, chỉ cần nắm một chữ: **uẩn**. Uẩn là một nhóm, một khối. Kinh chia toàn bộ những gì ta gọi là "tôi" thành năm nhóm. Sắc là thân và vật chất. Thọ là cảm giác dễ chịu, khó chịu hay trung tính. Tưởng là phần nhận ra, gọi tên, ghi nhớ. Hành là những ý muốn, quyết định và thói quen thúc đẩy phía sau. Thức là sự nhận biết đối tượng. Năm nhóm ấy không phải năm mảnh rời mà là năm mặt của một dòng chảy, và kinh gọi chúng là **thủ uẩn** khi chúng bị nắm lấy, bị bám vào.
+
+Vị tỳ-kheo hỏi dồn: năm uẩn ấy lấy gì làm gốc, chấp thủ có phải chính là chúng, lòng ham muốn nơi từng uẩn có thể khác nhau không, đến mức nào thì gọi là uẩn, và cái gì khiến mỗi uẩn hình thành. Câu trả lời lần lượt: gốc là ham muốn; chấp thủ không phải là các uẩn cũng không nằm ngoài chúng, mà là lòng ham muốn và tham đắm đối với chúng; mỗi uẩn có duyên riêng, bốn đại nuôi sắc, xúc nuôi thọ, tưởng và hành, danh sắc nuôi thức. Rồi Ngài chỉ ra hữu thân kiến, tức thói quen xem một uẩn nào đó là tự ngã, hình thành và tan đi thế nào, và cách nhìn mỗi uẩn qua ba mặt: cái làm nó đáng ưa, cái nguy hại của nó, và lối thoát khỏi nó.
+
+Đến đây bài kinh mới lộ ra vấn đề của nó. Một vị tỳ-kheo nghe xong liền nghĩ: nếu sắc, thọ, tưởng, hành, thức đều là vô ngã, vậy những nghiệp do cái vô ngã làm ra sẽ chạm đến tự ngã nào? Câu nghĩ ấy nghe có lý, nhưng nó cho thấy vị ấy vẫn còn giả định một cái ta bền vững đứng sau hành động. Đức Thế Tôn biết ý nghĩ ấy, gọi đó là cách nói của kẻ chưa hiểu, rồi thay vì giảng thêm, Ngài hỏi lại: sắc là thường còn hay vô thường, cái gì vô thường thì là khổ hay là lạc, cái gì vô thường và khổ thì có thích hợp để xem là ta, là của ta không. Từng uẩn, câu trả lời tự hiện ra.
+
+Cách dạy ấy là điểm đáng nhớ nhất của bài kinh: người nghe không được đưa sẵn kết luận mà bị dẫn tới chỗ tự thấy. Khi thấy như vậy, vị thánh đệ tử nhàm chán năm uẩn, nhàm chán nên ly tham, ly tham nên được giải thoát, và biết rõ mình đã giải thoát. Bài kinh khép lại bằng một con số: sáu mươi vị tỳ-kheo chứng quả ngay trong buổi nói ấy.
+
+Đại Kinh Trăng Tròn có một người em là Tiểu Kinh Trăng Tròn, bài 110, cùng khung cảnh đêm rằm nhưng nội dung ngắn hơn. Phần lớn bài này cũng có trong Tương Ưng Bộ Kinh 22.82, chỉ khác vài chỗ, riêng đoạn kết thì khác hẳn. Cái tên trăng tròn không phải ẩn dụ: kinh mở đầu bằng đúng đêm rằm, khi ánh trăng làm mọi thứ hiện ra rõ, và câu hỏi của bài kinh cũng là câu hỏi về việc thấy rõ, thấy năm uẩn đúng như chúng là.

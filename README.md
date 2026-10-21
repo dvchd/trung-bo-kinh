@@ -181,13 +181,13 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 | 102 | [Kinh Năm và Ba](102-kinh-nam-va-ba/Kinh-Nam-Va-Ba.md) | *Pañcattaya* | ✅ |
 | 103 | [Kinh Như Thế Nào](103-kinh-nhu-the-nao/Kinh-Nhu-The-Nao.md) | *Kinti* | ✅ |
 | 104 | [Kinh Sāmagāma](104-kinh-samagama/Kinh-Samagama.md) | *Sāmagāma* | ✅ |
-| 105 | Kinh Sunakkhatta | *Sunakkhatta* | — |
-| 106 | Kinh Về Bất Động | *Āneñjasappāya* | — |
+| 105 | [Kinh Sunakkhatta](105-kinh-sunakkhatta/Kinh-Sunakkhatta.md) | *Sunakkhatta* | ✅ |
+| 106 | [Kinh Về Bất Động](106-kinh-ve-bat-dong/Kinh-Ve-Bat-Dong.md) | *Āneñjasappāya* | ✅ |
 | 107 | [Kinh Gaṇakamoggallāna](107-kinh-ganakamoggallana/Kinh-Ganakamoggallana.md) | *Gaṇakamoggallāna* | ✅ |
-| 108 | Kinh Gopaka | *Gopakamoggallāna* | — |
-| 109 | Đại Kinh Trăng Tròn | *Mahāpuṇṇama* | — |
-| 110 | Tiểu Kinh Trăng Tròn | *Cūḷapuṇṇama* | — |
-| 111 | Kinh Tùy Quán | *Anupada* | — |
+| 108 | [Kinh Gopaka](108-kinh-gopaka/Kinh-Gopaka.md) | *Gopakamoggallāna* | ✅ |
+| 109 | [Đại Kinh Trăng Tròn](109-kinh-dai-trang-tron/Kinh-Dai-Trang-Tron.md) | *Mahāpuṇṇama* | ✅ |
+| 110 | [Tiểu Kinh Trăng Tròn](110-kinh-tieu-trang-tron/Kinh-Tieu-Trang-Tron.md) | *Cūḷapuṇṇama* | ✅ |
+| 111 | [Kinh Tùy Quán](111-kinh-tuy-quan/Kinh-Tuy-Quan.md) | *Anupada* | ✅ |
 | 112 | Kinh Sáu Thanh Tịnh | *Chabbisodhana* | — |
 | 113 | Kinh Con Người Chân Thật | *Sappurisa* | — |
 | 114 | Kinh Nên Thân Cận và Không Nên Thân Cận | *Sevitabbāsevitabba* | — |
