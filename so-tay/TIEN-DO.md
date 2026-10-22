@@ -81,7 +81,8 @@ nay cả 152 bài báo thiếu 0.
 ## Việc còn lại (tùy chọn)
 
 1. Đọc lại 108 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
-   trình như trên.
+   trình như trên. Phiên 19:00 ngày 2026-10-22 bắt đầu từ MN 12 (372 đoạn, nên tách đôi), rồi
+   MN 21, 22, 26, 27, 28.
 2. Bổ sung 31 chú thích còn thiếu của MN 1: nguồn có 41 NOTE nhưng bản dịch mới có 11 chú thích.
 3. Quyết khoảng 149 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
    giữa hai cách hiểu Pali, không phải lỗi rõ ràng.
