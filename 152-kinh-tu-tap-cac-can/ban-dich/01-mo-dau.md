@@ -61,7 +61,7 @@ Rồi Đức Thế Tôn, biết thanh niên Uttara, học trò của Pārāsiviy
 "Vậy thì này Ānanda, hãy nghe và khéo tác ý; Ta sẽ nói."
 
 <!-- seg: mn152:3.6 -->
-"Thưa vâng, bạch Thế Tôn", Tôn giả Ānanda đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," Tôn giả Ānanda đáp lại Đức Thế Tôn.
 
 <!-- seg: mn152:3.7 -->
 Đức Thế Tôn nói như vầy:

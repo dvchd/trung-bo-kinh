@@ -78,7 +78,7 @@ Lành thay, bạch Thế Tôn, xin Đức Thế Tôn dạy Pháp cho tôi như t
 [Chú thích: Đức Thế Tôn dường như đang phá chính quy định của Ngài là không thuyết Pháp cho người mang dép và cầm dù. Bản Hán tương ứng (MA 203) tránh chỗ khó xử này bằng cách nói rằng Potaliya đã cất dù và dép đi.]
 
 <!-- seg: mn54:3.19 -->
-"Thưa vâng, bạch Thế Tôn", gia chủ Potaliya đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," gia chủ Potaliya đáp lời Đức Thế Tôn.
 
 <!-- seg: mn54:4.1 -->
 Đức Thế Tôn nói như vầy:
@@ -127,7 +127,7 @@ Này gia chủ, đó là tám pháp được nói vắn tắt, chưa được ph
 "Vậy thì, này gia chủ, hãy nghe và khéo tác ý, Ta sẽ nói."
 
 <!-- seg: mn54:5.3 -->
-"Thưa vâng, bạch Thế Tôn", gia chủ Potaliya đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," gia chủ Potaliya đáp lời Đức Thế Tôn.
 
 <!-- seg: mn54:5.4 -->
 Đức Thế Tôn nói như vầy:
@@ -342,7 +342,7 @@ Lành thay, bạch Thế Tôn, xin Đức Thế Tôn dạy Pháp cho tôi như t
 "Vậy thì, này gia chủ, hãy nghe và khéo tác ý, Ta sẽ nói."
 
 <!-- seg: mn54:14.6 -->
-"Thưa vâng, bạch Thế Tôn", gia chủ Potaliya đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," gia chủ Potaliya đáp lời Đức Thế Tôn.
 
 <!-- seg: mn54:14.7 -->
 Đức Thế Tôn nói như vầy:

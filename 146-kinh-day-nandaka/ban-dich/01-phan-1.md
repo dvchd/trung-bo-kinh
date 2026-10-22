@@ -59,7 +59,7 @@ này bà-la-môn, ông hãy thuyết pháp cho các tỳ-kheo-ni.
 [Chú thích của người dịch: Đức Thế Tôn gọi Tôn giả Nandaka là "bà-la-môn" theo dòng dõi xuất thân, không phải vì Tôn giả còn là người tại gia.]
 
 <!-- seg: mn146:4.5 -->
-"Thưa vâng, bạch Thế Tôn", Tôn giả Nandaka vâng lời Đức Thế Tôn, rồi vào buổi sáng đắp y, cầm bát và y, đi vào Sāvatthī để khất thực.
+"Thưa vâng, bạch Thế Tôn," Tôn giả Nandaka vâng lời Đức Thế Tôn, rồi vào buổi sáng đắp y, cầm bát và y, đi vào Sāvatthī để khất thực.
 
 <!-- seg: mn146:4.6 -->
 Sau khi đi khất thực trong Sāvatthī, ăn xong và trở về từ chuyến khất thực, Tôn giả cùng một người bạn đồng hành đi đến Rājakārāma (tịnh xá của vua).

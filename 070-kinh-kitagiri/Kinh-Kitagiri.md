@@ -153,7 +153,7 @@ Rồi Đức Thế Tôn gọi một tỳ-kheo:
 'Bậc Đạo sư gọi các Tôn giả.'"
 
 <!-- seg: mn70:6.4 -->
-"Thưa vâng, bạch Thế Tôn", vị tỳ-kheo ấy đáp lại Đức Thế Tôn rồi đi đến chỗ các tỳ-kheo Assaji và Punabbasuka; đến rồi, nói với họ rằng:
+"Thưa vâng, bạch Thế Tôn," vị tỳ-kheo ấy đáp lại Đức Thế Tôn rồi đi đến chỗ các tỳ-kheo Assaji và Punabbasuka; đến rồi, nói với họ rằng:
 
 <!-- seg: mn70:6.5 -->
 "Bậc Đạo sư gọi các Tôn giả."

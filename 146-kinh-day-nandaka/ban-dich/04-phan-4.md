@@ -133,7 +133,7 @@ Rồi Đức Thế Tôn gọi Tôn giả Nandaka:
 Vậy thì, này Nandaka, ngày mai ông hãy dạy bảo các tỳ-kheo-ni ấy bằng chính lời dạy đó.
 
 <!-- seg: mn146:16.3 -->
-"Thưa vâng, bạch Thế Tôn", Tôn giả Nandaka đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," Tôn giả Nandaka đáp lại Đức Thế Tôn.
 
 <!-- seg: mn146:16.4 -->
 Rồi Tôn giả Nandaka, sau khi đêm ấy qua đi, vào buổi sáng đắp y, cầm bát và y, đi vào Sāvatthī để khất thực.

@@ -96,7 +96,7 @@ này bà-la-môn, ông hãy thuyết pháp cho các tỳ-kheo-ni.
 [Chú thích của người dịch: Đức Thế Tôn gọi Tôn giả Nandaka là "bà-la-môn" theo dòng dõi xuất thân, không phải vì Tôn giả còn là người tại gia.]
 
 <!-- seg: mn146:4.5 -->
-"Thưa vâng, bạch Thế Tôn", Tôn giả Nandaka vâng lời Đức Thế Tôn, rồi vào buổi sáng đắp y, cầm bát và y, đi vào Sāvatthī để khất thực.
+"Thưa vâng, bạch Thế Tôn," Tôn giả Nandaka vâng lời Đức Thế Tôn, rồi vào buổi sáng đắp y, cầm bát và y, đi vào Sāvatthī để khất thực.
 
 <!-- seg: mn146:4.6 -->
 Sau khi đi khất thực trong Sāvatthī, ăn xong và trở về từ chuyến khất thực, Tôn giả cùng một người bạn đồng hành đi đến Rājakārāma (tịnh xá của vua).
@@ -660,7 +660,7 @@ Rồi Đức Thế Tôn gọi Tôn giả Nandaka:
 Vậy thì, này Nandaka, ngày mai ông hãy dạy bảo các tỳ-kheo-ni ấy bằng chính lời dạy đó.
 
 <!-- seg: mn146:16.3 -->
-"Thưa vâng, bạch Thế Tôn", Tôn giả Nandaka đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," Tôn giả Nandaka đáp lại Đức Thế Tôn.
 
 <!-- seg: mn146:16.4 -->
 Rồi Tôn giả Nandaka, sau khi đêm ấy qua đi, vào buổi sáng đắp y, cầm bát và y, đi vào Sāvatthī để khất thực.

@@ -207,7 +207,7 @@ nhưng thưa Ngài, con đã thọ trì hạnh bò này trọn vẹn từ lâu."
 "Vậy thì, này Puṇṇa, hãy nghe và khéo tác ý, ta sẽ nói."
 
 <!-- seg: mn57:6.10 -->
-"Thưa vâng, bạch Thế Tôn", Puṇṇa, con trai người Koliya, người tu hạnh bò, đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," Puṇṇa, con trai người Koliya, người tu hạnh bò, đáp lại Đức Thế Tôn.
 
 <!-- seg: mn57:6.11 -->
 Đức Thế Tôn nói như vầy:

@@ -50,7 +50,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn64:1.5 -->
-"Thưa vâng, bạch Thế Tôn", các tỳ-kheo đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn64:1.6 -->
 Đức Thế Tôn nói như vầy:
@@ -149,7 +149,7 @@ Mong Đức Thế Tôn dạy năm hạ phần kiết sử; các tỳ-kheo nghe x
 "Vậy thì này Ānanda, hãy nghe và khéo tác ý; Ta sẽ nói."
 
 <!-- seg: mn64:4.5 -->
-"Thưa vâng, bạch Thế Tôn", Tôn giả Ānanda đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," Tôn giả Ānanda đáp lại Đức Thế Tôn.
 
 <!-- seg: mn64:4.6 -->
 Đức Thế Tôn nói như vầy:

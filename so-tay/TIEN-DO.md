@@ -126,7 +126,7 @@ vỏ khô ngoài cùng, không phải "chồi non" như Sujato dịch); ba mục
 chuẩn hoá "sanh" → "sinh" toàn kho (MN 49, MN 50) và "bản sanh" → "bổn sanh" (MN 22); nay mọi
 tệp ban-dich chỉ còn "sinh" và "bổn sanh". Đợt MN 54–60 sửa lại sách hướng dẫn MN 60 (đoạn 25.2
 thật ra CÓ `paraṁ maraṇā`) và hàng §2 của MN 59 về "rừng Jeta (Kỳ-đà)". Đợt MN 61–66 còn vá 7 chú thích Sujato còn thiếu
-ở MN 24, 25, 93, 95, 99 (xem `so-tay/ra-soat/chu-thich-thieu.md`) và dịch đủ 14 chú thích MN 1.
+ở MN 24, 25, 93, 95, 99 (xem `so-tay/ra-soat/chu-thich-thieu.md`) và dịch đủ 14 chú thích MN 1. Đợt này cũng chuẩn hoá dấu câu của công thức đáp lời `Evaṁ, bhante`: 29 chỗ ở 8 bài (MN 54, 57, 64, 65, 70, 146, 147, 152) đưa dấu phẩy vào trong ngoặc kép cho khớp 152 chỗ còn lại trong kho.
 
 ## Việc còn lại (tùy chọn)
 

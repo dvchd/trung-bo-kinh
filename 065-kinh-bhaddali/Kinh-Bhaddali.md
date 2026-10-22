@@ -635,7 +635,7 @@ Tuy vậy, này Bhaddāli, Ta sẽ giảng cho ông bài pháp ví dụ về con
 Hãy nghe và khéo chú tâm, Ta sẽ nói."
 
 <!-- seg: mn65:32.11 -->
-"Thưa vâng, bạch Thế Tôn", Tôn giả Bhaddāli đáp lại Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn," Tôn giả Bhaddāli đáp lại Đức Thế Tôn.
 
 <!-- seg: mn65:32.12 -->
 Đức Thế Tôn nói như vầy:

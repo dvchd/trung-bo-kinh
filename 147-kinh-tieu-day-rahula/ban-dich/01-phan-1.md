@@ -32,7 +32,7 @@ Này Rāhula, ông hãy lấy tọa cụ;
 chúng ta sẽ đến rừng Andhavana (Rừng Tối) để nghỉ ngơi ban ngày.
 
 <!-- seg: mn147:1.10 -->
-"Thưa vâng, bạch Thế Tôn", Tôn giả Rāhula đáp lại Đức Thế Tôn, rồi mang tọa cụ đi theo sát sau lưng Ngài.
+"Thưa vâng, bạch Thế Tôn," Tôn giả Rāhula đáp lại Đức Thế Tôn, rồi mang tọa cụ đi theo sát sau lưng Ngài.
 
 <!-- seg: mn147:2.1 -->
 Lúc bấy giờ, hàng ngàn chư thiên đi theo Đức Thế Tôn, nghĩ rằng:
