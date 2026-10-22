@@ -123,7 +123,7 @@ Bạch Thế Tôn, thế nào là loại ý hành mà khi được thân cận t
 Ở đây, bạch Thế Tôn, có người không tham lam: người ấy không tham muốn của cải và đồ dùng của người khác, không nghĩ rằng: "Ước gì những gì của người kia là của tôi!"
 
 <!-- seg: mn114:7.14 -->
-Người ấy lại có tâm không oán hận, có ý nghĩ không ác độc: "Ước gì các chúng sinh này sống không thù địch, không oán hại, không khổ não, được an lạc, và tự mình gìn giữ sự an lạc ấy!"
+Người ấy lại có tâm không oán hận, có ý nghĩ không ác độc: "Ước gì các chúng sinh này sống không thù địch, không oán hại, không khổ não, được an lạc, và tự mình sống yên ổn!"
 
 <!-- seg: mn114:7.15 -->
 Bạch Thế Tôn, loại ý hành như vậy, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng.

@@ -15,7 +15,7 @@ trưởng và các pháp thiện suy giảm thì không nên thân cận, thứ 
 Tiêu chí ấy được áp lần lượt vào bảy mục — thân hành, khẩu hành, ý hành, sự sinh khởi của tâm,
 sự có được tưởng, sự có được tri kiến, sự tái sinh — rồi ngài Sāriputta mở rộng từng mục và được
 Đức Thế Tôn tán thán. Hai phép phân tích tiếp theo lặp lại đúng tiêu chí ấy trên sáu loại đối
-tượng của sáu giác quan, rồi trên bốn thứ cần dùng của người xuất gia cùng làng, thị trấn, thành
+tượng của sáu giác quan, rồi trên ba thứ cần dùng của người xuất gia cùng làng, thị trấn, thành
 phố, quốc độ và con người. Bài kinh khép lại bằng lời phúc chúc: nếu tất cả mọi người, và cả thế
 giới với chư thiên và Phạm Thiên, hiểu được lời dạy vắn tắt ấy theo nghĩa chi tiết đúng như ngài
 Sāriputta hiểu, thì đó sẽ là sự an lạc lâu dài cho tất cả.
@@ -40,7 +40,7 @@ Sāriputta hiểu, thì đó sẽ là sự an lạc lâu dài cho tất cả.
 | `04-phan-4.md` | Tà kiến và chánh kiến; các kiểu tái sinh; Đức Thế Tôn tán thán và nhắc lại bảy mục (mn114:10.13–17-19.2). |
 | `05-phan-5.md` | Đức Thế Tôn nhắc lại và mở rộng bảy mục; phép phân tích thứ hai bắt đầu: sáu đối tượng của sáu giác quan, từ sắc đến xúc (mn114:17-19.3–27.3). |
 | `06-phan-6.md` | Sáu đối tượng của sáu giác quan (tiếp); ngài Sāriputta giải thích các đối tượng ấy (mn114:28.1–40.1). |
-| `07-phan-7.md` | Phép phân tích thứ ba: bốn thứ cần dùng và làng (mn114:40.2–51-58.13). |
+| `07-phan-7.md` | Phép phân tích thứ ba: ba thứ cần dùng và làng (mn114:40.2–51-58.13). |
 | `08-phan-8.md` | Thị trấn, thành phố, quốc độ, con người; lời kết về lợi ích cho toàn thế giới (mn114:51-58.14–61.3). |
 
 ## Cách đọc và góp ý

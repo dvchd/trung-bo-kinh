@@ -10,7 +10,7 @@ Chữ Pali ở đây là *sevati*, vừa có nghĩa là gần gũi, lui tới v�
 
 Rồi ngài Sāriputta (Xá-lợi-phất) đứng ra mở rộng từng mục. Ba thân nghiệp và bốn khẩu nghiệp, ba ý nghiệp, rồi những khởi tâm tham dục, sân hại, não hại cùng những khởi tâm đối lập, rồi các loại tưởng, các loại tri kiến — tà kiến phủ nhận quả báo và đời sau, chánh kiến thừa nhận quả báo và đời sau — và các kiểu tái sinh. Đức Thế Tôn tán thán lời ấy: "Lành thay, lành thay, này Sāriputta", rồi nhắc lại toàn bộ.
 
-Phần sau bài kinh lặp lại đúng tiêu chí ấy trên hai lãnh vực khác. Lần thứ hai là sáu loại đối tượng của sáu giác quan: sắc do mắt nhận biết, tiếng do tai nhận biết, mùi do mũi nhận biết, vị do lưỡi nhận biết, xúc do thân nhận biết, pháp do ý nhận biết. Lần thứ ba là bốn thứ cần dùng của người xuất gia — y phục, đồ ăn khất thực, chỗ ở, thuốc men — rồi đến làng, thị trấn, thành phố, quốc độ và con người. Cùng một câu hỏi, đặt lên từng đối tượng một.
+Phần sau bài kinh lặp lại đúng tiêu chí ấy trên hai lãnh vực khác. Lần thứ hai là sáu loại đối tượng của sáu giác quan: sắc do mắt nhận biết, tiếng do tai nhận biết, mùi do mũi nhận biết, vị do lưỡi nhận biết, xúc do thân nhận biết, pháp do ý nhận biết. Lần thứ ba là ba thứ cần dùng của người xuất gia — y phục, đồ ăn khất thực, chỗ ở — rồi đến làng, thị trấn, thành phố, quốc độ và con người. Cùng một câu hỏi, đặt lên từng đối tượng một.
 
 Bài kinh kết ở một câu đáng nhớ: nếu tất cả những người thuộc bốn giai cấp, và cả thế giới này với chư thiên, Ma vương, Phạm Thiên, với sa-môn, bà-la-môn, trời và người, hiểu được lời dạy vắn tắt ấy theo nghĩa chi tiết đúng như ngài Sāriputta hiểu, thì đó sẽ là sự an lạc lâu dài cho tất cả. Điều được ca ngợi ở đây không phải là học thuộc, mà là hiểu đúng đến nơi đến chốn.
 
@@ -39,6 +39,8 @@ Người đọc lần đầu có thể thấy bài kinh rất lặp. Nhưng chí
 
 <!-- seg: mn114:1.1 -->
 Tôi nghe như vầy.
+
+[Chú thích: Đức Thế Tôn mở đầu bằng những gì nên và không nên thân cận, rồi đưa ra ba phép phân tích khác nhau, mỗi phép gồm một loạt cặp đối lập. Sau mỗi phép, ngài Sāriputta giảng rộng, và Đức Thế Tôn tán thán rồi nhắc lại.]
 
 <!-- seg: mn114:1.2 -->
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
@@ -72,6 +74,8 @@ Hãy lắng nghe và chú tâm cho kỹ, Ta sẽ nói."
 
 <!-- seg: mn114:3.1 -->
 "Này các tỳ-kheo, Ta nói rằng thân hành có hai thứ:
+
+[Chú thích: Phép phân tích thứ nhất gồm bảy mục: thân hành, khẩu hành, ý hành; sự sinh khởi của tâm; và sự có được tưởng, sự có được tri kiến, sự tái sinh.]
 
 <!-- seg: mn114:3.2 -->
 loại nên thân cận và loại không nên thân cận;
@@ -137,6 +141,8 @@ và cả hai loại ấy đều là sự tái sinh."
 
 <!-- seg: mn114:4.1 -->
 Khi Ngài nói như vậy, tôn giả Sāriputta (Xá-lợi-phất) bạch Đức Thế Tôn:
+
+[Chú thích: Ngài Sāriputta lần lượt giảng rộng bảy mục.]
 
 <!-- seg: mn114:4.2 -->
 Bạch Thế Tôn, con hiểu ý nghĩa chi tiết của lời dạy vắn tắt này của Đức Thế Tôn, lời dạy mà ý nghĩa chi tiết chưa được giải thích, như vầy:
@@ -321,7 +327,7 @@ Bạch Thế Tôn, thế nào là loại ý hành mà khi được thân cận t
 Ở đây, bạch Thế Tôn, có người không tham lam: người ấy không tham muốn của cải và đồ dùng của người khác, không nghĩ rằng: "Ước gì những gì của người kia là của tôi!"
 
 <!-- seg: mn114:7.14 -->
-Người ấy lại có tâm không oán hận, có ý nghĩ không ác độc: "Ước gì các chúng sinh này sống không thù địch, không oán hại, không khổ não, được an lạc, và tự mình gìn giữ sự an lạc ấy!"
+Người ấy lại có tâm không oán hận, có ý nghĩ không ác độc: "Ước gì các chúng sinh này sống không thù địch, không oán hại, không khổ não, được an lạc, và tự mình sống yên ổn!"
 
 <!-- seg: mn114:7.15 -->
 Bạch Thế Tôn, loại ý hành như vậy, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng.
@@ -532,13 +538,13 @@ và cả hai loại ấy đều là sự có được tri kiến."
 Đó là điều Đức Thế Tôn đã nói, và Ngài nói điều ấy chính vì lý do này.
 
 <!-- seg: mn114:11.1 -->
-"Ta nói rằng sự có được tự thân có hai thứ:
+"Ta nói rằng sự tái sinh có hai thứ:
 
 <!-- seg: mn114:11.2 -->
 loại nên thân cận và loại không nên thân cận;
 
 <!-- seg: mn114:11.3 -->
-và cả hai loại ấy đều là sự có được tự thân."
+và cả hai loại ấy đều là sự tái sinh."
 
 <!-- seg: mn114:11.4 -->
 Đó là điều Đức Thế Tôn đã nói.
@@ -547,40 +553,40 @@ và cả hai loại ấy đều là sự có được tự thân."
 Nhưng Ngài nói điều ấy vì lý do gì?
 
 <!-- seg: mn114:11.6 -->
-Bạch Thế Tôn, loại sự có được tự thân nào, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm—
+Bạch Thế Tôn, loại sự tái sinh nào, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm—
 
 <!-- seg: mn114:11.7 -->
-thì loại sự có được tự thân ấy không nên thân cận.
+thì loại sự tái sinh ấy không nên thân cận.
 
 <!-- seg: mn114:11.8 -->
-Bạch Thế Tôn, còn loại sự có được tự thân nào, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng—
+Bạch Thế Tôn, còn loại sự tái sinh nào, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng—
 
 <!-- seg: mn114:11.9 -->
-thì loại sự có được tự thân ấy nên thân cận.
+thì loại sự tái sinh ấy nên thân cận.
 
 <!-- seg: mn114:11.10 -->
-Bạch Thế Tôn, thế nào là loại sự có được tự thân mà khi được thân cận thì làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm?
+Bạch Thế Tôn, thế nào là loại sự tái sinh mà khi được thân cận thì làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm?
 
 [Chú thích: Như các ví dụ sau sẽ cho thấy, đây là một kiểu tái sinh không thuận lợi cho việc phát triển các pháp thiện.]
 
 <!-- seg: mn114:11.11 -->
-Bạch Thế Tôn, người tạo ra một sự có được tự thân gây khổ não, không nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện tăng trưởng và các pháp thiện suy giảm.
+Bạch Thế Tôn, người tạo ra một sự tái sinh gây khổ não, không nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện tăng trưởng và các pháp thiện suy giảm.
 
 [Chú thích: Từ apariniṭṭhitabhāvāya, "không nhằm hướng tới trạng thái viên mãn", chỉ xuất hiện ở đây. Chú giải hiểu từ này nói về những người tái sinh vào cõi khổ, nơi họ không thể chứng đạt sự giải thoát.]
 
 <!-- seg: mn114:11.12 -->
-Còn người tạo ra một sự có được tự thân không gây khổ não, nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện suy giảm và các pháp thiện tăng trưởng.
+Còn người tạo ra một sự tái sinh không gây khổ não, nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện suy giảm và các pháp thiện tăng trưởng.
 
 [Chú thích: Câu hỏi này không có trong bản Mahāsaṅgīti, nhưng có trong các bản PTS và BJT.]
 
 <!-- seg: mn114:11.13 -->
-"Ta nói rằng sự có được tự thân có hai thứ:
+"Ta nói rằng sự tái sinh có hai thứ:
 
 <!-- seg: mn114:11.14 -->
 loại nên thân cận và loại không nên thân cận;
 
 <!-- seg: mn114:11.15 -->
-và cả hai loại ấy đều là sự có được tự thân."
+và cả hai loại ấy đều là sự tái sinh."
 
 <!-- seg: mn114:11.16 -->
 Đó là điều Đức Thế Tôn đã nói, và Ngài nói điều ấy chính vì lý do này.
@@ -594,7 +600,7 @@ Bạch Thế Tôn, con hiểu ý nghĩa chi tiết của lời dạy vắn tắt
 "Lành thay, lành thay, này Sāriputta!
 
 <!-- seg: mn114:13.2 -->
-Này Sāriputta, lành thay là con đã hiểu ý nghĩa chi tiết của lời dạy vắn tắt này của Ta, lời dạy mà ý nghĩa chi tiết chưa được giải thích, như vậy."
+Này Sāriputta, thật là tốt khi ông hiểu ý nghĩa một cách chi tiết của lời Ta dạy vắn tắt mà chưa giảng rộng ý nghĩa như vầy."
 
 <!-- seg: mn114:14.1 -->
 Này các tỳ-kheo, Ta nói rằng thân hành có hai thứ:
@@ -680,13 +686,13 @@ Này các tỳ-kheo, Ta nói rằng sự có được tưởng có hai thứ: lo
 Này các tỳ-kheo, Ta nói rằng sự có được tri kiến có hai thứ: loại nên thân cận và loại không nên thân cận; và cả hai loại ấy đều là sự có được tri kiến. Ta đã nói như vậy. Nhưng Ta nói điều ấy vì lý do gì? Này Sāriputta, loại sự có được tri kiến nào, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì loại sự có được tri kiến ấy không nên thân cận. Còn loại sự có được tri kiến nào, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì loại sự có được tri kiến ấy nên thân cận. Này Sāriputta, thế nào là loại sự có được tri kiến mà khi được thân cận thì làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm? Ở đây, này Sāriputta, có người có tri kiến như vầy: "Bố thí không có quả, tế lễ không có quả, cúng tế không có quả; các nghiệp làm tốt và làm xấu không có quả báo; không có đời này, không có đời sau; không có mẹ, không có cha; không có những chúng sinh hóa sinh; không có những sa-môn, bà-la-môn ở đời đi đúng đường, hành đúng pháp, sau khi tự mình chứng ngộ bằng thắng trí đời này và đời sau, lại tuyên bố điều ấy." Này Sāriputta, loại sự có được tri kiến như vậy, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm. Này Sāriputta, thế nào là loại sự có được tri kiến mà khi được thân cận thì làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng? Ở đây, này Sāriputta, có người có tri kiến như vầy: "Bố thí có quả, tế lễ có quả, cúng tế có quả; các nghiệp làm tốt và làm xấu có quả báo; có đời này, có đời sau; có mẹ, có cha; có những chúng sinh hóa sinh; có những sa-môn, bà-la-môn ở đời đi đúng đường, hành đúng pháp, sau khi tự mình chứng ngộ bằng thắng trí đời này và đời sau, lại tuyên bố điều ấy." Này Sāriputta, loại sự có được tri kiến như vậy, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng. Này các tỳ-kheo, Ta nói rằng sự có được tri kiến có hai thứ: loại nên thân cận và loại không nên thân cận; và cả hai loại ấy đều là sự có được tri kiến. Đó là điều Ta đã nói, và Ta nói điều ấy chính vì lý do này.
 
 <!-- seg: mn114:20.1 -->
-Này các tỳ-kheo, Ta nói rằng sự có được tự thân có hai thứ:
+Này các tỳ-kheo, Ta nói rằng sự tái sinh có hai thứ:
 
 <!-- seg: mn114:20.2 -->
 loại nên thân cận và loại không nên thân cận;
 
 <!-- seg: mn114:20.3 -->
-và cả hai loại ấy đều là sự có được tự thân.
+và cả hai loại ấy đều là sự tái sinh.
 
 <!-- seg: mn114:20.4 -->
 Đó là điều Ta đã nói.
@@ -695,31 +701,31 @@ và cả hai loại ấy đều là sự có được tự thân.
 Nhưng Ta nói điều ấy vì lý do gì?
 
 <!-- seg: mn114:20.6 -->
-Này Sāriputta, loại sự có được tự thân nào, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì loại sự có được tự thân ấy không nên thân cận.
+Này Sāriputta, loại sự tái sinh nào, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì loại sự tái sinh ấy không nên thân cận.
 
 <!-- seg: mn114:20.7 -->
-Còn loại sự có được tự thân nào, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng—
+Còn loại sự tái sinh nào, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng—
 
 <!-- seg: mn114:20.8 -->
-thì loại sự có được tự thân ấy nên thân cận.
+thì loại sự tái sinh ấy nên thân cận.
 
 <!-- seg: mn114:21.1 -->
-Này Sāriputta, thế nào là loại sự có được tự thân mà khi được thân cận thì làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm?
+Này Sāriputta, thế nào là loại sự tái sinh mà khi được thân cận thì làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm?
 
 <!-- seg: mn114:21.2 -->
-Này Sāriputta, người tạo ra một sự có được tự thân gây khổ não, không nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện tăng trưởng và các pháp thiện suy giảm.
+Này Sāriputta, người tạo ra một sự tái sinh gây khổ não, không nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện tăng trưởng và các pháp thiện suy giảm.
 
 <!-- seg: mn114:21.3 -->
-Còn người tạo ra một sự có được tự thân không gây khổ não, nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện suy giảm và các pháp thiện tăng trưởng.
+Còn người tạo ra một sự tái sinh không gây khổ não, nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện suy giảm và các pháp thiện tăng trưởng.
 
 <!-- seg: mn114:21.4 -->
-Này các tỳ-kheo, Ta nói rằng sự có được tự thân có hai thứ:
+Này các tỳ-kheo, Ta nói rằng sự tái sinh có hai thứ:
 
 <!-- seg: mn114:21.5 -->
 loại nên thân cận và loại không nên thân cận;
 
 <!-- seg: mn114:21.6 -->
-và cả hai loại ấy đều là sự có được tự thân.
+và cả hai loại ấy đều là sự tái sinh.
 
 <!-- seg: mn114:21.7 -->
 Đó là điều Ta đã nói, và Ta nói điều ấy chính vì lý do này.
@@ -827,16 +833,16 @@ Bạch Thế Tôn, còn loại vị do lưỡi nhận biết nào, khi được 
 <!-- hết phần 5 -->
 
 <!-- seg: mn114:28.1 -->
-"Khi thân cận loại xúc do thân nhận biết nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại xúc do thân nhận biết ấy không nên thân cận.
+Khi thân cận loại xúc do thân nhận biết nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại xúc do thân nhận biết ấy không nên thân cận.
 
 <!-- seg: mn114:28.2 -->
 Còn khi thân cận loại xúc do thân nhận biết nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại xúc do thân nhận biết ấy nên thân cận.
 
 <!-- seg: mn114:29.1 -->
-'Này Sāriputta, Ta nói pháp do ý nhận biết có hai loại:
+"Này Sāriputta, Ta nói pháp do ý nhận biết có hai thứ:
 
 <!-- seg: mn114:29.2 -->
-loại nên thân cận và loại không nên thân cận.'
+loại nên thân cận và loại không nên thân cận."
 
 <!-- seg: mn114:29.3 -->
 Đức Thế Tôn đã nói như vậy.
@@ -851,16 +857,16 @@ Bạch Thế Tôn, khi thân cận loại pháp do ý nhận biết mà các ph�
 Bạch Thế Tôn, còn khi thân cận loại pháp do ý nhận biết mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại pháp do ý nhận biết ấy nên thân cận.
 
 <!-- seg: mn114:30.3 -->
-'Này Sāriputta, Ta nói pháp do ý nhận biết có hai loại:
+"Này Sāriputta, Ta nói pháp do ý nhận biết có hai thứ:
 
 <!-- seg: mn114:30.4 -->
-loại nên thân cận và loại không nên thân cận.'
+loại nên thân cận và loại không nên thân cận."
 
 <!-- seg: mn114:30.5 -->
 Đức Thế Tôn đã nói như vậy, và Ngài nói như vậy là vì lý do này.
 
 <!-- seg: mn114:30.6 -->
-Bạch Thế Tôn, con hiểu ý nghĩa một cách chi tiết của lời Đức Thế Tôn dạy vắn tắt mà chưa giảng rộng ý nghĩa như vầy."
+Bạch Thế Tôn, con hiểu ý nghĩa một cách chi tiết của lời Đức Thế Tôn dạy vắn tắt mà chưa giảng rộng ý nghĩa như vầy.
 
 <!-- seg: mn114:31.1 -->
 "Lành thay, lành thay, này Sāriputta!
@@ -869,7 +875,7 @@ Bạch Thế Tôn, con hiểu ý nghĩa một cách chi tiết của lời Đứ
 Này Sāriputta, thật là tốt khi ông hiểu ý nghĩa một cách chi tiết của lời Ta dạy vắn tắt mà chưa giảng rộng ý nghĩa như vầy."
 
 <!-- seg: mn114:32-36.1 -->
-"Này Sāriputta, Ta nói sắc do mắt nhận biết có hai loại:
+"Này Sāriputta, Ta nói sắc do mắt nhận biết có hai thứ:
 
 [Chú thích của người dịch: Đoạn phân tích này được lặp lại cho cả sáu đối tượng của sáu giác quan, nhưng nguyên bản chỉ ghi đầy đủ một lần.]
 
@@ -889,7 +895,7 @@ Này Sāriputta, khi thân cận loại sắc do mắt nhận biết mà các ph
 Còn khi thân cận loại sắc do mắt nhận biết mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại sắc do mắt nhận biết ấy nên thân cận.
 
 <!-- seg: mn114:32-36.7 -->
-Này Sāriputta, Ta nói sắc do mắt nhận biết có hai loại:
+Này Sāriputta, Ta nói sắc do mắt nhận biết có hai thứ:
 
 <!-- seg: mn114:32-36.8 -->
 loại nên thân cận và loại không nên thân cận.
@@ -898,7 +904,7 @@ loại nên thân cận và loại không nên thân cận.
 Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:37.1 -->
-Này Sāriputta, Ta nói âm thanh do tai nhận biết có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy?
+Này Sāriputta, Ta nói âm thanh do tai nhận biết có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy?
 
 <!-- seg: mn114:37.2 -->
 Khi thân cận loại âm thanh do tai nhận biết nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại âm thanh do tai nhận biết ấy không nên thân cận.
@@ -907,25 +913,25 @@ Khi thân cận loại âm thanh do tai nhận biết nào mà các pháp bất 
 Còn khi thân cận loại âm thanh do tai nhận biết nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại âm thanh do tai nhận biết ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:37.4 -->
-Này Sāriputta, Ta nói hương do mũi nhận biết có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận loại hương do mũi nhận biết nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại hương do mũi nhận biết ấy không nên thân cận.
+Này Sāriputta, Ta nói hương do mũi nhận biết có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận loại hương do mũi nhận biết nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại hương do mũi nhận biết ấy không nên thân cận.
 
 <!-- seg: mn114:37.5 -->
 Còn khi thân cận loại hương do mũi nhận biết nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại hương do mũi nhận biết ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:37.6 -->
-Này Sāriputta, Ta nói vị do lưỡi nhận biết có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận loại vị do lưỡi nhận biết nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại vị do lưỡi nhận biết ấy không nên thân cận.
+Này Sāriputta, Ta nói vị do lưỡi nhận biết có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận loại vị do lưỡi nhận biết nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại vị do lưỡi nhận biết ấy không nên thân cận.
 
 <!-- seg: mn114:37.7 -->
 Còn khi thân cận loại vị do lưỡi nhận biết nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại vị do lưỡi nhận biết ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:37.8 -->
-Này Sāriputta, Ta nói xúc do thân nhận biết có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận loại xúc do thân nhận biết nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại xúc do thân nhận biết ấy không nên thân cận.
+Này Sāriputta, Ta nói xúc do thân nhận biết có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận loại xúc do thân nhận biết nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại xúc do thân nhận biết ấy không nên thân cận.
 
 <!-- seg: mn114:37.9 -->
 Còn khi thân cận loại xúc do thân nhận biết nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại xúc do thân nhận biết ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:38.1 -->
-Này Sāriputta, Ta nói pháp do ý nhận biết có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy?
+Này Sāriputta, Ta nói pháp do ý nhận biết có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy?
 
 <!-- seg: mn114:38.2 -->
 Khi thân cận loại pháp do ý nhận biết nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại pháp do ý nhận biết ấy không nên thân cận.
@@ -934,7 +940,7 @@ Khi thân cận loại pháp do ý nhận biết nào mà các pháp bất thi�
 Còn khi thân cận loại pháp do ý nhận biết nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại pháp do ý nhận biết ấy nên thân cận.
 
 <!-- seg: mn114:38.4 -->
-Này Sāriputta, Ta nói pháp do ý nhận biết có hai loại:
+Này Sāriputta, Ta nói pháp do ý nhận biết có hai thứ:
 
 <!-- seg: mn114:38.5 -->
 loại nên thân cận và loại không nên thân cận.
@@ -946,7 +952,7 @@ loại nên thân cận và loại không nên thân cận.
 Này Sāriputta, ý nghĩa của lời Ta dạy vắn tắt ấy phải được hiểu một cách chi tiết như vầy."
 
 <!-- seg: mn114:39.1 -->
-"Này Sāriputta, Ta nói y phục có hai loại:
+"Này Sāriputta, Ta nói y phục có hai thứ:
 
 [Chú thích: Đức Thế Tôn mở đầu phần phân tích thứ ba và cũng là phần cuối, chuyển sang các vật dụng và nơi trú ngụ của một vị xuất gia.]
 
@@ -954,44 +960,44 @@ Này Sāriputta, ý nghĩa của lời Ta dạy vắn tắt ấy phải được
 loại nên thân cận và loại không nên thân cận.
 
 <!-- seg: mn114:39.3 -->
-Này Sāriputta, Ta nói đồ ăn khất thực có hai loại: loại nên thân cận và loại không nên thân cận.
+Này Sāriputta, Ta nói đồ ăn khất thực có hai thứ: loại nên thân cận và loại không nên thân cận.
 
 <!-- seg: mn114:39.4 -->
-Này Sāriputta, Ta nói chỗ ở có hai loại: loại nên thân cận và loại không nên thân cận.
+Này Sāriputta, Ta nói chỗ ở có hai thứ: loại nên thân cận và loại không nên thân cận.
 
 <!-- seg: mn114:39.5 -->
-Này Sāriputta, Ta nói làng có hai loại: loại nên thân cận và loại không nên thân cận.
+Này Sāriputta, Ta nói làng có hai thứ: loại nên thân cận và loại không nên thân cận.
 
 <!-- seg: mn114:39.6 -->
-Này Sāriputta, Ta nói thị trấn có hai loại: loại nên thân cận và loại không nên thân cận.
+Này Sāriputta, Ta nói thị trấn có hai thứ: loại nên thân cận và loại không nên thân cận.
 
 <!-- seg: mn114:39.7 -->
-Này Sāriputta, Ta nói thành phố có hai loại: loại nên thân cận và loại không nên thân cận.
+Này Sāriputta, Ta nói thành phố có hai thứ: loại nên thân cận và loại không nên thân cận.
 
 <!-- seg: mn114:39.8 -->
-Này Sāriputta, Ta nói xứ sở có hai loại: loại nên thân cận và loại không nên thân cận.
+Này Sāriputta, Ta nói xứ sở có hai thứ: loại nên thân cận và loại không nên thân cận.
 
 <!-- seg: mn114:39.9 -->
-Này Sāriputta, Ta nói cá nhân có hai loại:
+Này Sāriputta, Ta nói cá nhân có hai thứ:
 
 <!-- seg: mn114:39.10 -->
 loại nên thân cận và loại không nên thân cận."
 
 <!-- seg: mn114:40.1 -->
-Khi Ngài nói như vậy, Tôn giả Sāriputta bạch Đức Thế Tôn:
+Khi Ngài nói như vậy, tôn giả Sāriputta bạch Đức Thế Tôn:
 
 ---
 
 <!-- seg: mn114:40.2 -->
-"Bạch Thế Tôn, con hiểu ý nghĩa một cách chi tiết của lời Đức Thế Tôn dạy vắn tắt mà chưa giảng rộng ý nghĩa như vầy.
+Bạch Thế Tôn, con hiểu ý nghĩa một cách chi tiết của lời Đức Thế Tôn dạy vắn tắt mà chưa giảng rộng ý nghĩa như vầy.
 
 [Chú thích: Một lần nữa, Sāriputta lại giảng rộng.]
 
 <!-- seg: mn114:41.1 -->
-'Này Sāriputta, Ta nói y phục có hai loại:
+"Này Sāriputta, Ta nói y phục có hai thứ:
 
 <!-- seg: mn114:41.2 -->
-loại nên thân cận và loại không nên thân cận.'
+loại nên thân cận và loại không nên thân cận."
 
 <!-- seg: mn114:41.3 -->
 Đức Thế Tôn đã nói như vậy.
@@ -1006,16 +1012,16 @@ Bạch Thế Tôn, khi thân cận loại y phục mà các pháp bất thiện 
 Bạch Thế Tôn, còn khi thân cận loại y phục mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại y phục ấy nên thân cận.
 
 <!-- seg: mn114:41.7 -->
-'Này Sāriputta, Ta nói y phục có hai loại:
+"Này Sāriputta, Ta nói y phục có hai thứ:
 
 <!-- seg: mn114:41.8 -->
-loại nên thân cận và loại không nên thân cận.'
+loại nên thân cận và loại không nên thân cận."
 
 <!-- seg: mn114:41.9 -->
 Đức Thế Tôn đã nói như vậy, và Ngài nói như vậy là vì lý do này.
 
 <!-- seg: mn114:42.1 -->
-'Này Sāriputta, Ta nói đồ ăn khất thực có hai loại: loại nên thân cận và loại không nên thân cận.' Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy?
+"Này Sāriputta, Ta nói đồ ăn khất thực có hai thứ: loại nên thân cận và loại không nên thân cận." Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy?
 
 <!-- seg: mn114:42.2 -->
 Khi thân cận loại đồ ăn khất thực nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại đồ ăn khất thực ấy không nên thân cận.
@@ -1024,7 +1030,7 @@ Khi thân cận loại đồ ăn khất thực nào mà các pháp bất thiện
 Còn khi thân cận loại đồ ăn khất thực nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại đồ ăn khất thực ấy nên thân cận. Đức Thế Tôn đã nói như vậy, và Ngài nói như vậy là vì lý do này.
 
 <!-- seg: mn114:43.1 -->
-'Này Sāriputta, Ta nói chỗ ở có hai loại: loại nên thân cận và loại không nên thân cận.' Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy?
+"Này Sāriputta, Ta nói chỗ ở có hai thứ: loại nên thân cận và loại không nên thân cận." Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy?
 
 <!-- seg: mn114:43.2 -->
 Khi thân cận chỗ ở nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì chỗ ở ấy không nên thân cận.
@@ -1033,7 +1039,7 @@ Khi thân cận chỗ ở nào mà các pháp bất thiện tăng trưởng, cá
 Còn khi thân cận chỗ ở nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì chỗ ở ấy nên thân cận. Đức Thế Tôn đã nói như vậy, và Ngài nói như vậy là vì lý do này.
 
 <!-- seg: mn114:44.1 -->
-'Này Sāriputta, Ta nói làng có hai loại: loại nên thân cận và loại không nên thân cận.' Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy?
+"Này Sāriputta, Ta nói làng có hai thứ: loại nên thân cận và loại không nên thân cận." Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy?
 
 <!-- seg: mn114:45.1 -->
 Khi thân cận làng nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì làng ấy không nên thân cận.
@@ -1042,28 +1048,28 @@ Khi thân cận làng nào mà các pháp bất thiện tăng trưởng, các ph
 Còn khi thân cận làng nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì làng ấy nên thân cận. Đức Thế Tôn đã nói như vậy, và Ngài nói như vậy là vì lý do này.
 
 <!-- seg: mn114:45.3 -->
-'Này Sāriputta, Ta nói thị trấn có hai loại: loại nên thân cận và loại không nên thân cận.' Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy? Khi thân cận thị trấn nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thị trấn ấy không nên thân cận.
+"Này Sāriputta, Ta nói thị trấn có hai thứ: loại nên thân cận và loại không nên thân cận." Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy? Khi thân cận thị trấn nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thị trấn ấy không nên thân cận.
 
 <!-- seg: mn114:45.4 -->
 Còn khi thân cận thị trấn nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì thị trấn ấy nên thân cận. Đức Thế Tôn đã nói như vậy, và Ngài nói như vậy là vì lý do này.
 
 <!-- seg: mn114:46.1 -->
-'Này Sāriputta, Ta nói thành phố có hai loại: loại nên thân cận và loại không nên thân cận.' Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy? Khi thân cận thành phố nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thành phố ấy không nên thân cận.
+"Này Sāriputta, Ta nói thành phố có hai thứ: loại nên thân cận và loại không nên thân cận." Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy? Khi thân cận thành phố nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thành phố ấy không nên thân cận.
 
 <!-- seg: mn114:46.2 -->
 Còn khi thân cận thành phố nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì thành phố ấy nên thân cận. Đức Thế Tôn đã nói như vậy, và Ngài nói như vậy là vì lý do này.
 
 <!-- seg: mn114:47.1 -->
-'Này Sāriputta, Ta nói xứ sở có hai loại: loại nên thân cận và loại không nên thân cận.' Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy? Khi thân cận xứ sở nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì xứ sở ấy không nên thân cận.
+"Này Sāriputta, Ta nói xứ sở có hai thứ: loại nên thân cận và loại không nên thân cận." Đức Thế Tôn đã nói như vậy. Nhưng vì lý do gì mà Ngài nói như vậy? Khi thân cận xứ sở nào mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì xứ sở ấy không nên thân cận.
 
 <!-- seg: mn114:47.2 -->
 Còn khi thân cận xứ sở nào mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì xứ sở ấy nên thân cận. Đức Thế Tôn đã nói như vậy, và Ngài nói như vậy là vì lý do này.
 
 <!-- seg: mn114:48.1 -->
-'Này Sāriputta, Ta nói cá nhân có hai loại:
+"Này Sāriputta, Ta nói cá nhân có hai thứ:
 
 <!-- seg: mn114:48.2 -->
-loại nên thân cận và loại không nên thân cận.'
+loại nên thân cận và loại không nên thân cận."
 
 <!-- seg: mn114:48.3 -->
 Đức Thế Tôn đã nói như vậy.
@@ -1078,16 +1084,16 @@ Bạch Thế Tôn, khi thân cận loại cá nhân mà các pháp bất thiện
 Bạch Thế Tôn, còn khi thân cận loại cá nhân mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì cá nhân ấy nên thân cận.
 
 <!-- seg: mn114:48.7 -->
-'Này Sāriputta, Ta nói cá nhân có hai loại:
+"Này Sāriputta, Ta nói cá nhân có hai thứ:
 
 <!-- seg: mn114:48.8 -->
-loại nên thân cận và loại không nên thân cận.'
+loại nên thân cận và loại không nên thân cận."
 
 <!-- seg: mn114:48.9 -->
 Đức Thế Tôn đã nói như vậy, và Ngài nói như vậy là vì lý do này.
 
 <!-- seg: mn114:49.1 -->
-Bạch Thế Tôn, con hiểu ý nghĩa một cách chi tiết của lời Đức Thế Tôn dạy vắn tắt mà chưa giảng rộng ý nghĩa như vầy."
+Bạch Thế Tôn, con hiểu ý nghĩa một cách chi tiết của lời Đức Thế Tôn dạy vắn tắt mà chưa giảng rộng ý nghĩa như vầy.
 
 <!-- seg: mn114:50.1 -->
 "Lành thay, lành thay, này Sāriputta!
@@ -1096,9 +1102,9 @@ Bạch Thế Tôn, con hiểu ý nghĩa một cách chi tiết của lời Đứ
 Này Sāriputta, thật là tốt khi ông hiểu ý nghĩa một cách chi tiết của lời Ta dạy vắn tắt mà chưa giảng rộng ý nghĩa như vầy."
 
 <!-- seg: mn114:51-58.1 -->
-"Này Sāriputta, Ta nói y phục có hai loại:
+"Này Sāriputta, Ta nói y phục có hai thứ:
 
-[Chú thích của người dịch: Đoạn này được lặp lại cho tám đối tượng, từ y phục cho đến xứ sở, nhưng nguyên bản chỉ ghi đầy đủ một lần.]
+[Chú thích của người dịch: Đoạn này được lặp lại cho bảy đối tượng, từ y phục cho đến xứ sở, nhưng nguyên bản chỉ ghi đầy đủ một lần.]
 
 <!-- seg: mn114:51-58.2 -->
 loại nên thân cận và loại không nên thân cận.
@@ -1116,7 +1122,7 @@ Này Sāriputta, khi thân cận loại y phục mà các pháp bất thiện t�
 Còn khi thân cận loại y phục mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại y phục ấy nên thân cận.
 
 <!-- seg: mn114:51-58.7 -->
-Này Sāriputta, Ta nói y phục có hai loại:
+Này Sāriputta, Ta nói y phục có hai thứ:
 
 <!-- seg: mn114:51-58.8 -->
 loại nên thân cận và loại không nên thân cận.
@@ -1125,30 +1131,30 @@ loại nên thân cận và loại không nên thân cận.
 Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:51-58.10 -->
-(Ở đây, phần còn lại phải được giảng rộng theo đúng như phần đầu.)
+[Chú thích của người dịch: Bản Pali ở đây chỉ ghi một dòng hướng dẫn giảng rộng theo phần đầu; các mục tiếp theo đã được giảng rộng.]
 
 <!-- seg: mn114:51-58.11 -->
-Này Sāriputta, Ta nói đồ ăn khất thực có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận loại đồ ăn khất thực mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại đồ ăn khất thực ấy không nên thân cận. Còn khi thân cận loại đồ ăn khất thực mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại đồ ăn khất thực ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
+Này Sāriputta, Ta nói đồ ăn khất thực có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận loại đồ ăn khất thực mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì loại đồ ăn khất thực ấy không nên thân cận. Còn khi thân cận loại đồ ăn khất thực mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì loại đồ ăn khất thực ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:51-58.12 -->
-Này Sāriputta, Ta nói chỗ ở có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận chỗ ở mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì chỗ ở ấy không nên thân cận. Còn khi thân cận chỗ ở mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì chỗ ở ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
+Này Sāriputta, Ta nói chỗ ở có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận chỗ ở mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì chỗ ở ấy không nên thân cận. Còn khi thân cận chỗ ở mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì chỗ ở ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:51-58.13 -->
-Này Sāriputta, Ta nói làng có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận làng mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì làng ấy không nên thân cận. Còn khi thân cận làng mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì làng ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này."
+Này Sāriputta, Ta nói làng có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận làng mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì làng ấy không nên thân cận. Còn khi thân cận làng mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì làng ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này."
 
 ---
 
 <!-- seg: mn114:51-58.14 -->
-"Này Sāriputta, Ta nói thị trấn có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận thị trấn mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thị trấn ấy không nên thân cận. Còn khi thân cận thị trấn mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì thị trấn ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
+"Này Sāriputta, Ta nói thị trấn có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận thị trấn mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thị trấn ấy không nên thân cận. Còn khi thân cận thị trấn mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì thị trấn ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:51-58.15 -->
-Này Sāriputta, Ta nói thành phố có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận thành phố mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thành phố ấy không nên thân cận. Còn khi thân cận thành phố mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì thành phố ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
+Này Sāriputta, Ta nói thành phố có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận thành phố mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thành phố ấy không nên thân cận. Còn khi thân cận thành phố mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì thành phố ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:51-58.16 -->
-Này Sāriputta, Ta nói xứ sở có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận xứ sở mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì xứ sở ấy không nên thân cận. Còn khi thân cận xứ sở mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì xứ sở ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
+Này Sāriputta, Ta nói xứ sở có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận xứ sở mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì xứ sở ấy không nên thân cận. Còn khi thân cận xứ sở mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì xứ sở ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:59.1 -->
-Này Sāriputta, Ta nói cá nhân có hai loại:
+Này Sāriputta, Ta nói cá nhân có hai thứ:
 
 <!-- seg: mn114:59.2 -->
 loại nên thân cận và loại không nên thân cận.
@@ -1166,7 +1172,7 @@ Này Sāriputta, khi thân cận loại cá nhân mà các pháp bất thiện t
 Còn khi thân cận loại cá nhân mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì cá nhân ấy nên thân cận.
 
 <!-- seg: mn114:59.7 -->
-Này Sāriputta, Ta nói cá nhân có hai loại:
+Này Sāriputta, Ta nói cá nhân có hai thứ:
 
 <!-- seg: mn114:59.8 -->
 loại nên thân cận và loại không nên thân cận.

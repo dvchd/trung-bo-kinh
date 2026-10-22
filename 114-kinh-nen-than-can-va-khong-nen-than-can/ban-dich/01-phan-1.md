@@ -1,6 +1,8 @@
 <!-- seg: mn114:1.1 -->
 Tôi nghe như vầy.
 
+[Chú thích: Đức Thế Tôn mở đầu bằng những gì nên và không nên thân cận, rồi đưa ra ba phép phân tích khác nhau, mỗi phép gồm một loạt cặp đối lập. Sau mỗi phép, ngài Sāriputta giảng rộng, và Đức Thế Tôn tán thán rồi nhắc lại.]
+
 <!-- seg: mn114:1.2 -->
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
@@ -33,6 +35,8 @@ Hãy lắng nghe và chú tâm cho kỹ, Ta sẽ nói."
 
 <!-- seg: mn114:3.1 -->
 "Này các tỳ-kheo, Ta nói rằng thân hành có hai thứ:
+
+[Chú thích: Phép phân tích thứ nhất gồm bảy mục: thân hành, khẩu hành, ý hành; sự sinh khởi của tâm; và sự có được tưởng, sự có được tri kiến, sự tái sinh.]
 
 <!-- seg: mn114:3.2 -->
 loại nên thân cận và loại không nên thân cận;
@@ -98,6 +102,8 @@ và cả hai loại ấy đều là sự tái sinh."
 
 <!-- seg: mn114:4.1 -->
 Khi Ngài nói như vậy, tôn giả Sāriputta (Xá-lợi-phất) bạch Đức Thế Tôn:
+
+[Chú thích: Ngài Sāriputta lần lượt giảng rộng bảy mục.]
 
 <!-- seg: mn114:4.2 -->
 Bạch Thế Tôn, con hiểu ý nghĩa chi tiết của lời dạy vắn tắt này của Đức Thế Tôn, lời dạy mà ý nghĩa chi tiết chưa được giải thích, như vầy:

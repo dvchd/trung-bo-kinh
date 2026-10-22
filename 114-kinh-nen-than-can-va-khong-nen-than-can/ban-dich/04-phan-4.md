@@ -20,13 +20,13 @@ và cả hai loại ấy đều là sự có được tri kiến."
 Đó là điều Đức Thế Tôn đã nói, và Ngài nói điều ấy chính vì lý do này.
 
 <!-- seg: mn114:11.1 -->
-"Ta nói rằng sự có được tự thân có hai thứ:
+"Ta nói rằng sự tái sinh có hai thứ:
 
 <!-- seg: mn114:11.2 -->
 loại nên thân cận và loại không nên thân cận;
 
 <!-- seg: mn114:11.3 -->
-và cả hai loại ấy đều là sự có được tự thân."
+và cả hai loại ấy đều là sự tái sinh."
 
 <!-- seg: mn114:11.4 -->
 Đó là điều Đức Thế Tôn đã nói.
@@ -35,40 +35,40 @@ và cả hai loại ấy đều là sự có được tự thân."
 Nhưng Ngài nói điều ấy vì lý do gì?
 
 <!-- seg: mn114:11.6 -->
-Bạch Thế Tôn, loại sự có được tự thân nào, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm—
+Bạch Thế Tôn, loại sự tái sinh nào, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm—
 
 <!-- seg: mn114:11.7 -->
-thì loại sự có được tự thân ấy không nên thân cận.
+thì loại sự tái sinh ấy không nên thân cận.
 
 <!-- seg: mn114:11.8 -->
-Bạch Thế Tôn, còn loại sự có được tự thân nào, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng—
+Bạch Thế Tôn, còn loại sự tái sinh nào, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng—
 
 <!-- seg: mn114:11.9 -->
-thì loại sự có được tự thân ấy nên thân cận.
+thì loại sự tái sinh ấy nên thân cận.
 
 <!-- seg: mn114:11.10 -->
-Bạch Thế Tôn, thế nào là loại sự có được tự thân mà khi được thân cận thì làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm?
+Bạch Thế Tôn, thế nào là loại sự tái sinh mà khi được thân cận thì làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm?
 
 [Chú thích: Như các ví dụ sau sẽ cho thấy, đây là một kiểu tái sinh không thuận lợi cho việc phát triển các pháp thiện.]
 
 <!-- seg: mn114:11.11 -->
-Bạch Thế Tôn, người tạo ra một sự có được tự thân gây khổ não, không nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện tăng trưởng và các pháp thiện suy giảm.
+Bạch Thế Tôn, người tạo ra một sự tái sinh gây khổ não, không nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện tăng trưởng và các pháp thiện suy giảm.
 
 [Chú thích: Từ apariniṭṭhitabhāvāya, "không nhằm hướng tới trạng thái viên mãn", chỉ xuất hiện ở đây. Chú giải hiểu từ này nói về những người tái sinh vào cõi khổ, nơi họ không thể chứng đạt sự giải thoát.]
 
 <!-- seg: mn114:11.12 -->
-Còn người tạo ra một sự có được tự thân không gây khổ não, nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện suy giảm và các pháp thiện tăng trưởng.
+Còn người tạo ra một sự tái sinh không gây khổ não, nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện suy giảm và các pháp thiện tăng trưởng.
 
 [Chú thích: Câu hỏi này không có trong bản Mahāsaṅgīti, nhưng có trong các bản PTS và BJT.]
 
 <!-- seg: mn114:11.13 -->
-"Ta nói rằng sự có được tự thân có hai thứ:
+"Ta nói rằng sự tái sinh có hai thứ:
 
 <!-- seg: mn114:11.14 -->
 loại nên thân cận và loại không nên thân cận;
 
 <!-- seg: mn114:11.15 -->
-và cả hai loại ấy đều là sự có được tự thân."
+và cả hai loại ấy đều là sự tái sinh."
 
 <!-- seg: mn114:11.16 -->
 Đó là điều Đức Thế Tôn đã nói, và Ngài nói điều ấy chính vì lý do này.
@@ -82,7 +82,7 @@ Bạch Thế Tôn, con hiểu ý nghĩa chi tiết của lời dạy vắn tắt
 "Lành thay, lành thay, này Sāriputta!
 
 <!-- seg: mn114:13.2 -->
-Này Sāriputta, lành thay là con đã hiểu ý nghĩa chi tiết của lời dạy vắn tắt này của Ta, lời dạy mà ý nghĩa chi tiết chưa được giải thích, như vậy."
+Này Sāriputta, thật là tốt khi ông hiểu ý nghĩa một cách chi tiết của lời Ta dạy vắn tắt mà chưa giảng rộng ý nghĩa như vầy."
 
 <!-- seg: mn114:14.1 -->
 Này các tỳ-kheo, Ta nói rằng thân hành có hai thứ:

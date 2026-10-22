@@ -14,7 +14,7 @@ thứ gì khi được thân cận làm cho các pháp bất thiện tăng trư�
 không nên thân cận, thứ gì làm ngược lại thì nên thân cận. Tiêu chí ấy được áp vào bảy mục — thân
 hành, khẩu hành, ý hành, sự sinh khởi của tâm, sự có được tưởng, sự có được tri kiến, sự tái sinh
 — và ngài Sāriputta lần lượt mở rộng cả bảy, được Đức Thế Tôn tán thán rồi nhắc lại. Hai phép phân
-tích tiếp theo áp đúng tiêu chí ấy lên sáu đối tượng của sáu giác quan, rồi lên bốn thứ cần dùng
+tích tiếp theo áp đúng tiêu chí ấy lên sáu đối tượng của sáu giác quan, rồi lên ba thứ cần dùng
 của người xuất gia cùng làng, thị trấn, thành phố, quốc độ và con người. Bài kinh kết bằng lời
 phúc chúc: nếu tất cả mọi người, và cả thế giới với chư thiên và Phạm Thiên, hiểu được lời dạy vắn
 tắt ấy theo nghĩa chi tiết đúng như ngài Sāriputta hiểu, thì đó sẽ là sự an lạc lâu dài cho tất cả.

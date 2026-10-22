@@ -55,7 +55,7 @@ Vào một đêm trăng tròn ở Sāvatthī, một vị tỳ-kheo xin phép h�
 - 14.2 và 14.6: "bho" là cách gọi suồng sã của người bà-la-môn, không phải "bạch Thế Tôn"; dịch "thưa ông" và ghi chú, đừng làm mất sắc thái.
 - 14.3 "anattakatāni kammāni kamattānaṁ phusissantī": "kamattānaṁ" là chỗ khó; hiểu là "chạm đến tự ngã nào", giữ nguyên ý chất vấn.
 - 14.8: bản Pali Mahāsaṅgīti in "paṭivinītā", còn SN 22.82:13.4 đọc "paṭipucchāvinītā" (được giáo dục bằng cách hỏi lại). Dịch theo bản đang có, ghi dị bản trong chú thích.
-- 18.1–18.2: "khīṇā jāti…" dùng dạng đã thống nhất trong bộ này: "Sanh đã tận, phạm hạnh đã sống trọn, việc cần làm đã làm, không còn trở lại đời này nữa."
+- 18.1–18.2: "khīṇā jāti…" dùng dạng đã thống nhất trong bộ này: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 - 18.6 "navamaṁ": bài thứ chín trong phẩm, không phải bài thứ 109; giữ "bài thứ chín" và đừng thêm chú thích dài.
 - `01-phan-1.md` và `02-phan-2.md` kết thúc bằng dòng `<!-- hết phần N -->`: nhờ vậy `ghep.py` không chèn dấu `---` vào giữa đoạn văn đang chạy ở ranh giới 11.3–11.4 và 16.8–16.9. Đừng xoá hai dòng ấy khi sửa bài.
 

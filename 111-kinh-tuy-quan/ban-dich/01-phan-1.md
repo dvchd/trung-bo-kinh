@@ -1,7 +1,7 @@
 <!-- seg: mn111:1.1 -->
 Tôi nghe như vầy.
 
-[Chú thích: Bài kinh thuật lại cách ngài Sāriputta thực hành tuệ quán cho đến khi chứng quả A-la-hán, lấp vào khoảng trống giữa lúc chứng quả Dự lưu và quả A-la-hán. Đoạn văn nhắc rằng khi một câu chuyện kể ai đó chứng ngộ trong lúc nghe pháp, phía sau thường có một quá trình thực hành dài. Nhiều dấu hiệu cho thấy đây là một trong những bài kinh xuất hiện muộn: không có bản tương đương, phần trình bày chi tiết lạ thường, và có những thuật ngữ chỉ gặp trong các văn bản về sau.]
+[Chú thích: Bài kinh thuật lại cách ngài Sāriputta thực hành tuệ quán cho đến khi chứng quả A-la-hán, lấp vào khoảng trống giữa lúc chứng quả Dự lưu và quả A-la-hán. Đoạn văn nhắc rằng khi một câu chuyện kể ai đó chứng ngộ trong lúc nghe pháp, phía sau thường có một quá trình thực hành dài. Nhiều dấu hiệu cho thấy đây là một trong những bài kinh xuất hiện muộn: không có bản tương đương, phần trình bày chi tiết lạ thường, có chỗ biên tập vụng về, và có những thuật ngữ chỉ gặp trong các văn bản về sau.]
 
 <!-- seg: mn111:1.2 -->
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).

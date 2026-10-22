@@ -132,5 +132,7 @@ vì chúng tôi được thấy một vị đồng phạm hạnh như vị đây
 <!-- seg: mn112:21.6 -->
 Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 
+[Chú thích: Tên bài nói "sáu thanh tịnh" nhưng bản Pali chỉ có năm lượt hỏi. Chú giải đưa ra vài cách giải thích, trong đó có ý kiến của các vị Trưởng lão hải ngoại cho rằng văn bản phải có thêm một phần về bốn loại thức ăn. Bản Hán tương đương (MA 187) quả thật có phần ấy, nên nhiều khả năng một đoạn đã bị mất trong quá trình truyền bản.]
+
 <!-- seg: mn112:21.7 -->
 Kinh Sáu Thanh Tịnh đã kết thúc, bài thứ hai.

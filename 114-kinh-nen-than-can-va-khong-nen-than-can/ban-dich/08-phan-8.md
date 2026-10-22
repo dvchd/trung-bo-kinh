@@ -1,14 +1,14 @@
 <!-- seg: mn114:51-58.14 -->
-"Này Sāriputta, Ta nói thị trấn có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận thị trấn mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thị trấn ấy không nên thân cận. Còn khi thân cận thị trấn mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì thị trấn ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
+"Này Sāriputta, Ta nói thị trấn có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận thị trấn mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thị trấn ấy không nên thân cận. Còn khi thân cận thị trấn mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì thị trấn ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:51-58.15 -->
-Này Sāriputta, Ta nói thành phố có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận thành phố mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thành phố ấy không nên thân cận. Còn khi thân cận thành phố mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì thành phố ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
+Này Sāriputta, Ta nói thành phố có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận thành phố mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì thành phố ấy không nên thân cận. Còn khi thân cận thành phố mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì thành phố ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:51-58.16 -->
-Này Sāriputta, Ta nói xứ sở có hai loại: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận xứ sở mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì xứ sở ấy không nên thân cận. Còn khi thân cận xứ sở mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì xứ sở ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
+Này Sāriputta, Ta nói xứ sở có hai thứ: loại nên thân cận và loại không nên thân cận. Đó là điều Ta đã nói. Nhưng vì lý do gì mà Ta nói như vậy? Khi thân cận xứ sở mà các pháp bất thiện tăng trưởng, các pháp thiện suy giảm, thì xứ sở ấy không nên thân cận. Còn khi thân cận xứ sở mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì xứ sở ấy nên thân cận. Đó là điều Ta đã nói, và Ta nói như vậy là vì lý do này.
 
 <!-- seg: mn114:59.1 -->
-Này Sāriputta, Ta nói cá nhân có hai loại:
+Này Sāriputta, Ta nói cá nhân có hai thứ:
 
 <!-- seg: mn114:59.2 -->
 loại nên thân cận và loại không nên thân cận.
@@ -26,7 +26,7 @@ Này Sāriputta, khi thân cận loại cá nhân mà các pháp bất thiện t
 Còn khi thân cận loại cá nhân mà các pháp bất thiện suy giảm, các pháp thiện tăng trưởng, thì cá nhân ấy nên thân cận.
 
 <!-- seg: mn114:59.7 -->
-Này Sāriputta, Ta nói cá nhân có hai loại:
+Này Sāriputta, Ta nói cá nhân có hai thứ:
 
 <!-- seg: mn114:59.8 -->
 loại nên thân cận và loại không nên thân cận.

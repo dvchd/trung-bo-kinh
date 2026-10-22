@@ -8,13 +8,13 @@ Này các tỳ-kheo, Ta nói rằng sự có được tưởng có hai thứ: lo
 Này các tỳ-kheo, Ta nói rằng sự có được tri kiến có hai thứ: loại nên thân cận và loại không nên thân cận; và cả hai loại ấy đều là sự có được tri kiến. Ta đã nói như vậy. Nhưng Ta nói điều ấy vì lý do gì? Này Sāriputta, loại sự có được tri kiến nào, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì loại sự có được tri kiến ấy không nên thân cận. Còn loại sự có được tri kiến nào, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì loại sự có được tri kiến ấy nên thân cận. Này Sāriputta, thế nào là loại sự có được tri kiến mà khi được thân cận thì làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm? Ở đây, này Sāriputta, có người có tri kiến như vầy: "Bố thí không có quả, tế lễ không có quả, cúng tế không có quả; các nghiệp làm tốt và làm xấu không có quả báo; không có đời này, không có đời sau; không có mẹ, không có cha; không có những chúng sinh hóa sinh; không có những sa-môn, bà-la-môn ở đời đi đúng đường, hành đúng pháp, sau khi tự mình chứng ngộ bằng thắng trí đời này và đời sau, lại tuyên bố điều ấy." Này Sāriputta, loại sự có được tri kiến như vậy, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm. Này Sāriputta, thế nào là loại sự có được tri kiến mà khi được thân cận thì làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng? Ở đây, này Sāriputta, có người có tri kiến như vầy: "Bố thí có quả, tế lễ có quả, cúng tế có quả; các nghiệp làm tốt và làm xấu có quả báo; có đời này, có đời sau; có mẹ, có cha; có những chúng sinh hóa sinh; có những sa-môn, bà-la-môn ở đời đi đúng đường, hành đúng pháp, sau khi tự mình chứng ngộ bằng thắng trí đời này và đời sau, lại tuyên bố điều ấy." Này Sāriputta, loại sự có được tri kiến như vậy, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng. Này các tỳ-kheo, Ta nói rằng sự có được tri kiến có hai thứ: loại nên thân cận và loại không nên thân cận; và cả hai loại ấy đều là sự có được tri kiến. Đó là điều Ta đã nói, và Ta nói điều ấy chính vì lý do này.
 
 <!-- seg: mn114:20.1 -->
-Này các tỳ-kheo, Ta nói rằng sự có được tự thân có hai thứ:
+Này các tỳ-kheo, Ta nói rằng sự tái sinh có hai thứ:
 
 <!-- seg: mn114:20.2 -->
 loại nên thân cận và loại không nên thân cận;
 
 <!-- seg: mn114:20.3 -->
-và cả hai loại ấy đều là sự có được tự thân.
+và cả hai loại ấy đều là sự tái sinh.
 
 <!-- seg: mn114:20.4 -->
 Đó là điều Ta đã nói.
@@ -23,31 +23,31 @@ và cả hai loại ấy đều là sự có được tự thân.
 Nhưng Ta nói điều ấy vì lý do gì?
 
 <!-- seg: mn114:20.6 -->
-Này Sāriputta, loại sự có được tự thân nào, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì loại sự có được tự thân ấy không nên thân cận.
+Này Sāriputta, loại sự tái sinh nào, khi được thân cận, làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì loại sự tái sinh ấy không nên thân cận.
 
 <!-- seg: mn114:20.7 -->
-Còn loại sự có được tự thân nào, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng—
+Còn loại sự tái sinh nào, khi được thân cận, làm cho các pháp bất thiện suy giảm và các pháp thiện tăng trưởng—
 
 <!-- seg: mn114:20.8 -->
-thì loại sự có được tự thân ấy nên thân cận.
+thì loại sự tái sinh ấy nên thân cận.
 
 <!-- seg: mn114:21.1 -->
-Này Sāriputta, thế nào là loại sự có được tự thân mà khi được thân cận thì làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm?
+Này Sāriputta, thế nào là loại sự tái sinh mà khi được thân cận thì làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm?
 
 <!-- seg: mn114:21.2 -->
-Này Sāriputta, người tạo ra một sự có được tự thân gây khổ não, không nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện tăng trưởng và các pháp thiện suy giảm.
+Này Sāriputta, người tạo ra một sự tái sinh gây khổ não, không nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện tăng trưởng và các pháp thiện suy giảm.
 
 <!-- seg: mn114:21.3 -->
-Còn người tạo ra một sự có được tự thân không gây khổ não, nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện suy giảm và các pháp thiện tăng trưởng.
+Còn người tạo ra một sự tái sinh không gây khổ não, nhằm hướng tới trạng thái viên mãn, thì các pháp bất thiện suy giảm và các pháp thiện tăng trưởng.
 
 <!-- seg: mn114:21.4 -->
-Này các tỳ-kheo, Ta nói rằng sự có được tự thân có hai thứ:
+Này các tỳ-kheo, Ta nói rằng sự tái sinh có hai thứ:
 
 <!-- seg: mn114:21.5 -->
 loại nên thân cận và loại không nên thân cận;
 
 <!-- seg: mn114:21.6 -->
-và cả hai loại ấy đều là sự có được tự thân.
+và cả hai loại ấy đều là sự tái sinh.
 
 <!-- seg: mn114:21.7 -->
 Đó là điều Ta đã nói, và Ta nói điều ấy chính vì lý do này.
