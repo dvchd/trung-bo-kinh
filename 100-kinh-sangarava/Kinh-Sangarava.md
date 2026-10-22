@@ -109,11 +109,15 @@ Này con trai yêu quý, giờ con hãy đi khi con thấy thuận tiện."
 <!-- seg: mn100:5.5 -->
 "Vâng, thưa bà", thanh niên Saṅgārava đáp lời nữ bà-la-môn Dhanañjānī, rồi đi đến chỗ Đức Thế Tôn; đến rồi, chào hỏi Đức Thế Tôn.
 
+[Chú thích: Bản Pali thiếu một chữ -ti, có lẽ do lỗi sao chép; đúng ra phải là evaṁ bhotīti.]
+
 <!-- seg: mn100:5.6 -->
 Sau khi trao đổi những lời chào hỏi xã giao và những câu chuyện thân tình, ông ngồi xuống một bên. Ngồi xuống một bên, thanh niên Saṅgārava nói với Đức Thế Tôn:
 
 <!-- seg: mn100:6.1 -->
 "Thưa ngài Gotama, có những sa-môn và bà-la-môn tự nhận đã đạt đến sự viên mãn và tận cùng của thắng trí ngay trong đời này, và đã nắm vững phần căn bản của đời sống phạm hạnh.
+
+[Chú thích: Cụm từ "đạt đến sự viên mãn và tận cùng của thắng trí" là một thành ngữ quen thuộc; xem chú thích tại MN 77:15.6.]
 
 <!-- seg: mn100:6.2 -->
 Thưa ngài Gotama, trong số những sa-môn và bà-la-môn ấy, ngài Gotama thuộc hạng nào?"
@@ -137,6 +141,8 @@ Này Bhāradvāja, lại có những sa-môn và bà-la-môn chỉ nhờ lòng t
 
 <!-- seg: mn100:7.6 -->
 chẳng hạn như những người chỉ dựa vào suy luận và thẩm xét.
+
+[Chú thích: Ở các bài khác, lý trí và lòng tin được xem là hai nguồn hiểu biết khác nhau. Việc gộp chung hai hạng người này có lẽ là lỗi của lần kết tập, vì bản Phạn ngữ cho thấy lòng tin áp dụng cho mọi nguồn hiểu biết ấy.]
 
 <!-- seg: mn100:7.7 -->
 Này Bhāradvāja, lại có những sa-môn và bà-la-môn, đối với những pháp trước đây chưa từng được nghe ai truyền lại, tự mình thắng tri pháp ấy, rồi tự nhận đã đạt đến sự viên mãn và tận cùng của thắng trí ngay trong đời này, và đã nắm vững phần căn bản của đời sống phạm hạnh.
@@ -164,6 +170,8 @@ Này Bhāradvāja, về sau, khi Ta còn trẻ, tóc đen nhánh, đang độ th
 
 <!-- seg: mn100:9.6 -->
 Sau khi xuất gia như vậy, Ta đi tìm cầu điều thiện, tầm cầu trạng thái vô thượng, an tịnh, tối thắng; Ta đi đến Āḷāra Kālāma; đến rồi, Ta nói với Āḷāra Kālāma:
+
+[Chú thích: Xem chú thích tại MN 26:14.1 trở đi.]
 
 <!-- seg: mn100:9.7 -->
 'Thưa hiền giả Kālāma, tôi muốn sống đời sống phạm hạnh trong Pháp và Luật này.'
@@ -401,6 +409,8 @@ Này Bhāradvāja, Ta ngồi ngay tại đó, nghĩ rằng:
 
 <!-- seg: mn100:14.1 -->
 Này Bhāradvāja, ba ví dụ đã hiện ra với Ta, những ví dụ chẳng có gì lạ, từ trước đến nay chưa từng nghe.
+
+[Chú thích: Xem chú thích tại MN 36:17.1 trở đi.]
 
 <!-- seg: mn100:14.2 -->
 Ví như, này Bhāradvāja, một khúc củi tươi còn nhựa, được đặt trong nước.
@@ -817,7 +827,7 @@ do đoạn trừ lạc và khổ, do hỷ và ưu đã lắng xuống từ trư�
 Khi tâm đã định như vậy, thanh tịnh, trong sáng, không ô nhiễm, không cấu uế, mềm mại, dễ sử dụng, vững chắc, đạt đến bất động, Ta hướng tâm đến trí nhớ về các đời sống trước.
 
 <!-- seg: mn100:34.2 -->
-Ta nhớ lại nhiều đời sống trước khác nhau, như là: một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một nghìn đời, một trăm nghìn đời; nhiều kiếp thế giới co lại, nhiều kiếp thế giới giãn ra, nhiều kiếp thế giới co lại và giãn ra. Như vậy Ta nhớ lại nhiều đời sống trước khác nhau, với các đặc điểm và chi tiết.
+Ta nhớ lại nhiều đời sống trước khác nhau, như là: một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một nghìn đời, một trăm nghìn đời; nhiều kiếp thế giới co lại, nhiều kiếp thế giới giãn ra, nhiều kiếp thế giới co lại và giãn ra. Tại nơi ấy, Ta có tên như thế này, dòng họ như thế này, màu da như thế này, thức ăn như thế này, cảm thọ khổ và lạc như thế này, tuổi thọ như thế này. Từ nơi ấy chết đi, Ta sinh ra ở nơi khác; tại nơi khác ấy, Ta cũng có tên như thế này, dòng họ như thế này, màu da như thế này, thức ăn như thế này, cảm thọ khổ và lạc như thế này, tuổi thọ như thế này. Từ nơi ấy chết đi, Ta sinh ra ở đây. Như vậy Ta nhớ lại nhiều đời sống trước khác nhau, với các đặc điểm và chi tiết.
 
 <!-- seg: mn100:35.1 -->
 Này Bhāradvāja, đó là minh thứ nhất mà Ta đã chứng được trong canh đầu của đêm,
@@ -869,11 +879,15 @@ Khi nghe vậy, thanh niên Saṅgārava nói với Đức Thế Tôn:
 <!-- seg: mn100:42.2 -->
 "Sự tinh tấn của ngài Gotama thật bền bỉ, sự tinh tấn của ngài Gotama thật xứng bậc chân nhân;
 
+[Chú thích: aṭṭhita ở đây nên đọc là ā+ṭhita, nghĩa là "bền bỉ, tinh cần", đúng như cách dùng trong Ja 242:2.1 và tiếng Phạn āsthita. Bản dịch theo dị ngữ vata thay vì vataṁ, vì lối cảm thán lặp vata là cách nói quen thuộc.]
+
 <!-- seg: mn100:42.3 -->
 đúng như của một bậc A-la-hán, Chánh đẳng giác.
 
 <!-- seg: mn100:42.4 -->
 Nhưng thưa ngài Gotama, có chư thiên không?"
+
+[Chú thích: Nghĩa của câu "có chư thiên không" (atthi devā) được xác lập từ những đoạn như MN 90:13.2.]
 
 <!-- seg: mn100:42.5 -->
 "Này Bhāradvāja, Ta đã biết điều ấy theo nhân duyên, tức là:
@@ -889,6 +903,8 @@ về chư thiên."
 <!-- seg: mn100:42.8 -->
 Thưa ngài Gotama, nếu vậy thì lời ấy chẳng phải là trống rỗng và dối trá hay sao?"
 
+[Chú thích: Thường thì cụm từ như vậy có kèm một quy chiếu đến lời của Đức Thế Tôn, nhưng bản Pali ở đây không có nên bản dịch cũng không thêm.]
+
 <!-- seg: mn100:42.9 -->
 "Này Bhāradvāja, khi được hỏi 'Có chư thiên không?', người nói rằng 'Có chư thiên', hay người nói rằng 'Ta đã biết theo nhân duyên';
 
@@ -898,11 +914,17 @@ thì ở đây, một người có trí phải đi đến kết luận dứt kho
 <!-- seg: mn100:42.11 -->
 'Có chư thiên.'"
 
+[Chú thích: Điều này nên đọc cùng SN 12.15:2.2, nơi "sự tồn tại" được hiểu nhờ thấy "sự sinh khởi", còn "không tồn tại" được hiểu nhờ thấy "sự diệt". Ở đây cũng vậy, sự tồn tại của chư thiên được hiểu theo nhân duyên.]
+
 <!-- seg: mn100:42.12 -->
 "Sao ngài Gotama lại không trả lời tôi ngay từ đầu?"
 
+[Chú thích: Câu trả lời của Đức Thế Tôn dựa vào hàm ý rằng vì chư thiên tùy thuộc nhân duyên nên họ "tồn tại" theo nghĩa được tái sinh, chứ không phải tồn tại vĩnh viễn. Saṅgārava không theo kịp lập luận ấy.]
+
 <!-- seg: mn100:42.13 -->
 "Này Bhāradvāja, điều này đã được những bậc cao quý trong thế gian công nhận, tức là:
+
+[Chú thích: Đức Thế Tôn cho rằng vì những bậc cao quý trong thế gian, trong đó có các thầy bà-la-môn của Saṅgārava, đều công nhận chư thiên là có thật, nên điều ấy có thể mặc nhiên. Vì vậy câu trả lời của Ngài nhằm làm rõ chư thiên tồn tại theo cách nào: một sự tồn tại hữu điều kiện, vô thường, do nghiệp quyết định.]
 
 <!-- seg: mn100:42.14 -->
 'Có chư thiên.'"

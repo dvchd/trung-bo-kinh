@@ -31,7 +31,8 @@ Bây giờ Đức Thế Tôn sẽ sống nhàn hạ, chuyên tâm vào hạnh ph
 <!-- seg: mn67:12.6 -->
 "Khoan đã, này Sāriputta, khoan đã, này Sāriputta, chớ có khởi lên một ý nghĩ như vậy nữa."
 
-[Chú thích: Bản PTS chép câu này là *na kho te, Sāriputta, puna pi evarūpaṁ cittaṁ uppādetabbaṁ*, nghĩa là "này Sāriputta, ông chớ khởi lên một tâm như vậy nữa". Bản Mahāsaṅgīti ở đây rút gọn nên câu chữ khó đọc theo nghĩa đen.]
+[Chú thích: Bản PTS chép câu này là *na kho te, Sāriputta, puna pi evarūpaṁ cittaṁ uppādetabbaṁ*, nghĩa là "này Sāriputta, ông chớ khởi lên một tâm như vậy nữa"; cách đọc này đáng theo hơn.]
+[Chú thích của người dịch: Bản Mahāsaṅgīti ở đây rút gọn nên câu chữ khó đọc theo nghĩa đen.]
 
 <!-- seg: mn67:13.1 -->
 Rồi Đức Thế Tôn nói với tôn giả Mahāmoggallāna:

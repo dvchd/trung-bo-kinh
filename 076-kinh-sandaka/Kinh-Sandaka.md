@@ -393,7 +393,8 @@ Lưỡi gươm chỉ lọt qua khoảng trống giữa bảy khối ấy.
 <!-- seg: mn76:16.11 -->
 Có một triệu bốn trăm nghìn cửa thai chính, sáu nghìn và sáu trăm; năm trăm nghiệp, năm nghiệp và ba nghiệp; nghiệp và nửa nghiệp; sáu mươi hai đường thực hành, sáu mươi hai kiếp trung gian, sáu loại sinh, tám giai đoạn của một con người; bốn nghìn chín trăm vị Ājīvaka (Tà mạng ngoại đạo), bốn nghìn chín trăm du sĩ, bốn nghìn chín trăm chỗ ở của loài rồng; hai nghìn quyền năng, ba nghìn địa ngục, ba mươi sáu giới bụi; bảy thai có tưởng, bảy thai không tưởng, bảy thai không có mối thắt, bảy vị trời, bảy cõi người, bảy loài quỷ, bảy dòng chảy, bảy lần bỏ thân và bảy trăm lần bỏ thân, bảy vực thẳm và bảy trăm vực thẳm, bảy giấc mơ và bảy trăm giấc mơ, tám triệu bốn trăm nghìn đại kiếp; qua tất cả những thứ ấy, kẻ ngu và người trí phải chạy vòng, trôi lăn, rồi mới làm cho khổ chấm dứt.
 
-[Chú thích: Đây là danh mục số liệu của truyền thống Ājīvaka, phần lớn không còn giải thích được rõ ràng. Bản dịch giữ đúng các con số như văn bản Pali.]
+[Chú thích: Xem chú thích ở DN 2:20.7 để có giải thích.]
+[Chú thích của người dịch: Đây là danh mục số liệu của truyền thống Ājīvaka, phần lớn không còn giải thích được rõ ràng; bản dịch giữ đúng các con số như văn bản Pali.]
 
 <!-- seg: mn76:16.12 -->
 Ở đấy không có điều này: nhờ giới này, nhờ hạnh này, nhờ khổ hạnh này hay nhờ phạm hạnh này, ta sẽ làm cho nghiệp chưa chín được chín, hoặc nghiệp đã chín thì, sau khi cảm thọ từng lần, ta sẽ làm cho nó tiêu hết.

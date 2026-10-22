@@ -270,7 +270,8 @@ Thưa Ngài, trước đây tôi tưởng những du sĩ ngoại đạo là bậ
 <!-- seg: mn54:25.7 -->
 Nhưng các tỳ-kheo, thưa Ngài, dù là bậc xứng đáng, tôi lại tưởng là không xứng đáng; tôi đã dâng họ món ăn dành cho kẻ không xứng đáng và đặt họ vào chỗ dành cho kẻ không xứng đáng, dù họ là bậc xứng đáng.
 
-[Chú thích: Chữ bhikkhū ở đây chỉ riêng các tỳ-kheo, tức tu sĩ theo giáo pháp này, không phải du sĩ của các giáo phái khác.]
+[Chú thích: Chữ bhikkhū ở đây chỉ riêng các tỳ-kheo, tức các tu sĩ Phật giáo.]
+[Chú thích của người dịch: Điều này phân biệt họ với du sĩ của các giáo phái khác.]
 
 <!-- seg: mn54:25.8 -->
 Nhưng nay, thưa Ngài, tôi sẽ biết rằng những du sĩ ngoại đạo, vốn không xứng đáng, thì đúng là không xứng đáng; tôi sẽ dâng họ món ăn dành cho kẻ không xứng đáng và đặt họ vào chỗ dành cho kẻ không xứng đáng.

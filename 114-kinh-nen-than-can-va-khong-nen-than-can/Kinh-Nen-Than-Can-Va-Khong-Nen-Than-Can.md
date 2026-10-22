@@ -58,7 +58,8 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 <!-- seg: mn114:2.1 -->
 "Này các tỳ-kheo, Ta sẽ giảng cho các ông bài giảng về pháp: những gì nên thân cận và những gì không nên thân cận.
 
-[Chú thích: Chữ sevati ở đây vừa có nghĩa là gần gũi, lui tới với một người, vừa có nghĩa là nuôi dưỡng, luyện tập bằng cách thường xuyên tiếp xúc. Bản dịch giữ chung một chữ "thân cận" cho cả hai nghĩa ấy.]
+[Chú thích: "Thân cận" ở đây có nghĩa là nuôi dưỡng, luyện tập bằng cách thường xuyên tiếp xúc.]
+[Chú thích của người dịch: Chữ *sevati* còn có nghĩa là gần gũi, lui tới với một người; bản dịch giữ chung một chữ "thân cận" cho cả hai nghĩa.]
 
 <!-- seg: mn114:2.2 -->
 Hãy lắng nghe và chú tâm cho kỹ, Ta sẽ nói."

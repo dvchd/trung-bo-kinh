@@ -35,10 +35,10 @@ Khi nghe nói vậy, thanh niên Subha, con trai của Todeyya, nói với Đứ
 "Này thanh niên, ông nghĩ sao,
 
 <!-- seg: mn99:22.5 -->
-làng Naḷakāra ở gần đây, chứ không phải ở xa đây?"
+làng Naḷakāra ở gần đây, chứ không phải ở xa?"
 
 <!-- seg: mn99:22.6 -->
-"Thưa ngài, đúng vậy, làng Naḷakāra ở gần đây, không phải ở xa đây."
+"Thưa ngài, đúng vậy, làng Naḷakāra ở gần đây, không phải ở xa."
 
 <!-- seg: mn99:22.7 -->
 "Này thanh niên, ông nghĩ sao, ví như có một người sinh ra và lớn lên ở làng Naḷakāra;

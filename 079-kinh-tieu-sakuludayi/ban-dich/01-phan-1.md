@@ -130,7 +130,8 @@ Thưa Ngài, điều ấy khiến con nhớ đến Đức Thế Tôn:
 <!-- seg: mn79:6.7 -->
 "Thưa Ngài, đó là Nigaṇṭha Nātaputta."
 
-[Chú thích: Nigaṇṭha Nātaputta, quen gọi là Ni-kiền-tử Nātaputta, là vị giáo chủ của phái Ni-kiền-tử đương thời. Lời tự nhận ấy cũng được ghi lại trong Trung Bộ Kinh 14.]
+[Chú thích: Lời tự nhận ấy cũng được ghi lại ở MN 14:17.2.]
+[Chú thích của người dịch: Nigaṇṭha Nātaputta, quen gọi là Ni-kiền-tử Nātaputta, là vị giáo chủ của phái Ni-kiền-tử đương thời.]
 
 <!-- seg: mn79:7.1 -->
 "Này Udāyi, người nào có thể nhớ lại nhiều đời sống trước — tức là một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một ngàn đời, một trăm ngàn đời, nhiều kiếp thế giới co lại, nhiều kiếp thế giới giãn ra, nhiều kiếp thế giới co lại và giãn ra — và nhớ lại nhiều đời sống trước với các đặc điểm và chi tiết như vậy, thì người ấy có thể hỏi Ta một câu về khởi điểm ban đầu, hoặc Ta có thể hỏi người ấy một câu về khởi điểm ban đầu;

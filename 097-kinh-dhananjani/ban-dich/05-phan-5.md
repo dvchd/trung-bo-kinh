@@ -1,5 +1,5 @@
 <!-- seg: mn97:31.4 -->
-Cõi Phạm Thiên! Tôn giả Sāriputta đã nói thế!
+Cõi Phạm Thiên! Tôn giả Sāriputta nói thế!
 
 <!-- seg: mn97:31.5 -->
 Rồi Tôn giả Sāriputta suy nghĩ:
@@ -11,10 +11,10 @@ Rồi Tôn giả Sāriputta suy nghĩ:
 Vậy ta hãy thuyết cho bà-la-môn Dhanañjāni con đường đi đến cõi chung với Phạm Thiên."
 
 <!-- seg: mn97:31.8 -->
-"Này Dhanañjāni, ta sẽ thuyết cho ông con đường đi đến cõi chung với Phạm Thiên;
+"Này Dhanañjāni, tôi sẽ thuyết cho ông con đường đi đến cõi chung với Phạm Thiên;
 
 <!-- seg: mn97:31.9 -->
-hãy nghe và khéo tác ý, ta sẽ nói."
+hãy nghe và khéo tác ý, tôi sẽ nói."
 
 <!-- seg: mn97:31.10 -->
 "Thưa vâng, thưa ngài", bà-la-môn Dhanañjāni vâng lời Tôn giả Sāriputta.

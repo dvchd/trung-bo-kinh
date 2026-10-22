@@ -60,7 +60,8 @@ Rồi Tôn giả Mahāmoggallāna khởi lên ý nghĩ:
 <!-- seg: mn37:5.3 -->
 "Vị dạ-xoa ấy có thật hiểu lời Đức Thế Tôn dạy mà tán thán, hay không hiểu?
 
-[Chú thích: Ở đây Moggallāna gọi Sakka là yakkha, tức một vị thần có uy lực, chứ không phải loài quỷ; chữ này thường được dịch là dạ-xoa.]
+[Chú thích: Ở đây Moggallāna gọi Sakka là yakkha, tức một vị thần.]
+[Chú thích của người dịch: Chữ yakkha thường được dịch là dạ-xoa, nhưng ở đây chỉ một vị thần có uy lực, chứ không phải loài quỷ.]
 
 <!-- seg: mn37:5.4 -->
 Vậy ta hãy tự mình biết rõ vị dạ-xoa ấy —

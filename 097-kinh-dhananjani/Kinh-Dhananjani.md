@@ -107,10 +107,10 @@ Không chừng có lúc nào đó chúng tôi sẽ gặp được bà-la-môn Dh
 Rồi Tôn giả Sāriputta ở lại Dakkhiṇāgiri bao lâu tùy thích, rồi lên đường đi đến Rājagaha.
 
 <!-- seg: mn97:3.2 -->
-Du hành từng chặng một, Ngài đến Rājagaha,
+Du hành từng chặng một, Ngài đến Rājagaha.
 
 <!-- seg: mn97:3.3 -->
-Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
+Tại đó, Tôn giả Sāriputta trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
 <!-- seg: mn97:4.1 -->
 Rồi Tôn giả Sāriputta vào buổi sáng đắp y, mang bát và y, vào Rājagaha khất thực.
@@ -137,10 +137,10 @@ Thấy vậy, ông ta đi đến chỗ Tôn giả Sāriputta; đến rồi, nói
 Hôm nay tôi đã làm xong việc ăn uống.
 
 <!-- seg: mn97:4.9 -->
-Ta sẽ nghỉ trưa dưới gốc cây kia.
+Tôi sẽ nghỉ trưa dưới gốc cây kia.
 
 <!-- seg: mn97:4.10 -->
-Ông hãy đến đó gặp ta."
+Ông hãy đến đó gặp tôi."
 
 <!-- seg: mn97:4.11 -->
 "Thưa vâng, thưa ngài", bà-la-môn Dhanañjāni vâng lời Tôn giả Sāriputta.
@@ -666,7 +666,7 @@ Cõi Phạm Thiên! Tôn giả Sāriputta nói thế!
 ---
 
 <!-- seg: mn97:31.4 -->
-Cõi Phạm Thiên! Tôn giả Sāriputta đã nói thế!
+Cõi Phạm Thiên! Tôn giả Sāriputta nói thế!
 
 <!-- seg: mn97:31.5 -->
 Rồi Tôn giả Sāriputta suy nghĩ:
@@ -678,10 +678,10 @@ Rồi Tôn giả Sāriputta suy nghĩ:
 Vậy ta hãy thuyết cho bà-la-môn Dhanañjāni con đường đi đến cõi chung với Phạm Thiên."
 
 <!-- seg: mn97:31.8 -->
-"Này Dhanañjāni, ta sẽ thuyết cho ông con đường đi đến cõi chung với Phạm Thiên;
+"Này Dhanañjāni, tôi sẽ thuyết cho ông con đường đi đến cõi chung với Phạm Thiên;
 
 <!-- seg: mn97:31.9 -->
-hãy nghe và khéo tác ý, ta sẽ nói."
+hãy nghe và khéo tác ý, tôi sẽ nói."
 
 <!-- seg: mn97:31.10 -->
 "Thưa vâng, thưa ngài", bà-la-môn Dhanañjāni vâng lời Tôn giả Sāriputta.

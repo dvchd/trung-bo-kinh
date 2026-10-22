@@ -26,7 +26,7 @@ có hình dáng các vì sao, có người thấy được hình dáng các vì 
 có mặt trăng và mặt trời, có người thấy được mặt trăng và mặt trời.
 
 <!-- seg: mn99:12.23 -->
-Vì vậy, ai nói: 'Ta không biết điều ấy, ta không thấy điều ấy,
+Ai nói: 'Ta không biết điều ấy, ta không thấy điều ấy,
 
 <!-- seg: mn99:12.24 -->
 vì thế nên điều ấy không có' —

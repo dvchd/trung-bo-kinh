@@ -92,7 +92,8 @@ Cũng vậy, này bà-la-môn, các bà-la-môn đặt ra bốn loại của c�
 <!-- seg: mn96:12.1 -->
 Này bà-la-môn, Ta chủ trương của cải của một con người là Pháp cao quý, vượt ra ngoài thế gian.
 
-[Chú thích: Chữ lokuttara chỉ cái vượt ra ngoài thế gian, tức giáo pháp đưa ra khỏi thế gian. Cách dùng chữ này trong câu trên cũng gặp ở Tương Ưng Bộ Kinh 20.7 và Tăng Chi Bộ Kinh 2.47, 5.79.]
+[Chú thích: Cách dùng *lokuttara* cho "giáo pháp" như trong câu trên cũng gặp ở SN 20.7:1.6, AN 2.47:1.5 và AN 5.79:5.2.]
+[Chú thích của người dịch: *Lokuttara* chỉ cái vượt ra ngoài thế gian, tức giáo pháp đưa người ra khỏi thế gian.]
 
 <!-- seg: mn96:12.2 -->
 Nhưng cứ theo dòng dõi cha mẹ truyền lại từ đời xưa, thì sinh ra ở đâu, người ta được gọi tên theo đó.

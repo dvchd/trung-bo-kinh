@@ -61,6 +61,8 @@ Này các tỳ-kheo, có những sa-môn và bà-la-môn nói như vầy và có
 <!-- seg: mn101:2.5 -->
 "Con người này cảm thọ điều gì — lạc, khổ hay không khổ không lạc — thì tất cả đều do nghiệp đã làm từ trước.
 
+[Chú thích: Quan điểm mọi cảm thọ đều do nghiệp đã làm từ trước gây ra bị các bài kinh bác bỏ nhất quán; chú giải về sau kể năm hệ thống quy luật tác động lẫn nhau — mùa, giống, nghiệp, tâm và pháp — nhưng cách hiểu sai này vẫn rất phổ biến, từng dẫn đến sự kỳ thị người nghèo và người khuyết tật ở các nước Phật giáo. Tái sinh vào một đời cụ thể thì do nghiệp, nhưng các cảm thọ trong đời ấy do nhiều nguyên nhân, không nhất thiết do nghiệp. Chữ purisapuggala, nghĩa là cá nhân con người, là cách nói đặc trưng của Kỳ-na giáo; xem Trung Bộ Kinh 35:10.7 và Tương Ưng Bộ Kinh 22.22.]
+
 <!-- seg: mn101:2.6 -->
 Như vậy, nhờ khổ hạnh làm chấm dứt nghiệp cũ, nhờ không tạo nghiệp mới, nên đời sau không còn dòng chảy nào.
 

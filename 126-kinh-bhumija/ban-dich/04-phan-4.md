@@ -73,7 +73,8 @@ Vì đó là cách hợp lý để đạt được quả.
 <!-- seg: mn126:19.1 -->
 Này Bhūmija, nếu bốn ví dụ này ứng đến ông, thì chẳng có gì lạ nếu thái tử Jayasena sinh lòng tin nơi ông; và khi đã có lòng tin, ông ta hẳn sẽ bày tỏ lòng tin ấy.
 
-[Chú thích: Ở trên, thái tử Jayasena tỏ lòng tin nơi Đức Thế Tôn, chứ không phải nơi Tôn giả Bhūmija. Bốn ví dụ ở đây là bốn cặp, mỗi cặp gồm một cách làm không hợp lý và một cách làm hợp lý.]
+[Chú thích: Ở trên, tại MN 126:5.1, thái tử Jayasena tỏ lòng tin nơi Đức Thế Tôn, chứ không phải nơi Tôn giả Bhūmija.]
+[Chú thích của người dịch: Bốn ví dụ ở đây là bốn cặp, mỗi cặp gồm một cách làm không hợp lý và một cách làm hợp lý.]
 
 <!-- seg: mn126:19.2 -->
 "Bạch Thế Tôn, làm sao bốn ví dụ ấy có thể ứng đến cho con như chúng đã ứng đến cho Đức Thế Tôn, khi mà chúng chẳng phải chuyện lạ lùng và con thì chưa từng nghe từ trước?"
