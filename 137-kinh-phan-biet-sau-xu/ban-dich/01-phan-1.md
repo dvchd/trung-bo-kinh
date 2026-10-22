@@ -137,7 +137,7 @@ Như vậy có sáu sự hướng tâm tới hỷ, sáu sự hướng tâm tới
 <!-- seg: mn137:9.3 -->
 Sáu hỷ gắn với đời sống tại gia, sáu hỷ gắn với sự xuất ly; sáu ưu gắn với đời sống tại gia, sáu ưu gắn với sự xuất ly; sáu xả gắn với đời sống tại gia, sáu xả gắn với sự xuất ly.
 
-[Chú thích: Người dịch: hỷ là cảm giác vui, ưu là cảm giác buồn, xả là cảm giác trung tính. Hỷ, ưu, xả gắn với đời sống tại gia nương vào những dục lạc của giác quan; còn gắn với sự xuất ly thì nương vào sự hiểu biết vô thường và sự rời bỏ dục.]
+[Chú thích của người dịch: hỷ là cảm giác vui, ưu là cảm giác buồn, xả là cảm giác trung tính. Hỷ, ưu, xả gắn với đời sống tại gia nương vào những dục lạc của giác quan; còn gắn với sự xuất ly thì nương vào sự hiểu biết vô thường và sự rời bỏ dục.]
 
 <!-- seg: mn137:10.1 -->
 Ở đây, sáu hỷ gắn với đời sống tại gia là những gì?

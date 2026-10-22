@@ -19,6 +19,8 @@ rằng ngay trong đời này, các pháp bất thiện được đoạn trừ v
 <!-- seg: mn14:19.8 -->
 Nếu vậy, thưa các hiền giả Nigaṇṭha, những kẻ hung bạo trên đời, tay vấy máu, làm nghề tàn ác, khi tái sinh làm người, lại đi xuất gia trong hàng Nigaṇṭha hay sao?"
 
+[Chú thích: Lập luận này được triển khai chi tiết hơn ở MN 101. "Nghề nghiệp tàn ác" (*kurūrakammantā*) được định nghĩa ở MN 51 và những chỗ khác.]
+
 <!-- seg: mn14:20.1 -->
 "Thưa ngài Gotama, không phải nhờ hạnh phúc mà đạt được hạnh phúc; nhờ khổ đau mới đạt được hạnh phúc.
 
@@ -132,4 +134,4 @@ Mahānāma người Sakka hoan hỷ, tán thán lời Đức Thế Tôn dạy.
 <!-- seg: mn14:21.24 -->
 Kinh Tiểu Khổ Uẩn, bài thứ tư, đến đây hoàn tất.
 
-[Chú thích: (người dịch) "Bài thứ tư" là ghi chú của người tụng, đánh dấu bài này đứng thứ tư trong phẩm Sư Tử Hống của Trung Bộ Kinh.]
+[Chú thích của người dịch: "Bài thứ tư" là ghi chú của người tụng, đánh dấu bài này đứng thứ tư trong phẩm Sư Tử Hống của Trung Bộ Kinh.]

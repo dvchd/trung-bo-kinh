@@ -158,4 +158,4 @@ Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 <!-- seg: mn13:38.5 -->
 Kinh Đại Khổ Uẩn, bài thứ ba, đã hoàn thành.
 
-[Chú thích: (người dịch) "Bài thứ ba" là ghi chú của người tụng, đánh dấu bài này đứng thứ ba trong phẩm Sư Tử Hống của Trung Bộ Kinh.]
+[Chú thích của người dịch: "Bài thứ ba" là ghi chú của người tụng, đánh dấu bài này đứng thứ ba trong phẩm Sư Tử Hống của Trung Bộ Kinh.]

@@ -25,12 +25,12 @@ Này Mahānāma, đó cũng là mối nguy hại của các dục, thấy ngay t
 <!-- seg: mn14:12.1 -->
 Hơn nữa, này Mahānāma, vì dục làm nhân, vì dục làm duyên, vì dục làm cớ, chính vì dục, họ cầm khiên và gươm, giương cung và tên, lao vào những lũy thành trát ướt, khi tên đang bay, giáo đang phóng, gươm đang lóe sáng.
 
-[Chú thích: (người dịch) *Addāvalepana* là trát một lớp bùn ướt lên lũy thành để chống lửa.]
+[Chú thích của người dịch: *Addāvalepana* là trát một lớp bùn ướt lên lũy thành để chống lửa.]
 
 <!-- seg: mn14:12.2 -->
 Ở đó, họ bị bắn bằng tên, bị đâm bằng giáo, bị hắt phân bò vào người, bị một lực lượng mạnh hơn giày xéo, bị chém đầu bằng gươm.
 
-[Chú thích: (người dịch) *Chakaṇakā* thường được hiểu là phân bò, nhưng tự thân từ này không nói rõ; các bản Hán tương ứng lại ghi là đồng nóng chảy hoặc sắt nóng chảy. *Abhivagga* chỉ gặp ở đây trong tiếng Pali, chú giải nói đó là một thứ vũ khí trăm răng, còn bản dịch này hiểu là một lực lượng áp đảo.]
+[Chú thích của người dịch: *Chakaṇakā* thường được hiểu là phân bò, nhưng tự thân từ này không nói rõ; các bản Hán tương ứng lại ghi là đồng nóng chảy hoặc sắt nóng chảy. *Abhivagga* chỉ gặp ở đây trong tiếng Pali, chú giải nói đó là một thứ vũ khí trăm răng, còn bản dịch này hiểu là một lực lượng áp đảo.]
 
 <!-- seg: mn14:12.3 -->
 Ở nơi ấy, họ có thể gặp cái chết, hoặc nỗi khổ đau đến mức như chết.
@@ -47,7 +47,7 @@ Các vua bắt họ và thi hành nhiều hình phạt khác nhau:
 <!-- seg: mn14:13.3 -->
 Họ đánh bằng roi, bằng dây, bằng gậy; chặt tay, chặt chân, chặt cả tay lẫn chân; cắt tai, cắt mũi, cắt cả tai lẫn mũi; thi hành hình phạt nồi cháo, cạo vỏ sò, miệng Rāhu, vòng hoa lửa, tay cháy, bện cói, áo vỏ cây, linh dương, móc thịt, đồng tiền, nước tro ăn da, cột xoay, chiếu rơm; tưới dầu sôi lên thân, cho chó ăn thịt, dựng sống trên cọc, chém đầu bằng gươm.
 
-[Chú thích: Chú giải giải thích các tên hình phạt như sau: nồi cháo là mở nắp sọ rồi thả viên sắt nung vào cho óc sôi trào; cạo vỏ sò là mài sọ bằng sỏi cho nhẵn; miệng Rāhu là cạy miệng, nhét dầu và bấc rồi đốt cho cháy như mặt trời bị Rāhu nuốt. Những tên còn lại cũng là những cách hành hạ thân xác tương tự.]
+[Chú thích của người dịch: Chú giải giải thích các tên hình phạt như sau: nồi cháo là mở nắp sọ rồi thả viên sắt nung vào cho óc sôi trào; cạo vỏ sò là mài sọ bằng sỏi cho nhẵn; miệng Rāhu là cạy miệng, nhét dầu và bấc rồi đốt cho cháy như mặt trời bị Rāhu nuốt. Những tên còn lại cũng là những cách hành hạ thân xác tương tự.]
 
 <!-- seg: mn14:13.4 -->
 Ở nơi ấy, họ có thể gặp cái chết, hoặc nỗi khổ đau đến mức như chết.
@@ -64,13 +64,13 @@ Sau khi làm điều ác bằng thân, bằng lời, bằng ý, khi thân hoại
 <!-- seg: mn14:14.3 -->
 Này Mahānāma, đó là mối nguy hại của các dục liên quan đến đời sau, là khối khổ do dục làm nhân, do dục làm duyên, do dục làm cớ, chính vì dục.
 
-[Chú thích: Các mối nguy hại trước đây thuộc loại thấy ngay trong đời này (*sandiṭṭhika*), còn mối nguy hại này thuộc về đời sau (*samparāyika*).]
+[Chú thích của người dịch: Các mối nguy hại trước đây thuộc loại thấy ngay trong đời này (*sandiṭṭhika*), còn mối nguy hại này thuộc về đời sau (*samparāyika*).]
 
 <!-- seg: mn14:15.1 -->
 Này Mahānāma, có một lần Ta trú tại Rājagaha (Vương Xá), trên núi Gijjhakūṭa (Linh Thứu).
 
 <!-- seg: mn14:15.2 -->
-Lúc bấy giờ, nhiều tu sĩ Nigaṇṭha (Ni-kiền-tử) đang đứng mãi trên sườn núi Isigili, tại Kāḷasilā (Hòn Đá Đen), từ chối chỗ ngồi, và cảm thọ những cảm thọ khổ, gay gắt, dữ dội, nhói buốt, chua xót do tự hành xác.
+Lúc bấy giờ, nhiều tu sĩ Nigaṇṭha (Ni-kiền-tử) đang đứng mãi trên sườn núi Isigili, tại Kāḷasilā (Hòn Đá Đen), từ chối chỗ ngồi, và cảm thọ những cảm thọ khổ, gay gắt, dữ dội, chua xót do tự hành xác.
 
 [Chú thích: Đây là một khoảng đất rộng, thỉnh thoảng Đức Thế Tôn đến thuyết pháp, và cũng là nơi các tỳ-kheo Godhika và Vakkali tự kết liễu đời mình. Lối đứng mãi không ngồi này trước kia chính Bồ-tát cũng đã từng thực hành (MN 12).]
 
@@ -80,7 +80,7 @@ Rồi này Mahānāma, vào buổi chiều, sau khi xuất khỏi nơi tĩnh l�
 [Chú thích: Đức Thế Tôn kể lại một cuộc nói chuyện tương tự nhưng chi tiết hơn với các tu sĩ Nigaṇṭha ở MN 101.]
 
 <!-- seg: mn14:16.2 -->
-"Này các hiền giả Nigaṇṭha, vì sao các ông đứng mãi, từ chối chỗ ngồi, và cảm thọ những cảm thọ khổ, gay gắt, dữ dội, nhói buốt, chua xót do tự hành xác?"
+"Này các hiền giả Nigaṇṭha, vì sao các ông đứng mãi, từ chối chỗ ngồi, và cảm thọ những cảm thọ khổ, gay gắt, dữ dội, chua xót do tự hành xác?"
 
 [Chú thích: Dù bản thân đã từng thực hành những khổ hạnh ấy rất nhiều, Đức Thế Tôn vẫn hỏi.]
 

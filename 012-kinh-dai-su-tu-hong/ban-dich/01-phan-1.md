@@ -160,7 +160,7 @@ Này Sāriputta, có mười sức mạnh của Như Lai. Như Lai thành tựu 
 
 [Chú thích: Sau ba thắng trí đầu tiên, mạch văn bị ngắt để chèn mười sức mạnh của Như Lai, cũng thấy ở AN 10.21 và AN 10.22. Bộ Vibhaṅga của Abhidhamma sớm giải thích chi tiết các sức mạnh này. Năm sức mạnh được liệt kê ở AN 5.11 và sáu ở AN 6.64.]
 
-[Chú thích: Người dịch: "vị thế con bò đực" (āsabhaṁ ṭhānaṁ) là hình ảnh chỉ địa vị tối thắng giữa muôn loài, như con bò đực đầu đàn; "bánh xe Phạm" (brahmacakka) là bánh xe giáo pháp tối thượng.]
+[Chú thích của người dịch: "vị thế con bò đực" (āsabhaṁ ṭhānaṁ) là hình ảnh chỉ địa vị tối thắng giữa muôn loài, như con bò đực đầu đàn; "bánh xe Phạm" (brahmacakka) là bánh xe giáo pháp tối thượng.]
 
 <!-- seg: mn12:9.2 -->
 Mười là những gì?

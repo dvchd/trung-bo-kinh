@@ -174,7 +174,7 @@ Như vậy có sáu sự hướng tâm tới hỷ, sáu sự hướng tâm tới
 <!-- seg: mn137:9.3 -->
 Sáu hỷ gắn với đời sống tại gia, sáu hỷ gắn với sự xuất ly; sáu ưu gắn với đời sống tại gia, sáu ưu gắn với sự xuất ly; sáu xả gắn với đời sống tại gia, sáu xả gắn với sự xuất ly.
 
-[Chú thích: Người dịch: hỷ là cảm giác vui, ưu là cảm giác buồn, xả là cảm giác trung tính. Hỷ, ưu, xả gắn với đời sống tại gia nương vào những dục lạc của giác quan; còn gắn với sự xuất ly thì nương vào sự hiểu biết vô thường và sự rời bỏ dục.]
+[Chú thích của người dịch: hỷ là cảm giác vui, ưu là cảm giác buồn, xả là cảm giác trung tính. Hỷ, ưu, xả gắn với đời sống tại gia nương vào những dục lạc của giác quan; còn gắn với sự xuất ly thì nương vào sự hiểu biết vô thường và sự rời bỏ dục.]
 
 <!-- seg: mn137:10.1 -->
 Ở đây, sáu hỷ gắn với đời sống tại gia là những gì?
@@ -440,7 +440,7 @@ Và này các tỳ-kheo, xả đồng nhất, nương vào sự đồng nhất l
 <!-- seg: mn137:19.2 -->
 Này các tỳ-kheo, có xả nương vào xứ không gian vô biên, có xả nương vào xứ thức vô biên, có xả nương vào xứ vô sở hữu, có xả nương vào xứ phi tưởng phi phi tưởng.
 
-[Chú thích: Người dịch: bốn xứ này là bốn tầng thiền định vô sắc: không gian vô biên, thức vô biên, không có gì cả, và trạng thái không còn tưởng mà cũng không phải không còn tưởng.]
+[Chú thích của người dịch: bốn xứ này là bốn tầng thiền định vô sắc: không gian vô biên, thức vô biên, không có gì cả, và trạng thái không còn tưởng mà cũng không phải không còn tưởng.]
 
 <!-- seg: mn137:19.3 -->
 Này các tỳ-kheo, đó là xả đồng nhất, nương vào sự đồng nhất.
@@ -454,7 +454,7 @@ Này các tỳ-kheo, đó là xả đồng nhất, nương vào sự đồng nh�
 <!-- seg: mn137:20.3 -->
 Này các tỳ-kheo, nương vào sự không đồng nhất với cái ấy, lấy sự không đồng nhất với cái ấy làm chỗ dựa, các ông hãy từ bỏ xả đồng nhất, hãy vượt qua nó.
 
-[Chú thích: Người dịch: atammayatā nghĩa là không để cái mình đang nương vào làm thành chính mình, không đồng nhất mình với nó.]
+[Chú thích của người dịch: atammayatā nghĩa là không để cái mình đang nương vào làm thành chính mình, không đồng nhất mình với nó.]
 
 <!-- seg: mn137:20.4 -->
 Đó là cách nó được từ bỏ, đó là cách nó được vượt qua.

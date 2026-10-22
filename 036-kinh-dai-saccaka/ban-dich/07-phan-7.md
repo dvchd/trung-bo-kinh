@@ -1,7 +1,7 @@
 <!-- seg: mn36:38.2 -->
 "Ta nhớ lại nhiều đời sống quá khứ: một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một nghìn đời, một trăm nghìn đời; nhiều kiếp thành, nhiều kiếp hoại, nhiều kiếp thành và hoại. Ở chỗ ấy, Ta có tên như thế này, dòng họ như thế này, màu da như thế này, thức ăn như thế này, cảm thọ khổ lạc như thế này, tuổi thọ đến mức như thế này. Từ chỗ ấy chết đi, Ta sinh ra ở chỗ khác; ở chỗ khác ấy, Ta có tên như thế này, dòng họ như thế này, màu da như thế này, thức ăn như thế này, cảm thọ khổ lạc như thế này, tuổi thọ đến mức như thế này. Từ chỗ ấy chết đi, Ta sinh ra ở đây. Như vậy, Ta nhớ lại nhiều đời sống quá khứ, với đủ các nét và các chi tiết.
 
-[Chú thích: Người dịch: phần Pali ở đây viết tắt bằng dấu lược; bản dịch ghi đủ công thức quen thuộc về nhớ lại đời sống quá khứ.]
+[Chú thích của người dịch: phần Pali ở đây viết tắt bằng dấu lược; bản dịch ghi đủ công thức quen thuộc về nhớ lại đời sống quá khứ.]
 
 <!-- seg: mn36:39.1 -->
 Này Aggivessana, đó là minh thứ nhất mà Ta đã chứng đạt trong canh đầu của đêm.
@@ -18,7 +18,7 @@ Khi tâm Ta đã định như vậy — trong sạch, sáng tỏ, không vết n
 <!-- seg: mn36:40.2 -->
 Bằng thiên nhãn trong sạch, vượt khỏi tầm mắt của con người, Ta thấy chúng sinh chết đi và sinh lại, thấp kém và cao quý, đẹp và xấu, sinh vào cõi lành hay cõi dữ; Ta hiểu rõ chúng sinh đi theo nghiệp của mình. Những chúng sinh nào thân làm ác, miệng nói ác, ý nghĩ ác, mắng nhiếc các bậc thánh, có tà kiến, thọ trì nghiệp theo tà kiến — sau khi thân hoại mạng chung, họ sinh vào cõi dữ, đường ác, đọa xứ, địa ngục. Những chúng sinh nào thân làm thiện, miệng nói thiện, ý nghĩ thiện, không mắng nhiếc các bậc thánh, có chánh kiến, thọ trì nghiệp theo chánh kiến — sau khi thân hoại mạng chung, họ sinh vào cõi lành, cõi trời.
 
-[Chú thích: Người dịch: phần Pali ở đây viết tắt bằng dấu lược; bản dịch ghi đủ công thức về hai loại chúng sinh đi theo nghiệp thiện và nghiệp ác.]
+[Chú thích của người dịch: phần Pali ở đây viết tắt bằng dấu lược; bản dịch ghi đủ công thức về hai loại chúng sinh đi theo nghiệp thiện và nghiệp ác.]
 
 <!-- seg: mn36:41.1 -->
 Này Aggivessana, đó là minh thứ hai mà Ta đã chứng đạt trong canh giữa của đêm.

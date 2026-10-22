@@ -31,7 +31,7 @@ Cái tên "khổ uẩn" không có nghĩa là bài kinh chỉ nói về khổ. N
 <!-- seg: mn13:0.2 -->
 **Đại Kinh Khổ Uẩn** (*Mahādukkhakkhandha Sutta*) — "khối khổ lớn".
 
-[Chú thích: (người dịch) *Mahā* là "lớn", *dukkhakkhandha* là "khối khổ". Tên kinh nói rằng bài này phân tích những khối khổ lớn phát sinh từ dục, sắc và cảm thọ.]
+[Chú thích của người dịch: *Mahā* là "lớn", *dukkhakkhandha* là "khối khổ". Tên kinh nói rằng bài này phân tích những khối khổ lớn phát sinh từ dục, sắc và cảm thọ.]
 
 ---
 
@@ -523,4 +523,4 @@ Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 <!-- seg: mn13:38.5 -->
 Kinh Đại Khổ Uẩn, bài thứ ba, đã hoàn thành.
 
-[Chú thích: (người dịch) "Bài thứ ba" là ghi chú của người tụng, đánh dấu bài này đứng thứ ba trong phẩm Sư Tử Hống của Trung Bộ Kinh.]
+[Chú thích của người dịch: "Bài thứ ba" là ghi chú của người tụng, đánh dấu bài này đứng thứ ba trong phẩm Sư Tử Hống của Trung Bộ Kinh.]

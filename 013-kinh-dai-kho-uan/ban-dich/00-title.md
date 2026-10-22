@@ -8,4 +8,4 @@
 <!-- seg: mn13:0.2 -->
 **Đại Kinh Khổ Uẩn** (*Mahādukkhakkhandha Sutta*) — "khối khổ lớn".
 
-[Chú thích: (người dịch) *Mahā* là "lớn", *dukkhakkhandha* là "khối khổ". Tên kinh nói rằng bài này phân tích những khối khổ lớn phát sinh từ dục, sắc và cảm thọ.]
+[Chú thích của người dịch: *Mahā* là "lớn", *dukkhakkhandha* là "khối khổ". Tên kinh nói rằng bài này phân tích những khối khổ lớn phát sinh từ dục, sắc và cảm thọ.]

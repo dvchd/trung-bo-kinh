@@ -285,7 +285,7 @@ Còn những vật dụng cần cho đời sống mà người xuất gia phải
 <!-- seg: mn17:26.7 -->
 Này các tỳ-kheo, vị tỳ-kheo ấy phải nương theo người ấy cho đến trọn đời, không được rời đi, dù có bị xua đuổi đi nữa.
 
-[Chú thích: Thành ngữ "dù có bị xua đuổi" (*api panujjamāna*) cũng xuất hiện vài lần khác trong kinh điển với nghĩa này, như ở MN 122:19.2 và AN 7.37:1.1. Nghĩa là dù người ấy có đuổi đi, vị ấy vẫn ở lại.]
+[Chú thích: Thành ngữ "dù có bị xua đuổi" (*api panujjamāna*) cũng xuất hiện vài lần khác trong kinh điển với nghĩa này, như ở MN 122:19.2, AN 7.37:1.1 và AN 9.6:6.4. Nghĩa là dù người ấy có đuổi đi, vị ấy vẫn ở lại.]
 
 <!-- seg: mn17:26.8 -->
 Đức Thế Tôn đã nói như vầy.

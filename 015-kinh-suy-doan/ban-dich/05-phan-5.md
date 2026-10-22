@@ -59,7 +59,7 @@ Này các hiền giả, nếu tỳ-kheo trong khi quán xét biết như vầy:
 Này các hiền giả, nhưng nếu tỳ-kheo trong khi quán xét biết như vầy:
 
 <!-- seg: mn15:7.62 -->
-"Ta bị nhắc nhở và giải trình được chứng cứ" — này các hiền giả, vì thế tỳ-kheo ấy hãy an trú trong chính niềm vui và hoan hỷ ấy, ngày đêm tu học trong những pháp thiện.
+"Khi bị nhắc nhở, ta giải trình được chứng cứ" — này các hiền giả, vì thế tỳ-kheo ấy hãy an trú trong chính niềm vui và hoan hỷ ấy, ngày đêm tu học trong những pháp thiện.
 
 <!-- seg: mn15:7.63 -->
 Lại nữa, này các hiền giả, tỳ-kheo phải tự mình quán xét chính mình như vầy:

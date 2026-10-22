@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 34 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 40 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 34/152 bài
+## Đợt đọc lại văn phong: 40/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -56,17 +56,27 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 10 | 0 | không có chỗ sai; đối chiếu 51 chú thích và 8 đoạn dài nhất |
 | MN 13 | 0 | không có chỗ sai; đối chiếu 19 đoạn có chú thích và 8 đoạn dài nhất |
 | MN 11 | 2 | lời chứng đắc ở 17.3 dùng ngoặc đơn, lời du sĩ ngoại đạo gọi "các ông" thay vì "các ngài" |
+| MN 14 | 5 | thừa một tính từ trong công thức khổ ở 15.2/16.2, hai chú thích người dịch thiếu nhãn, thiếu chú thích 19.8 |
+| MN 15 | 1 | "Ta bị nhắc nhở và giải trình…" ở 7.62 đổi thành "Khi bị nhắc nhở, ta giải trình…" |
+| MN 16 | 0 | không có chỗ sai; đối chiếu cả 83 đoạn và 10 chú thích |
+| MN 18 | 0 | không có chỗ sai; đối chiếu 22 đoạn có chú thích và 8 đoạn dài nhất |
+| MN 19 | 0 | không có chỗ sai; đối chiếu cả 123 đoạn và 22 chú thích |
+| MN 17 | 1 | chú thích 26.7 thiếu chỗ dẫn thứ ba AN 9.6:6.4 |
 
-Tổng 181 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 175 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 188 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 202 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
-phạm hạnh đã sống xong…" nay thống nhất ở tám bài (MN 7, 75, 82, 86, 92, 105, 124, 152).
+phạm hạnh đã sống xong…" nay thống nhất ở tám bài (MN 7, 75, 82, 86, 92, 105, 124, 152). Đợt này còn thống nhất nhãn chú
+thích của người dịch: 15 chú thích ở sáu bài (MN 12, 13, 14, 36, 125, 137) trước đây dùng
+"(người dịch)" hoặc "Người dịch:" nay đều theo một dạng "Chú thích của người dịch:". Cũng trong đợt này, `tien-do.py` của cả 152
+bài được sửa để nhận marker dải (`mn17:7-10.1`): trước đó regex bỏ qua chúng và báo thiếu đoạn giả;
+nay cả 152 bài báo thiếu 0.
 
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 118 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+1. Đọc lại 112 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
    trình như trên.
 2. Bổ sung 31 chú thích còn thiếu của MN 1: nguồn có 41 NOTE nhưng bản dịch mới có 11 chú thích.
 3. Quyết khoảng 149 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn

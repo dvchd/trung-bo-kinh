@@ -8,4 +8,4 @@
 <!-- seg: mn14:0.2 -->
 **Tiểu Kinh Khổ Uẩn** (*Cūḷadukkhakkhandha Sutta*) — "khối khổ nhỏ".
 
-[Chú thích: (người dịch) *Cūḷa* là "nhỏ", *dukkhakkhandha* là "khối khổ"; đây là bản ngắn, đứng cạnh Đại Kinh Khổ Uẩn (MN 13).]
+[Chú thích của người dịch: *Cūḷa* là "nhỏ", *dukkhakkhandha* là "khối khổ"; đây là bản ngắn, đứng cạnh Đại Kinh Khổ Uẩn (MN 13).]
