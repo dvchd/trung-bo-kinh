@@ -2,8 +2,8 @@
 """Báo cáo tiến độ dịch: so sánh tập marker nguồn vs bản dịch."""
 import re, glob, os, sys
 
-SRC = re.compile(r'^##\s+(mn104:\d+(?:\.\d+)+)', re.M)
-OUT = re.compile(r'<!--\s*seg:\s*(mn104:\d+(?:\.\d+)+)\s*-->')
+SRC = re.compile(r'^##\s+(mn104:[\d.\-]+)', re.M)
+OUT = re.compile(r'<!--\s*seg:\s*(mn104:[\d.\-]+)\s*-->')
 
 def segs(path, rx):
     """Tập segment id xuất hiện trong file (khử trùng lặp)."""
