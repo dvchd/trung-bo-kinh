@@ -74,7 +74,7 @@ Bạch Thế Tôn, rồi chúng con đi đến tỳ-kheo Sāti, con trai ngườ
 'Có thật không, này hiền giả Sāti, rằng hiền giả đã khởi lên tà kiến xấu ác như vầy:
 
 <!-- seg: mn38:4.8 -->
-Chính thức này chạy vòng, luân chuyển, không phải một thức nào khác?'
+'Tôi hiểu Pháp do Đức Thế Tôn thuyết giảng như thế này: chính thức này chạy vòng, luân chuyển, không phải một thức nào khác?'
 
 <!-- seg: mn38:4.9 -->
 Bạch Thế Tôn, được nói vậy, tỳ-kheo Sāti, con trai người đánh cá, nói với chúng con:

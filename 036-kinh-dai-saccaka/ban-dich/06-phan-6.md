@@ -92,6 +92,8 @@ Này Aggivessana, một sự hiểu biết khởi lên nơi Ta, tiếp nối the
 <!-- seg: mn36:31.5 -->
 'Đây chính là con đường đến giác ngộ.'
 
+[Chú thích: So sánh Kinh Pháp Cú 274.]
+
 <!-- seg: mn36:32.1 -->
 Này Aggivessana, Ta nghĩ rằng:
 
@@ -128,7 +130,7 @@ Này Aggivessana, khi Ta ăn đồ ăn thô đặc, cơm và cháo, thì năm v�
 'Sa-môn Gotama đã sống buông thả, đã lìa bỏ sự tinh tấn, đã trở lui về nếp sống sung sướng.'
 
 <!-- seg: mn36:34.1 -->
-Này Aggivessana, sau khi ăn đồ ăn thô đặc và thu lại sức lực, Ta ly dục, ly các pháp bất thiện, chứng đạt và an trú tầng thiền-na thứ nhất, với tầm và tứ, với hỷ và lạc do ly dục sinh.
+Này Aggivessana, sau khi ăn đồ ăn thô đặc và lấy lại sức, Ta ly dục, ly các pháp bất thiện, chứng đạt và an trú tầng thiền-na thứ nhất, với tầm và tứ, với hỷ và lạc do ly dục sinh.
 
 <!-- seg: mn36:34.2 -->
 Này Aggivessana, dù lạc thọ như vậy đã khởi lên nơi Ta, nó cũng không chiếm lấy tâm Ta.

@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 56 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 62 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 56/152 bài
+## Đợt đọc lại văn phong: 62/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -78,9 +78,15 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 32 | 4 | bốn chú thích: 4.8 thiếu vế "thường nhắc đủ", 6.7 "các bản Hán" → "một bản Hán", 17.3, 17.5 tên MN 123 |
 | MN 33 | 1 | thiếu chú thích ở 2.1 cho NOTE dẫn AN 11.17 và các bài tương ứng |
 | MN 34 | 6 | 12.8–12.9 dịch sai dụng cách và bị động, thiếu ngoặc kép bài kệ 12.3–12.14, chú thích 12.3/12.9 đặt sai và thiếu, 12.2, 2.1 |
+| MN 35 | 1 | peyyāla 25.3–25.5 sai khuôn "disvā … vimutto hoti" |
+| MN 36 | 2 | thiếu chú thích 31.5, "thu lại sức lực" ở 34.1 đổi thành "lấy lại sức" |
+| MN 37 | 4 | 14.6 đảo người được chúc phước, "đúng như nơi" ở 10.6/10.9, câu "nói" treo ở 14.1 |
+| MN 38 | 5 | 4.8 thiếu mệnh đề trích, kandara/giriguha ở 37.2, āmakadhañña ở 33.14, puthu ở 24.12, công thức 39.4 |
+| MN 39 | 1 | công thức 21.12 lệch khuôn khīṇā jāti |
+| MN 40 | 4 | 13.4 bốn câu sau dấu chấm viết thường |
 
-Tổng 235 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 273 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 252 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 304 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
@@ -95,7 +101,7 @@ vỏ khô ngoài cùng, không phải "chồi non" như Sujato dịch); ba mục
 
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 96 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+1. Đọc lại 90 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
    trình như trên. Phiên 19:00 ngày 2026-10-22 bắt đầu từ MN 12 (372 đoạn, nên tách đôi), rồi
    MN 21, 22, 26, 27, 28.
 2. Bổ sung 31 chú thích còn thiếu của MN 1: nguồn có 41 NOTE nhưng bản dịch mới có 11 chú thích.

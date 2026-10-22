@@ -109,7 +109,7 @@ Bạch Thế Tôn, rồi chúng con đi đến tỳ-kheo Sāti, con trai ngườ
 'Có thật không, này hiền giả Sāti, rằng hiền giả đã khởi lên tà kiến xấu ác như vầy:
 
 <!-- seg: mn38:4.8 -->
-Chính thức này chạy vòng, luân chuyển, không phải một thức nào khác?'
+'Tôi hiểu Pháp do Đức Thế Tôn thuyết giảng như thế này: chính thức này chạy vòng, luân chuyển, không phải một thức nào khác?'
 
 <!-- seg: mn38:4.9 -->
 Bạch Thế Tôn, được nói vậy, tỳ-kheo Sāti, con trai người đánh cá, nói với chúng con:
@@ -1065,7 +1065,7 @@ Như vậy là sự đoạn diệt của toàn bộ khối khổ này.
 "Không phải vậy, bạch Thế Tôn."
 
 <!-- seg: mn38:24.12 -->
-"Này các tỳ-kheo, khi biết như vậy, thấy như vậy, các ông có cho rằng những lễ nghi và những buổi lễ ồn ào, mê tín của các sa-môn, bà-la-môn khác nhau là cốt yếu không?"
+"Này các tỳ-kheo, khi biết như vậy, thấy như vậy, các ông có cho rằng những lễ nghi và những buổi lễ ồn ào, mê tín của nhiều sa-môn, bà-la-môn là cốt yếu không?"
 
 [Chú thích: Trong giáo pháp này, việc cử hành lễ nghi tự nó không bị cấm; điểm chính là chúng không được xem là cốt yếu. Các lễ nghi được xem là những hành vi có hiệu lực, nên tương ứng với các hành, chữ này cũng có nghĩa là lễ nghi. Chữ kotūhala, tức ồn ào, nghĩa đen là "huyên náo từ đâu đến"; các lễ tế Vệ-đà với nhiều người tụng và những nghi thức bí truyền mang không khí náo nhiệt, hội hè.]
 
@@ -1281,7 +1281,7 @@ tránh giường cao và giường lớn,
 tránh nhận vàng và bạc,
 
 <!-- seg: mn38:33.14 -->
-tránh nhận hạt giống còn sống,
+tránh nhận lúa gạo sống,
 
 <!-- seg: mn38:33.15 -->
 tránh nhận thịt sống,
@@ -1367,7 +1367,7 @@ Vị ấy làm mọi việc với sự tỉnh giác: khi đi tới, đi lui; khi
 Vị ấy, thành tựu với khối giới cao quý này, thành tựu với sự biết đủ cao quý này, thành tựu với sự thu thúc các căn cao quý này, thành tựu với chánh niệm và tỉnh giác cao quý này,
 
 <!-- seg: mn38:37.2 -->
-tìm đến một chỗ ở thanh vắng — khu rừng, gốc cây, ngọn núi, hang đá, núi đá, bãi tha ma, rừng rậm, khoảng trời trống, đống rơm.
+tìm đến một chỗ ở thanh vắng — khu rừng, gốc cây, ngọn núi, khe núi, hang núi, bãi tha ma, rừng rậm, khoảng trời trống, đống rơm.
 
 <!-- seg: mn38:38.1 -->
 Sau bữa ăn, khi đi khất thực về, vị ấy ngồi xuống, ngồi xếp bằng, thân thẳng, đặt chánh niệm trước mặt.
@@ -1397,7 +1397,7 @@ rồi ly khỏi các dục, ly khỏi các pháp bất thiện, chứng đạt v
 Lại nữa, này các tỳ-kheo, vị tỳ-kheo do các tầm và tứ được lắng xuống, đạt được nội tâm thanh tịnh, tâm chuyên nhất, không tầm không tứ, có hỷ và lạc do định sinh, chứng đạt và an trú thiền-na thứ hai.
 
 <!-- seg: mn38:39.4 -->
-Lại nữa, này các tỳ-kheo, vị tỳ-kheo do ly khỏi hỷ, sống xả, có chánh niệm và tỉnh giác, cảm nhận lạc bằng thân, và chứng đạt an trú thiền-na thứ ba, mà các bậc Thánh gọi là "xả, có chánh niệm, sống an lạc".
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo do ly khỏi hỷ, sống xả, có chánh niệm và tỉnh giác, cảm nhận lạc bằng thân, chứng đạt và an trú thiền-na thứ ba, mà các bậc Thánh gọi là "xả, có chánh niệm, sống an lạc".
 
 <!-- seg: mn38:39.5 -->
 Lại nữa, này các tỳ-kheo, vị tỳ-kheo do đoạn trừ lạc và đoạn trừ khổ, trước đó đã làm lắng xuống hỷ và ưu, chứng đạt và an trú thiền-na thứ tư, không khổ không lạc, xả và chánh niệm thanh tịnh.

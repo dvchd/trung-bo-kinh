@@ -704,13 +704,13 @@ với bất cứ thức nào — quá khứ, vị lai, hay hiện tại; bên tr
 "Này Aggivessana, ở đây, vị tỳ-kheo với bất cứ sắc nào — quá khứ, vị lai, hay hiện tại; bên trong hay bên ngoài; thô hay tế; hạ liệt hay cao thượng; xa hay gần — sau khi thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi', vị ấy được giải thoát, không còn chấp thủ;
 
 <!-- seg: mn35:25.3 -->
-với bất cứ thọ nào — quá khứ, vị lai, hay hiện tại; bên trong hay bên ngoài; thô hay tế; hạ liệt hay cao thượng; xa hay gần — vị ấy thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi', và được giải thoát, không còn chấp thủ;
+với bất cứ thọ nào — quá khứ, vị lai, hay hiện tại; bên trong hay bên ngoài; thô hay tế; hạ liệt hay cao thượng; xa hay gần — sau khi thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi', vị ấy được giải thoát, không còn chấp thủ;
 
 <!-- seg: mn35:25.4 -->
-với bất cứ tưởng nào — quá khứ, vị lai, hay hiện tại; bên trong hay bên ngoài; thô hay tế; hạ liệt hay cao thượng; xa hay gần — vị ấy thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi', và được giải thoát, không còn chấp thủ;
+với bất cứ tưởng nào — quá khứ, vị lai, hay hiện tại; bên trong hay bên ngoài; thô hay tế; hạ liệt hay cao thượng; xa hay gần — sau khi thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi', vị ấy được giải thoát, không còn chấp thủ;
 
 <!-- seg: mn35:25.5 -->
-với bất cứ hành nào — quá khứ, vị lai, hay hiện tại; bên trong hay bên ngoài; thô hay tế; hạ liệt hay cao thượng; xa hay gần — vị ấy thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi', và được giải thoát, không còn chấp thủ;
+với bất cứ hành nào — quá khứ, vị lai, hay hiện tại; bên trong hay bên ngoài; thô hay tế; hạ liệt hay cao thượng; xa hay gần — sau khi thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi', vị ấy được giải thoát, không còn chấp thủ;
 
 <!-- seg: mn35:25.6 -->
 với bất cứ thức nào — quá khứ, vị lai, hay hiện tại; bên trong hay bên ngoài; thô hay tế; hạ liệt hay cao thượng; xa hay gần — sau khi thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi', vị ấy được giải thoát, không còn chấp thủ.

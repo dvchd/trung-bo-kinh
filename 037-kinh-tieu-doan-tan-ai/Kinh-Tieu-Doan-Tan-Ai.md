@@ -243,7 +243,7 @@ và này hiền giả Moggallāna, hãy xem vẻ đẹp kia của cung điện V
 [Chú thích: Chư thiên đang chỉ cho thấy những nét đẹp khác nhau trong cung điện.]
 
 <!-- seg: mn37:10.6 -->
-"Cung điện này thật đẹp thay, xứng với Tôn giả Kosiya, đúng như nơi một người đã làm phước từ thuở trước.
+"Cung điện này thật đẹp thay, xứng với Tôn giả Kosiya, đúng như với một người đã làm phước từ thuở trước.
 
 [Chú thích: Sau câu trả lời đáng thất vọng của Sakka, Moggallāna nói một lời cho phải phép, nhưng ngầm nêu ra sự khác biệt giữa phước cũ và sự buông thả hiện tại.]
 
@@ -254,7 +254,7 @@ Loài người khi thấy một vật gì đẹp cũng nói như vầy:
 'Vật này thật đẹp thay, xứng với chư thiên cõi Tāvatiṁsa.'
 
 <!-- seg: mn37:10.9 -->
-Vật ấy thật đẹp, xứng với Tôn giả Kosiya, đúng như nơi một người đã làm phước từ thuở trước."
+Vật ấy thật đẹp, xứng với Tôn giả Kosiya, đúng như với một người đã làm phước từ thuở trước."
 
 <!-- seg: mn37:11.1 -->
 Rồi Tôn giả Mahāmoggallāna khởi lên ý nghĩ:
@@ -331,7 +331,7 @@ Chỉ đến mức ấy, này chúa tể chư thiên, một vị tỳ-kheo đư�
 Đức Thế Tôn đã giảng cho tôi về sự giải thoát do đoạn tận ái một cách vắn tắt như vậy, này hiền giả Moggallāna."
 
 <!-- seg: mn37:14.1 -->
-Rồi Tôn giả Mahāmoggallāna hoan hỷ và tán thán lời Sakka, chúa tể chư thiên, nói. Rồi — như một người lực lưỡng duỗi cánh tay đang co lại, hay co cánh tay đang duỗi ra — cũng vậy, ngài biến mất khỏi giữa chư thiên cõi Tāvatiṁsa và hiện ra trong giảng đường Migāramātupāsāda ở Pubbārāma.
+Rồi Tôn giả Mahāmoggallāna hoan hỷ và tán thán lời của Sakka, chúa tể chư thiên. Rồi — như một người lực lưỡng duỗi cánh tay đang co lại, hay co cánh tay đang duỗi ra — cũng vậy, ngài biến mất khỏi giữa chư thiên cõi Tāvatiṁsa và hiện ra trong giảng đường Migāramātupāsāda ở Pubbārāma.
 
 <!-- seg: mn37:14.2 -->
 Rồi các thị nữ của Sakka, chúa tể chư thiên, khi Tôn giả Mahāmoggallāna vừa rời đi không lâu, bèn nói với Sakka, chúa tể chư thiên, rằng:
@@ -348,7 +348,7 @@ Vị ấy là bạn đồng phạm hạnh của tôi, Tôn giả Mahāmoggallān
 [Chú thích: Chữ sabrahmacārī thường chỉ người cùng tu trong Tăng đoàn, nhưng ở đây còn ngầm ý rằng cả hai vị đều đã thấy Pháp.]
 
 <!-- seg: mn37:14.6 -->
-"Các nàng thật có phước, này các nàng, thật khéo được phước, này các nàng,
+"Thật có phước cho ngài, thưa ngài, thật khéo được phước cho ngài, thưa ngài,
 
 <!-- seg: mn37:14.7 -->
 khi có một vị bạn đồng phạm hạnh có thần lực lớn, uy lực lớn như vậy.

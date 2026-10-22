@@ -549,7 +549,7 @@ Người ấy nghĩ như vầy:
 Cũng vậy, này các tỳ-kheo, vị tỳ-kheo như thật biết rõ: 'Đây là khổ'; như thật biết rõ: 'Đây là sự tập khởi của khổ'; như thật biết rõ: 'Đây là sự chấm dứt của khổ'; như thật biết rõ: 'Đây là con đường đưa đến sự chấm dứt của khổ'. Vị ấy như thật biết rõ: 'Đây là các lậu hoặc'; như thật biết rõ: 'Đây là sự tập khởi của lậu hoặc'; như thật biết rõ: 'Đây là sự chấm dứt của lậu hoặc'; như thật biết rõ: 'Đây là con đường đưa đến sự chấm dứt của lậu hoặc'. Với người biết như vậy, thấy như vậy, tâm được giải thoát khỏi lậu hoặc về dục, tâm được giải thoát khỏi lậu hoặc về hữu, tâm được giải thoát khỏi lậu hoặc về vô minh. Khi đã được giải thoát, vị ấy biết rõ: 'Ta đã được giải thoát.'
 
 <!-- seg: mn39:21.12 -->
-Vị ấy như thật biết rõ: 'Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa.'
+Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn39:22.1 -->
 Này các tỳ-kheo, vị tỳ-kheo ấy được gọi là 'sa-môn', cũng được gọi là 'bà-la-môn', 'bậc đã tắm rửa', 'bậc hiểu biết', 'bậc học rộng', 'bậc thánh', và 'bậc A-la-hán'.

@@ -100,7 +100,7 @@ tránh giường cao và giường lớn,
 tránh nhận vàng và bạc,
 
 <!-- seg: mn38:33.14 -->
-tránh nhận hạt giống còn sống,
+tránh nhận lúa gạo sống,
 
 <!-- seg: mn38:33.15 -->
 tránh nhận thịt sống,

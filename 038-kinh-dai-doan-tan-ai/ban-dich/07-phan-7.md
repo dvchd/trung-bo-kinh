@@ -68,7 +68,7 @@ Như vậy là sự đoạn diệt của toàn bộ khối khổ này.
 "Không phải vậy, bạch Thế Tôn."
 
 <!-- seg: mn38:24.12 -->
-"Này các tỳ-kheo, khi biết như vậy, thấy như vậy, các ông có cho rằng những lễ nghi và những buổi lễ ồn ào, mê tín của các sa-môn, bà-la-môn khác nhau là cốt yếu không?"
+"Này các tỳ-kheo, khi biết như vậy, thấy như vậy, các ông có cho rằng những lễ nghi và những buổi lễ ồn ào, mê tín của nhiều sa-môn, bà-la-môn là cốt yếu không?"
 
 [Chú thích: Trong giáo pháp này, việc cử hành lễ nghi tự nó không bị cấm; điểm chính là chúng không được xem là cốt yếu. Các lễ nghi được xem là những hành vi có hiệu lực, nên tương ứng với các hành, chữ này cũng có nghĩa là lễ nghi. Chữ kotūhala, tức ồn ào, nghĩa đen là "huyên náo từ đâu đến"; các lễ tế Vệ-đà với nhiều người tụng và những nghi thức bí truyền mang không khí náo nhiệt, hội hè.]
 

@@ -61,7 +61,7 @@ bằng việc Saccaka tán thán Đức Thế Tôn, kể lại chuyện ông ta 
 
 ## 4. Chỗ dễ dịch sai
 
-- **`ubhatopakkhaṁ` (đoạn 10.3):** nghĩa là "về cả hai phía", tức cả phía lạc thọ lẫn phía khổ
+- **`ubhatopakkhaṁ` (đoạn 8.8 và 9.8):** nghĩa là "về cả hai phía", tức cả phía lạc thọ lẫn phía khổ
   thọ, chứ không phải "cả hai thái cực" theo nghĩa tu hành.
 - **Cặp câu 17.11–17.12, 18.11, 19.10:** mỗi đoạn gồm hai mệnh đề, "dù có cảm thọ khổ do tự mình
   hành xác hay không" và "dù không có cảm thọ khổ do tự mình hành xác". Bản Pali lặp cả hai; phải

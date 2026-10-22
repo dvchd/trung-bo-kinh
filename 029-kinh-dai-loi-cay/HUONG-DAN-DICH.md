@@ -61,7 +61,7 @@ lấy tâm giải thoát bất động làm mục đích, lõi cây và chỗ t�
 - **Bài này không có `…pe…`**: đã kiểm tra cả năm tệp nguồn, không có peyyāla. Cái dễ nhầm là những
   dấu "…" ở cuối EN (mn29:2.13, 3.17, 4.33, 5.24) — đó là Sujato tự lược phần lặp, còn PLI vẫn ghi
   đủ từng câu; bản dịch theo PLI nên viết đủ, không thêm dấu lược nào.
-- **25 đoạn EN trống** vì Sujato gộp vào câu trước (mn29:2.14, 2.19, 4.1, 4.21–4.24, 4.34,
+- **28 đoạn EN trống** vì Sujato gộp vào câu trước (mn29:2.14, 2.19, 4.1, 4.21–4.24, 4.34,
   4.40–4.43, 5.9–5.13, 5.25, 5.31–5.37, 5.40, 6.23, 7.6). Các đoạn này dịch thẳng từ PLI và vẫn
   phải đứng thành khối riêng, đúng số hiệu; không gộp vào đoạn trước dù nội dung trùng.
 - **Cả bài là một lời nói liền mạch của Đức Thế Tôn**, bản Pali chỉ mở ngoặc kép một lần ở mn29:2.1

@@ -32,7 +32,7 @@ Vị ấy làm mọi việc với sự tỉnh giác: khi đi tới, đi lui; khi
 Vị ấy, thành tựu với khối giới cao quý này, thành tựu với sự biết đủ cao quý này, thành tựu với sự thu thúc các căn cao quý này, thành tựu với chánh niệm và tỉnh giác cao quý này,
 
 <!-- seg: mn38:37.2 -->
-tìm đến một chỗ ở thanh vắng — khu rừng, gốc cây, ngọn núi, hang đá, núi đá, bãi tha ma, rừng rậm, khoảng trời trống, đống rơm.
+tìm đến một chỗ ở thanh vắng — khu rừng, gốc cây, ngọn núi, khe núi, hang núi, bãi tha ma, rừng rậm, khoảng trời trống, đống rơm.
 
 <!-- seg: mn38:38.1 -->
 Sau bữa ăn, khi đi khất thực về, vị ấy ngồi xuống, ngồi xếp bằng, thân thẳng, đặt chánh niệm trước mặt.
@@ -62,7 +62,7 @@ rồi ly khỏi các dục, ly khỏi các pháp bất thiện, chứng đạt v
 Lại nữa, này các tỳ-kheo, vị tỳ-kheo do các tầm và tứ được lắng xuống, đạt được nội tâm thanh tịnh, tâm chuyên nhất, không tầm không tứ, có hỷ và lạc do định sinh, chứng đạt và an trú thiền-na thứ hai.
 
 <!-- seg: mn38:39.4 -->
-Lại nữa, này các tỳ-kheo, vị tỳ-kheo do ly khỏi hỷ, sống xả, có chánh niệm và tỉnh giác, cảm nhận lạc bằng thân, và chứng đạt an trú thiền-na thứ ba, mà các bậc Thánh gọi là "xả, có chánh niệm, sống an lạc".
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo do ly khỏi hỷ, sống xả, có chánh niệm và tỉnh giác, cảm nhận lạc bằng thân, chứng đạt và an trú thiền-na thứ ba, mà các bậc Thánh gọi là "xả, có chánh niệm, sống an lạc".
 
 <!-- seg: mn38:39.5 -->
 Lại nữa, này các tỳ-kheo, vị tỳ-kheo do đoạn trừ lạc và đoạn trừ khổ, trước đó đã làm lắng xuống hỷ và ưu, chứng đạt và an trú thiền-na thứ tư, không khổ không lạc, xả và chánh niệm thanh tịnh.
