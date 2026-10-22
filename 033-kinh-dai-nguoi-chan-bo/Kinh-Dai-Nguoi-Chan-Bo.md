@@ -58,6 +58,8 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 <!-- seg: mn33:2.1 -->
 Này các tỳ-kheo, người chăn bò hội đủ mười một chi phần thì không thể chăn giữ đàn bò và làm cho đàn bò sinh sôi nảy nở.
 
+[Chú thích: Cách trình bày mười một pháp này cũng lặp lại trong Tăng Chi Bộ Kinh ở các bài 11.17, 11.22–29 và 11.502–981; việc sắp xếp giáo pháp theo con số vốn là đặc trưng của bộ kinh ấy.]
+
 <!-- seg: mn33:2.2 -->
 Mười một là những gì?
 

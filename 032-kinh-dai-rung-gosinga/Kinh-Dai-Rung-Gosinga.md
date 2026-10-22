@@ -102,7 +102,7 @@ Khu rừng sa-la Gosiṅga sẽ rạng rỡ với một vị tỳ-kheo như th�
 <!-- seg: mn32:4.8 -->
 Vị ấy thuyết pháp cho bốn hội chúng bằng những từ ngữ và câu chữ tròn đầy, liền mạch, để nhổ lên các tùy miên.
 
-[Chú thích: Bốn hội chúng là tỳ-kheo, tỳ-kheo-ni, nam cư sĩ và nữ cư sĩ.]
+[Chú thích: Ānanda thường nhắc đến đủ cả bốn hội chúng: tỳ-kheo, tỳ-kheo-ni, nam cư sĩ và nữ cư sĩ.]
 
 <!-- seg: mn32:4.9 -->
 Khu rừng sa-la Gosiṅga sẽ rạng rỡ với một vị tỳ-kheo như vậy, thưa Tôn giả Sāriputta."
@@ -153,7 +153,7 @@ Khu rừng sa-la Gosiṅga sẽ rạng rỡ với một vị tỳ-kheo như th�
 <!-- seg: mn32:6.7 -->
 Ví như, thưa Tôn giả Sāriputta, một người có mắt sáng, từ tầng trên của một tòa lầu đài nguy nga, quán sát một ngàn vòng vành bánh xe;
 
-[Chú thích: nemimaṇḍala nghĩa đen là vành bánh xe, nhưng ở đây có thể chỉ những vòng quỹ đạo của các vì sao. Các bản Hán tương ứng lại hiểu thành một ngàn viên gạch, cho thấy hình ảnh này đã gây lúng túng từ xưa. Có lẽ nên hình dung một vị vua đứng trên lầu cao ngắm bầu trời.]
+[Chú thích: nemimaṇḍala nghĩa đen là vành bánh xe, nhưng ở đây có thể chỉ những vòng quỹ đạo của các vì sao. Một bản Hán tương ứng lại hiểu thành một ngàn viên gạch, cho thấy hình ảnh này đã gây lúng túng từ xưa. Có lẽ nên hình dung một vị vua đứng trên lầu cao ngắm bầu trời.]
 
 <!-- seg: mn32:6.8 -->
 cũng vậy, thưa Tôn giả Sāriputta, vị tỳ-kheo bằng thiên nhãn thanh tịnh, vượt hơn mắt người, quán sát một ngàn thế giới.
@@ -536,7 +536,7 @@ Khi Ngài nói vậy, Tôn giả Sāriputta bạch Đức Thế Tôn:
 <!-- seg: mn32:17.3 -->
 "Này Sāriputta, tất cả các ông đều đã nói hay, mỗi người theo cách của mình.
 
-[Chú thích: Đức Thế Tôn không chỉ khen những phẩm chất tốt đẹp của các vị ấy mà còn khen việc họ biết quý những phẩm chất ấy. Đó không phải là ngã mạn mà là sự hoan hỷ trước điều tốt của người khác.]
+[Chú thích: Đức Thế Tôn không chỉ khen những phẩm chất tốt đẹp của các vị ấy mà còn khen việc họ biết quý những phẩm chất tốt đẹp của chính mình. Đó không phải là ngã mạn mà là một hình thức hoan hỷ.]
 
 <!-- seg: mn32:17.4 -->
 Nhưng các ông hãy nghe cả Ta nữa: một vị tỳ-kheo như thế nào sẽ làm khu rừng sa-la Gosiṅga thêm rạng rỡ.
@@ -544,7 +544,7 @@ Nhưng các ông hãy nghe cả Ta nữa: một vị tỳ-kheo như thế nào s
 <!-- seg: mn32:17.5 -->
 Ở đây, này Sāriputta, vị tỳ-kheo sau bữa ăn, khi đã đi khất thực trở về, ngồi xuống, xếp chân lại, dựng thân thẳng, đặt chánh niệm trước mặt, nghĩ rằng:
 
-[Chú thích: Trong khi các vị đệ tử nói về kết quả, Đức Thế Tôn nói về nguyên nhân. Một chỗ tương tự là Kinh Kỳ Diệu (MN 123), nơi Ngài cũng đưa câu chuyện trở về việc tu tập thiền định.]
+[Chú thích: Trong khi các vị đệ tử nói về kết quả, Đức Thế Tôn nói về nguyên nhân. Một chỗ tương tự là Kinh Hy Hữu và Kỳ Diệu (MN 123), nơi Ngài cũng đưa câu chuyện trở về việc tu tập thiền định.]
 
 <!-- seg: mn32:17.6 -->
 'Ta sẽ không phá thế ngồi này cho đến khi tâm Ta được giải thoát khỏi các lậu hoặc, không còn nắm giữ.'

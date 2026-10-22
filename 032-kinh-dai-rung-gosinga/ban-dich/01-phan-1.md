@@ -65,7 +65,7 @@ Khu rừng sa-la Gosiṅga sẽ rạng rỡ với một vị tỳ-kheo như th�
 <!-- seg: mn32:4.8 -->
 Vị ấy thuyết pháp cho bốn hội chúng bằng những từ ngữ và câu chữ tròn đầy, liền mạch, để nhổ lên các tùy miên.
 
-[Chú thích: Bốn hội chúng là tỳ-kheo, tỳ-kheo-ni, nam cư sĩ và nữ cư sĩ.]
+[Chú thích: Ānanda thường nhắc đến đủ cả bốn hội chúng: tỳ-kheo, tỳ-kheo-ni, nam cư sĩ và nữ cư sĩ.]
 
 <!-- seg: mn32:4.9 -->
 Khu rừng sa-la Gosiṅga sẽ rạng rỡ với một vị tỳ-kheo như vậy, thưa Tôn giả Sāriputta."
@@ -116,7 +116,7 @@ Khu rừng sa-la Gosiṅga sẽ rạng rỡ với một vị tỳ-kheo như th�
 <!-- seg: mn32:6.7 -->
 Ví như, thưa Tôn giả Sāriputta, một người có mắt sáng, từ tầng trên của một tòa lầu đài nguy nga, quán sát một ngàn vòng vành bánh xe;
 
-[Chú thích: nemimaṇḍala nghĩa đen là vành bánh xe, nhưng ở đây có thể chỉ những vòng quỹ đạo của các vì sao. Các bản Hán tương ứng lại hiểu thành một ngàn viên gạch, cho thấy hình ảnh này đã gây lúng túng từ xưa. Có lẽ nên hình dung một vị vua đứng trên lầu cao ngắm bầu trời.]
+[Chú thích: nemimaṇḍala nghĩa đen là vành bánh xe, nhưng ở đây có thể chỉ những vòng quỹ đạo của các vì sao. Một bản Hán tương ứng lại hiểu thành một ngàn viên gạch, cho thấy hình ảnh này đã gây lúng túng từ xưa. Có lẽ nên hình dung một vị vua đứng trên lầu cao ngắm bầu trời.]
 
 <!-- seg: mn32:6.8 -->
 cũng vậy, thưa Tôn giả Sāriputta, vị tỳ-kheo bằng thiên nhãn thanh tịnh, vượt hơn mắt người, quán sát một ngàn thế giới.

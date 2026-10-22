@@ -36,7 +36,7 @@ Vì lợi dưỡng, cung kính và danh vọng ấy, vị ấy say đắm, buôn
 [Chú thích: Bản Hán tương ứng (EA 43.4) nói bài kinh này được giảng vào lúc Devadatta đang được thái tử Ajātasattu (A-xà-thế) cúng dường rất hậu.]
 
 <!-- seg: mn29:2.9 -->
-Này các tỳ-kheo, ví như có người cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây; gặp một cây lớn đứng sừng sững có lõi cây, người ấy bỏ qua lõi cây, bỏ qua dác cây, bỏ qua vỏ cây, bỏ qua chồi non, rồi chặt cành lá mang đi, tưởng rằng đó là lõi cây.
+Này các tỳ-kheo, ví như có người cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây; gặp một cây lớn đứng sừng sững có lõi cây, người ấy bỏ qua lõi cây, bỏ qua gỗ giác, bỏ qua vỏ trong, bỏ qua vỏ ngoài, rồi chặt cành lá mang đi, tưởng rằng đó là lõi cây.
 
 [Chú thích: Hãy so sánh sự tìm cầu cao quý trong Kinh Thánh Cầu (MN 26) và sự tìm con voi đực trong Tiểu Kinh Dấu Chân Voi (MN 27). Ở cả ba trường hợp, hình ảnh ví dụ đều nhấn mạnh rằng mục đích thì cụ thể và không thể thỏa hiệp, nên bài học là đừng dừng lại khi cuộc hành trình chưa thật sự hoàn tất.]
 
@@ -44,10 +44,10 @@ Này các tỳ-kheo, ví như có người cần lõi cây, tìm kiếm lõi câ
 Một người có mắt sáng thấy vậy, sẽ nói rằng:
 
 <!-- seg: mn29:2.11 -->
-"Ông này thật không biết đâu là lõi cây, không biết dác cây, không biết vỏ cây, không biết chồi non, không biết cành lá.
+"Ông này thật không biết đâu là lõi cây, không biết gỗ giác, không biết vỏ trong, không biết vỏ ngoài, không biết cành lá.
 
 <!-- seg: mn29:2.12 -->
-Chính vì thế, ông này cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây mà lại bỏ qua lõi cây, bỏ qua dác cây, bỏ qua vỏ cây, bỏ qua chồi non, chặt cành lá mang đi, tưởng rằng đó là lõi cây.
+Chính vì thế, ông này cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây mà lại bỏ qua lõi cây, bỏ qua gỗ giác, bỏ qua vỏ trong, bỏ qua vỏ ngoài, chặt cành lá mang đi, tưởng rằng đó là lõi cây.
 
 <!-- seg: mn29:2.13 -->
 Việc gì phải dùng lõi cây mới làm được, ông ấy sẽ không đạt được kết quả ấy."
@@ -116,16 +116,16 @@ Vì sự thành tựu về giới ấy, vị ấy tự đề cao mình và hạ 
 Vì sự thành tựu về giới ấy, vị ấy say đắm, buông lung, rơi vào phóng dật; vì phóng dật nên sống trong khổ.
 
 <!-- seg: mn29:3.13 -->
-Này các tỳ-kheo, ví như có người cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây; gặp một cây lớn đứng sừng sững có lõi cây, người ấy bỏ qua lõi cây, bỏ qua dác cây, bỏ qua vỏ cây, rồi chặt chồi non mang đi, tưởng rằng đó là lõi cây.
+Này các tỳ-kheo, ví như có người cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây; gặp một cây lớn đứng sừng sững có lõi cây, người ấy bỏ qua lõi cây, bỏ qua gỗ giác, bỏ qua vỏ trong, rồi chặt vỏ ngoài mang đi, tưởng rằng đó là lõi cây.
 
 <!-- seg: mn29:3.14 -->
 Một người có mắt sáng thấy vậy, sẽ nói rằng:
 
 <!-- seg: mn29:3.15 -->
-"Ông này thật không biết đâu là lõi cây, không biết dác cây, không biết vỏ cây, không biết chồi non, không biết cành lá.
+"Ông này thật không biết đâu là lõi cây, không biết gỗ giác, không biết vỏ trong, không biết vỏ ngoài, không biết cành lá.
 
 <!-- seg: mn29:3.16 -->
-Chính vì thế, ông này cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây mà lại bỏ qua lõi cây, bỏ qua dác cây, bỏ qua vỏ cây, chặt chồi non mang đi, tưởng rằng đó là lõi cây;
+Chính vì thế, ông này cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây mà lại bỏ qua lõi cây, bỏ qua gỗ giác, bỏ qua vỏ trong, chặt vỏ ngoài mang đi, tưởng rằng đó là lõi cây;
 
 <!-- seg: mn29:3.17 -->
 việc gì phải dùng lõi cây mới làm được, ông ấy sẽ không đạt được kết quả ấy."

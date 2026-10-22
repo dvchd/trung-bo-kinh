@@ -58,7 +58,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 <!-- seg: mn34:2.1 -->
 Này các tỳ-kheo, thuở xưa có một người chăn bò xứ Magadha (Ma-kiệt-đà) bẩm sinh thiếu trí. Vào tháng cuối mùa mưa, khi đã sang tiết thu, ông ta không nhìn xem bờ bên này của sông Gaṅgā, không nhìn xem bờ bên kia, mà cứ thế lùa đàn bò băng qua chỗ không có bến, sang bờ phía bắc, nơi đất của người Suvideha.
 
-[Chú thích: Truyện này minh hoạ cho điều bài kinh trước đã nói: phải biết chỗ có bến trước khi lội qua. Tên Suvideha không xuất hiện ở chỗ nào khác, và chú giải chỉ coi họ là người Videha; nhưng Videha nằm ở đông bắc Vajjī nên khó có thể giáp sông Gaṅgā đối diện Magadha. Có lẽ truyện này bắt nguồn từ thuở Videha còn vươn tới sông, hoặc từ những người tự xưng là "Videha tốt" sau khi vương quốc ấy đã mất.]
+[Chú thích: Truyện này minh hoạ cho điều bài kinh trước (MN 33:2.3) đã nói: phải biết chỗ có bến trước khi lội qua. Tên Suvideha không xuất hiện ở chỗ nào khác, và chú giải chỉ coi họ là người Videha; nhưng Videha nằm ở đông bắc Vajjī nên khó có thể giáp sông Gaṅgā đối diện Magadha. Có lẽ truyện này bắt nguồn từ thuở Videha còn vươn tới sông, hoặc từ những người tự xưng là "Videha tốt" sau khi vương quốc ấy đã mất.]
 
 <!-- seg: mn34:3.1 -->
 Rồi này các tỳ-kheo, đàn bò xoay vòng giữa dòng sông Gaṅgā, và ngay tại đó chúng gặp tai họa, khốn cùng.
@@ -152,10 +152,12 @@ Còn Ta, này các tỳ-kheo, là người thiện xảo về đời này, thi�
 <!-- seg: mn34:12.2 -->
 Sau khi nói như vậy, bậc Thiện thệ, bậc Đạo sư, lại nói thêm:
 
-[Chú thích: Câu chuyển tiếp này rất thường gặp ở các bộ kinh khác, nhưng trong Trung Bộ Kinh chỉ dùng ba lần (MN 130:30.2, MN 142:14.2).]
+[Chú thích: Câu chuyển tiếp này rất thường gặp ở các bộ kinh khác, nhưng trong Trung Bộ Kinh chỉ dùng ba lần: ở đây, MN 130:30.2 và MN 142:14.2.]
 
 <!-- seg: mn34:12.3 -->
-Đời này và đời sau,
+"Đời này và đời sau,
+
+[Chú thích: Câu này nhắc lại Bṛhadāraṇyaka Upaniṣad 3.7.1, nơi có câu ayaṁ ca lokaḥ paraśca lokaḥ.]
 
 <!-- seg: mn34:12.4 -->
 đã được bậc hiểu biết khéo giảng rõ;
@@ -170,12 +172,12 @@ và những gì Thần chết không với tới.
 Biết rõ toàn thế giới,
 
 <!-- seg: mn34:12.8 -->
-bậc Chánh giác, người thấu hiểu,
+bởi bậc Chánh giác, người thấu hiểu,
 
 <!-- seg: mn34:12.9 -->
-đã mở ra cánh cửa bất tử,
+cánh cửa bất tử đã được mở ra,
 
-[Chú thích: Câu này nhắc lại Bṛhadāraṇyaka Upaniṣad 3.7.1, nơi có câu ayaṁ ca lokaḥ paraśca lokaḥ.]
+[Chú thích: So sánh MN 26:20.12.]
 
 <!-- seg: mn34:12.10 -->
 sự an ổn để đạt tới Niết-bàn.
@@ -190,7 +192,7 @@ Dòng nước của Ác ma đã bị cắt đứt,
 Hãy tràn đầy hoan hỷ,
 
 <!-- seg: mn34:12.14 -->
-này các tỳ-kheo, hãy hướng lòng tới sự an ổn.
+này các tỳ-kheo, hãy hướng lòng tới sự an ổn."
 
 [Chú thích: Ở đây nên đọc là patthetha, nghĩa là "hướng lòng tới".]
 

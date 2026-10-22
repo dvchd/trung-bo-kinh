@@ -8,7 +8,7 @@ Này các tỳ-kheo, ví như có người cần lõi cây, tìm kiếm lõi câ
 Một người có mắt sáng thấy vậy, sẽ nói rằng:
 
 <!-- seg: mn29:6.20 -->
-"Ông này thật biết đâu là lõi cây, biết dác cây, biết vỏ cây, biết chồi non, biết cành lá.
+"Ông này thật biết đâu là lõi cây, biết gỗ giác, biết vỏ trong, biết vỏ ngoài, biết cành lá.
 
 <!-- seg: mn29:6.21 -->
 Chính vì thế, ông này cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây mà chỉ chặt đúng lõi cây mang đi, vì biết rõ đó là lõi cây.

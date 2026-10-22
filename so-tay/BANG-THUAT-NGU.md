@@ -168,6 +168,9 @@ dấu), hoặc đọc lướt theo nhóm chủ đề. Những từ có dấu * l
 | sevitabba / asevitabba | nên thân cận / không nên thân cận | MN 114 |
 | dhammānudhamma | pháp và tùy pháp | |
 | yathābhūta | như thật | "thấy như thật" |
+| appossukkatā | sự yên lặng | Thái độ không bận tâm, không muốn hoạt động; MN 26 |
+| sāra / pheggu / taca / papaṭikā | lõi cây / gỗ giác / vỏ trong / vỏ ngoài | Năm lớp của cây trong ví dụ lõi cây; MN 29–30 |
+| dulladdha / suladdha | được một cách dở tệ / được một cách tốt lành | MN 28; khác dullabha "khó được" |
 | vijjācaraṇasampanno | đầy đủ minh và hạnh | Trong danh hiệu chín phần |
 
 ---

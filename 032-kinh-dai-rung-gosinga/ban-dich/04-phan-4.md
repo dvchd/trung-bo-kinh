@@ -25,7 +25,7 @@ Khi Ngài nói vậy, Tôn giả Sāriputta bạch Đức Thế Tôn:
 <!-- seg: mn32:17.3 -->
 "Này Sāriputta, tất cả các ông đều đã nói hay, mỗi người theo cách của mình.
 
-[Chú thích: Đức Thế Tôn không chỉ khen những phẩm chất tốt đẹp của các vị ấy mà còn khen việc họ biết quý những phẩm chất ấy. Đó không phải là ngã mạn mà là sự hoan hỷ trước điều tốt của người khác.]
+[Chú thích: Đức Thế Tôn không chỉ khen những phẩm chất tốt đẹp của các vị ấy mà còn khen việc họ biết quý những phẩm chất tốt đẹp của chính mình. Đó không phải là ngã mạn mà là một hình thức hoan hỷ.]
 
 <!-- seg: mn32:17.4 -->
 Nhưng các ông hãy nghe cả Ta nữa: một vị tỳ-kheo như thế nào sẽ làm khu rừng sa-la Gosiṅga thêm rạng rỡ.
@@ -33,7 +33,7 @@ Nhưng các ông hãy nghe cả Ta nữa: một vị tỳ-kheo như thế nào s
 <!-- seg: mn32:17.5 -->
 Ở đây, này Sāriputta, vị tỳ-kheo sau bữa ăn, khi đã đi khất thực trở về, ngồi xuống, xếp chân lại, dựng thân thẳng, đặt chánh niệm trước mặt, nghĩ rằng:
 
-[Chú thích: Trong khi các vị đệ tử nói về kết quả, Đức Thế Tôn nói về nguyên nhân. Một chỗ tương tự là Kinh Kỳ Diệu (MN 123), nơi Ngài cũng đưa câu chuyện trở về việc tu tập thiền định.]
+[Chú thích: Trong khi các vị đệ tử nói về kết quả, Đức Thế Tôn nói về nguyên nhân. Một chỗ tương tự là Kinh Hy Hữu và Kỳ Diệu (MN 123), nơi Ngài cũng đưa câu chuyện trở về việc tu tập thiền định.]
 
 <!-- seg: mn32:17.6 -->
 'Ta sẽ không phá thế ngồi này cho đến khi tâm Ta được giải thoát khỏi các lậu hoặc, không còn nắm giữ.'

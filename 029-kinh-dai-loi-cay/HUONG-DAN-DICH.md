@@ -10,10 +10,10 @@
 
 Bài kinh được giảng tại Rājagaha, trên núi Gijjhakūṭa, ít lâu sau khi Devadatta rời Tăng đoàn; chính
 câu chuyện Devadatta là cái cớ để Đức Thế Tôn nói về mục đích thật sự của đời sống phạm hạnh. Ngài
-dùng hình ảnh một người cần lõi cây: cây lớn có các lớp từ ngoài vào trong là cành lá, chồi non, vỏ,
-dác và lõi, và người đi tìm lõi cây mà dừng lại ở lớp ngoài thì không đạt được việc mình cần. Cũng
+dùng hình ảnh một người cần lõi cây: cây lớn có các lớp từ ngoài vào trong là cành lá, vỏ ngoài, vỏ
+trong, gỗ giác và lõi, và người đi tìm lõi cây mà dừng lại ở lớp ngoài thì không đạt được việc mình cần. Cũng
 vậy, bài kể năm hạng người tu tập: bốn hạng đầu lần lượt dừng ở lợi dưỡng cung kính danh vọng (cành
-lá), ở giới (chồi non), ở định (vỏ cây), ở tri kiến (dác cây), mỗi lần dừng lại đều kèm theo tự đề
+lá), ở giới (vỏ ngoài), ở định (vỏ trong), ở tri kiến (gỗ giác), mỗi lần dừng lại đều kèm theo tự đề
 cao mình và hạ thấp người khác, rồi phóng dật và sống trong khổ. Hạng thứ năm đi qua tất cả, tới sự
 giải thoát bất thời của bậc A-la-hán — tức lõi cây — và không còn có thể thối thất khỏi đó. Bài
 khép lại bằng lời kết rằng phạm hạnh không lấy lợi dưỡng, giới, định hay tri kiến làm mục đích, mà
@@ -37,9 +37,9 @@ lấy tâm giải thoát bất động làm mục đích, lõi cây và chỗ t�
 | Pali | Dịch chuẩn | Ghi chú |
 |---|---|---|
 | sāra | lõi cây | Lớp trong cùng, thứ người tìm gỗ thật sự cần; cũng là ẩn dụ cho mục đích tối hậu |
-| pheggu | dác cây | Lớp gỗ mềm ngay dưới vỏ |
-| taca | vỏ cây | |
-| papaṭika | chồi non | Sujato dịch "shoots"; lớp nằm ngoài vỏ |
+| pheggu | gỗ giác | Lớp gỗ mềm ngay dưới vỏ trong, còn gọi là dác |
+| taca | vỏ trong | Lớp vỏ libe, ngay dưới vỏ ngoài |
+| papaṭika | vỏ ngoài | Lớp vỏ khô ngoài cùng; Sujato dịch "shoots" là không đúng, xem MN 30 §4 |
 | sākhāpalāsa | cành lá | Lớp ngoài cùng |
 | lābhasakkārasiloka | lợi dưỡng, cung kính và danh vọng | Giữ đủ ba vế, không rút thành "danh lợi" |
 | sīlasampadā | sự thành tựu về giới | |

@@ -31,16 +31,16 @@ Còn các tỳ-kheo khác thì sống không biết, không thấy."
 Vì tri kiến ấy, vị ấy say đắm, buông lung, rơi vào phóng dật; vì phóng dật nên sống trong khổ.
 
 <!-- seg: mn29:5.20 -->
-Này các tỳ-kheo, ví như có người cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây; gặp một cây lớn đứng sừng sững có lõi cây, người ấy bỏ qua lõi cây, rồi chặt dác cây mang đi, tưởng rằng đó là lõi cây.
+Này các tỳ-kheo, ví như có người cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây; gặp một cây lớn đứng sừng sững có lõi cây, người ấy bỏ qua lõi cây, rồi chặt gỗ giác mang đi, tưởng rằng đó là lõi cây.
 
 <!-- seg: mn29:5.21 -->
 Một người có mắt sáng thấy vậy, sẽ nói rằng:
 
 <!-- seg: mn29:5.22 -->
-"Ông này thật không biết đâu là lõi cây, không biết dác cây, không biết vỏ cây, không biết chồi non, không biết cành lá.
+"Ông này thật không biết đâu là lõi cây, không biết gỗ giác, không biết vỏ trong, không biết vỏ ngoài, không biết cành lá.
 
 <!-- seg: mn29:5.23 -->
-Chính vì thế, ông này cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây mà lại bỏ qua lõi cây, chặt dác cây mang đi, tưởng rằng đó là lõi cây.
+Chính vì thế, ông này cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây mà lại bỏ qua lõi cây, chặt gỗ giác mang đi, tưởng rằng đó là lõi cây.
 
 <!-- seg: mn29:5.24 -->
 Việc gì phải dùng lõi cây mới làm được, ông ấy sẽ không đạt được kết quả ấy."
@@ -97,7 +97,7 @@ Vì tri kiến ấy, vị ấy tự đề cao mình và hạ thấp người kh�
 Vì tri kiến ấy, vị ấy say đắm, buông lung, rơi vào phóng dật; vì phóng dật nên sống trong khổ.
 
 <!-- seg: mn29:5.42 -->
-Này các tỳ-kheo, đây gọi là vị tỳ-kheo đã nắm lấy dác cây của đời sống phạm hạnh,
+Này các tỳ-kheo, đây gọi là vị tỳ-kheo đã nắm lấy gỗ giác của đời sống phạm hạnh,
 
 <!-- seg: mn29:5.43 -->
 và dừng lại ở đó.

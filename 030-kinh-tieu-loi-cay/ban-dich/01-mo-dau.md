@@ -443,7 +443,7 @@ Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua Phi tưở
 Này bà-la-môn, pháp này cũng cao hơn và tốt đẹp hơn tri kiến.
 
 <!-- seg: mn30:21.3 -->
-Này bà-la-môn, những pháp ấy là những pháp cao hơn và tốt đẹp hơn tri kiến.
+Này bà-la-môn, những pháp này cao hơn và tốt đẹp hơn tri kiến.
 
 <!-- seg: mn30:22.1 -->
 Này bà-la-môn, ví như một người cần lõi cây, tìm kiếm lõi cây, đang đi tìm lõi cây; người ấy gặp một cây lớn đang đứng, có lõi cây, và chỉ chặt đúng lõi cây đem đi, biết rõ đó là lõi cây.
