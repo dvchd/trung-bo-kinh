@@ -64,7 +64,7 @@ dấu), hoặc đọc lướt theo nhóm chủ đề. Những từ có dấu * l
 | vitakka, vicāra | tầm, tứ | Hai chi đầu của sơ thiền |
 | pīti, sukha | hỷ, lạc | |
 | upekkhā | xả | |
-| upekkhāsatipārisuddhi | xả niệm thanh tịnh | Chi thứ tư của tứ thiền |
+| upekkhāsatipārisuddhi | xả niệm thanh tịnh | Chi thứ tư của thiền-na thứ tư |
 | sati | chánh niệm | |
 | sampajañña | tỉnh giác | "chánh niệm tỉnh giác" luôn đi thành cặp |
 | satipaṭṭhāna | niệm xứ | Bốn niệm xứ |

@@ -44,10 +44,10 @@ Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn d�
 Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn128:12.11 -->
-Đại đức Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con lại nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
+Tôn giả Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con lại nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn128:12.12 -->
-Đại đức Kimbila cũng nói với Đức Thế Tôn như vầy:
+Tôn giả Kimbila cũng nói với Đức Thế Tôn như vầy:
 
 <!-- seg: mn128:12.13 -->
 "Bạch Thế Tôn, con cũng nghĩ rằng:

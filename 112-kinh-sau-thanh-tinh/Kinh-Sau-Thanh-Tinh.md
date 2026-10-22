@@ -4,7 +4,7 @@
 
 Bài kinh này là bài thứ 112 trong Trung Bộ Kinh, tên Pali là *Chabbisodhana Sutta*, nghĩa là bài kinh về sáu sự thanh tịnh. Bối cảnh rất giản dị: Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong khu vườn rừng Jeta (Kỳ-đà), và Ngài gọi các tỳ-kheo đến. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Chỉ có một tình huống mà cộng đồng tôn giáo nào cũng gặp: một người trong nhóm tuyên bố mình đã đạt kết quả cuối cùng.
 
-Lời tuyên bố ấy là một công thức quen thuộc: sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa. Với người ngoài, đó là lời nói không thể kiểm chứng. Cách xử lý của Đức Thế Tôn rất đáng chú ý: Ngài không bảo các tỳ-kheo tin ngay, cũng không bảo gạt phắt đi. Ngài dạy rằng đừng hoan hỷ, cũng đừng bác bỏ, mà hãy hỏi. Bài kinh vì thế là một quy trình thẩm định, chứ không phải một buổi lễ tuyên bố.
+Lời tuyên bố ấy là một công thức quen thuộc: sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa. Với người ngoài, đó là lời nói không thể kiểm chứng. Cách xử lý của Đức Thế Tôn rất đáng chú ý: Ngài không bảo các tỳ-kheo tin ngay, cũng không bảo gạt phắt đi. Ngài dạy rằng đừng hoan hỷ, cũng đừng bác bỏ, mà hãy hỏi. Bài kinh vì thế là một quy trình thẩm định, chứ không phải một buổi lễ tuyên bố.
 
 Năm lượt hỏi đi từ dễ đến khó. Lượt đầu hỏi về bốn cách nói: nói điều mình đã thấy, đã nghe, đã cảm nhận, đã biết, đúng như những gì mình thực sự thấy, nghe, cảm nhận, biết. Lượt thứ hai hỏi về năm uẩn chấp thủ, tức năm nhóm tạo nên cái mà ta gọi là con người. Lượt thứ ba hỏi về sáu giới, lượt thứ tư về sáu xứ trong và ngoài, tức toàn bộ thế giới mà một người tiếp xúc qua sáu giác quan. Lượt thứ năm đi thẳng vào chỗ khó nhất: làm sao để không còn tạo tác cái 'ta' và cái 'của ta'.
 
@@ -59,7 +59,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 Này các tỳ-kheo, ở đây một tỳ-kheo tuyên bố sự chứng ngộ của mình:
 
 <!-- seg: mn112:2.2 -->
-"Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa — tôi biết rõ như vậy."
+"Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa — tôi biết rõ như vậy."
 
 <!-- seg: mn112:3.1 -->
 Này các tỳ-kheo, các ông không nên hoan hỷ với lời nói của vị tỳ-kheo ấy, cũng không nên bác bỏ lời ấy.
@@ -466,7 +466,7 @@ Với tôi, khi biết như vậy, thấy như vậy, tâm được giải thoá
 Khi tâm ấy được giải thoát, trí biết 'đã được giải thoát' khởi lên.
 
 <!-- seg: mn112:20.3 -->
-Tôi biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa."
+Tôi biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn112:20.4 -->
 Thưa các hiền giả, tôi biết như vầy, thấy như vầy, nên đối với thân có thức này và đối với mọi tướng bên ngoài, sự tạo tác cái 'ta', sự tạo tác cái 'của ta' và tùy miên ngã mạn đều được đoạn trừ.

@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Sunakkhatta** (*Sunakkhattasutta*) là bài kinh thứ 105 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Vesālī, kinh đô của xứ Vajjī, trong một giảng đường có nóc nhọn giữa Đại Lâm. Người hỏi là Sunakkhatta, một thanh niên dòng Licchavi, dòng tộc quý tộc trị vì xứ ấy. Ông nghe tin nhiều tỳ-kheo vừa tuyên bố trước Đức Thế Tôn rằng họ đã chứng ngộ, rằng sinh đã tận, việc cần làm đã làm xong, không còn trở lại đời này nữa. Ông đến hỏi thẳng một câu rất tự nhiên: chuyện ấy có thật không, hay trong số đó có người chỉ nói quá về mình?
+**Kinh Sunakkhatta** (*Sunakkhattasutta*) là bài kinh thứ 105 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra tại Vesālī, kinh đô của xứ Vajjī, trong một giảng đường có nóc nhọn giữa Đại Lâm. Người hỏi là Sunakkhatta, một thanh niên dòng Licchavi, dòng tộc quý tộc trị vì xứ ấy. Ông nghe tin nhiều tỳ-kheo vừa tuyên bố trước Đức Thế Tôn rằng họ đã chứng ngộ, rằng sinh đã tận, việc cần làm đã làm, không còn trở lại trạng thái này nữa. Ông đến hỏi thẳng một câu rất tự nhiên: chuyện ấy có thật không, hay trong số đó có người chỉ nói quá về mình?
 
 Câu trả lời của Đức Thế Tôn hẳn làm ông ngạc nhiên. Ngài không khẳng định tất cả đều đúng, cũng không bác bỏ tất cả. Ngài nói: trong số ấy có người chứng thật, và cũng có người chỉ lầm tưởng mình đã chứng. Chữ "lầm tưởng" ở đây không có nghĩa là nói dối. Một người tu tập, thấy tâm mình lắng xuống, thấy một sự an ổn chưa từng có, rồi tưởng đó là đích đến cuối cùng. Kinh gọi trạng thái ấy là *adhimāna*, sự tự phụ không có căn cứ, và Đức Thế Tôn xem đó là chuyện nhẹ, khác hẳn với tội cố ý nói dối về mình.
 

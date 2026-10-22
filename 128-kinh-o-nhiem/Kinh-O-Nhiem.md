@@ -273,7 +273,7 @@ Lúc bấy giờ, đại đức Bhagu trú tại làng Bālakaloṇakāra.
 [Chú thích: Bhagu là một trong những vị dòng Sakya xuất sắc đã xuất gia cùng với Bhaddiya, Anuruddha, Ānanda, Kimbila, Devadatta và Upāli, theo Kd 17:1.4.1. Sau cuộc xung đột ở Kosambī, Đức Thế Tôn tìm đến chỗ các vị đồng hương Sakya: trước là Bhagu, rồi đến ba vị sau đây.]
 
 <!-- seg: mn128:7.3 -->
-Đại đức Bhagu thấy Đức Thế Tôn từ đằng xa đi đến,
+Tôn giả Bhagu thấy Đức Thế Tôn từ đằng xa đi đến,
 
 <!-- seg: mn128:7.4 -->
 bèn trải chỗ ngồi và đặt nước để rửa chân.
@@ -285,7 +285,7 @@ bèn trải chỗ ngồi và đặt nước để rửa chân.
 ngồi rồi rửa chân.
 
 <!-- seg: mn128:7.7 -->
-Đại đức Bhagu đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên.
+Tôn giả Bhagu đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên.
 
 <!-- seg: mn128:7.8 -->
 Đức Thế Tôn nói với đại đức Bhagu đang ngồi một bên:
@@ -326,7 +326,7 @@ thấy vậy, ông ta nói với Đức Thế Tôn:
 Xin đừng làm cho họ khó chịu."
 
 <!-- seg: mn128:9.1 -->
-Đại đức Anuruddha nghe được lời người giữ công viên đang nói với Đức Thế Tôn,
+Tôn giả Anuruddha nghe được lời người giữ công viên đang nói với Đức Thế Tôn,
 
 <!-- seg: mn128:9.2 -->
 nghe xong, đại đức ấy nói với người giữ công viên:
@@ -409,10 +409,10 @@ Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn d�
 Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn128:12.11 -->
-Đại đức Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con lại nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
+Tôn giả Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con lại nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn128:12.12 -->
-Đại đức Kimbila cũng nói với Đức Thế Tôn như vầy:
+Tôn giả Kimbila cũng nói với Đức Thế Tôn như vầy:
 
 <!-- seg: mn128:12.13 -->
 "Bạch Thế Tôn, con cũng nghĩ rằng:
@@ -935,7 +935,7 @@ thì tri kiến khởi lên nơi ta:
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn128:32.5 -->
-Đại đức Anuruddha hoan hỷ, tán thán lời Ngài dạy.
+Tôn giả Anuruddha hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn128:32.6 -->
 Bài kinh Ô Nhiễm, bài thứ tám, đã hoàn thành.

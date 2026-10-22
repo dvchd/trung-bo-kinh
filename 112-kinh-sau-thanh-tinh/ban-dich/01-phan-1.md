@@ -22,7 +22,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 Này các tỳ-kheo, ở đây một tỳ-kheo tuyên bố sự chứng ngộ của mình:
 
 <!-- seg: mn112:2.2 -->
-"Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa — tôi biết rõ như vậy."
+"Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa — tôi biết rõ như vậy."
 
 <!-- seg: mn112:3.1 -->
 Này các tỳ-kheo, các ông không nên hoan hỷ với lời nói của vị tỳ-kheo ấy, cũng không nên bác bỏ lời ấy.

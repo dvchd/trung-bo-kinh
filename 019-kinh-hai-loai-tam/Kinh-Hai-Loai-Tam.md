@@ -356,7 +356,7 @@ Ta như thật biết rõ rằng đây là các lậu hoặc, đây là nguồn 
 Với Ta, khi biết như vậy và thấy như vậy, tâm được giải thoát khỏi lậu hoặc về dục, tâm được giải thoát khỏi lậu hoặc về hữu, tâm được giải thoát khỏi lậu hoặc về vô minh. Khi đã giải thoát, Ta biết rõ rằng mình đã giải thoát:
 
 <!-- seg: mn19:23.3 -->
-"Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại đời này nữa." Ta như thật biết rõ điều ấy.
+"Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa." Ta như thật biết rõ điều ấy.
 
 <!-- seg: mn19:24.1 -->
 Này các tỳ-kheo, đây là minh thứ ba mà Ta đã chứng đạt trong canh cuối của đêm.

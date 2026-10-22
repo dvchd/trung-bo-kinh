@@ -76,7 +76,7 @@ thì tri kiến khởi lên nơi ta:
 Đức Thế Tôn nói như vậy.
 
 <!-- seg: mn128:32.5 -->
-Đại đức Anuruddha hoan hỷ, tán thán lời Ngài dạy.
+Tôn giả Anuruddha hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn128:32.6 -->
 Bài kinh Ô Nhiễm, bài thứ tám, đã hoàn thành.

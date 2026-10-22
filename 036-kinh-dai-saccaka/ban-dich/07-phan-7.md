@@ -45,7 +45,7 @@ Này Aggivessana, khi Ta biết như vậy, thấy như vậy, tâm Ta được 
 Khi tâm đã giải thoát, khởi lên tri kiến: 'Tâm đã giải thoát.'
 
 <!-- seg: mn36:43.3 -->
-Ta như thật biết rõ: 'Sinh đã tận, đời sống phạm hạnh đã được sống xong, việc cần làm đã làm, không còn trở lại đời này nữa.'
+Ta như thật biết rõ: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn36:44.1 -->
 Này Aggivessana, đó là minh thứ ba mà Ta đã chứng đạt trong canh cuối của đêm.

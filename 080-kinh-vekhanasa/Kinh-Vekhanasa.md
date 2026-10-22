@@ -265,7 +265,7 @@ Nghe vậy, du sĩ Vekhanasa nổi giận, không vui, bèn chế nhạo, khinh 
 "Cũng vậy, ở đời có một số sa-môn, bà-la-môn không biết đời trước, không thấy đời sau, thế mà
 
 <!-- seg: mn80:15.4 -->
-họ vẫn tự nhận rằng: 'Chúng tôi hiểu: sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại đời này nữa.'
+họ vẫn tự nhận rằng: 'Chúng tôi hiểu: sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn80:15.5 -->
 Lời nói của họ hóa ra chỉ là trò đùa, chỉ là lời suông, chỉ là chuyện rỗng không, chỉ là chuyện trống rỗng."
@@ -274,7 +274,7 @@ Lời nói của họ hóa ra chỉ là trò đùa, chỉ là lời suông, ch�
 "Này Kaccāna, những sa-môn, bà-la-môn nào không biết đời trước, không thấy đời sau,
 
 <!-- seg: mn80:16.2 -->
-mà lại tự nhận rằng: 'Chúng tôi hiểu: sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại đời này nữa';
+mà lại tự nhận rằng: 'Chúng tôi hiểu: sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa';
 
 <!-- seg: mn80:16.3 -->
 thì sự bác bỏ họ như vậy là hoàn toàn hợp lẽ.

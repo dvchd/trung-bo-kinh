@@ -156,7 +156,7 @@ Vì nó chưa được hiểu biết trọn vẹn, Ta nói vậy.
 <!-- seg: mn1:11.1 -->
 Vị ấy nhận thức chư thiên Quang Âm là chư thiên Quang Âm.
 
-[Chú thích của người dịch: Quang Âm, Biến Tịnh và Quảng Quả là ba cõi Phạm Thiên cao hơn, tương ứng với nhị thiền, tam thiền và tứ thiền.]
+[Chú thích của người dịch: Quang Âm, Biến Tịnh và Quảng Quả là ba cõi Phạm Thiên cao hơn, tương ứng với thiền-na thứ hai, thứ ba và thứ tư.]
 
 <!-- seg: mn1:11.2 -->
 Sau khi nhận thức chư thiên Quang Âm là chư thiên Quang Âm, vị ấy tưởng tượng họ là chư thiên Quang Âm, tưởng tượng họ ở trong chư thiên Quang Âm, tưởng tượng họ phát xuất từ chư thiên Quang Âm, tưởng tượng "chư thiên Quang Âm là của tôi", và vị ấy thích thú chư thiên Quang Âm.

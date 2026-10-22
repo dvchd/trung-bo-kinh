@@ -537,7 +537,7 @@ Khi đã giải thoát, ta biết rằng mình đã giải thoát.
 [Chú thích: Đây là sự tự biết mình đã giải thoát: hành giả nhìn lại tâm mình và thấy nó đã thoát khỏi mọi sức mạnh đưa đến khổ đau.]
 
 <!-- seg: mn4:32.3 -->
-Ta đã như thật biết rõ: "Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa."
+Ta đã như thật biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 [Chú thích: Đây là lời tuyên bố chuẩn mực về giác ngộ trọn vẹn trong kinh điển: sinh đã tận vì cái đẩy tái sinh đã cạn; con đường tám nhánh đã được tu đầy đủ; mọi việc liên quan đến bốn sự thật đã xong; và Niết-bàn là cuối cùng, không còn trở lại cõi nào nữa.]
 

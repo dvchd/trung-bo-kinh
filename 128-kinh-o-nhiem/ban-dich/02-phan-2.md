@@ -74,7 +74,7 @@ Lúc bấy giờ, đại đức Bhagu trú tại làng Bālakaloṇakāra.
 [Chú thích: Bhagu là một trong những vị dòng Sakya xuất sắc đã xuất gia cùng với Bhaddiya, Anuruddha, Ānanda, Kimbila, Devadatta và Upāli, theo Kd 17:1.4.1. Sau cuộc xung đột ở Kosambī, Đức Thế Tôn tìm đến chỗ các vị đồng hương Sakya: trước là Bhagu, rồi đến ba vị sau đây.]
 
 <!-- seg: mn128:7.3 -->
-Đại đức Bhagu thấy Đức Thế Tôn từ đằng xa đi đến,
+Tôn giả Bhagu thấy Đức Thế Tôn từ đằng xa đi đến,
 
 <!-- seg: mn128:7.4 -->
 bèn trải chỗ ngồi và đặt nước để rửa chân.
@@ -86,7 +86,7 @@ bèn trải chỗ ngồi và đặt nước để rửa chân.
 ngồi rồi rửa chân.
 
 <!-- seg: mn128:7.7 -->
-Đại đức Bhagu đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên.
+Tôn giả Bhagu đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên.
 
 <!-- seg: mn128:7.8 -->
 Đức Thế Tôn nói với đại đức Bhagu đang ngồi một bên:
@@ -127,7 +127,7 @@ thấy vậy, ông ta nói với Đức Thế Tôn:
 Xin đừng làm cho họ khó chịu."
 
 <!-- seg: mn128:9.1 -->
-Đại đức Anuruddha nghe được lời người giữ công viên đang nói với Đức Thế Tôn,
+Tôn giả Anuruddha nghe được lời người giữ công viên đang nói với Đức Thế Tôn,
 
 <!-- seg: mn128:9.2 -->
 nghe xong, đại đức ấy nói với người giữ công viên:

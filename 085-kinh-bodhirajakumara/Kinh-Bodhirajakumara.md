@@ -927,7 +927,7 @@ Khi ta biết như vậy, thấy như vậy, tâm ta được giải thoát kh�
 Khi đã giải thoát, ta biết rằng mình đã giải thoát.
 
 <!-- seg: mn85:41.3 -->
-Ta như thật biết rõ: "Sinh đã tận, phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại đời này nữa."
+Ta như thật biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn85:42.1 -->
 Này thái tử, đó là minh thứ ba mà ta đã chứng đạt trong canh cuối của đêm.

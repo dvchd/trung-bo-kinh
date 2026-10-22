@@ -36,7 +36,7 @@ Thấy vậy, ông ta nói với Đức Thế Tôn:
 Chớ làm cho họ khó chịu."
 
 <!-- seg: mn31:4.1 -->
-Đại đức Anuruddha nghe được người giữ công viên đang nói chuyện với Đức Thế Tôn.
+Tôn giả Anuruddha nghe được người giữ công viên đang nói chuyện với Đức Thế Tôn.
 
 <!-- seg: mn31:4.2 -->
 Nghe vậy, Ngài nói với người giữ công viên:
@@ -123,10 +123,10 @@ Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn d�
 Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn31:7.11 -->
-Đại đức Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
+Tôn giả Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn31:7.12 -->
-Đại đức Kimbila cũng nói với Đức Thế Tôn:
+Tôn giả Kimbila cũng nói với Đức Thế Tôn:
 
 <!-- seg: mn31:7.13 -->
 "Bạch Thế Tôn, con cũng nghĩ rằng:

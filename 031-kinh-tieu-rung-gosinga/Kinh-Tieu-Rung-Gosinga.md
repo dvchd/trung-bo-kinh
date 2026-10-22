@@ -6,7 +6,7 @@
 
 Mở đầu bài kinh là một cảnh nhỏ nhưng đáng nhớ. Người giữ công viên thấy một sa-môn đi tới, không biết đó là ai, bèn ngăn lại và bảo đừng vào, vì trong ấy đang có ba người con trai nhà lành tu tập. Chính đại đức Anuruddha nghe được, ra nói với ông ta rằng bậc Đạo sư của họ đã đến. Chi tiết ấy cho thấy Đức Thế Tôn hoàn toàn bình dị trong mắt người đời, và cũng cho thấy ba vị ấy được người giữ công viên quý trọng đến mức nào.
 
-Câu hỏi đầu tiên của Đức Thế Tôn là các ông có sống hòa hợp, vui vẻ, không tranh cãi, như sữa hòa với nước, nhìn nhau bằng ánh mắt thân thương hay không. Đại đức Anuruddha trả lời bằng một cách rất cụ thể: với các vị bạn đồng tu, con luôn giữ thân, lời và ý đầy lòng từ ái, cả khi có người thấy lẫn khi chỉ có một mình; con gác lại ý riêng của mình mà sống theo sự dẫn dắt của các vị ấy; thân tuy khác nhau nhưng tâm thì là một. Đây là một trong những định nghĩa đẹp nhất về tình bạn trong tu tập có trong kinh điển.
+Câu hỏi đầu tiên của Đức Thế Tôn là các ông có sống hòa hợp, vui vẻ, không tranh cãi, như sữa hòa với nước, nhìn nhau bằng ánh mắt thân thương hay không. Tôn giả Anuruddha trả lời bằng một cách rất cụ thể: với các vị bạn đồng tu, con luôn giữ thân, lời và ý đầy lòng từ ái, cả khi có người thấy lẫn khi chỉ có một mình; con gác lại ý riêng của mình mà sống theo sự dẫn dắt của các vị ấy; thân tuy khác nhau nhưng tâm thì là một. Đây là một trong những định nghĩa đẹp nhất về tình bạn trong tu tập có trong kinh điển.
 
 Phần tiếp theo cho thấy sự hòa hợp ấy không phải là chuyện cảm xúc mà là chuyện được tập thành nếp. Vị nào đi khất thực về trước thì trải chỗ ngồi, chuẩn bị nước uống và nước dùng; vị về sau ăn phần cơm còn lại nếu muốn, không thì đổ ở chỗ thích hợp; ai thấy ghè nước đã cạn thì châm đầy; việc gì quá sức một người thì ra hiệu gọi thêm một vị, cùng chung tay làm, mà không vì thế mà lên tiếng phá sự im lặng. Năm ngày một lần, các vị ngồi lại suốt đêm để nói chuyện Pháp. Những chi tiết rất đời ấy chính là chỗ đứng của cả bài kinh.
 
@@ -31,7 +31,7 @@ Bài kinh khép lại bằng một cảnh khác ở tầng trời. Một vị d�
 **Trung Bộ Kinh** (*Majjhima Nikāya*) — bộ kinh thứ hai trong Kinh tạng tiếng Pali, gồm 152 bài kinh cỡ vừa — bài kinh số 31.
 
 <!-- seg: mn31:0.2 -->
-**Tiểu Kinh Rừng Gosiṅga** (*Cūḷagosiṅga Sutta*) — bài kinh ngắn về khu rừng cây sa-la tại Gosiṅga, nơi ba vị đại đức đang cùng nhau tu tập trong tình bạn và sự hòa hợp.
+**Tiểu Kinh Rừng Gosiṅga** (*Cūḷagosiṅga Sutta*) — bài kinh ngắn về khu rừng cây sa-la tại Gosiṅga, nơi ba vị Tôn giả đang cùng nhau tu tập trong tình bạn và sự hòa hợp.
 
 [Chú thích của người dịch: *Cūḷa* nghĩa là nhỏ. Tên gọi này dùng để phân biệt bài kinh với Đại Kinh Rừng Gosiṅga (MN 32), bài tiếp theo, cũng lấy bối cảnh khu rừng cây sa-la tại Gosiṅga nhưng có đông tỳ-kheo hơn.]
 
@@ -75,7 +75,7 @@ Thấy vậy, ông ta nói với Đức Thế Tôn:
 Chớ làm cho họ khó chịu."
 
 <!-- seg: mn31:4.1 -->
-Đại đức Anuruddha nghe được người giữ công viên đang nói chuyện với Đức Thế Tôn.
+Tôn giả Anuruddha nghe được người giữ công viên đang nói chuyện với Đức Thế Tôn.
 
 <!-- seg: mn31:4.2 -->
 Nghe vậy, Ngài nói với người giữ công viên:
@@ -162,10 +162,10 @@ Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn d�
 Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn31:7.11 -->
-Đại đức Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
+Tôn giả Nandiya cũng nói với Đức Thế Tôn như vầy: "Bạch Thế Tôn, ở đây con nghĩ rằng: 'Thật là lợi ích cho con, thật là lợi ích lành cho con, khi con được sống cùng với những vị đồng phạm hạnh như thế này.' Bạch Thế Tôn, đối với các đại đức này, con luôn hiện bày thân nghiệp từ ái, cả khi công khai lẫn khi kín đáo; khẩu nghiệp từ ái, cả khi công khai lẫn khi kín đáo; ý nghiệp từ ái, cả khi công khai lẫn khi kín đáo. Bạch Thế Tôn, con nghĩ rằng: 'Vậy thì con hãy gác lại tâm của mình mà sống theo sự dẫn dắt của tâm các đại đức này.' Bạch Thế Tôn, con gác lại tâm của mình và sống theo sự dẫn dắt của tâm các đại đức này. Bạch Thế Tôn, thân của chúng con tuy khác nhau, nhưng tâm thì con nghĩ là một."
 
 <!-- seg: mn31:7.12 -->
-Đại đức Kimbila cũng nói với Đức Thế Tôn:
+Tôn giả Kimbila cũng nói với Đức Thế Tôn:
 
 <!-- seg: mn31:7.13 -->
 "Bạch Thế Tôn, con cũng nghĩ rằng:
@@ -332,10 +332,10 @@ Bạch Thế Tôn, đây là một an trú an lạc khác, tức một sự thù
 "Bạch Thế Tôn, làm sao lại không có được!
 
 <!-- seg: mn31:17.4 -->
-Bạch Thế Tôn, ở đây, mỗi khi chúng con muốn, chúng con vượt qua hoàn toàn Không vô biên xứ, chứng và an trú Thức vô biên xứ, biết rằng 'thức là vô biên'. Bạch Thế Tôn, đây là một an trú an lạc khác, tức một sự thù thắng của tri kiến xứng với bậc thánh, vượt trên pháp của người thường, mà chúng con đã chứng đắc để vượt qua và để lắng dịu an trú ấy." Đức Thế Tôn nói: "Lành thay, lành thay, này Anuruddha! Này Anuruddha, các ông có chứng đắc được một an trú an lạc khác, tức một sự thù thắng của tri kiến xứng với bậc thánh, vượt trên pháp của người thường, để vượt qua và để lắng dịu an trú ấy không?" Đại đức Anuruddha thưa: "Bạch Thế Tôn, làm sao lại không có được!
+Bạch Thế Tôn, ở đây, mỗi khi chúng con muốn, chúng con vượt qua hoàn toàn Không vô biên xứ, chứng và an trú Thức vô biên xứ, biết rằng 'thức là vô biên'. Bạch Thế Tôn, đây là một an trú an lạc khác, tức một sự thù thắng của tri kiến xứng với bậc thánh, vượt trên pháp của người thường, mà chúng con đã chứng đắc để vượt qua và để lắng dịu an trú ấy." Đức Thế Tôn nói: "Lành thay, lành thay, này Anuruddha! Này Anuruddha, các ông có chứng đắc được một an trú an lạc khác, tức một sự thù thắng của tri kiến xứng với bậc thánh, vượt trên pháp của người thường, để vượt qua và để lắng dịu an trú ấy không?" Tôn giả Anuruddha thưa: "Bạch Thế Tôn, làm sao lại không có được!
 
 <!-- seg: mn31:17.5 -->
-Bạch Thế Tôn, ở đây, mỗi khi chúng con muốn, chúng con vượt qua hoàn toàn Thức vô biên xứ, chứng và an trú Vô sở hữu xứ, biết rằng 'không có gì cả'. Bạch Thế Tôn, đây là một an trú an lạc khác, tức một sự thù thắng của tri kiến xứng với bậc thánh, vượt trên pháp của người thường, mà chúng con đã chứng đắc để vượt qua và để lắng dịu an trú ấy." Đức Thế Tôn nói: "Lành thay, lành thay, này Anuruddha! Này Anuruddha, các ông có chứng đắc được một an trú an lạc khác, tức một sự thù thắng của tri kiến xứng với bậc thánh, vượt trên pháp của người thường, để vượt qua và để lắng dịu an trú ấy không?" Đại đức Anuruddha thưa: "Bạch Thế Tôn, làm sao lại không có được!
+Bạch Thế Tôn, ở đây, mỗi khi chúng con muốn, chúng con vượt qua hoàn toàn Thức vô biên xứ, chứng và an trú Vô sở hữu xứ, biết rằng 'không có gì cả'. Bạch Thế Tôn, đây là một an trú an lạc khác, tức một sự thù thắng của tri kiến xứng với bậc thánh, vượt trên pháp của người thường, mà chúng con đã chứng đắc để vượt qua và để lắng dịu an trú ấy." Đức Thế Tôn nói: "Lành thay, lành thay, này Anuruddha! Này Anuruddha, các ông có chứng đắc được một an trú an lạc khác, tức một sự thù thắng của tri kiến xứng với bậc thánh, vượt trên pháp của người thường, để vượt qua và để lắng dịu an trú ấy không?" Tôn giả Anuruddha thưa: "Bạch Thế Tôn, làm sao lại không có được!
 
 <!-- seg: mn31:17.6 -->
 Bạch Thế Tôn, ở đây, mỗi khi chúng con muốn, chúng con vượt qua hoàn toàn Vô sở hữu xứ, chứng và an trú Phi tưởng phi phi tưởng xứ.

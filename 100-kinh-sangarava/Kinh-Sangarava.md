@@ -853,7 +853,7 @@ Này Bhāradvāja, với Ta, khi biết như vậy, thấy như vậy, tâm đư
 Khi đã giải thoát, trí khởi lên rằng: 'Đã giải thoát.'
 
 <!-- seg: mn100:40.3 -->
-Ta như thật hiểu: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa.'
+Ta như thật hiểu: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 <!-- seg: mn100:41.1 -->
 Này Bhāradvāja, đó là minh thứ ba mà Ta đã chứng được trong canh cuối của đêm,

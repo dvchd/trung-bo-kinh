@@ -109,7 +109,7 @@ Với tôi, khi biết như vậy, thấy như vậy, tâm được giải thoá
 Khi tâm ấy được giải thoát, trí biết 'đã được giải thoát' khởi lên.
 
 <!-- seg: mn112:20.3 -->
-Tôi biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa."
+Tôi biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn112:20.4 -->
 Thưa các hiền giả, tôi biết như vầy, thấy như vầy, nên đối với thân có thức này và đối với mọi tướng bên ngoài, sự tạo tác cái 'ta', sự tạo tác cái 'của ta' và tùy miên ngã mạn đều được đoạn trừ.
