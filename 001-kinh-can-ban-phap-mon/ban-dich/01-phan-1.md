@@ -34,6 +34,8 @@ Hãy lắng nghe và khéo tác ý, Ta sẽ nói.
 
 
 
+## 1. Hạng phàm phu
+
 <!-- seg: mn1:3.1 -->
 Này các tỳ-kheo, ở đây có kẻ phàm phu không nghe Pháp, chưa từng thấy các bậc thánh, không hiểu biết và không được huấn luyện trong Pháp của các bậc thánh; chưa từng thấy những bậc chân nhân, không hiểu biết và không được huấn luyện trong Pháp của những bậc chân nhân.
 

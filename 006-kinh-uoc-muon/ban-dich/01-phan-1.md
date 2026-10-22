@@ -69,7 +69,7 @@ Này các tỳ-kheo, nếu một vị tỳ-kheo ước muốn: "Mong rằng vớ
 [Chú thích: "Tai của chư thiên" dịch sát chữ dibbasota; gốc của chữ dibba là "sáng chói", như bầu trời trong sáng hay một vị chư thiên. Vì thế chữ ấy vừa mang nghĩa sáng rõ, vừa mang nghĩa thuộc cõi trời.]
 
 <!-- seg: mn6:16.1 -->
-Này các tỳ-kheo, nếu một vị tỳ-kheo ước muốn: "Mong rằng tôi dùng tâm mình thấu hiểu tâm của các chúng sinh khác, của các cá nhân khác.
+Này các tỳ-kheo, nếu một vị tỳ-kheo ước muốn: Mong rằng tôi dùng tâm mình thấu hiểu tâm của các chúng sinh khác, của các cá nhân khác.
 
 [Chú thích: Cách nói của kinh không phải là "đọc" ý nghĩ trong đầu người khác, mà là nắm được trạng thái tâm của họ.]
 
@@ -119,7 +119,7 @@ Tâm không định, tôi biết đó là 'tâm không định'.
 Tâm đã giải thoát, tôi biết đó là 'tâm đã giải thoát'.
 
 <!-- seg: mn6:16.17 -->
-Tâm chưa giải thoát, tôi biết đó là 'tâm chưa giải thoát'."
+Tâm chưa giải thoát, tôi biết đó là 'tâm chưa giải thoát'.
 
 <!-- seg: mn6:16.18 -->
 Vị ấy hãy giữ giới cho trọn vẹn, chuyên tâm vào sự lặng yên của tâm bên trong, không xa lìa thiền-na, đầy đủ thiền quán, và thường lui tới những căn nhà trống.

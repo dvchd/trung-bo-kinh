@@ -32,6 +32,7 @@ nhịp thì các vòng sau sẽ tự mở ra.
 
 - [Lời giới thiệu](#lời-giới-thiệu)
 - [**Trung Bộ Kinh — bài kinh số 1: Kinh Căn Bản Pháp Môn**](#trung-bộ-kinh--bài-kinh-số-1-kinh-căn-bản-pháp-môn)
+- [**1. Hạng phàm phu**](#1-hạng-phàm-phu)
 - [**2. Bậc hữu học**](#2-bậc-hữu-học)
 - [**3. Bậc A-la-hán — đã hiểu biết trọn vẹn**](#3-bậc-a-la-hán--đã-hiểu-biết-trọn-vẹn)
 - [**4. Bậc A-la-hán — tham đã tận**](#4-bậc-a-la-hán--tham-đã-tận)
@@ -52,7 +53,7 @@ nhịp thì các vòng sau sẽ tự mở ra.
 <!-- seg: mn1:0.2 -->
 **Kinh Căn Bản Pháp Môn** (*Mūlapariyāya Sutta*) — "cội nguồn của mọi pháp".
 
-[Chú thích: *Mūla* là "cội rễ, căn bản"; *pariyāya* là "cách trình bày, pháp môn". Tên kinh nói rằng bài này chỉ ra cái gốc — tức tham ái — mà từ đó mọi nhận thức và mọi khổ đau của phàm phu sinh khởi.]
+[Chú thích của người dịch: *Mūla* là "cội rễ, căn bản"; *pariyāya* là "cách trình bày, pháp môn". Tên kinh nói rằng bài này chỉ ra cái gốc — tức tham ái — mà từ đó mọi nhận thức và mọi khổ đau của phàm phu sinh khởi.]
 
 ---
 
@@ -91,6 +92,8 @@ Hãy lắng nghe và khéo tác ý, Ta sẽ nói.
 Đức Thế Tôn nói như vầy:
 
 
+
+## 1. Hạng phàm phu
 
 <!-- seg: mn1:3.1 -->
 Này các tỳ-kheo, ở đây có kẻ phàm phu không nghe Pháp, chưa từng thấy các bậc thánh, không hiểu biết và không được huấn luyện trong Pháp của các bậc thánh; chưa từng thấy những bậc chân nhân, không hiểu biết và không được huấn luyện trong Pháp của những bậc chân nhân.

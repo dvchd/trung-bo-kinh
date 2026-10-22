@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 28 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 29 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 28/152 bài
+## Đợt đọc lại văn phong: 29/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -48,13 +48,14 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 3 | 1 | cách gọi `āvuso bhikkhave` ở 4.4, đồng nhất với toàn kho |
 | MN 4 | 7 | tên Jāṇussoṇi viết thiếu ṇ (4 chỗ), chú thích 2.3 nhầm Tăng Chi Bộ, "chỗ dựa vào" ở 21.3, công thức 35.2 |
 | MN 5 | 2 | thiếu chú thích ở 1.2, "y vá" ở lời giới thiệu |
-| MN 6 | 3 | thiếu cặp ngoặc kép ở khối ước muốn 16.1–16.17, lời giới thiệu gộp bốn quả vị, chú thích 00-title thiếu "của người dịch" |
+| MN 6 | 2 | lời giới thiệu gộp bốn quả vị vào một cụm, chú thích nhan đề thiếu "của người dịch" |
 | MN 7 | 2 | công thức chứng quả ở 22.3, chú thích 20.22 tối nghĩa |
+| MN 1 | 2 | nhãn chú thích 0.2, thiếu tiêu đề mục "Hạng phàm phu" trong mục lục |
 
-Tổng 174 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 137 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 176 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 149 điểm), để lần sau khỏi phải xét lại từ đầu.
 
-Đợt MN 2–7 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
+Đợt MN 1–7 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
 phạm hạnh đã sống xong…" nay thống nhất ở tám bài (MN 7, 75, 82, 86, 92, 105, 124, 152).
 
@@ -62,10 +63,11 @@ phạm hạnh đã sống xong…" nay thống nhất ở tám bài (MN 7, 75, 8
 
 1. Đọc lại 130 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
    trình như trên.
-2. Quyết khoảng 100 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
+2. Bổ sung 31 chú thích còn thiếu của MN 1: nguồn có 41 NOTE nhưng bản dịch mới có 11 chú thích.
+3. Quyết khoảng 149 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
    giữa hai cách hiểu Pali, không phải lỗi rõ ràng.
-3. Bổ sung sổ tay chú giải cho các bài lớn nếu muốn (như bên Trường Bộ Kinh).
-4. Chạy `python3 cong-cu/ra-soat-toan-bo.py` và `ra-soat-van-phong.py` sau mỗi lần sửa.
+4. Bổ sung sổ tay chú giải cho các bài lớn nếu muốn (như bên Trường Bộ Kinh).
+5. Chạy `python3 cong-cu/ra-soat-toan-bo.py` và `ra-soat-van-phong.py` sau mỗi lần sửa.
 
 ## Bốn lớp kiểm tra tự động
 
