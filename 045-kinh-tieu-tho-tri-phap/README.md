@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên), khi Đức Thế Tôn gọi các tỳ-kheo
+Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), khi Đức Thế Tôn gọi các tỳ-kheo
 lại và trình bày bốn cách thọ trì pháp, phân biệt theo cảm giác ngay bây giờ và quả báo về sau.
 Hạng thứ nhất cho rằng dục lạc không có lỗi, lao vào hưởng thụ rồi sinh vào cõi dữ; hạng thứ hai
 là những người khổ hạnh hành hạ thân xác đủ cách, và kết quả cũng là cõi dữ. Hạng thứ ba mang

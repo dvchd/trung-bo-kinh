@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 62 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 68 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 62/152 bài
+## Đợt đọc lại văn phong: 68/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -84,9 +84,15 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 38 | 5 | 4.8 thiếu mệnh đề trích, kandara/giriguha ở 37.2, āmakadhañña ở 33.14, puthu ở 24.12, công thức 39.4 |
 | MN 39 | 1 | công thức 21.12 lệch khuôn khīṇā jāti |
 | MN 40 | 4 | 13.4 bốn câu sau dấu chấm viết thường |
+| MN 41 | 0 | không có chỗ sai; đối chiếu cả 122 đoạn và 15 chú thích |
+| MN 42 | 1 | 2.3 chép lặp câu 1.2, mất vế giới thiệu sa-môn Gotama |
+| MN 43 | 0 | không có chỗ sai; đối chiếu cả 183 đoạn và 31 chú thích |
+| MN 45 | 1 | 4.6 thêm loại từ "con" lệch hai lần trích 4.12/4.20 |
+| MN 46 | 0 | không có chỗ sai; đối chiếu cả 176 đoạn, 8 khối sáu đoạn |
+| MN 47 | 2 | 16.1 ākāra "cách thức", chú thích 16.2 khôi phục vế so sánh |
 
-Tổng 252 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 304 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 256 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 333 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
@@ -97,11 +103,12 @@ bài được sửa để nhận marker dải (`mn17:7-10.1`): trước đó reg
 nay cả 152 bài báo thiếu 0. Cũng trong đợt này, các chỗ viết "hoá ra" lẻ tẻ được đưa về "hóa ra"
 cho khớp phần lớn kho (MN 12, 24, 35, 79). Đợt MN 29–34 còn đồng bộ bộ thuật ngữ năm lớp cây
 giữa MN 29 và MN 30: cả hai bài nay dùng "lõi cây / gỗ giác / vỏ trong / vỏ ngoài" (papaṭikā là
-vỏ khô ngoài cùng, không phải "chồi non" như Sujato dịch); ba mục được thêm vào bảng thuật ngữ.
+vỏ khô ngoài cùng, không phải "chồi non" như Sujato dịch); ba mục được thêm vào bảng thuật ngữ. Đợt MN 41–47 còn đưa "Kỳ Viên" trong bốn tệp README về
+"Kỳ-đà" cho khớp cách gọi trong bản dịch (MN 9, 45, 117; MN 137 vốn đã dùng "Kỳ-đà").
 
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 90 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+1. Đọc lại 84 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
    trình như trên. Phiên 19:00 ngày 2026-10-22 bắt đầu từ MN 12 (372 đoạn, nên tách đôi), rồi
    MN 21, 22, 26, 27, 28.
 2. Bổ sung 31 chú thích còn thiếu của MN 1: nguồn có 41 NOTE nhưng bản dịch mới có 11 chú thích.

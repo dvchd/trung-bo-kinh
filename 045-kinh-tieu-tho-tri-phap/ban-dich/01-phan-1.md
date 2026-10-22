@@ -92,7 +92,7 @@ Rồi này các tỳ-kheo, bạn bè, đồng bạn, thân quyến và bà con c
 "Thưa ngài, xin đừng sợ, thưa ngài, xin đừng sợ!
 
 <!-- seg: mn45:4.6 -->
-Có lẽ hạt māluvā này sẽ bị con công nuốt, hoặc bị con nai ăn, hoặc bị lửa rừng thiêu, hoặc bị người làm nghề rừng nhặt đi, hoặc bị mối ăn, hoặc có thể nó không có mầm sống."
+Có lẽ hạt māluvā này sẽ bị công nuốt, hoặc bị nai ăn, hoặc bị lửa rừng thiêu, hoặc bị người làm nghề rừng nhặt đi, hoặc bị mối ăn, hoặc có thể nó không có mầm sống."
 
 [Chú thích: Có bản đọc udrabheyyuṁ thay cho uṭṭhaheyyuṁ, và chú giải hiểu đó là "ăn" chứ không phải "tha đi". Mối không tha hạt về tổ như kiến mà ăn ngay tại chỗ; hạt māluvā lại lớn và cứng, nên rất có thể chúng ăn cả hạt.]
 

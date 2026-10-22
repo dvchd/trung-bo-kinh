@@ -50,7 +50,7 @@ Lúc bấy giờ, các bà-la-môn và gia chủ người Verañjā trú tại S
 Các bà-la-môn và gia chủ người Verañjā nghe rằng:
 
 <!-- seg: mn42:2.3 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Thưa ngài, sa-môn Gotama, dòng dõi Sakya, xuất gia từ gia tộc Sakya, đang trú tại Sāvatthī, trong rừng Jeta, tại tịnh xá của Anāthapiṇḍika.
 
 <!-- seg: mn42:2.4 -->
 Về bậc Tôn giả Gotama ấy, tiếng tốt đã vang xa như vầy:

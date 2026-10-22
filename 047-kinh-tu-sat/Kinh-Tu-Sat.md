@@ -281,14 +281,14 @@ Thưa các vị, Đức Thế Tôn dạy pháp cho tôi mỗi lúc một cao hơ
 'Đức Thế Tôn là bậc Chánh đẳng giác, Pháp được Đức Thế Tôn khéo thuyết giảng, Tăng đoàn đang thực hành tốt đẹp'."
 
 <!-- seg: mn47:16.1 -->
-Này các tỳ-kheo, với bất cứ ai mà đức tin nơi Như Lai đã an lập, đã bám rễ, đã vững vàng, bằng những lý lẽ này, bằng những lời này, bằng những câu chữ này, thì này các tỳ-kheo, đức tin ấy được gọi là đức tin có lý lẽ, lấy sự thấy làm gốc;
+Này các tỳ-kheo, với bất cứ ai mà đức tin nơi Như Lai đã an lập, đã bám rễ, đã vững vàng, bằng những cách thức này, bằng những lời này, bằng những câu chữ này, thì này các tỳ-kheo, đức tin ấy được gọi là đức tin có lý lẽ, lấy sự thấy làm gốc;
 
-[Chú thích: Trong câu này, chữ *ākāra* mang hai nghĩa khác nhau. Ở cụm "bằng những lý lẽ này, bằng những lời này, bằng những câu chữ này", nó là "cách thức" trình bày. Còn trong "đức tin có lý lẽ" thì nó là "căn cứ", "lý do" mà đức tin dựa vào.]
+[Chú thích: Trong câu này, chữ *ākāra* mang hai nghĩa khác nhau. Ở cụm "bằng những cách thức này, bằng những lời này, bằng những câu chữ này", chữ ấy chỉ cách thức trình bày. Còn trong "đức tin có lý lẽ" thì nó là "căn cứ", "lý do" mà đức tin dựa vào.]
 
 <!-- seg: mn47:16.2 -->
 vững chắc, không thể bị lay chuyển bởi sa-môn hay bà-la-môn, bởi chư thiên, Ma vương, Phạm Thiên, hay bất cứ ai trên thế gian.
 
-[Chú thích: Nhiều bản khác như MS, PTS, BJT, cùng các dịch giả Bodhi và Horner, nối *daḷhā* với *dassanamūlikā* ở trước. Nhưng đoạn ấy không có trong các bản tương ứng của đoạn này. *Daḷhā* gắn với *asaṁhāriyā* hơn, và về nghĩa thì hai chữ này gần nhau hơn.]
+[Chú thích: Nhiều bản khác như MS, PTS, BJT, cùng các dịch giả Bodhi và Horner, nối *daḷhā* với *dassanamūlikā* ở trước. Nhưng đoạn ấy không có trong các bản tương ứng của đoạn này. *Daḷhā* gắn với *asaṁhāriyā* hơn; và dù sao thì về nghĩa, *asaṁhāriyā* cũng gần với *daḷhā* hơn là *dassanamūlikā*.]
 
 <!-- seg: mn47:16.3 -->
 Này các tỳ-kheo, đó là cách tìm hiểu Như Lai về pháp.
