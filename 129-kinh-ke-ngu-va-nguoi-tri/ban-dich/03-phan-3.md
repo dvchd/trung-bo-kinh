@@ -49,7 +49,7 @@ Này các tỳ-kheo, kẻ ngu ấy trước đây ở đời này ham thích v�
 Này các tỳ-kheo, có những chúng sinh thuộc loài thú sinh ra trong bóng tối, sống trong bóng tối, chết trong bóng tối.
 
 <!-- seg: mn129:20.2 -->
-Và này các tỳ-kheo, những chúng sinh ấy là những ai?
+Và này các tỳ-kheo, những chúng sinh thuộc loài thú sinh ra trong bóng tối, sống trong bóng tối, chết trong bóng tối là những ai?
 
 <!-- seg: mn129:20.3 -->
 Côn trùng, giòi, giun đất, và nhiều loài thú khác nữa sinh ra trong bóng tối, sống trong bóng tối, chết trong bóng tối.
@@ -61,7 +61,7 @@ Này các tỳ-kheo, kẻ ngu ấy trước đây ở đời này ham thích v�
 Này các tỳ-kheo, có những chúng sinh thuộc loài thú sinh ra trong nước, sống trong nước, chết trong nước.
 
 <!-- seg: mn129:21.2 -->
-Và này các tỳ-kheo, những chúng sinh ấy là những ai?
+Và này các tỳ-kheo, những chúng sinh thuộc loài thú sinh ra trong nước, sống trong nước, chết trong nước là những ai?
 
 <!-- seg: mn129:21.3 -->
 Cá, rùa, cá heo, và nhiều loài thú khác nữa sinh ra trong nước, sống trong nước, chết trong nước.
@@ -75,7 +75,7 @@ Này các tỳ-kheo, kẻ ngu ấy trước đây ở đời này ham thích v�
 Này các tỳ-kheo, có những chúng sinh thuộc loài thú sinh ra trong uế vật, sống trong uế vật, chết trong uế vật.
 
 <!-- seg: mn129:22.2 -->
-Và này các tỳ-kheo, những chúng sinh ấy là những ai?
+Và này các tỳ-kheo, những chúng sinh thuộc loài thú sinh ra trong uế vật, sống trong uế vật, chết trong uế vật là những ai?
 
 <!-- seg: mn129:22.3 -->
 Này các tỳ-kheo, những chúng sinh nào sinh ra trong cá thối, sống trong cá thối, chết trong cá thối; sinh ra trong xác chết thối, sống trong xác chết thối, chết trong xác chết thối;

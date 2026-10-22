@@ -145,7 +145,7 @@ chớ có mong đợi tương lai. Cái gì đã qua thì đã bỏ lại, tươ
 người ấy thật được gọi là người có một đêm lành —
 
 <!-- seg: mn133:20.6 -->
-bậc hiền triết an tịnh ấy tuyên bố như vậy.'"
+bậc hiền triết an tịnh ấy tuyên bố như vậy.'
 
 <!-- seg: mn133:20.7 -->
-Bạch Thế Tôn, không lâu sau khi Đức Thế Tôn rời đi, chúng con nghĩ như vầy:
+Bạch Thế Tôn, không lâu sau khi Đức Thế Tôn rời đi, chúng con nghĩ như vầy:"

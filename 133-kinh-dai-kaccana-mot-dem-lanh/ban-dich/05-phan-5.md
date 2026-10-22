@@ -1,5 +1,5 @@
 <!-- seg: mn133:20.8 -->
-'Này hiền giả, Đức Thế Tôn đã nói phần tóm tắt cho chúng tôi nhưng chưa phân tích ý nghĩa một cách chi tiết, rồi đứng dậy khỏi chỗ ngồi và đi vào tịnh thất:
+"'Này hiền giả, Đức Thế Tôn đã nói phần tóm tắt cho chúng tôi nhưng chưa phân tích ý nghĩa một cách chi tiết, rồi đứng dậy khỏi chỗ ngồi và đi vào tịnh thất:
 
 <!-- seg: mn133:20.9 -->
 Chớ có quay về với quá khứ,
@@ -65,7 +65,7 @@ Tôn giả Mahākaccāna có khả năng phân tích ý nghĩa của phần tóm
 Vậy chúng ta hãy đến chỗ Tôn giả Mahākaccāna; đến nơi, hỏi Tôn giả Mahākaccāna về việc này.'
 
 <!-- seg: mn133:20.30 -->
-"Bạch Thế Tôn, rồi chúng con đi đến chỗ Tôn giả Mahākaccāna; đến nơi, chúng con hỏi Tôn giả Mahākaccāna về việc này.
+Bạch Thế Tôn, rồi chúng con đi đến chỗ Tôn giả Mahākaccāna; đến nơi, chúng con hỏi Tôn giả Mahākaccāna về việc này.
 
 <!-- seg: mn133:20.31 -->
 Bạch Thế Tôn, Tôn giả Mahākaccāna đã phân tích ý nghĩa cho chúng con bằng những cách này, bằng những lời này, bằng những câu này."

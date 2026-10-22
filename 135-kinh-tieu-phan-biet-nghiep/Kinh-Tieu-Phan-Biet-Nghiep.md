@@ -477,6 +477,8 @@ Ví như, thưa ngài Gotama, có người lật lại vật đang bị úp, m�
 <!-- seg: mn135:21.4 -->
 Con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.
 
+[Chú thích: Ông đã quy y lần đầu trong Kinh 99, đoạn 28.4, và về sau trong Trường Bộ Kinh 10, đoạn 2.37.9.]
+
 <!-- seg: mn135:21.5 -->
 Xin ngài Gotama ghi nhận con là người cư sĩ đã quy y, từ hôm nay cho đến trọn đời."
 

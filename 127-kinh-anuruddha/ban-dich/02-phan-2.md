@@ -90,6 +90,8 @@ cũng vậy, này gia chủ, các vị thiên ấy không nghĩ rằng:
 <!-- seg: mn127:13.1 -->
 Khi nghe nói vậy, Tôn giả Sabhiya Kaccāna nói với Tôn giả Anuruddha:
 
+[Chú thích: Tôn giả Sabhiya Kaccāna cũng xuất hiện ở SN 44.1, nơi ông được Vacchagotta hỏi; kệ của ông ở Thag 4.3. Việc một du sĩ tên Sabhiya quy y được ghi ở Snp 3.6, có thể là cùng một người.]
+
 <!-- seg: mn127:13.2 -->
 "Lành thay, thưa Ngài Anuruddha.
 

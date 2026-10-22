@@ -60,7 +60,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 Này các tỳ-kheo, ví như có hai ngôi nhà có cửa, và một người sáng mắt đứng ở giữa, sẽ thấy những người đi vào nhà, đi ra khỏi nhà, đi tới đi lui.
 
 <!-- seg: mn130:2.2 -->
-Cũng vậy, này các tỳ-kheo, với thiên nhãn thanh tịnh, siêu việt hơn con mắt của loài người, ta thấy các chúng sinh đang chết và đang sinh, kẻ hèn kém kẻ cao quý, kẻ xấu sắc kẻ đẹp sắc, kẻ đi đến chỗ lành kẻ đi đến chỗ dữ; ta biết rõ các chúng sinh ấy đi theo nghiệp của mình: "Những chúng sinh này quả thật đã thành tựu thiện hạnh về thân, thành tựu thiện hạnh về miệng, thành tựu thiện hạnh về ý, không chê bai các bậc thánh, có chánh kiến, thọ trì nghiệp theo chánh kiến. Sau khi thân hoại mạng chung, họ sinh vào cõi lành, cõi trời. Những chúng sinh này quả thật đã thành tựu thiện hạnh về thân, thành tựu thiện hạnh về miệng, thành tựu thiện hạnh về ý, không chê bai các bậc thánh, có chánh kiến, thọ trì nghiệp theo chánh kiến. Sau khi thân hoại mạng chung, họ sinh vào giữa loài người. Những chúng sinh này quả thật đã thành tựu ác hạnh về thân, thành tựu ác hạnh về miệng, thành tựu ác hạnh về ý, chê bai các bậc thánh, có tà kiến, thọ trì nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sinh vào cõi ngạ quỷ (pettivisaya). Những chúng sinh này quả thật đã thành tựu ác hạnh về thân, thành tựu ác hạnh về miệng, thành tựu ác hạnh về ý, chê bai các bậc thánh, có tà kiến, thọ trì nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sinh vào loài thú. Những chúng sinh này quả thật đã thành tựu ác hạnh về thân, thành tựu ác hạnh về miệng, thành tựu ác hạnh về ý, chê bai các bậc thánh, có tà kiến, thọ trì nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sinh vào cõi khổ, đường ác, đọa xứ, địa ngục."
+Cũng vậy, này các tỳ-kheo, với thiên nhãn thanh tịnh, siêu việt hơn con mắt của loài người, ta thấy các chúng sinh đang chết và đang sinh, kẻ hèn kém, bậc cao quý, người xinh đẹp, kẻ xấu xí, người đi đến cõi vui, kẻ đi đến cõi khổ; ta biết rõ các chúng sinh ấy đi theo nghiệp của mình: "Những chúng sinh này quả thật đã thành tựu thiện hạnh về thân, thành tựu thiện hạnh về miệng, thành tựu thiện hạnh về ý, không chê bai các bậc thánh, có chánh kiến, thọ trì nghiệp theo chánh kiến. Sau khi thân hoại mạng chung, họ sinh vào cõi lành, cõi trời. Những chúng sinh này quả thật đã thành tựu thiện hạnh về thân, thành tựu thiện hạnh về miệng, thành tựu thiện hạnh về ý, không chê bai các bậc thánh, có chánh kiến, thọ trì nghiệp theo chánh kiến. Sau khi thân hoại mạng chung, họ sinh vào giữa loài người. Những chúng sinh này quả thật đã thành tựu ác hạnh về thân, thành tựu ác hạnh về miệng, thành tựu ác hạnh về ý, chê bai các bậc thánh, có tà kiến, thọ trì nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sinh vào cõi ngạ quỷ (pettivisaya). Những chúng sinh này quả thật đã thành tựu ác hạnh về thân, thành tựu ác hạnh về miệng, thành tựu ác hạnh về ý, chê bai các bậc thánh, có tà kiến, thọ trì nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sinh vào loài thú. Những chúng sinh này quả thật đã thành tựu ác hạnh về thân, thành tựu ác hạnh về miệng, thành tựu ác hạnh về ý, chê bai các bậc thánh, có tà kiến, thọ trì nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sinh vào cõi khổ, đường ác, đọa xứ, địa ngục."
 
 <!-- seg: mn130:3.1 -->
 Rồi này các tỳ-kheo, các ngục tốt của địa ngục nắm lấy người ấy ở hai cánh tay, dẫn đến trước vua Yama (Diêm Vương) và nói:
@@ -247,7 +247,7 @@ Vua Yama nói với người ấy:
 "Này người kia, ông có thấy giữa loài người, khi các vua bắt một tên trộm cướp có tội và thi hành nhiều hình phạt khác nhau:
 
 <!-- seg: mn130:7.7 -->
-đánh bằng roi, đánh bằng dây, đánh bằng gậy; chặt tay, chặt chân, chặt cả tay lẫn chân; cắt tai, cắt mũi, cắt cả tai lẫn mũi; thi hành hình phạt nồi cháo, cạo vỏ sò, miệng Rāhu, vòng hoa lửa, tay cháy, bện cỏ, áo vỏ cây, linh dương, móc thịt, đồng tiền, nước tro ăn da, cột xoay, chiếu rơm; tưới dầu sôi lên thân, cho chó ăn thịt, dựng sống trên cọc, chém đầu bằng gươm không?"
+đánh bằng roi, đánh bằng dây, đánh bằng gậy; chặt tay, chặt chân, chặt cả tay lẫn chân; cắt tai, cắt mũi, cắt cả tai lẫn mũi; thi hành hình phạt nồi cháo, cạo vỏ sò, miệng Rāhu, vòng hoa lửa, tay cháy, bện cói, áo vỏ cây, linh dương, móc thịt, đồng tiền, nước tro ăn da, cột xoay, chiếu rơm; tưới dầu sôi lên thân, cho chó ăn thịt, dựng sống trên cọc, chém đầu bằng gươm không?"
 
 <!-- seg: mn130:7.8 -->
 Người ấy nói rằng:
@@ -355,7 +355,7 @@ Các ngục tốt quật ngã người ấy xuống và bổ bằng rìu. Ở đ
 [Chú thích: Có thể so sánh Brahma Purāṇa 106.40–41.]
 
 <!-- seg: mn130:12.1 -->
-Các ngục tốt nắm lấy người ấy, dựng ngược đầu xuống, chân lên trời, rồi chặt bằng búa. Ở đó, người ấy cảm thọ những cảm giác khổ, nhức nhối, khốc liệt, chua xót; nhưng chưa chết cho đến khi ác nghiệp ấy chấm dứt.
+Các ngục tốt nắm lấy người ấy, dựng ngược đầu xuống, chân lên trời, rồi chặt bằng rìu nhỏ. Ở đó, người ấy cảm thọ những cảm giác khổ, nhức nhối, khốc liệt, chua xót; nhưng chưa chết cho đến khi ác nghiệp ấy chấm dứt.
 
 [Chú thích: Có thể so sánh Śiva Purāṇa 5.9.26 và Devī Bhāgavata Purāṇa 8.23; Viṣṇu Purāṇa 2.63 có một địa ngục riêng gọi là Địa ngục Úp Ngược.]
 

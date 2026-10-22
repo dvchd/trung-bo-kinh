@@ -150,6 +150,8 @@ Khi Ngài nói như vậy, một vị tỳ-kheo bạch Đức Thế Tôn rằng:
 <!-- seg: mn129:8.2 -->
 Này tỳ-kheo, giả sử người ta bắt một tên trộm cướp có tội, dẫn đến trước vua và nói rằng:
 
+[Chú thích: Tại Tương Ưng Bộ Kinh 12.63, đoạn 6.5, ví dụ này được áp dụng cho thức như một loại nhiên liệu hay dưỡng chất; còn ở Tương Ưng Bộ Kinh 56.35 thì áp dụng cho khổ của sự luân hồi.]
+
 <!-- seg: mn129:8.3 -->
 "Thưa đại vương, đây là tên trộm cướp có tội. Xin đại vương ra hình phạt tùy ý."
 

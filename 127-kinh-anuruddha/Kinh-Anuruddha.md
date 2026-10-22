@@ -54,7 +54,7 @@ Rồi thợ mộc Pañcakaṅga gọi một người đàn ông:
 Và hãy thưa thế này:
 
 <!-- seg: mn127:2.5 -->
-'Xin Tôn giả Anuruddha nhận lời, bạch Ngài, dùng bữa ăn ngày mai tại nhà thợ mộc Pañcakaṅga, với thợ mộc Pañcakaṅga là người thứ tư;
+'Xin Tôn giả Anuruddha nhận lời, bạch Ngài, dùng bữa ăn ngày mai tại nhà thợ mộc Pañcakaṅga, cùng với ba vị tỳ-kheo nữa, thành bốn vị;
 
 <!-- seg: mn127:2.6 -->
 và xin Tôn giả Anuruddha đến sớm hơn thường lệ, bạch Ngài;
@@ -62,7 +62,7 @@ và xin Tôn giả Anuruddha đến sớm hơn thường lệ, bạch Ngài;
 <!-- seg: mn127:2.7 -->
 vì thợ mộc Pañcakaṅga có nhiều việc, nhiều việc phải làm cho vua.'"
 
-[Chú thích của người dịch: Lời thỉnh dùng lối nói người thứ tư, nghĩa là bữa ăn dành cho bốn người, tính cả người thỉnh.]
+[Chú thích của người dịch: *Attacatuttho* nghĩa là với chính mình là người thứ tư, tức Tôn giả Anuruddha cùng ba vị tỳ-kheo nữa, thành bốn vị; người thỉnh không ở trong số ấy.]
 
 <!-- seg: mn127:2.8 -->
 "Thưa vâng." Người ấy vâng lời thợ mộc Pañcakaṅga, rồi đi đến chỗ Tôn giả Anuruddha; đến nơi, đảnh lễ Tôn giả Anuruddha rồi ngồi xuống một bên. Ngồi xuống một bên, người ấy thưa với Tôn giả Anuruddha:
@@ -71,7 +71,7 @@ vì thợ mộc Pañcakaṅga có nhiều việc, nhiều việc phải làm cho
 "Bạch Ngài, thợ mộc Pañcakaṅga cúi đầu đảnh lễ dưới chân Tôn giả Anuruddha và thưa thế này:
 
 <!-- seg: mn127:2.10 -->
-'Xin Tôn giả Anuruddha nhận lời, bạch Ngài, dùng bữa ăn ngày mai tại nhà thợ mộc Pañcakaṅga, với thợ mộc Pañcakaṅga là người thứ tư;
+'Xin Tôn giả Anuruddha nhận lời, bạch Ngài, dùng bữa ăn ngày mai tại nhà thợ mộc Pañcakaṅga, cùng với ba vị tỳ-kheo nữa, thành bốn vị;
 
 <!-- seg: mn127:2.11 -->
 và xin Tôn giả Anuruddha đến sớm hơn thường lệ, bạch Ngài;
@@ -290,6 +290,8 @@ cũng vậy, này gia chủ, các vị thiên ấy không nghĩ rằng:
 
 <!-- seg: mn127:13.1 -->
 Khi nghe nói vậy, Tôn giả Sabhiya Kaccāna nói với Tôn giả Anuruddha:
+
+[Chú thích: Tôn giả Sabhiya Kaccāna cũng xuất hiện ở SN 44.1, nơi ông được Vacchagotta hỏi; kệ của ông ở Thag 4.3. Việc một du sĩ tên Sabhiya quy y được ghi ở Snp 3.6, có thể là cùng một người.]
 
 <!-- seg: mn127:13.2 -->
 "Lành thay, thưa Ngài Anuruddha.

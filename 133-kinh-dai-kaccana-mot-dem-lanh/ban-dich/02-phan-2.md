@@ -26,7 +26,7 @@ bậc hiền triết an tịnh ấy tuyên bố như vậy."
 Đức Thế Tôn nói như vậy;
 
 <!-- seg: mn133:6.2 -->
-nói xong, bậc Thiện Thệ đứng dậy khỏi chỗ ngồi, đi vào tịnh thất.
+nói xong, bậc Thiện thệ đứng dậy khỏi chỗ ngồi, đi vào tịnh thất.
 
 [Chú thích: Tuy nói sẽ giảng cả phần tóm tắt lẫn phần phân tích, Đức Thế Tôn lại chỉ đọc bài kệ rồi vào tịnh thất, nên các tỳ-kheo phải nhờ Tôn giả Mahākaccāna giảng phần phân tích. Tình huống tương tự xảy ra ở MN 138. Bản Hán và bản Tây Tạng tránh được chỗ này, vì ở đó Đức Thế Tôn chỉ nói sẽ giảng bài kệ.]
 
@@ -91,7 +91,7 @@ Ai có thể phân tích ý nghĩa của phần tóm tắt mà Đức Thế Tôn
 Rồi các tỳ-kheo ấy nghĩ như vầy:
 
 <!-- seg: mn133:7.21 -->
-"Tôn giả Mahākaccāna này được Đức Thế Tôn tán thán và được các vị đồng phạm hạnh có trí kính trọng.
+"Tôn giả Mahākaccāna (Đại Ca Chiên Diên) này được Đức Thế Tôn tán thán và được các vị đồng phạm hạnh có trí kính trọng.
 
 [Chú thích: Xem chú thích ở MN 18:10.9.]
 

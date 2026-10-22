@@ -76,7 +76,7 @@ Thưa thái tử, điều ấy tôi chưa được nghe trước mặt Đức Th
 Nhưng có thể xảy ra chuyện Đức Thế Tôn sẽ trả lời như vậy."
 
 <!-- seg: mn126:5.1 -->
-"Nếu bậc Đạo sư của ngài Bhūmija nói như vậy, thuyết giảng như vậy, thì hẳn nhiên, thưa ngài Bhūmija, tôi nghĩ bậc Đạo sư ấy đứng trên đầu tất cả các sa-môn và bà-la-môn đủ hạng."
+"Nếu bậc Đạo sư của ngài Bhūmija nói như vậy, thuyết giảng như vậy, thì hẳn nhiên, tôi nghĩ bậc Đạo sư ấy đứng trên đầu tất cả các sa-môn và bà-la-môn đủ hạng."
 
 <!-- seg: mn126:6.1 -->
 Rồi thái tử Jayasena dâng cho Tôn giả Bhūmija chính phần cơm trong bát của mình.
