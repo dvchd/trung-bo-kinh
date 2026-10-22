@@ -166,6 +166,8 @@ Tôn giả Mahācunda hoan hỷ, tán thán lời Ngài dạy.
 <!-- seg: mn8:17.6 -->
 Bốn mươi bốn điều đã được nói ra,
 
+[Chú thích: Việc thêm một bài kệ tóm tắt (uddāna) vào một bài kinh riêng lẻ là điều lạ thường: bài kệ này không được nhắc trong chú giải hay phụ chú, không có trong bản PTS, và không có bản tương đương trong cả hai bản Hán. Rõ ràng nó đã được những người biên tập thêm vào ở một thời điểm nào đó. Bài kệ được dịch ở đây vì nó đáng chú ý; thường thì các uddāna ở cuối phẩm được để nguyên, vì chúng chỉ là danh sách tên các bài kinh.]
+
 <!-- seg: mn8:17.7 -->
 được giảng thành năm phần;
 

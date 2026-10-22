@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 <!-- seg: mn8:1.2 -->
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
-
+[Chú thích: Trong hai bản tương ứng của bài kinh này, MA 91 diễn ra tại tịnh xá Ghositārāma ở Kosambī, còn EA 47.9 thì ở Khu Vườn Sóc tại Rājagaha. Phần bối cảnh tự sự thường khác nhau như vậy; chúng không phải là "lời của Đức Thế Tôn" mà do những người biên tập thêm vào ở một thời điểm nào đó.]
 
 <!-- seg: mn8:2.1 -->
 Rồi vào buổi chiều, Tôn giả Mahācunda từ chỗ độc cư bước ra, đi đến chỗ Đức Thế Tôn. Đến rồi, ngài đảnh lễ Đức Thế Tôn và ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Mahācunda bạch Đức Thế Tôn:

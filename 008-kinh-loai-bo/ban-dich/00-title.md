@@ -8,4 +8,4 @@
 <!-- seg: mn8:0.2 -->
 **Kinh Loại Bỏ** (*Sallekha Sutta*) — bài kinh về sự loại bỏ.
 
-[Chú thích: *Sallekha* là "sự cọ xóa, loại bỏ", theo hình ảnh xóa đi một dòng chữ đã viết. Tên kinh nói đến việc cọ rửa những pháp bất thiện trong tâm bằng cách nuôi dưỡng pháp đối lập với chúng.]
+[Chú thích của người dịch: *Sallekha* là "sự cọ xóa, loại bỏ", theo hình ảnh xóa đi một dòng chữ đã viết. Tên kinh nói đến việc cọ rửa những pháp bất thiện trong tâm bằng cách nuôi dưỡng pháp đối lập với chúng.]

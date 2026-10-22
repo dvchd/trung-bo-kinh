@@ -38,7 +38,7 @@ Người đọc lần đầu có thể lấy bài kinh này làm một bảng t�
 <!-- seg: mn8:0.2 -->
 **Kinh Loại Bỏ** (*Sallekha Sutta*) — bài kinh về sự loại bỏ.
 
-[Chú thích: *Sallekha* là "sự cọ xóa, loại bỏ", theo hình ảnh xóa đi một dòng chữ đã viết. Tên kinh nói đến việc cọ rửa những pháp bất thiện trong tâm bằng cách nuôi dưỡng pháp đối lập với chúng.]
+[Chú thích của người dịch: *Sallekha* là "sự cọ xóa, loại bỏ", theo hình ảnh xóa đi một dòng chữ đã viết. Tên kinh nói đến việc cọ rửa những pháp bất thiện trong tâm bằng cách nuôi dưỡng pháp đối lập với chúng.]
 
 ---
 
@@ -48,7 +48,7 @@ Tôi nghe như vầy.
 <!-- seg: mn8:1.2 -->
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
-
+[Chú thích: Trong hai bản tương ứng của bài kinh này, MA 91 diễn ra tại tịnh xá Ghositārāma ở Kosambī, còn EA 47.9 thì ở Khu Vườn Sóc tại Rājagaha. Phần bối cảnh tự sự thường khác nhau như vậy; chúng không phải là "lời của Đức Thế Tôn" mà do những người biên tập thêm vào ở một thời điểm nào đó.]
 
 <!-- seg: mn8:2.1 -->
 Rồi vào buổi chiều, Tôn giả Mahācunda từ chỗ độc cư bước ra, đi đến chỗ Đức Thế Tôn. Đến rồi, ngài đảnh lễ Đức Thế Tôn và ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Mahācunda bạch Đức Thế Tôn:
@@ -589,6 +589,8 @@ Tôn giả Mahācunda hoan hỷ, tán thán lời Ngài dạy.
 
 <!-- seg: mn8:17.6 -->
 Bốn mươi bốn điều đã được nói ra,
+
+[Chú thích: Việc thêm một bài kệ tóm tắt (uddāna) vào một bài kinh riêng lẻ là điều lạ thường: bài kệ này không được nhắc trong chú giải hay phụ chú, không có trong bản PTS, và không có bản tương đương trong cả hai bản Hán. Rõ ràng nó đã được những người biên tập thêm vào ở một thời điểm nào đó. Bài kệ được dịch ở đây vì nó đáng chú ý; thường thì các uddāna ở cuối phẩm được để nguyên, vì chúng chỉ là danh sách tên các bài kinh.]
 
 <!-- seg: mn8:17.7 -->
 được giảng thành năm phần;

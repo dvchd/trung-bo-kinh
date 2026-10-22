@@ -79,7 +79,7 @@ Này các tỳ-kheo, khi vị tỳ-kheo đã đoạn tận vô minh và minh đ�
 Không chấp thủ, vị ấy không run sợ; không run sợ, vị ấy tự mình chứng được sự tịch diệt hoàn toàn.
 
 <!-- seg: mn11:17.3 -->
-Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
+Vị ấy biết: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn11:17.4 -->
 Đức Thế Tôn nói như vậy.
