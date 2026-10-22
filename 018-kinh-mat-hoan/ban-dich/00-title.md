@@ -8,4 +8,4 @@
 <!-- seg: mn18:0.2 -->
 **Kinh Mật Hoàn** (*Madhupiṇḍika Sutta*) — "viên mật", tức thứ bánh nhỏ làm bằng mật.
 
-[Chú thích: *Madhu* là mật ong; *piṇḍika* là viên, cục nhỏ. Tên bài kinh lấy từ hình ảnh chiếc bánh mật ở đoạn cuối, khi Tôn giả Ānanda ví lời dạy này với một món ăn mà nếm đến đâu cũng thấy ngon. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Madhu* là mật ong; *piṇḍika* là viên, cục nhỏ. Tên bài kinh lấy từ hình ảnh chiếc bánh mật ở đoạn cuối, khi Tôn giả Ānanda ví lời dạy này với một món ăn mà nếm đến đâu cũng thấy ngon.]

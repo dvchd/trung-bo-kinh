@@ -1305,4 +1305,4 @@ Du sĩ Sakuludāyī hoan hỷ, tán thán lời Đức Thế Tôn dạy.
 <!-- seg: mn77:38.4 -->
 Đại Kinh Sakuludāyi, bài thứ bảy, đã hoàn thành.
 
-[Chú thích: Dòng kết này là lời ghi của truyền bản Pali, đánh dấu bài kinh thứ bảy trong một nhóm bài của bộ kinh, không phải số thứ tự 77 của Trung Bộ Kinh.]
+[Chú thích của người dịch: Dòng kết này là lời ghi của truyền bản Pali, đánh dấu bài kinh thứ bảy trong một nhóm bài của bộ kinh, không phải số thứ tự 77 của Trung Bộ Kinh.]

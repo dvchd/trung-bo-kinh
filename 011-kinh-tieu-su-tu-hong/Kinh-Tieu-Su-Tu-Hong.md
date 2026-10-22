@@ -33,7 +33,7 @@ Người đọc lần đầu có thể thấy bài kinh này khô khan, nhiều 
 <!-- seg: mn11:0.2 -->
 **Tiểu Kinh Sư Tử Hống** (*Cūḷasīhanāda Sutta*) — "tiếng rống sư tử nhỏ".
 
-[Chú thích: Chữ cūḷa nghĩa là nhỏ, ngắn; bài kinh này mang tên ấy để đối lại với Đại Kinh Sư Tử Hống ở MN 12 — ghi chú của người dịch.]
+[Chú thích của người dịch: Chữ cūḷa nghĩa là nhỏ, ngắn; bài kinh này mang tên ấy để đối lại với Đại Kinh Sư Tử Hống ở MN 12.]
 
 ---
 

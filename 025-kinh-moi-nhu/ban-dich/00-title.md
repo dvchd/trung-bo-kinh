@@ -8,4 +8,4 @@
 <!-- seg: mn25:0.2 -->
 **Kinh Mồi Nhử** (*Nivāpa Sutta*) — "mồi nhử", tức chỗ mồi người ta gieo ra để dụ thú vào.
 
-[Chú thích: *Nivāpa* là mồi, là thức ăn rải ra để dụ; *sutta* là bài kinh. Bản Anh của Bhikkhu Sujato đặt tên bài là "Sowing", nghĩa là gieo hạt, vì trong dụ ngôn người gieo mồi thật ra là người trồng hoa màu. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Nivāpa* là mồi, là thức ăn rải ra để dụ; *sutta* là bài kinh. Bản Anh của Bhikkhu Sujato đặt tên bài là "Sowing", nghĩa là gieo hạt, vì trong dụ ngôn người gieo mồi thật ra là người trồng hoa màu.]

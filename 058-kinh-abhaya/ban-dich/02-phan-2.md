@@ -131,4 +131,4 @@ Từ hôm nay cho đến trọn đời, xin Ngài nhận con làm người cư s
 <!-- seg: mn58:12.4 -->
 Kinh Abhayarājakumāra, bài thứ tám, đã hoàn tất.
 
-[Chú thích: "Bài thứ tám" là bài thứ tám trong phẩm Gahapativagga của Trung Bộ Kinh, không phải bài thứ tám của toàn bộ 152 bài. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: "Bài thứ tám" là bài thứ tám trong phẩm Gahapativagga của Trung Bộ Kinh, không phải bài thứ tám của toàn bộ 152 bài.]

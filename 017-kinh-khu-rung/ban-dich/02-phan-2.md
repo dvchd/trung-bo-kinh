@@ -95,4 +95,4 @@ Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 <!-- seg: mn17:26.10 -->
 Kinh Khu Rừng, bài thứ bảy, đã hoàn thành.
 
-[Chú thích: "Bài thứ bảy" là vị trí của bài này trong phẩm Sư Tử Hống, không phải số 17 của Trung Bộ Kinh. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: "Bài thứ bảy" là vị trí của bài này trong phẩm Sư Tử Hống, không phải số 17 của Trung Bộ Kinh.]

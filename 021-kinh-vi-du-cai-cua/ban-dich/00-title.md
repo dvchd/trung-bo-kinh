@@ -8,4 +8,4 @@
 <!-- seg: mn21:0.2 -->
 **Kinh Ví Dụ Cái Cưa** (*Kakacūpama Sutta*) — "ví dụ cái cưa".
 
-[Chú thích: *Kakaca* là "cái cưa", *upama* là "ví dụ, sự so sánh". Tên bài kinh lấy từ hình ảnh ở phần cuối: dù kẻ cướp có dùng cưa hai cánh cắt xẻo thân thể, người tu vẫn không được để tâm sân hận. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Kakaca* là "cái cưa", *upama* là "ví dụ, sự so sánh". Tên bài kinh lấy từ hình ảnh ở phần cuối: dù kẻ cướp có dùng cưa hai cánh cắt xẻo thân thể, người tu vẫn không được để tâm sân hận.]

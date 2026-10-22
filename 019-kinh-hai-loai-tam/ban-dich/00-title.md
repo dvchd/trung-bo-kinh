@@ -8,4 +8,4 @@
 <!-- seg: mn19:0.2 -->
 **Kinh Hai Loại Tầm** (*Dvedhāvitakka Sutta*) — "hai loại tầm".
 
-[Chú thích: *Dvedhā* là "hai phần, hai loại"; *vitakka* là "tầm", tức sự hướng tâm và suy nghĩ về một đối tượng. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Dvedhā* là "hai phần, hai loại"; *vitakka* là "tầm", tức sự hướng tâm và suy nghĩ về một đối tượng.]

@@ -8,4 +8,4 @@
 <!-- seg: mn16:0.2 -->
 **Kinh Tâm Hoang Vu** (*Cetokhila Sutta*) — bài kinh về tâm hoang vu, tức năm chỗ trong tâm chai cứng, khô cằn như mảnh đất hoang, khiến không có gì mọc lên được.
 
-[Chú thích: *Cetokhila* ghép từ *ceto* (tâm, lòng) và *khila* (mảnh đất hoang cằn cỗi đến mức mưa suốt bốn tháng cũng không có gì mọc lên). Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Cetokhila* ghép từ *ceto* (tâm, lòng) và *khila* (mảnh đất hoang cằn cỗi đến mức mưa suốt bốn tháng cũng không có gì mọc lên).]

@@ -40,4 +40,4 @@ Và tôn giả Seniya đã trở thành một trong các bậc A-la-hán.
 <!-- seg: mn57:15.5 -->
 Kinh Thực Hành Chó, bài thứ bảy, đã hoàn tất.
 
-[Chú thích: Đây là dòng ghi kết thúc bài kinh trong bản Pali, không phải lời thoại. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: Đây là dòng ghi kết thúc bài kinh trong bản Pali, không phải lời thoại.]

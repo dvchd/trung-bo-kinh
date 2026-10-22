@@ -33,7 +33,7 @@ Với người mới tìm hiểu, bài kinh này đáng đọc vì nó dạy hai
 <!-- seg: mn58:0.2 -->
 **Kinh Abhaya** (*Abhayarājakumāra Sutta*) — "bài kinh với thái tử Abhaya (Vô Úy)", lấy tên theo nhân vật chính của bài.
 
-[Chú thích: *Abhaya* nghĩa là "không sợ hãi"; *rājakumāra* nghĩa là thái tử. Tên Pali của bài kinh ghép cả hai lại, chỉ vị thái tử đã đặt câu hỏi cho Đức Thế Tôn trong bữa ăn tại nhà mình. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Abhaya* nghĩa là "không sợ hãi"; *rājakumāra* nghĩa là thái tử. Tên Pali của bài kinh ghép cả hai lại, chỉ vị thái tử đã đặt câu hỏi cho Đức Thế Tôn trong bữa ăn tại nhà mình.]
 
 ---
 
@@ -334,4 +334,4 @@ Từ hôm nay cho đến trọn đời, xin Ngài nhận con làm người cư s
 <!-- seg: mn58:12.4 -->
 Kinh Abhayarājakumāra, bài thứ tám, đã hoàn tất.
 
-[Chú thích: "Bài thứ tám" là bài thứ tám trong phẩm Gahapativagga của Trung Bộ Kinh, không phải bài thứ tám của toàn bộ 152 bài. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: "Bài thứ tám" là bài thứ tám trong phẩm Gahapativagga của Trung Bộ Kinh, không phải bài thứ tám của toàn bộ 152 bài.]

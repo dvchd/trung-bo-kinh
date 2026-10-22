@@ -34,7 +34,7 @@ Với người mới tìm hiểu, bài kinh này đáng đọc vì nó dạy cá
 <!-- seg: mn60:0.2 -->
 **Kinh Không Thể Tranh Cãi** (*Apaṇṇaka Sutta*) — "bài kinh về pháp không thể tranh cãi", lấy tên theo giáo pháp mà Đức Thế Tôn dạy cho các bà-la-môn và gia chủ làng Sālā.
 
-[Chú thích: *Apaṇṇaka* là thuật ngữ đánh bạc, ghép *a* (không) với *paṇṇa* (số năm): bộ xúc xắc bốn hạt là "trọn vẹn", thêm hạt thứ năm là hạt thua thì mất tất cả. Vì vậy *apaṇṇaka* hiểu là "canh bạc chắc ăn", một lựa chọn không thể thất bại. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Apaṇṇaka* là thuật ngữ đánh bạc, ghép *a* (không) với *paṇṇa* (số năm): bộ xúc xắc bốn hạt là "trọn vẹn", thêm hạt thứ năm là hạt thua thì mất tất cả. Vì vậy *apaṇṇaka* hiểu là "canh bạc chắc ăn", một lựa chọn không thể thất bại.]
 
 ---
 
@@ -826,7 +826,7 @@ Này các gia chủ, hạng người tự hành hạ mình, chuyên tâm vào vi
 <!-- seg: mn60:36.2 -->
 Này các gia chủ, ở đây có người ở trần, không giữ lề thói, liếm tay, không nhận lời mời "hãy đến, này hiền giả", không dừng lại khi được mời "hãy đứng lại, này hiền giả"; không nhận thức ăn người ta mang đến, không nhận thức ăn làm riêng cho mình, không nhận lời mời ăn; không nhận từ miệng nồi, không nhận từ miệng chén, không nhận từ nhà có nuôi cừu, không nhận từ nhà có cây gậy, không nhận từ nhà có chày giã, không nhận khi hai người đang ăn, không nhận từ người đàn bà có thai, không nhận từ người đàn bà đang cho con bú, không nhận từ người đàn bà đang ở với đàn ông, không nhận ở nơi có tin đồn, không nhận ở nơi có chó đứng chờ, không nhận ở nơi có ruồi bu từng bầy; không ăn cá, không ăn thịt, không uống rượu, không uống men, không uống nước cháo lên men; đi khất thực một nhà thì ăn một miếng, hai nhà thì ăn hai miếng, ba nhà thì ăn ba miếng, bốn nhà thì ăn bốn miếng, năm nhà thì ăn năm miếng, sáu nhà thì ăn sáu miếng, bảy nhà thì ăn bảy miếng; sống với một chén nhỏ, sống với hai chén nhỏ, ba chén nhỏ, bốn chén nhỏ, năm chén nhỏ, sáu chén nhỏ, bảy chén nhỏ; ăn mỗi ngày một lần, ăn hai ngày một lần, ba ngày một lần, bốn ngày một lần, năm ngày một lần, sáu ngày một lần, bảy ngày một lần, cho đến nửa tháng một lần, chuyên tâm vào việc ăn theo kỳ hạn; ăn rau cỏ, ăn kê, ăn lúa hoang, ăn gạo xấu, ăn bèo cái, ăn cám, ăn nước cháo, ăn bột mè, ăn cỏ, ăn phân bò; sống bằng rễ và trái trong rừng, hoặc ăn trái rụng; mặc vải gai, mặc vải gai pha, mặc vải liệm xác, mặc vải rách, mặc vỏ cây tirīṭa, mặc da linh dương, mặc da linh dương còn cả lông, mặc áo cỏ kusa, mặc áo vỏ cây, mặc áo bằng mảnh gỗ, mặc áo lông người, mặc áo lông đuôi ngựa, mặc áo cánh cú; nhổ râu tóc, chuyên tâm vào việc nhổ râu tóc; đứng thẳng, từ chối ngồi; ngồi xổm, chuyên tâm vào việc ngồi xổm; nằm trên giường gai, lấy bụi gai làm chỗ nằm; chuyên tâm vào việc tắm nước ba lần mỗi ngày, kể cả lúc chiều tối.
 
-[Chú thích: Pali ở đây lược đoạn bằng dấu peyyāla; bản dịch ghi đủ danh sách các phép khổ hạnh quen thuộc, trùng với MN 12:45.1–45.8.]
+[Chú thích của người dịch: Pali ở đây lược đoạn bằng dấu peyyāla; bản dịch ghi đủ danh sách các phép khổ hạnh quen thuộc, trùng với MN 12:45.1–45.8.]
 
 <!-- seg: mn60:36.3 -->
 Như vậy, vị ấy sống chuyên tâm vào nhiều cách khác nhau để làm nóng và hành hạ thân này.
@@ -869,7 +869,7 @@ Này các gia chủ, ở đây có Như Lai xuất hiện trong đời, là bậ
 <!-- seg: mn60:40-54.2 -->
 Một gia chủ, hay con của một gia chủ, hay một người sinh trong một gia đình tốt nghe Pháp ấy. Sau khi nghe, vị ấy có đức tin nơi Như Lai, xuất gia từ bỏ gia đình, sống không gia đình; vị ấy sống thành tựu đầy đủ giới, hộ trì các cửa căn, có chánh niệm và tỉnh giác, biết đủ; rồi lui về một chỗ vắng vẻ, dưới gốc cây hay trong một căn nhà trống, ngồi kiết già, giữ thân ngay thẳng, đặt chánh niệm trước mặt.
 
-[Chú thích: Pali ở đây lược rất nhiều bằng dấu peyyāla: từ chỗ nghe Pháp, có đức tin, xuất gia, cho đến giới hạnh, hộ trì các căn, chánh niệm tỉnh giác và biết đủ, cả khối văn được tóm vào một dấu lược. Bản dịch giữ đủ các chặng ấy trong một đoạn tóm lược; bản đầy đủ của khối văn này có trong MN 27, MN 38 và MN 51.]
+[Chú thích của người dịch: Pali ở đây lược rất nhiều bằng dấu peyyāla: từ chỗ nghe Pháp, có đức tin, xuất gia, cho đến giới hạnh, hộ trì các căn, chánh niệm tỉnh giác và biết đủ, cả khối văn được tóm vào một dấu lược. Bản dịch giữ đủ các chặng ấy trong một đoạn tóm lược; bản đầy đủ của khối văn này có trong MN 27, MN 38 và MN 51.]
 
 <!-- seg: mn60:40-54.3 -->
 Vị ấy từ bỏ năm triền cái này, những cấu uế của tâm làm yếu ớt tuệ,

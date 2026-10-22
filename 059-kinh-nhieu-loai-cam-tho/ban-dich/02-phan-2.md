@@ -149,7 +149,7 @@ Này Ānanda, lạc ấy là gì?
 <!-- seg: mn59:15.5 -->
 Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn phi tưởng phi phi tưởng xứ, chứng và trú vào sự diệt thọ tưởng.
 
-[Chú thích: Sự diệt thọ tưởng là trạng thái trong đó tưởng và thọ tạm thời ngưng nghỉ. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: Sự diệt thọ tưởng là trạng thái trong đó tưởng và thọ tạm thời ngưng nghỉ.]
 
 <!-- seg: mn59:15.6 -->
 Này Ānanda, đây là một lạc khác, cao hơn và vi tế hơn lạc ấy."

@@ -8,4 +8,4 @@
 <!-- seg: mn58:0.2 -->
 **Kinh Abhaya** (*Abhayarājakumāra Sutta*) — "bài kinh với thái tử Abhaya (Vô Úy)", lấy tên theo nhân vật chính của bài.
 
-[Chú thích: *Abhaya* nghĩa là "không sợ hãi"; *rājakumāra* nghĩa là thái tử. Tên Pali của bài kinh ghép cả hai lại, chỉ vị thái tử đã đặt câu hỏi cho Đức Thế Tôn trong bữa ăn tại nhà mình. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Abhaya* nghĩa là "không sợ hãi"; *rājakumāra* nghĩa là thái tử. Tên Pali của bài kinh ghép cả hai lại, chỉ vị thái tử đã đặt câu hỏi cho Đức Thế Tôn trong bữa ăn tại nhà mình.]

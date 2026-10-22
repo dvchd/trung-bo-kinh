@@ -30,7 +30,7 @@ Này các tỳ-kheo, người gieo mồi gieo mồi cho loài nai là với ý n
 <!-- seg: mn25:2.4 -->
 "Mong loài nai len vào chỗ mồi ta đã gieo, mê mẩn thọ hưởng món ăn; khi đã len vào và mê mẩn thọ hưởng món ăn, chúng sẽ sinh say sưa; khi đã say sưa, chúng sẽ sinh phóng dật; khi đã phóng dật, ta muốn làm gì với chúng trên chỗ mồi ấy cũng được."
 
-[Chú thích: Bốn bước trong câu này là xương sống của cả bài: mê mẩn thọ hưởng, sinh say sưa, sinh phóng dật, rồi thành ra người gieo mồi muốn gì cũng được. Chữ phóng dật ở đây là buông lơi mất sự tỉnh thức. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: Bốn bước trong câu này là xương sống của cả bài: mê mẩn thọ hưởng, sinh say sưa, sinh phóng dật, rồi thành ra người gieo mồi muốn gì cũng được. Chữ phóng dật ở đây là buông lơi mất sự tỉnh thức.]
 
 <!-- seg: mn25:3.1 -->
 Này các tỳ-kheo, ở đó bầy nai thứ nhất đã len vào chỗ mồi người gieo mồi gieo xuống, mê mẩn thọ hưởng món ăn. Ở đó, chúng len vào và mê mẩn thọ hưởng món ăn nên sinh say sưa; khi say sưa, chúng sinh phóng dật; khi phóng dật, người gieo mồi muốn làm gì với chúng trên chỗ mồi ấy cũng được.

@@ -8,4 +8,4 @@
 <!-- seg: mn20:0.2 -->
 **Kinh An Trú Tầm** (*Vitakkasaṇṭhāna Sutta*) — "cách làm cho tầm an trú".
 
-[Chú thích: *Vitakka* là "tầm", tức sự hướng tâm và suy nghĩ về một đối tượng; *saṇṭhāna* là "sự an trú, sự lắng lại". Tên bài kinh có thể hiểu là "cách làm cho các tầm an trú, lắng xuống". Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Vitakka* là "tầm", tức sự hướng tâm và suy nghĩ về một đối tượng; *saṇṭhāna* là "sự an trú, sự lắng lại". Tên bài kinh có thể hiểu là "cách làm cho các tầm an trú, lắng xuống".]

@@ -31,7 +31,7 @@ Bản dịch chia đoạn theo từng đoạn nguồn của SuttaCentral, giữ 
 <!-- seg: mn25:0.2 -->
 **Kinh Mồi Nhử** (*Nivāpa Sutta*) — "mồi nhử", tức chỗ mồi người ta gieo ra để dụ thú vào.
 
-[Chú thích: *Nivāpa* là mồi, là thức ăn rải ra để dụ; *sutta* là bài kinh. Bản Anh của Bhikkhu Sujato đặt tên bài là "Sowing", nghĩa là gieo hạt, vì trong dụ ngôn người gieo mồi thật ra là người trồng hoa màu. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Nivāpa* là mồi, là thức ăn rải ra để dụ; *sutta* là bài kinh. Bản Anh của Bhikkhu Sujato đặt tên bài là "Sowing", nghĩa là gieo hạt, vì trong dụ ngôn người gieo mồi thật ra là người trồng hoa màu.]
 
 ---
 
@@ -67,7 +67,7 @@ Này các tỳ-kheo, người gieo mồi gieo mồi cho loài nai là với ý n
 <!-- seg: mn25:2.4 -->
 "Mong loài nai len vào chỗ mồi ta đã gieo, mê mẩn thọ hưởng món ăn; khi đã len vào và mê mẩn thọ hưởng món ăn, chúng sẽ sinh say sưa; khi đã say sưa, chúng sẽ sinh phóng dật; khi đã phóng dật, ta muốn làm gì với chúng trên chỗ mồi ấy cũng được."
 
-[Chú thích: Bốn bước trong câu này là xương sống của cả bài: mê mẩn thọ hưởng, sinh say sưa, sinh phóng dật, rồi thành ra người gieo mồi muốn gì cũng được. Chữ phóng dật ở đây là buông lơi mất sự tỉnh thức. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: Bốn bước trong câu này là xương sống của cả bài: mê mẩn thọ hưởng, sinh say sưa, sinh phóng dật, rồi thành ra người gieo mồi muốn gì cũng được. Chữ phóng dật ở đây là buông lơi mất sự tỉnh thức.]
 
 <!-- seg: mn25:3.1 -->
 Này các tỳ-kheo, ở đó bầy nai thứ nhất đã len vào chỗ mồi người gieo mồi gieo xuống, mê mẩn thọ hưởng món ăn. Ở đó, chúng len vào và mê mẩn thọ hưởng món ăn nên sinh say sưa; khi say sưa, chúng sinh phóng dật; khi phóng dật, người gieo mồi muốn làm gì với chúng trên chỗ mồi ấy cũng được.
@@ -276,7 +276,7 @@ Và như vậy bầy nai thứ ba cũng đã không thoát khỏi uy lực của
 <!-- seg: mn25:6.28 -->
 Thôi, chúng ta hãy dựng hang ổ ở chỗ mà người gieo mồi và đoàn tùy tùng của người gieo mồi không thể đến; dựng hang ổ ở đó rồi, chúng ta sẽ không len vào chỗ mồi người gieo mồi đã gieo, không mê mẩn mà thọ hưởng món ăn; không len vào, không mê mẩn thọ hưởng món ăn, chúng ta sẽ không sinh say sưa; không say sưa, chúng ta sẽ không sinh phóng dật; không phóng dật, người gieo mồi sẽ không thể muốn làm gì với chúng ta trên chỗ mồi ấy."
 
-[Chú thích: Đây là kế của bầy nai thứ tư, không phải lời lặp lại của bầy nai thứ ba. So với lời bầy nai thứ ba ở đoạn 6.19, chỉ khác một chỗ: hang ổ nay dựng ở nơi người gieo mồi và đoàn tùy tùng không thể đến, thay vì ngay sát chỗ mồi. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: Đây là kế của bầy nai thứ tư, không phải lời lặp lại của bầy nai thứ ba. So với lời bầy nai thứ ba ở đoạn 6.19, chỉ khác một chỗ: hang ổ nay dựng ở nơi người gieo mồi và đoàn tùy tùng không thể đến, thay vì ngay sát chỗ mồi.]
 
 <!-- seg: mn25:6.29 -->
 Chúng đã dựng hang ổ ở chỗ mà người gieo mồi và đoàn tùy tùng của người gieo mồi không thể đến.
@@ -329,7 +329,7 @@ Nghĩa ở đây là như vầy:
 <!-- seg: mn25:7.3 -->
 Này các tỳ-kheo, "mồi" là cách gọi năm loại dục lạc.
 
-[Chú thích: Năm loại dục lạc là năm thứ khoái cảm đến từ mắt, tai, mũi, lưỡi và thân. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: Năm loại dục lạc là năm thứ khoái cảm đến từ mắt, tai, mũi, lưỡi và thân.]
 
 <!-- seg: mn25:7.4 -->
 Này các tỳ-kheo, "người gieo mồi" là cách gọi Māra Ác ma.

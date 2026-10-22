@@ -105,4 +105,4 @@ Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 <!-- seg: mn16:27.10 -->
 Kinh Tâm Hoang Vu, bài thứ sáu, đã hoàn thành.
 
-[Chú thích: Bài thứ sáu là vị trí của bài này trong phẩm Sư Tử Hống, không phải số 16 của Trung Bộ Kinh. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: Bài thứ sáu là vị trí của bài này trong phẩm Sư Tử Hống, không phải số 16 của Trung Bộ Kinh.]

@@ -8,4 +8,4 @@
 <!-- seg: mn54:0.2 -->
 **Kinh Potaliya** (*Potaliya Sutta*) — bài kinh mang tên gia chủ Potaliya, người đối thoại chính.
 
-[Chú thích: Potaliya là tên riêng của một gia chủ nên được giữ nguyên dạng Pali theo quy ước của bộ dịch này. Chú thích của người dịch.]
+[Chú thích của người dịch: Potaliya là tên riêng của một gia chủ nên được giữ nguyên dạng Pali theo quy ước của bộ dịch này.]

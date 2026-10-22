@@ -42,7 +42,7 @@ Vị ấy chứng nghiệm nhiều loại thần thông: khi thì một thân h�
 <!-- seg: mn119:38.1 -->
 Với thiên nhĩ thanh tịnh, vượt hơn loài người, vị ấy nghe được cả hai loại âm thanh, của chư thiên và của loài người, ở xa hay ở gần.
 
-[Chú thích: Câu này trong nguyên bản kết bằng dấu lược peyyāla, là lối tắt để chuyển sang loại thắng trí kế tiếp, không phải chỗ thiếu văn bản.]
+[Chú thích của người dịch: Câu này trong nguyên bản kết bằng dấu lược peyyāla, là lối tắt để chuyển sang loại thắng trí kế tiếp, không phải chỗ thiếu văn bản.]
 
 <!-- seg: mn119:39.1 -->
 Vị ấy biết tâm của các chúng sinh khác, các cá nhân khác, sau khi đã bao trùm bằng tâm của mình:

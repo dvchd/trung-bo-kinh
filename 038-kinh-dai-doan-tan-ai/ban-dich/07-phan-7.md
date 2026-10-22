@@ -98,7 +98,7 @@ Này các tỳ-kheo, do ba sự hội tụ mà có sự thụ thai.
 <!-- seg: mn38:26.2 -->
 Ở đây, cha và mẹ có đến với nhau, nhưng người mẹ không ở trong thời kỳ thụ thai, và vị gandhabba không có mặt, thì khi ấy chưa có sự thụ thai.
 
-[Chú thích: Theo MN 93:18.61, đây là một giáo thuyết của giới bà-la-môn, và rõ ràng đã được đưa vào bài kinh này như một quan niệm phổ biến thời ấy về sự thụ thai. Người dịch chú: gandhabba ở đây chỉ chúng sinh sắp nhập thai, theo cách hiểu của chú giải.]
+[Chú thích: Theo MN 93:18.61, đây là một giáo thuyết của giới bà-la-môn, và rõ ràng đã được đưa vào bài kinh này như một quan niệm phổ biến thời ấy về sự thụ thai.] [Chú thích của người dịch: *Gandhabba* ở đây chỉ chúng sinh sắp nhập thai, theo cách hiểu của chú giải.]
 
 <!-- seg: mn38:26.3 -->
 Ở đây, cha và mẹ có đến với nhau, người mẹ có ở trong thời kỳ thụ thai, nhưng vị gandhabba không có mặt, thì khi ấy chưa có sự thụ thai.

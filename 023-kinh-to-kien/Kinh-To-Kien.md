@@ -33,7 +33,7 @@ Bài kinh này không dạy một nghi lễ nào, cũng không hứa hẹn gì �
 <!-- seg: mn23:0.2 -->
 **Kinh Tổ Kiến** (*Vammika Sutta*) — "tổ kiến".
 
-[Chú thích: *Vammika* là tổ kiến, gò đất do loài mối đùn lên; *sutta* là bài kinh. Tên bài kinh lấy từ hình ảnh mở đầu: một tổ kiến ban đêm bốc khói, ban ngày bùng cháy, bên trong có những thứ phải đào lên mới thấy. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Vammika* là tổ kiến, gò đất do loài mối đùn lên; *sutta* là bài kinh. Tên bài kinh lấy từ hình ảnh mở đầu: một tổ kiến ban đêm bốc khói, ban ngày bùng cháy, bên trong có những thứ phải đào lên mới thấy.]
 
 ---
 

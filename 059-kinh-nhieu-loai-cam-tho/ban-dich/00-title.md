@@ -8,4 +8,4 @@
 <!-- seg: mn59:0.2 -->
 **Kinh Nhiều Loại Cảm Thọ** (*Bahuvedanīya Sutta*) — "bài kinh về nhiều loại cảm thọ", đặt tên theo nội dung chính của bài.
 
-[Chú thích: *Bahuvedanīya* ghép *bahu* (nhiều) với *vedanīya* (thuộc về cảm thọ), nghĩa là "nhiều loại cảm thọ". Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Bahuvedanīya* ghép *bahu* (nhiều) với *vedanīya* (thuộc về cảm thọ), nghĩa là "nhiều loại cảm thọ".]

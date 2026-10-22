@@ -667,4 +667,4 @@ Như vậy là hội chúng của du sĩ Sakuludāyī đã cản trở du sĩ Sa
 <!-- seg: mn79:46.8 -->
 Tiểu Kinh Sakuludāyi, bài thứ chín, đã hoàn thành.
 
-[Chú thích: Dòng kết này là lời ghi của truyền bản Pali, đánh dấu bài kinh thứ chín trong một nhóm bài của bộ kinh, không phải số thứ tự 79 của Trung Bộ Kinh.]
+[Chú thích của người dịch: Dòng kết này là lời ghi của truyền bản Pali, đánh dấu bài kinh thứ chín trong một nhóm bài của bộ kinh, không phải số thứ tự 79 của Trung Bộ Kinh.]

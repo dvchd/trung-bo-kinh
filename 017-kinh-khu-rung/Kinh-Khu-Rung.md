@@ -31,7 +31,7 @@ Với người đọc hôm nay, bài kinh không bắt buộc phải vào rừng
 <!-- seg: mn17:0.2 -->
 **Kinh Khu Rừng** (*Vanapattha Sutta*) — "bài kinh về khu rừng", tức nơi rừng vắng mà người tu nương tựa để an trú.
 
-[Chú thích: *Vanapattha* chỉ một nơi rừng rậm cách xa làng mạc, chỗ ở thích hợp cho người xuất gia tu tập. Bản Anh của SuttaCentral dịch là "jungle thickets". Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Vanapattha* chỉ một nơi rừng rậm cách xa làng mạc, chỗ ở thích hợp cho người xuất gia tu tập. Bản Anh của SuttaCentral dịch là "jungle thickets".]
 
 ---
 
@@ -296,4 +296,4 @@ Các tỳ-kheo ấy hoan hỷ, tán thán lời Ngài dạy.
 <!-- seg: mn17:26.10 -->
 Kinh Khu Rừng, bài thứ bảy, đã hoàn thành.
 
-[Chú thích: "Bài thứ bảy" là vị trí của bài này trong phẩm Sư Tử Hống, không phải số 17 của Trung Bộ Kinh. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: "Bài thứ bảy" là vị trí của bài này trong phẩm Sư Tử Hống, không phải số 17 của Trung Bộ Kinh.]

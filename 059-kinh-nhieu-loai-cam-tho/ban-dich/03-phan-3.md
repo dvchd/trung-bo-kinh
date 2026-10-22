@@ -25,4 +25,4 @@ Tôn giả Ānanda hoan hỷ, tán thán lời Đức Thế Tôn dạy.
 <!-- seg: mn59:16.9 -->
 Kinh Bahuvedanīya, bài thứ chín, đã hoàn tất.
 
-[Chú thích: "Bài thứ chín" là bài thứ chín trong phẩm Gahapativagga của Trung Bộ Kinh, không phải bài thứ 59 của toàn bộ 152 bài. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: "Bài thứ chín" là bài thứ chín trong phẩm Gahapativagga của Trung Bộ Kinh, không phải bài thứ 59 của toàn bộ 152 bài.]

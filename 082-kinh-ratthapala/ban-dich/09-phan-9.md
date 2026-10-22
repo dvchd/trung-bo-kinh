@@ -98,4 +98,4 @@ sau khi thấy điều ấy, thưa đại vương, tôi đã xuất gia;
 <!-- seg: mn82:42.55 -->
 Kinh Raṭṭhapāla, bài thứ hai, đã hoàn tất.
 
-[Chú thích: Dòng này là lời ghi kết thúc bài kinh trong bản Pali, không phải lời thoại; "bài thứ hai" là vị trí của bài kinh trong một tập hợp kinh cổ.]
+[Chú thích của người dịch: Dòng này là lời ghi kết thúc bài kinh trong bản Pali, không phải lời thoại; "bài thứ hai" là vị trí của bài kinh trong một tập hợp kinh cổ.]

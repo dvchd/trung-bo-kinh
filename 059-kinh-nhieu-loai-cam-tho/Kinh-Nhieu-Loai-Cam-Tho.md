@@ -33,7 +33,7 @@ Với người mới tìm hiểu, bài kinh này đáng đọc vì hai lý do. T
 <!-- seg: mn59:0.2 -->
 **Kinh Nhiều Loại Cảm Thọ** (*Bahuvedanīya Sutta*) — "bài kinh về nhiều loại cảm thọ", đặt tên theo nội dung chính của bài.
 
-[Chú thích: *Bahuvedanīya* ghép *bahu* (nhiều) với *vedanīya* (thuộc về cảm thọ), nghĩa là "nhiều loại cảm thọ". Đây là chú thích của người dịch.]
+[Chú thích của người dịch: *Bahuvedanīya* ghép *bahu* (nhiều) với *vedanīya* (thuộc về cảm thọ), nghĩa là "nhiều loại cảm thọ".]
 
 ---
 
@@ -346,7 +346,7 @@ Này Ānanda, lạc ấy là gì?
 <!-- seg: mn59:15.5 -->
 Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn phi tưởng phi phi tưởng xứ, chứng và trú vào sự diệt thọ tưởng.
 
-[Chú thích: Sự diệt thọ tưởng là trạng thái trong đó tưởng và thọ tạm thời ngưng nghỉ. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: Sự diệt thọ tưởng là trạng thái trong đó tưởng và thọ tạm thời ngưng nghỉ.]
 
 <!-- seg: mn59:15.6 -->
 Này Ānanda, đây là một lạc khác, cao hơn và vi tế hơn lạc ấy."
@@ -382,4 +382,4 @@ Tôn giả Ānanda hoan hỷ, tán thán lời Đức Thế Tôn dạy.
 <!-- seg: mn59:16.9 -->
 Kinh Bahuvedanīya, bài thứ chín, đã hoàn tất.
 
-[Chú thích: "Bài thứ chín" là bài thứ chín trong phẩm Gahapativagga của Trung Bộ Kinh, không phải bài thứ 59 của toàn bộ 152 bài. Đây là chú thích của người dịch.]
+[Chú thích của người dịch: "Bài thứ chín" là bài thứ chín trong phẩm Gahapativagga của Trung Bộ Kinh, không phải bài thứ 59 của toàn bộ 152 bài.]

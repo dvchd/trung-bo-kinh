@@ -296,4 +296,4 @@ Xin Đức Thế Tôn ghi nhận tôi là người cư sĩ đã quy y từ hôm 
 <!-- seg: mn54:26.5 -->
 Kinh Potaliya, bài thứ tư, đã hoàn tất.
 
-[Chú thích: Đây là dòng ghi dấu kết thúc bài kinh trong bản Pali; 'thứ tư' là số thứ tự của bài trong nhóm bài mà bản in ấy đang sắp xếp. Chú thích của người dịch.]
+[Chú thích của người dịch: Đây là dòng ghi dấu kết thúc bài kinh trong bản Pali; 'thứ tư' là số thứ tự của bài trong nhóm bài mà bản in ấy đang sắp xếp.]
