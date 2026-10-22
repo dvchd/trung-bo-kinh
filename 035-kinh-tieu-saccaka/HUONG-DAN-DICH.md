@@ -71,8 +71,8 @@ người nhận cúng dường; Saccaka ra về mà không quy y.
   đáp (hoặc trọn một công thức quán năm uẩn). Bản dịch viết ra đầy đủ cả khối, không để dấu lược.
 - **`dukkhaṁ allīno ... dukkhaṁ upagato ... dukkhaṁ ajjhosito` (21.2):** "bám víu vào khổ, đến gần
   khổ, dính chặt vào khổ" — khổ ở đây là *đối tượng* của sự bám víu, không phải "người đang khổ".
-- **`kadalī ... pheggu` (22.3–22.4):** thân cây chuối bóc hết bẹ thì không có dác, huống chi lõi gỗ.
-  "Dác" là phần gỗ mềm ngoài lõi; phải giữ đủ hai bậc để câu "huống chi là lõi gỗ" còn sức.
+- **`kadalī ... pheggu` (22.3–22.4):** thân cây chuối bóc hết bẹ thì không có gỗ giác, huống chi lõi cây.
+  "Gỗ giác" là phần gỗ mềm ngoài lõi; phải giữ đủ hai bậc để câu "huống chi là lõi cây" còn sức.
 - **`(…)` ở 24.2:** bản Pali có chỗ khuyết theo bản in; bản dịch bỏ qua chỗ ấy, không thêm chữ.
 - **`tiṭṭhatesā` (24.3):** "xin gác lại lời ấy", tức xin bỏ qua chuyện vừa nói, không phải "hãy
   đứng yên".

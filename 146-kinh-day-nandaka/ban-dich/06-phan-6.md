@@ -146,4 +146,4 @@ Tốt lắm, tốt lắm, này các tỳ-kheo-ni.
 Đúng là như vậy, này các tỳ-kheo-ni, đối với vị thánh đệ tử thấy như thật bằng chánh tuệ.
 
 <!-- seg: mn146:23.1 -->
-Ví như, này các tỳ-kheo-ni, một cây lớn có lõi gỗ đang đứng đó: rễ cũng vô thường, có bản chất biến đổi; thân cây cũng vô thường, có bản chất biến đổi; cành và lá cũng vô thường, có bản chất biến đổi; bóng mát cũng vô thường, có bản chất biến đổi.
+Ví như, này các tỳ-kheo-ni, một cây lớn có lõi cây đang đứng đó: rễ cũng vô thường, có bản chất biến đổi; thân cây cũng vô thường, có bản chất biến đổi; cành và lá cũng vô thường, có bản chất biến đổi; bóng mát cũng vô thường, có bản chất biến đổi.

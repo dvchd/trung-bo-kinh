@@ -2,7 +2,7 @@
 Này các tỳ-kheo-ni, nếu có ai nói như vầy:
 
 <!-- seg: mn146:23.3 -->
-Cây lớn có lõi gỗ ấy đang đứng đó: rễ, thân, cành và lá đều vô thường, có bản chất biến đổi;
+Cây lớn có lõi cây ấy đang đứng đó: rễ, thân, cành và lá đều vô thường, có bản chất biến đổi;
 
 <!-- seg: mn146:23.4 -->
 nhưng bóng mát của nó thì thường còn, bền vững, vĩnh cửu, không có bản chất biến đổi.
@@ -17,7 +17,7 @@ Không phải vậy, bạch Ngài.
 Vì sao vậy?
 
 <!-- seg: mn146:23.8 -->
-Bạch Ngài, vì cây lớn có lõi gỗ ấy đang đứng đó: rễ, thân, cành và lá đều vô thường, có bản chất biến đổi;
+Bạch Ngài, vì cây lớn có lõi cây ấy đang đứng đó: rễ, thân, cành và lá đều vô thường, có bản chất biến đổi;
 
 <!-- seg: mn146:23.9 -->
 huống chi là bóng mát của nó, bạch Ngài, cũng vô thường, có bản chất biến đổi.

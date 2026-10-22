@@ -16,7 +16,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 Này các tỳ-kheo, khi không ăn ban đêm, Ta thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.
 
 <!-- seg: mn70:2.3 -->
-Này các tỳ-kheo, các ông cũng hãy không ăn ban đêm.
+Này các tỳ-kheo, các ông cũng hãy bỏ việc ăn ban đêm.
 
 <!-- seg: mn70:2.4 -->
 Này các tỳ-kheo, khi không ăn ban đêm, các ông cũng sẽ thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc."
@@ -45,7 +45,7 @@ Rồi nhiều tỳ-kheo đi đến chỗ các tỳ-kheo Assaji và Punabbasuka; 
 Thưa các hiền giả, khi không ăn ban đêm, các vị ấy thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.
 
 <!-- seg: mn70:4.5 -->
-Thưa các hiền giả, các vị cũng hãy không ăn ban đêm.
+Thưa các hiền giả, các vị cũng hãy bỏ việc ăn ban đêm.
 
 <!-- seg: mn70:4.6 -->
 Thưa các hiền giả, khi không ăn ban đêm, các vị cũng sẽ thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc."
@@ -57,7 +57,7 @@ Khi được nói như vậy, các tỳ-kheo Assaji và Punabbasuka nói với c
 "Thưa các hiền giả, chúng tôi ăn lúc chiều tối, lúc rạng sáng, ban ngày và cả những giờ không phải giờ ăn.
 
 <!-- seg: mn70:4.9 -->
-Khi ăn như vậy, chúng tôi thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.
+Khi ăn lúc chiều tối, lúc rạng sáng, ban ngày và cả những giờ không phải giờ ăn, chúng tôi thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.
 
 <!-- seg: mn70:4.10 -->
 Vậy tại sao chúng tôi lại bỏ cái thấy được ngay trong hiện tại để chạy theo cái phải nhờ thời gian?
@@ -80,7 +80,7 @@ Vì không thể thuyết phục được các tỳ-kheo Assaji và Punabbasuka,
 thưa các hiền giả, khi không ăn ban đêm, các vị ấy thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.
 
 <!-- seg: mn70:5.5 -->
-Thưa các hiền giả, các vị cũng hãy không ăn ban đêm.
+Thưa các hiền giả, các vị cũng hãy bỏ việc ăn ban đêm.
 
 <!-- seg: mn70:5.6 -->
 Thưa các hiền giả, khi không ăn ban đêm, các vị cũng sẽ thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.'
@@ -92,7 +92,7 @@ Bạch Thế Tôn, khi được nói như vậy, các tỳ-kheo Assaji và Punab
 'Thưa các hiền giả, chúng tôi ăn lúc chiều tối, lúc rạng sáng, ban ngày và cả những giờ không phải giờ ăn.
 
 <!-- seg: mn70:5.9 -->
-Khi ăn như vậy, chúng tôi thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.
+Khi ăn lúc chiều tối, lúc rạng sáng, ban ngày và cả những giờ không phải giờ ăn, chúng tôi thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.
 
 <!-- seg: mn70:5.10 -->
 Vậy tại sao chúng tôi lại bỏ cái thấy được ngay trong hiện tại để chạy theo cái phải nhờ thời gian?
@@ -131,7 +131,7 @@ Rồi Đức Thế Tôn gọi một tỳ-kheo:
 Thưa các hiền giả, khi không ăn ban đêm, các vị ấy thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.
 
 <!-- seg: mn70:6.10 -->
-Thưa các hiền giả, các vị cũng hãy không ăn ban đêm.
+Thưa các hiền giả, các vị cũng hãy bỏ việc ăn ban đêm.
 
 <!-- seg: mn70:6.11 -->
 Thưa các hiền giả, khi không ăn ban đêm, các vị cũng sẽ thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.'
@@ -143,7 +143,7 @@ Khi họ nói như vậy, này các tỳ-kheo, có thật là các ông đã nó
 'Thưa các hiền giả, chúng tôi ăn lúc chiều tối, lúc rạng sáng, ban ngày và cả những giờ không phải giờ ăn.
 
 <!-- seg: mn70:6.14 -->
-Khi ăn như vậy, chúng tôi thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.
+Khi ăn lúc chiều tối, lúc rạng sáng, ban ngày và cả những giờ không phải giờ ăn, chúng tôi thấy mình ít bệnh, ít tật, thân thể nhẹ nhàng, sung sức và sống an lạc.
 
 <!-- seg: mn70:6.15 -->
 Vậy tại sao chúng tôi lại bỏ cái thấy được ngay trong hiện tại để chạy theo cái phải nhờ thời gian?
@@ -524,6 +524,8 @@ Và này các tỳ-kheo, thế nào là sự giác ngộ đạt được nhờ h
 <!-- seg: mn70:24.1 -->
 Này các tỳ-kheo, các ông đã không có lòng tin ấy.
 
+[Chú thích: Cuối cùng, Đức Thế Tôn quở trách họ.]
+
 <!-- seg: mn70:24.2 -->
 Này các tỳ-kheo, các ông đã không có sự đến gần ấy.
 
@@ -558,7 +560,7 @@ Này các tỳ-kheo, các ông đã không có sự cân nhắc ấy.
 Này các tỳ-kheo, các ông đã không có sự tinh tấn ấy.
 
 <!-- seg: mn70:24.13 -->
-Này các tỳ-kheo, các ông đã đi vào con đường xấu! Này các tỳ-kheo, các ông đã thực hành sai lạc!
+Này các tỳ-kheo, các ông đã sa đọa! Này các tỳ-kheo, các ông đã thực hành sai lạc!
 
 [Chú thích: Tiếp vị ngữ vi- trong vippaṭipanna không chỉ sự lạc đường, mà chỉ sự bại hoại về mặt đạo đức. Đuôi -attha là ngôi thứ hai số nhiều, hiện tại, của atthi, nghĩa là 'các ông đang'; cùng dạng ấy ở DN 9:34.19 lại là mệnh lệnh, nghĩa là 'các ông hãy'.]
 

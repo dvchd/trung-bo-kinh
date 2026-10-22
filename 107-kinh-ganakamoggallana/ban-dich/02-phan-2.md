@@ -139,7 +139,7 @@ Nhưng thưa ngài Gotama, những người con trai của các gia đình tốt
 Thưa ngài Gotama, trong tất cả các loại hương từ rễ, kālānusāri (cam tùng) được nói là loại thượng hạng.
 
 <!-- seg: mn107:16.2 -->
-Trong tất cả các loại hương từ lõi gỗ, gỗ chiên-đàn đỏ được nói là loại thượng hạng.
+Trong tất cả các loại gỗ thơm, gỗ chiên-đàn đỏ được nói là loại thượng hạng.
 
 <!-- seg: mn107:16.3 -->
 Trong tất cả các loại hương từ hoa, hoa nhài được nói là loại thượng hạng.

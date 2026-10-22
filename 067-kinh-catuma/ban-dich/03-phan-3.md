@@ -59,7 +59,7 @@ mong rằng ta có thể nhận ra sự chấm dứt của toàn bộ khối kh�
 Vị ấy đã xuất gia như vậy, buổi sáng đắp y, cầm bát và y, đi vào làng hoặc thị trấn để khất thực.
 
 <!-- seg: mn67:19.6 -->
-Vị ấy ở đó thấy một người nữ ăn mặc hở hang, không kín đáo.
+Với thân không được hộ trì, lời nói không được hộ trì, niệm không được an trú, các căn không được thu thúc, vị ấy ở đó thấy một người nữ ăn mặc hở hang, không kín đáo.
 
 <!-- seg: mn67:19.7 -->
 Thấy người nữ ấy ăn mặc hở hang, không kín đáo, lòng tham dục làm vấy bẩn tâm vị ấy.

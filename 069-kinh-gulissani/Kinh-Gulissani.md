@@ -82,6 +82,8 @@ Nếu một tỳ-kheo sống ở rừng, khi đã về giữa Tăng đoàn và �
 <!-- seg: mn69:4.4 -->
 "Vị tôn giả ở rừng này sống một mình nơi rừng vắng, tự do theo ý mình, nào có ích gì, khi mà vị ấy không biết chọn chỗ ngồi cho đúng phép?"
 
+[Chú thích: Ở chỗ này bản PTS đọc là *ābhisamācārika*, đó là dị bản không đúng; phải đọc là *āsanakusala* như các bản khác.]
+
 <!-- seg: mn69:4.5 -->
 Sẽ có những người nói về vị ấy như vậy.
 

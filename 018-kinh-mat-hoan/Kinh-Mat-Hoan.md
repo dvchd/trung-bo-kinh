@@ -261,7 +261,7 @@ Vậy chúng ta hãy đi đến Tôn giả Mahākaccāna; đến rồi, hỏi T�
 Xin Tôn giả Mahākaccāna giảng rõ cho.
 
 <!-- seg: mn18:12.1 -->
-Này các Hiền giả, ví như một người cần lõi gỗ, tìm lõi gỗ, đi tìm lõi gỗ, lại bỏ qua rễ, bỏ qua thân của một cây lớn có lõi gỗ đang đứng đó, mà tưởng rằng phải tìm lõi gỗ trong cành và lá.
+Này các Hiền giả, ví như một người cần lõi cây, tìm lõi cây, đi tìm lõi cây, lại bỏ qua rễ, bỏ qua thân của một cây lớn có lõi cây đang đứng đó, mà tưởng rằng phải tìm lõi cây trong cành và lá.
 
 <!-- seg: mn18:12.2 -->
 Sự việc đã ra như vầy nơi các Tôn giả: khi bậc Đạo sư đang hiện diện trước mặt, các vị đã bỏ qua Đức Thế Tôn mà tưởng rằng nên hỏi tôi về việc này.

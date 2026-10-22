@@ -6,7 +6,7 @@ Bài kinh này kể lại một cuộc tranh luận. Phía bên kia là Saccaka,
 
 Cuộc gặp gỡ bắt đầu một cách tình cờ. Buổi sáng hôm ấy, Tôn giả Assaji vào thành Vesālī khất thực, và Saccaka, đang đi bộ cho giãn chân, gặp ngài giữa đường. Ông ta hỏi Đức Thế Tôn dạy các đệ tử những gì. Câu trả lời thật ngắn: sắc, thọ, tưởng, hành, thức đều là vô thường và vô ngã. Saccaka mừng rỡ, vì ông ta cho rằng cách dạy ấy còn thiếu một điều hệ trọng là khổ, và như vậy là dễ bắt bẻ. Ông ta xin khoảng năm trăm người Licchavī cùng đi chứng kiến, rồi kéo đến giảng đường trong rừng Mahāvana, quyết tâm lật ngược lập luận của Đức Thế Tôn.
 
-Cuộc tranh luận diễn ra theo một lối rất đơn giản, và chính sự đơn giản ấy mới là chỗ hay. Đức Thế Tôn không đưa ra lý thuyết mới, chỉ hỏi Saccaka vài câu: sắc là thường còn hay vô thường, cái gì vô thường thì là khổ hay là lạc, cái gì vô thường và khổ thì có thích hợp để quán là của tôi, là tôi, là tự ngã của tôi chăng. Saccaka trả lời từng câu đúng như sự thật, và mỗi câu trả lời lại tự đóng chặt cánh cửa phía sau ông ta. Khi Đức Thế Tôn chỉ ra rằng chính ông ta đang bám vào cái khổ mà ông ta vừa nhận là khổ, thì lập luận của ông ta sụp đổ: nó trống rỗng như một thân cây chuối bị bóc hết bẹ, không có cả dác, huống chi lõi gỗ.
+Cuộc tranh luận diễn ra theo một lối rất đơn giản, và chính sự đơn giản ấy mới là chỗ hay. Đức Thế Tôn không đưa ra lý thuyết mới, chỉ hỏi Saccaka vài câu: sắc là thường còn hay vô thường, cái gì vô thường thì là khổ hay là lạc, cái gì vô thường và khổ thì có thích hợp để quán là của tôi, là tôi, là tự ngã của tôi chăng. Saccaka trả lời từng câu đúng như sự thật, và mỗi câu trả lời lại tự đóng chặt cánh cửa phía sau ông ta. Khi Đức Thế Tôn chỉ ra rằng chính ông ta đang bám vào cái khổ mà ông ta vừa nhận là khổ, thì lập luận của ông ta sụp đổ: nó trống rỗng như một thân cây chuối bị bóc hết bẹ, không có cả gỗ giác, huống chi lõi cây.
 
 Bài kinh cũng có những khoảnh khắc rất đời. Saccaka im lặng đến hai lần, và khi Đức Thế Tôn cảnh báo rằng ai bị hỏi đến lần thứ ba mà không trả lời thì đầu sẽ vỡ thành bảy mảnh, một dạ-xoa tên Vajirapāṇī liền xuất hiện lơ lửng trên đầu ông ta với cái chày sắt đang cháy đỏ. Ông ta hoảng sợ, vội vàng xin được trả lời. Về sau, khi Dummukha, một thanh niên Licchavī, kể thí dụ con cua bị bẻ hết càng, ông ta quay sang mắng người ta rằng chuyện ấy chỉ là nói đùa, rồi lập tức đổi giọng hỏi một câu rất lễ độ về bậc A-la-hán. Cuối cùng ông ta thỉnh Đức Thế Tôn và Tăng đoàn về nhà thọ trai ngày mai, và bài kinh khép lại bằng một nhận xét lạnh lùng mà không kém phần hài hước: phước của người cúng dường một người chưa ly tham thì thuộc về người thí chủ, còn phước của người cúng dường bậc đã ly tham thì thuộc về chính Saccaka.
 
@@ -582,7 +582,7 @@ nếu vậy thì chẳng phải chính ông là người bám víu vào khổ, �
 Đúng là như vậy, thưa ngài Gotama."
 
 <!-- seg: mn35:22.1 -->
-"Ví như, này Aggivessana, một người cần lõi gỗ, tìm lõi gỗ, đi tìm lõi gỗ, cầm một cái rìu sắc đi vào rừng.
+"Ví như, này Aggivessana, một người cần lõi cây, tìm lõi cây, đi tìm lõi cây, cầm một cái rìu sắc đi vào rừng.
 
 <!-- seg: mn35:22.2 -->
 Người ấy thấy ở đó một thân cây chuối lớn, thẳng, non, mọc không bị vặn vẹo.
@@ -591,7 +591,7 @@ Người ấy thấy ở đó một thân cây chuối lớn, thẳng, non, mọ
 Người ấy chặt nó ở gốc, chặt gốc xong chặt ngọn, chặt ngọn xong bóc các bẹ lá ra.
 
 <!-- seg: mn35:22.4 -->
-Trong khi bóc các bẹ lá ấy, người ấy không tìm được cả dác, huống chi là lõi gỗ.
+Trong khi bóc các bẹ lá ấy, người ấy không tìm được cả gỗ giác, huống chi là lõi cây.
 
 <!-- seg: mn35:22.5 -->
 Cũng vậy, này Aggivessana, khi bị Ta truy vấn, gạn hỏi, chất vấn về chính lập luận của ông, thì ông hóa ra trống rỗng, rỗng tuếch, và sai lạc.

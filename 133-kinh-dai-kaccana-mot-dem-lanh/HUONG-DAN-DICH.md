@@ -37,7 +37,7 @@ Thế Tôn tán thán lời giảng ấy và xác nhận rằng nếu được h
 | saṁhīrati | bị lay chuyển | Sujato dịch "falter" |
 | paccuppanna | đang có mặt ở hiện tại | "các pháp đang có mặt" |
 | atītamaddhāna / anāgatamaddhāna | trong quá khứ / trong tương lai | không dịch là "đời sau" |
-| sāra | lõi gỗ | hình ảnh cây trong ví dụ 9.1 |
+| sāra | lõi cây | hình ảnh cây trong ví dụ 9.1 |
 | āvuso | này hiền giả | lời gọi giữa các vị đồng phạm hạnh |
 | tapodā | suối nước nóng | Tapodārāma: tịnh xá có suối nước nóng |
 | kiccamātappa | việc cần làm là tinh cần | câu kệ 5.9 |
@@ -48,7 +48,7 @@ Thế Tôn tán thán lời giảng ấy và xác nhận rằng nếu được h
   dịch giống nhau ở cả tám chỗ.
 - `Iti me cakkhu ahosi atītamaddhānaṁ iti rūpāti` là lời tự nhủ "xưa kia mắt ta đã như vậy, các sắc
   đã như vậy", không phải một định nghĩa về con mắt; đừng dịch thành "mắt là tự ngã".
-- `atisitvā` (9.2) là "vượt qua, bỏ qua", đi với hình ảnh người tìm lõi gỗ; không dịch thành "xúc
+- `atisitvā` (9.2) là "vượt qua, bỏ qua", đi với hình ảnh người tìm lõi cây; không dịch thành "xúc
   phạm" hay "khinh thường".
 - Chuỗi `cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto` là các hợp từ cùng khuôn, phải giữ nhịp song
   song; `vattā pavattā atthassa ninnetā amatassa dātā dhammassāmī` cũng vậy.

@@ -50,7 +50,7 @@ Sân hận ấy nơi vị ấy được đoạn trừ, cùng với tùy miên c�
 Này Ānanda, có con đường và lối thực hành để từ bỏ năm hạ phần kiết sử. Không nương vào con đường ấy, lối thực hành ấy mà biết, thấy hay từ bỏ năm hạ phần kiết sử — điều ấy không thể xảy ra.
 
 <!-- seg: mn64:6.17 -->
-Ví như, này Ānanda, một cây lớn đang đứng, có lõi gỗ: không chặt qua lớp vỏ, không chặt qua lớp gỗ mềm mà lấy được lõi cây —
+Ví như, này Ānanda, một cây lớn đang đứng, có lõi cây: không chặt qua vỏ trong, không chặt qua gỗ giác mà lấy được lõi cây —
 
 <!-- seg: mn64:6.18 -->
 điều ấy không thể xảy ra.
@@ -62,7 +62,7 @@ Cũng vậy, này Ānanda, có con đường và lối thực hành để từ b
 Nhưng này Ānanda, có con đường và lối thực hành để từ bỏ năm hạ phần kiết sử; nương vào con đường ấy, lối thực hành ấy mà biết, thấy hay từ bỏ năm hạ phần kiết sử — điều ấy có thể xảy ra.
 
 <!-- seg: mn64:8.1 -->
-Ví như, này Ānanda, một cây lớn đang đứng, có lõi gỗ: sau khi chặt qua lớp vỏ, chặt qua lớp gỗ mềm, lấy được lõi cây — điều ấy có thể xảy ra.
+Ví như, này Ānanda, một cây lớn đang đứng, có lõi cây: sau khi chặt qua vỏ trong, chặt qua gỗ giác, lấy được lõi cây — điều ấy có thể xảy ra.
 
 <!-- seg: mn64:8.2 -->
 Cũng vậy, này Ānanda, có con đường và lối thực hành để từ bỏ năm hạ phần kiết sử; nương vào con đường ấy, lối thực hành ấy mà biết, thấy hay từ bỏ năm hạ phần kiết sử — điều ấy có thể xảy ra.

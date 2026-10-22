@@ -10,7 +10,7 @@ Vacchagotta bèn hỏi thẳng: vậy Ngài thấy nguy hại gì mà tránh h�
 
 Rồi Đức Thế Tôn đưa ra hình ảnh làm nên tên bài kinh. Một ngọn lửa cháy trước mặt, và người ta hỏi nó nương vào đâu mà cháy: nương vào cỏ và củi. Khi cỏ và củi hết, không có gì thêm vào, ngọn lửa tắt. Và nếu ai hỏi ngọn lửa ấy đã đi về hướng đông, nam, tây hay bắc, thì câu hỏi không có chỗ trả lời: một ngọn lửa đã tắt không đi đâu cả, vì nó không còn là một cái gì để đi. Đức Thế Tôn nói tiếp: Như Lai cũng vậy, đã được giải thoát khỏi sự tính đếm theo sắc, thọ, tưởng, hành, thức; sâu thẳm, không thể lường, khó dò thấu như biển cả. Nên những cách nói "vị ấy tái sinh", "vị ấy không tái sinh", "vừa tái sinh vừa không tái sinh", "không tái sinh cũng không phải không tái sinh" đều không áp dụng được.
 
-Vacchagotta không hiểu nổi. Ông nói rằng ở điểm này ông rơi vào hoang mang, và chút tịnh tín có được từ những lần đàm đạo trước cũng tan mất. Đức Thế Tôn không trách; Ngài bảo rằng pháp này sâu thẳm, khó thấy, khó hiểu, và khó với một người mang kiến chấp khác, sự chấp nhận khác, môn phái khác, bậc thầy khác. Rồi Ngài đổi sang một hình ảnh dễ nắm hơn: một cây sa-la lớn, cành lá, vỏ và gỗ mềm lần lượt rụng đi, cuối cùng chỉ còn phần lõi thuần khiết và vững chắc; lời dạy của Ngài cũng vậy. Nghe đến đó, Vacchagotta xin quy y và xin được nhớ đến như một người cư sĩ.
+Vacchagotta không hiểu nổi. Ông nói rằng ở điểm này ông rơi vào hoang mang, và chút tịnh tín có được từ những lần đàm đạo trước cũng tan mất. Đức Thế Tôn không trách; Ngài bảo rằng pháp này sâu thẳm, khó thấy, khó hiểu, và khó với một người mang kiến chấp khác, sự chấp nhận khác, môn phái khác, bậc thầy khác. Rồi chính Vacchagotta đáp lại bằng một hình ảnh dễ nắm hơn: một cây sa-la lớn, cành lá, vỏ và gỗ mềm lần lượt rụng đi, cuối cùng chỉ còn phần lõi thuần khiết và vững chắc; lời dạy của Ngài cũng vậy. Nghe đến đó, Vacchagotta xin quy y và xin được nhớ đến như một người cư sĩ.
 
 Người đọc hôm nay có thể thấy bài kinh này như một lời nhắc về cách đặt câu hỏi. Đức Thế Tôn không nói rằng những câu hỏi kia là ngu ngốc; Ngài nói rằng chúng không dẫn đến chỗ cần đến. Và hình ảnh ngọn lửa cho thấy một điều tinh tế: có những câu hỏi mà chính cách đặt câu hỏi đã giả định sẵn một cái gì đó, ở đây là một cái ta trường tồn để có thể đi đâu đó sau khi chết. Khi giả định ấy không còn, câu hỏi cũng mất chỗ đứng, và cái còn lại là sự an tịnh.
 
@@ -521,13 +521,13 @@ Khi Đức Thế Tôn nói vậy, du sĩ Vacchagotta nói với Đức Thế Tô
 "Thưa ngài Gotama, ví như gần một làng hay một thị trấn có một cây sa-la lớn.
 
 <!-- seg: mn72:21.3 -->
-Vì vô thường, cành và lá của nó rụng xuống, vỏ và lớp vỏ non rụng xuống, phần gỗ mềm rụng xuống;
+Vì vô thường, cành và lá của nó rụng xuống, vỏ trong và vỏ ngoài rụng xuống, gỗ giác rụng xuống;
 
 <!-- seg: mn72:21.4 -->
-sau một thời gian, nó không còn cành lá, không còn vỏ và lớp vỏ non, không còn gỗ mềm, chỉ còn thuần khiết, vững chắc nơi phần lõi;
+sau một thời gian, nó không còn cành lá, không còn vỏ trong và vỏ ngoài, không còn gỗ giác, chỉ còn thuần khiết, vững chắc nơi lõi cây;
 
 <!-- seg: mn72:21.5 -->
-cũng vậy, lời dạy của ngài Gotama đã bỏ hết cành lá, bỏ hết vỏ và lớp vỏ non, bỏ hết gỗ mềm, chỉ còn thuần khiết, vững chắc nơi phần lõi."
+cũng vậy, lời dạy của ngài Gotama đã bỏ hết cành lá, bỏ hết vỏ trong và vỏ ngoài, bỏ hết gỗ giác, chỉ còn thuần khiết, vững chắc nơi lõi cây."
 
 <!-- seg: mn72:22.1 -->
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Thưa ngài Gotama, ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt nhìn thấy các sắc. Cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp. Tôi xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.

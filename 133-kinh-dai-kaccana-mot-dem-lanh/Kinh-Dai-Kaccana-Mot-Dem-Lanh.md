@@ -8,7 +8,7 @@ Bài kinh mở ra tại Rājagaha (Vương Xá), ở Tapodārāma, tịnh xá c�
 
 Sáng hôm sau, Tôn giả Samiddhi thuật lại câu chuyện cho Đức Thế Tôn và thỉnh Ngài giảng. Đức Thế Tôn nhận lời, đọc trọn bài kệ rồi đứng dậy đi vào tịnh thất, không giảng phần phân tích. Các tỳ-kheo bối rối: Ngài nói sẽ giảng cả phần tóm tắt lẫn phần phân tích, nhưng chỉ để lại bài kệ. Họ bàn nhau tìm người hiểu được ý nghĩa, và nhớ ra Tôn giả Mahākaccāna, người được Đức Thế Tôn tán thán và được các vị đồng phạm hạnh có trí kính trọng.
 
-Tôn giả Mahākaccāna không nhận lời ngay. Ông đưa ra một ví dụ: một người cần lõi gỗ, đi tìm lõi gỗ, gặp một cây lớn có lõi gỗ, lại bỏ qua rễ và thân mà tìm lõi trong cành lá. Cũng vậy, khi bậc Đạo sư còn ngay trước mắt, các tỳ-kheo lại bỏ qua Ngài để hỏi ông. Nhưng rồi ông vẫn giảng, vì được thỉnh cầu đến lần thứ hai.
+Tôn giả Mahākaccāna không nhận lời ngay. Ông đưa ra một ví dụ: một người cần lõi cây, đi tìm lõi cây, gặp một cây lớn có lõi cây, lại bỏ qua rễ và thân mà tìm lõi trong cành lá. Cũng vậy, khi bậc Đạo sư còn ngay trước mắt, các tỳ-kheo lại bỏ qua Ngài để hỏi ông. Nhưng rồi ông vẫn giảng, vì được thỉnh cầu đến lần thứ hai.
 
 Phần phân tích của bài kinh rất gọn mà rất sâu. Quay về với quá khứ không phải là nhớ chuyện cũ, mà là để thức bị trói buộc bởi dục tham nơi những gì mình đã từng có, rồi thích thú điều ấy. Mong đợi tương lai là hướng tâm đến chỗ có được những gì mình chưa có. Bị lay chuyển giữa các pháp đang có mặt là để thức bị trói buộc ngay nơi mắt và sắc, tai và âm thanh, mũi và mùi hương, lưỡi và vị, thân và xúc, ý và các pháp. Cả ba lối ấy đều đi qua sáu giác quan, và cả ba đều được cắt đứt bằng cùng một cách: không để dục tham trói buộc thức, không thích thú, thì không còn bị cuốn đi.
 
@@ -358,7 +358,7 @@ Tôn giả Mahākaccāna có khả năng phân tích ý nghĩa của phần tóm
 "Xin Tôn giả Mahākaccāna hãy phân tích việc ấy."
 
 <!-- seg: mn133:9.1 -->
-"Này các hiền giả, ví như một người cần lõi gỗ, tìm lõi gỗ, đi lang thang tìm lõi gỗ; người ấy gặp một cây lớn đứng vững, có lõi gỗ, nhưng lại bỏ qua rễ, bỏ qua thân, tưởng rằng phải tìm lõi gỗ trong cành và lá.
+"Này các hiền giả, ví như một người cần lõi cây, tìm lõi cây, đi lang thang tìm lõi cây; người ấy gặp một cây lớn đứng vững, có lõi cây, nhưng lại bỏ qua rễ, bỏ qua thân, tưởng rằng phải tìm lõi cây trong cành và lá.
 
 <!-- seg: mn133:9.2 -->
 Này các hiền giả, các vị cũng như vậy: khi bậc Đạo sư có mặt ngay trước mắt, các vị lại bỏ qua Đức Thế Tôn mà nghĩ rằng nên hỏi tôi về việc này.

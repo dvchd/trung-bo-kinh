@@ -47,7 +47,7 @@ nếu vậy thì chẳng phải chính ông là người bám víu vào khổ, �
 Đúng là như vậy, thưa ngài Gotama."
 
 <!-- seg: mn35:22.1 -->
-"Ví như, này Aggivessana, một người cần lõi gỗ, tìm lõi gỗ, đi tìm lõi gỗ, cầm một cái rìu sắc đi vào rừng.
+"Ví như, này Aggivessana, một người cần lõi cây, tìm lõi cây, đi tìm lõi cây, cầm một cái rìu sắc đi vào rừng.
 
 <!-- seg: mn35:22.2 -->
 Người ấy thấy ở đó một thân cây chuối lớn, thẳng, non, mọc không bị vặn vẹo.
@@ -56,7 +56,7 @@ Người ấy thấy ở đó một thân cây chuối lớn, thẳng, non, mọ
 Người ấy chặt nó ở gốc, chặt gốc xong chặt ngọn, chặt ngọn xong bóc các bẹ lá ra.
 
 <!-- seg: mn35:22.4 -->
-Trong khi bóc các bẹ lá ấy, người ấy không tìm được cả dác, huống chi là lõi gỗ.
+Trong khi bóc các bẹ lá ấy, người ấy không tìm được cả gỗ giác, huống chi là lõi cây.
 
 <!-- seg: mn35:22.5 -->
 Cũng vậy, này Aggivessana, khi bị Ta truy vấn, gạn hỏi, chất vấn về chính lập luận của ông, thì ông hóa ra trống rỗng, rỗng tuếch, và sai lạc.

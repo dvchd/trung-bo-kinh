@@ -37,7 +37,7 @@ Bài kinh ghi lại cuộc gặp giữa Đức Thế Tôn và Daṇḍapāṇi, 
 | phassapaññatti | sự hiện rõ của xúc | paññatti là sự làm cho biết, sự hiện rõ |
 | ṭhānametaṁ vijjati | điều ấy là có thể | phủ định: netaṁ ṭhānaṁ vijjati, "điều ấy không thể có" |
 | uddesa | lời dạy vắn tắt | đoạn ngắn để tụng thuộc lòng, sau đó mới phân tích |
-| sāra | lõi gỗ | ẩn dụ ở 12.1, đối lập với cành và lá |
+| sāra | lõi cây | ẩn dụ ở 12.1, đối lập với cành và lá |
 | madhupiṇḍika | bánh mật | tên bài kinh và tên bài giảng ở 22.5 |
 | āvuso | này Hiền giả | lối gọi giữa các vị đồng phạm hạnh; Đức Thế Tôn cũng dùng với Daṇḍapāṇi |
 | dhammapariyāya | bài giảng Pháp | 22.3–22.5 |

@@ -93,7 +93,7 @@ Du sĩ Vacchagotta lấy một chỗ ngồi thấp, rồi ngồi xuống một b
 Ngồi một bên, du sĩ Vacchagotta nói với Đức Thế Tôn:
 
 <!-- seg: mn71:5.1 -->
-"Bạch Thế Tôn, con nghe nói rằng:
+"Thưa Ngài, con nghe nói rằng:
 
 [Chú thích: Ở AN 3.57, ông cũng hỏi Đức Thế Tôn theo cách tương tự để xác nhận lời dạy về bố thí. Còn ở SN 44.9, ông hỏi một câu có phần liên quan về sáu vị đạo sư và cách họ đoán số phận đời sau của người đã chết.]
 
@@ -106,7 +106,7 @@ Ngồi một bên, du sĩ Vacchagotta nói với Đức Thế Tôn:
 tri kiến ấy luôn hiện ra trước ta, thường xuyên và không gián đoạn, khi ta đi, khi ta đứng, khi ta ngủ và khi ta thức.'
 
 <!-- seg: mn71:5.4 -->
-Bạch Thế Tôn, những người nói như vậy: 'Sa-môn Gotama là bậc biết tất cả, thấy tất cả, tự nhận mình có tri kiến không thiếu sót; tri kiến ấy luôn hiện ra trước ta, thường xuyên và không gián đoạn, khi ta đi, khi ta đứng, khi ta ngủ và khi ta thức' — có phải họ nói đúng lời Đức Thế Tôn dạy, không xuyên tạc Đức Thế Tôn bằng điều không thật, giải thích đúng theo Pháp, và không ai có thể căn cứ vào Pháp mà chê trách được chăng?"
+Thưa Ngài, những người nói như vậy: 'Sa-môn Gotama là bậc biết tất cả, thấy tất cả, tự nhận mình có tri kiến không thiếu sót; tri kiến ấy luôn hiện ra trước ta, thường xuyên và không gián đoạn, khi ta đi, khi ta đứng, khi ta ngủ và khi ta thức' — có phải họ nói đúng lời Đức Thế Tôn dạy, không xuyên tạc Đức Thế Tôn bằng điều không thật, giải thích đúng theo Pháp, và không ai có thể căn cứ vào Pháp mà chê trách được chăng?"
 
 <!-- seg: mn71:5.5 -->
 "Này Vaccha, những người nói như vậy: 'Sa-môn Gotama là bậc biết tất cả, thấy tất cả, tự nhận mình có tri kiến không thiếu sót; tri kiến ấy luôn hiện ra trước ta, thường xuyên và không gián đoạn, khi ta đi, khi ta đứng, khi ta ngủ và khi ta thức' — họ không nói đúng lời ta dạy. Họ xuyên tạc ta bằng điều không có thật, không đúng sự thật."
@@ -114,7 +114,7 @@ Bạch Thế Tôn, những người nói như vậy: 'Sa-môn Gotama là bậc b
 [Chú thích: Ở AN 4.24, Đức Thế Tôn nói Ngài biết mọi thứ đã được thấy, được nghe, được nghĩ, được biết, được đạt tới, được tìm cầu và được tâm thăm dò, tức là biết trọn vẹn kinh nghiệm chủ quan. Ở MN 90, Ngài phủ nhận rằng có ai biết mọi thứ cùng một lúc. Về sau, sách Milindapañha đảo lại thành khẳng định rằng Đức Thế Tôn có thể biết mọi thứ, chỉ là không biết cùng một lúc, và đến các tầng văn liệu muộn hơn thì thuyết toàn tri đã thành quan điểm chuẩn.]
 
 <!-- seg: mn71:6.1 -->
-"Vậy thì bạch Thế Tôn, phải trả lời thế nào để nói đúng lời Đức Thế Tôn dạy, không xuyên tạc Đức Thế Tôn bằng điều không thật, giải thích đúng theo Pháp, và để không ai có thể căn cứ vào Pháp mà chê trách được?"
+"Vậy thì thưa Ngài, phải trả lời thế nào để nói đúng lời Đức Thế Tôn dạy, không xuyên tạc Đức Thế Tôn bằng điều không thật, giải thích đúng theo Pháp, và để không ai có thể căn cứ vào Pháp mà chê trách được?"
 
 <!-- seg: mn71:6.2 -->
 "Này Vaccha, nếu trả lời rằng: 'Sa-môn Gotama có ba minh', thì đó là nói đúng lời ta dạy, không xuyên tạc ta bằng điều không thật, giải thích đúng theo Pháp, và không ai có thể căn cứ vào Pháp mà chê trách được.
@@ -128,7 +128,7 @@ Bởi vì, này Vaccha, mỗi khi ta muốn, ta nhớ lại nhiều đời sốn
 nghĩa là: một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một ngàn đời, một trăm ngàn đời; nhiều kiếp thế giới co lại, nhiều kiếp thế giới giãn ra, nhiều kiếp thế giới vừa co lại vừa giãn ra. 'Ở nơi ấy, ta có tên như thế này, dòng họ như thế này, màu da như thế này, thức ăn như thế này, cảm thọ khổ và lạc như thế này, tuổi thọ như thế này. Từ nơi ấy chết đi, ta sinh ra ở nơi kia. Ở nơi kia, ta cũng có tên như thế này, dòng họ như thế này, màu da như thế này, thức ăn như thế này, cảm thọ khổ và lạc như thế này, tuổi thọ như thế này. Từ nơi kia chết đi, ta sinh ra ở đây.' Như vậy, ta nhớ lại nhiều đời sống trước khác nhau, với đầy đủ nét và chi tiết.
 
 <!-- seg: mn71:8.1 -->
-Bởi vì, này Vaccha, mỗi khi ta muốn, với thiên nhãn thanh tịnh, vượt quá tầm mắt của người, ta thấy các chúng sinh đang lìa đời và đang tái sinh, kẻ hèn kém, bậc cao quý, kẻ xấu xí, người xinh đẹp, kẻ đi đến cõi khổ, người đi đến cõi vui. Ta hiểu rõ các chúng sinh ấy tùy theo nghiệp mà đi: 'Những chúng sinh này đã làm ác nơi thân, nơi lời, nơi ý, đã phỉ báng các bậc thánh, đã mang tà kiến và hành theo tà kiến; sau khi thân hoại mạng chung, chúng đã sinh vào cõi dữ, đường ác, đọa xứ, địa ngục. Còn những chúng sinh kia đã làm thiện nơi thân, nơi lời, nơi ý, không phỉ báng các bậc thánh, đã mang chánh kiến và hành theo chánh kiến; sau khi thân hoại mạng chung, chúng đã sinh vào cõi lành, cõi trời.' Như vậy, với thiên nhãn thanh tịnh, vượt quá tầm mắt của người, ta thấy các chúng sinh đang lìa đời và đang tái sinh, và ta hiểu rõ các chúng sinh ấy tùy theo nghiệp mà đi.
+Bởi vì, này Vaccha, mỗi khi ta muốn, với thiên nhãn thanh tịnh, vượt quá tầm mắt của người, ta thấy các chúng sinh đang lìa đời và đang tái sinh, kẻ hèn kém, bậc cao quý, người xinh đẹp, kẻ xấu xí, người đi đến cõi vui, kẻ đi đến cõi khổ. Ta hiểu rõ các chúng sinh ấy tùy theo nghiệp mà đi: 'Những chúng sinh này đã làm ác nơi thân, nơi lời, nơi ý, đã phỉ báng các bậc thánh, đã mang tà kiến và hành theo tà kiến; sau khi thân hoại mạng chung, chúng đã sinh vào cõi dữ, đường ác, đọa xứ, địa ngục. Còn những chúng sinh kia đã làm thiện nơi thân, nơi lời, nơi ý, không phỉ báng các bậc thánh, đã mang chánh kiến và hành theo chánh kiến; sau khi thân hoại mạng chung, chúng đã sinh vào cõi lành, cõi trời.' Như vậy, với thiên nhãn thanh tịnh, vượt quá tầm mắt của người, ta thấy các chúng sinh đang lìa đời và đang tái sinh, và ta hiểu rõ các chúng sinh ấy tùy theo nghiệp mà đi.
 
 <!-- seg: mn71:9.1 -->
 Bởi vì, này Vaccha, do các lậu hoặc đã đoạn tận, ta tự mình thắng tri và chứng ngộ ngay trong đời này, rồi chứng đạt và an trú sự giải thoát của tâm và sự giải thoát bằng tuệ, cả hai đều không còn lậu hoặc.

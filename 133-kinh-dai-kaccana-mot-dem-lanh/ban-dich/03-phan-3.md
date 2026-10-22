@@ -5,7 +5,7 @@
 "Xin Tôn giả Mahākaccāna hãy phân tích việc ấy."
 
 <!-- seg: mn133:9.1 -->
-"Này các hiền giả, ví như một người cần lõi gỗ, tìm lõi gỗ, đi lang thang tìm lõi gỗ; người ấy gặp một cây lớn đứng vững, có lõi gỗ, nhưng lại bỏ qua rễ, bỏ qua thân, tưởng rằng phải tìm lõi gỗ trong cành và lá.
+"Này các hiền giả, ví như một người cần lõi cây, tìm lõi cây, đi lang thang tìm lõi cây; người ấy gặp một cây lớn đứng vững, có lõi cây, nhưng lại bỏ qua rễ, bỏ qua thân, tưởng rằng phải tìm lõi cây trong cành và lá.
 
 <!-- seg: mn133:9.2 -->
 Này các hiền giả, các vị cũng như vậy: khi bậc Đạo sư có mặt ngay trước mắt, các vị lại bỏ qua Đức Thế Tôn mà nghĩ rằng nên hỏi tôi về việc này.
