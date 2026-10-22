@@ -27,7 +27,7 @@ bằng lời chư tỳ-kheo tán thán vị ấy, và dòng kết "bài thứ ha
 | āyasmā | vị, vị ấy | 3.7 trở đi; "panāyasmato" là cách nói lịch sự với người đang được hỏi |
 | tathāgata | Như Lai | 12.3–12.4; vị ấy kể lại lúc mình được nghe Pháp |
 | sāvatthī | Sāvatthī (Xá-vệ) | 1.2; kinh đô nước Kosala |
-| jetavana | Jetavana (Kỳ Viên) | 1.2; khu vườn của thái tử Jeta |
+| jetavana | Jetavana (Kỳ-đà) | 1.2; khu vườn của thái tử Jeta |
 | anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | 1.2; người cúng dường tinh xá |
 
 ## 3. Thuật ngữ riêng của bài

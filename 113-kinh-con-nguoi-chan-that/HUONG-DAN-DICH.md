@@ -27,7 +27,7 @@ lậu hoặc tận diệt, và không còn tưởng tượng ra bất cứ đi�
 | sappuriso | người chân thật | 3.7 — cùng một đại từ "người ấy"; mỗi khối đều mở đầu bằng chủ ngữ rõ nên không nhầm |
 | Anāthapiṇḍika | Anāthapiṇḍika | 1.2 — người dâng tịnh xá; Hán-Việt quen gọi Cấp Cô Độc |
 | Sāvatthī | Sāvatthī (Xá-vệ) | 1.2 — kinh đô nước Kosala |
-| Jetavana | Jetavana (Kỳ Viên) | 1.2 — khu vườn của thái tử Jeta |
+| Jetavana | Jetavana (Kỳ-đà) | 1.2 — khu vườn của thái tử Jeta |
 
 ## 3. Thuật ngữ riêng của bài
 

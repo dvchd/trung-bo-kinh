@@ -33,7 +33,7 @@ Tối Thượng.
 | diṭṭhisampanno puggalo | người đã thành tựu kiến | 12.2; chỉ bậc Thánh từ Dự lưu trở lên, không phải người có quan điểm đúng thông thường |
 | puthujjana | kẻ phàm phu | 12.3; hạng người chưa chứng Thánh quả |
 | sāvatthī | Sāvatthī (Xá-vệ) | 1.2; kinh đô nước Kosala |
-| jetavana | Jetavana (Kỳ Viên) | 1.2; khu vườn của thái tử Jeta |
+| jetavana | Jetavana (Kỳ-đà) | 1.2; khu vườn của thái tử Jeta |
 | anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | 1.2; người cúng dường tinh xá |
 | sakka / māra / brahmā | Sakka (Đế Thích) / Māra (Ma vương) / Phạm Thiên | 15.5, 15.6; là những địa vị lãnh đạo cõi trời, không phải tên riêng của một cá nhân |
 

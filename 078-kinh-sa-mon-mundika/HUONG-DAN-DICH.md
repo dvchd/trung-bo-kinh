@@ -20,7 +20,7 @@ Bài kinh diễn ra tại Sāvatthī. Thợ mộc Pañcakaṅga rời thành gi�
 | Gotama | sa-môn Gotama | chỉ trong lời của Uggāhamāna, 3.6 và 3.7 |
 | Mallikā | Mallikā | chánh hậu của vua Pasenadi, chủ khu vườn; 1.3 |
 | Sāvatthī | Sāvatthī (Xá-vệ) | 1.2 |
-| Jetavana | rừng Jeta (Kỳ Viên) | 1.2 |
+| Jetavana | rừng Jeta (Kỳ-đà) | 1.2 |
 | Anāthapiṇḍika | gia chủ Anāthapiṇḍika (Cấp Cô Độc) | 1.2 |
 
 ## 3. Thuật ngữ riêng của bài

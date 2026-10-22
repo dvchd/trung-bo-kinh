@@ -26,7 +26,7 @@ hoan hỷ tán thán của Rāhula; bản Pali không kể việc ngài chứng 
 | āyasmā sāriputto | Tôn giả Sāriputta (Xá-lợi-phất) | người độ Rāhula xuất gia, khuyên ngài tu niệm hơi thở (mn62:5.1) |
 | anāthapiṇḍiko | Anāthapiṇḍika (Cấp Cô Độc) | gia chủ cúng dường tu viện (mn62:1.2) |
 | sāvatthī | Sāvatthī (Xá-vệ) | (mn62:1.2) |
-| jetavana | rừng Jeta (Kỳ Viên) | (mn62:1.2) |
+| jetavana | rừng Jeta (Kỳ-đà) | (mn62:1.2) |
 
 ## 3. Thuật ngữ riêng của bài
 

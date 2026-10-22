@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Tại tịnh xá Kỳ Viên, sau buổi khất thực, Đức Thế Tôn cùng ngài A-nan đến tịnh xá của bà Lộc Mẫu nghỉ trưa, rồi ra cổng phía đông tắm và ghé am của bà-la-môn Rammaka, nơi một nhóm tỳ-kheo đang bàn về hai loại tìm cầu. Ngài kể lại sự tìm cầu thấp hèn của chính mình thuở còn là Bồ-tát, rồi sự tìm cầu cao quý, việc học đạo với A-la-la Ca-lam và Ưu-đà-la La-ma-tử, sự giác ngộ tại Uruvelā, lời thỉnh cầu của Phạm Thiên Sahampati và quyết định thuyết Pháp. Bài kinh kết thúc với việc Ngài đến vườn Lộc Uyển, thuyết phục nhóm năm tỳ-kheo, và giảng về năm loại dục lạc cùng các tầng thiền dẫn đến chỗ "làm mù Ma vương" và đoạn tận lậu hoặc.
+Tại tịnh xá Kỳ-đà, sau buổi khất thực, Đức Thế Tôn cùng ngài A-nan đến tịnh xá của bà Lộc Mẫu nghỉ trưa, rồi ra cổng phía đông tắm và ghé am của bà-la-môn Rammaka, nơi một nhóm tỳ-kheo đang bàn về hai loại tìm cầu. Ngài kể lại sự tìm cầu thấp hèn của chính mình thuở còn là Bồ-tát, rồi sự tìm cầu cao quý, việc học đạo với A-la-la Ca-lam và Ưu-đà-la La-ma-tử, sự giác ngộ tại Uruvelā, lời thỉnh cầu của Phạm Thiên Sahampati và quyết định thuyết Pháp. Bài kinh kết thúc với việc Ngài đến vườn Lộc Uyển, thuyết phục nhóm năm tỳ-kheo, và giảng về năm loại dục lạc cùng các tầng thiền dẫn đến chỗ "làm mù Ma vương" và đoạn tận lậu hoặc.
 
 ## 2. Nhân vật
 

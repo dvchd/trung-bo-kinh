@@ -74,7 +74,7 @@ Mong con được xuất gia ngay trước mặt ngài Gotama, mong con được
 Tuy vậy, ở đây ta có thấy sự khác nhau giữa từng người."
 
 <!-- seg: mn73:16.3 -->
-"Bạch Thế Tôn, nếu những người trước đây đã xuất gia trong một giáo phái khác mà muốn xuất gia, muốn thọ cụ túc giới trong pháp và luật này phải trải qua bốn tháng thử thách, và sau bốn tháng, nếu các tỳ-kheo bằng lòng thì được cho xuất gia và thọ cụ túc giới để trở thành tỳ-kheo, thì con xin trải qua bốn năm thử thách. Sau bốn năm, nếu các tỳ-kheo bằng lòng, xin cho con xuất gia và thọ cụ túc giới để trở thành tỳ-kheo."
+"Thưa Ngài, nếu những người trước đây đã xuất gia trong một giáo phái khác mà muốn xuất gia, muốn thọ cụ túc giới trong pháp và luật này phải trải qua bốn tháng thử thách, và sau bốn tháng, nếu các tỳ-kheo bằng lòng thì được cho xuất gia và thọ cụ túc giới để trở thành tỳ-kheo, thì con xin trải qua bốn năm thử thách. Sau bốn năm, nếu các tỳ-kheo bằng lòng, xin cho con xuất gia và thọ cụ túc giới để trở thành tỳ-kheo."
 
 <!-- seg: mn73:16.4 -->
 Du sĩ Vacchagotta đã được xuất gia ngay trước mặt Đức Thế Tôn, đã được thọ cụ túc giới.

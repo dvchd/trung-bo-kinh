@@ -79,6 +79,8 @@ Ngay khi mắt được sinh ra, lòng tham và sự ưa thích đối với t�
 <!-- seg: mn75:23.16 -->
 Người ấy bắt đầu coi kẻ kia là kẻ thù chứ không phải bạn, coi là kẻ chống đối, và thậm chí nghĩ đến việc lấy mạng kẻ ấy:
 
+[Chú thích: Chữ daheyya ở đây nghĩa là coi là bạn; xem thêm Kinh SN 22.85:14.15.]
+
 <!-- seg: mn75:23.17 -->
 Bấy lâu nay tôi đã bị kẻ này lừa dối, đánh lừa, dụ dỗ bằng tấm vải dính dầu, bẩn thỉu, thô xấu ấy — nó bảo tôi:
 
@@ -108,6 +110,8 @@ Vì tôi đã nắm giữ chỉ có sắc, đã nắm giữ chỉ có thọ, đ�
 
 <!-- seg: mn75:24.8 -->
 Do thủ của tôi làm duyên cho hữu, hữu làm duyên cho sinh, sinh làm duyên cho già chết, sầu, bi, khổ, ưu, não cùng sinh khởi;
+
+[Chú thích: Đoạn này kết hợp năm uẩn với lý duyên khởi; xem thêm Kinh SN 22.80:9.10.]
 
 <!-- seg: mn75:24.9 -->
 đó là cách toàn bộ khối khổ này sinh khởi.'"

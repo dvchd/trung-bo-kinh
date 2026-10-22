@@ -5,7 +5,7 @@
 'Sa-môn Gotama có tuệ, thành tựu khối tuệ tối thắng;
 
 <!-- seg: mn77:13.3 -->
-rằng Ngài không thấy trước được con đường tranh luận sẽ đến trong tương lai, hay không thể dùng đúng Pháp mà khuất phục hoàn toàn học thuyết của người khác khi nó khởi lên — điều ấy không thể xảy ra.'
+rằng Ngài không thấy trước được những lời chỉ trích sẽ đến trong tương lai, hay không thể dùng đúng Pháp mà khuất phục hoàn toàn học thuyết của người khác khi nó khởi lên — điều ấy không thể xảy ra.'
 
 [Chú thích: Vādapatha ở đây mang nghĩa "sự chỉ trích, lời bắt bẻ"; trong một số văn bản khác, chữ này lại mang nghĩa "cách nói, lối tranh luận".]
 
@@ -31,7 +31,7 @@ Này Udāyi, vì các đệ tử của Ta tôn kính Ta về tuệ cao thượng
 'Sa-môn Gotama có tuệ, thành tựu khối tuệ tối thắng;
 
 <!-- seg: mn77:13.11 -->
-rằng Ngài không thấy trước được con đường tranh luận sẽ đến trong tương lai, hay không thể dùng đúng Pháp mà khuất phục học thuyết của người khác khi nó khởi lên —
+rằng Ngài không thấy trước được những lời chỉ trích sẽ đến trong tương lai, hay không thể dùng đúng Pháp mà khuất phục học thuyết của người khác khi nó khởi lên —
 
 <!-- seg: mn77:13.12 -->
 điều ấy không thể xảy ra',

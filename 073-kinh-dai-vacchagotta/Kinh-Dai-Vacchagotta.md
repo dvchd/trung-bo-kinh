@@ -52,7 +52,7 @@ Rồi du sĩ Vacchagotta đi đến chỗ Đức Thế Tôn. Đến nơi, ông c
 Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện xã giao, ông ngồi xuống một bên. Ngồi một bên, du sĩ Vacchagotta nói với Đức Thế Tôn:
 
 <!-- seg: mn73:3.1 -->
-"Thưa ngài Gotama, đã từ lâu tôi thường đàm đạo với ngài Gotama.
+"Đã từ lâu, tôi thường đàm đạo với ngài Gotama.
 
 <!-- seg: mn73:3.2 -->
 Lành thay, xin ngài Gotama dạy cho tôi biết thế nào là thiện và thế nào là bất thiện, một cách vắn tắt."
@@ -275,7 +275,7 @@ Mong con được xuất gia ngay trước mặt ngài Gotama, mong con được
 Tuy vậy, ở đây ta có thấy sự khác nhau giữa từng người."
 
 <!-- seg: mn73:16.3 -->
-"Bạch Thế Tôn, nếu những người trước đây đã xuất gia trong một giáo phái khác mà muốn xuất gia, muốn thọ cụ túc giới trong pháp và luật này phải trải qua bốn tháng thử thách, và sau bốn tháng, nếu các tỳ-kheo bằng lòng thì được cho xuất gia và thọ cụ túc giới để trở thành tỳ-kheo, thì con xin trải qua bốn năm thử thách. Sau bốn năm, nếu các tỳ-kheo bằng lòng, xin cho con xuất gia và thọ cụ túc giới để trở thành tỳ-kheo."
+"Thưa Ngài, nếu những người trước đây đã xuất gia trong một giáo phái khác mà muốn xuất gia, muốn thọ cụ túc giới trong pháp và luật này phải trải qua bốn tháng thử thách, và sau bốn tháng, nếu các tỳ-kheo bằng lòng thì được cho xuất gia và thọ cụ túc giới để trở thành tỳ-kheo, thì con xin trải qua bốn năm thử thách. Sau bốn năm, nếu các tỳ-kheo bằng lòng, xin cho con xuất gia và thọ cụ túc giới để trở thành tỳ-kheo."
 
 <!-- seg: mn73:16.4 -->
 Du sĩ Vacchagotta đã được xuất gia ngay trước mặt Đức Thế Tôn, đã được thọ cụ túc giới.
@@ -405,7 +405,7 @@ Rồi Tôn giả Vacchagotta hoan hỷ, tán thán lời Đức Thế Tôn dạy
 Rồi Tôn giả Vacchagotta sống một mình, xa lánh, không buông lơi, nhiệt tâm và quyết chí. Chẳng bao lâu, ngay trong đời này, vị ấy tự mình chứng ngộ bằng thắng trí và an trú vào sự viên mãn tối thượng của đời sống phạm hạnh, mục đích mà những người con trai tốt lành đúng đắn xuất gia, từ bỏ đời sống gia đình, sống không nhà.
 
 <!-- seg: mn73:26.2 -->
-Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, điều cần làm đã làm, không còn trở lại đời này nữa."
+Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn73:26.3 -->
 Và Tôn giả Vacchagotta trở thành một trong những bậc A-la-hán.

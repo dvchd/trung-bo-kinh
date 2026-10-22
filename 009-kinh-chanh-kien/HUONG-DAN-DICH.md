@@ -25,7 +25,7 @@ tham, sân, tà kiến và vô minh, và chấm dứt khổ ngay trong đời n�
 | bhikkhū | các tỳ-kheo | người nghe; gọi Sāriputta là "thưa Tôn giả", xưng "chúng tôi" |
 | Anāthapiṇḍika | gia chủ Anāthapiṇḍika (Cấp Cô Độc) | chỉ trong câu tả cảnh mn9:1.2 |
 | Sāvatthī | Sāvatthī (Xá-vệ) | mn9:1.2 |
-| Jetavana | rừng Jeta (Kỳ Viên) | mn9:1.2 |
+| Jetavana | rừng Jeta (Kỳ-đà) | mn9:1.2 |
 | Mahākoṭṭhita | Mahākoṭṭhita | chỉ được nhắc trong chú thích mn9:1.3 |
 | Moggallāna | Moggallāna | chỉ được nhắc trong chú thích mn9:2.2 |
 

@@ -84,7 +84,7 @@ Cũng vậy, này Udāyi, Ta đã giảng cho các đệ tử con đường th�
 Và tại đó, nhiều đệ tử của Ta an trú, đã đạt đến sự viên mãn tột cùng của thắng trí.
 
 <!-- seg: mn77:31.1 -->
-Hơn nữa, này Udāyi, Ta đã giảng cho các đệ tử con đường thực hành; thực hành theo đó, các đệ tử của Ta chứng nghiệm nhiều loại thần thông: khi là một, trở thành nhiều; khi là nhiều, trở thành một; hiện ra rồi biến mất; đi xuyên qua tường, qua thành lũy, qua núi mà không bị cản, như đi trong hư không; lặn xuống đất rồi trồi lên như ở trong nước; đi trên nước mà không chìm, như đi trên đất; ngồi kiết già đi trên hư không, như con chim có cánh; chạm tay vào mặt trăng và mặt trời, những vì ấy có thần lực lớn, uy lực lớn; cho đến cõi Phạm Thiên, vị ấy cũng điều khiển thân mình.
+Hơn nữa, này Udāyi, Ta đã giảng cho các đệ tử con đường thực hành; thực hành theo đó, các đệ tử của Ta chứng nghiệm nhiều loại thần thông: khi là một, trở thành nhiều; khi là nhiều, trở thành một; hiện ra rồi biến mất; đi xuyên qua tường, qua thành lũy, qua núi mà không bị cản, như đi trong hư không; lặn xuống đất rồi trồi lên như ở trong nước; đi trên nước mà không chìm, như đi trên đất; ngồi kiết già đi trên hư không, như con chim có cánh; chạm tay vào mặt trăng và mặt trời, những vị ấy có thần lực lớn, uy lực lớn; cho đến cõi Phạm Thiên, vị ấy cũng điều khiển thân mình.
 
 <!-- seg: mn77:31.2 -->
 Ví như, này Udāyi, một người thợ gốm khéo léo hay học trò của ông ta, với đất sét đã được nhào kỹ, có thể làm ra bất cứ loại đồ đựng nào mình muốn và làm cho nó thành hình;
@@ -100,7 +100,7 @@ hay như, này Udāyi, một người thợ vàng khéo léo hay học trò củ
 [Chú thích: Ví dụ này được triển khai chi tiết trong Tăng Chi Bộ Kinh 3.101.]
 
 <!-- seg: mn77:31.5 -->
-Cũng vậy, này Udāyi, Ta đã giảng cho các đệ tử con đường thực hành; thực hành theo đó, các đệ tử của Ta chứng nghiệm nhiều loại thần thông: khi là một, trở thành nhiều; khi là nhiều, trở thành một; hiện ra rồi biến mất; đi xuyên qua tường, qua thành lũy, qua núi mà không bị cản, như đi trong hư không; lặn xuống đất rồi trồi lên như ở trong nước; đi trên nước mà không chìm, như đi trên đất; ngồi kiết già đi trên hư không, như con chim có cánh; chạm tay vào mặt trăng và mặt trời, những vì ấy có thần lực lớn, uy lực lớn; cho đến cõi Phạm Thiên, vị ấy cũng điều khiển thân mình.
+Cũng vậy, này Udāyi, Ta đã giảng cho các đệ tử con đường thực hành; thực hành theo đó, các đệ tử của Ta chứng nghiệm nhiều loại thần thông: khi là một, trở thành nhiều; khi là nhiều, trở thành một; hiện ra rồi biến mất; đi xuyên qua tường, qua thành lũy, qua núi mà không bị cản, như đi trong hư không; lặn xuống đất rồi trồi lên như ở trong nước; đi trên nước mà không chìm, như đi trên đất; ngồi kiết già đi trên hư không, như con chim có cánh; chạm tay vào mặt trăng và mặt trời, những vị ấy có thần lực lớn, uy lực lớn; cho đến cõi Phạm Thiên, vị ấy cũng điều khiển thân mình.
 
 <!-- seg: mn77:31.6 -->
 Và tại đó, nhiều đệ tử của Ta an trú, đã đạt đến sự viên mãn tột cùng của thắng trí.

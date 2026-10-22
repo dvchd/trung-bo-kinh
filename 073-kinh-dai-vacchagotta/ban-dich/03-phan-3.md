@@ -50,7 +50,7 @@ Rồi Tôn giả Vacchagotta hoan hỷ, tán thán lời Đức Thế Tôn dạy
 Rồi Tôn giả Vacchagotta sống một mình, xa lánh, không buông lơi, nhiệt tâm và quyết chí. Chẳng bao lâu, ngay trong đời này, vị ấy tự mình chứng ngộ bằng thắng trí và an trú vào sự viên mãn tối thượng của đời sống phạm hạnh, mục đích mà những người con trai tốt lành đúng đắn xuất gia, từ bỏ đời sống gia đình, sống không nhà.
 
 <!-- seg: mn73:26.2 -->
-Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, điều cần làm đã làm, không còn trở lại đời này nữa."
+Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn73:26.3 -->
 Và Tôn giả Vacchagotta trở thành một trong những bậc A-la-hán.

@@ -1,5 +1,5 @@
 <!-- seg: mn77:33.16 -->
-"biết tâm giải thoát là 'tâm giải thoát',
+"Biết tâm giải thoát là 'tâm giải thoát',
 
 <!-- seg: mn77:33.17 -->
 biết tâm không giải thoát là 'tâm không giải thoát'.

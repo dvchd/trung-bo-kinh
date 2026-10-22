@@ -2,7 +2,7 @@
 "Này Māgaṇḍiya, ông nghĩ sao,
 
 <!-- seg: mn75:18.2 -->
-ông đã từng thấy hay từng nghe có vị vua nào, hay một quan đại thần nào của vua, đang vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng, mà không đoạn trừ tham ái đối với dục, không xua tan sự nóng bức của dục, lại sống không còn khát, tâm an tịnh bên trong — trong quá khứ, trong hiện tại hay trong vị lai không?"
+ông đã từng thấy hay từng nghe có vị vua nào, hay một quan đại thần nào của vua, đang vui hưởng, đầy đủ và trọn vẹn năm dục công đức, mà không đoạn trừ tham ái đối với dục, không xua tan sự nóng bức của dục, lại sống không còn khát, tâm an tịnh bên trong — trong quá khứ, trong hiện tại hay trong vị lai không?"
 
 <!-- seg: mn75:18.3 -->
 "Không đâu, thưa ngài Gotama."
@@ -11,7 +11,7 @@
 "Lành thay, này Māgaṇḍiya.
 
 <!-- seg: mn75:18.5 -->
-Ta cũng chưa từng thấy, chưa từng nghe có vị vua nào hay quan đại thần nào của vua, đang vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng, mà không đoạn trừ tham ái đối với dục, không xua tan sự nóng bức của dục, lại sống không còn khát, tâm an tịnh bên trong — trong quá khứ, trong hiện tại hay trong vị lai.
+Ta cũng chưa từng thấy, chưa từng nghe có vị vua nào hay quan đại thần nào của vua, đang vui hưởng, đầy đủ và trọn vẹn năm dục công đức, mà không đoạn trừ tham ái đối với dục, không xua tan sự nóng bức của dục, lại sống không còn khát, tâm an tịnh bên trong — trong quá khứ, trong hiện tại hay trong vị lai.
 
 <!-- seg: mn75:18.6 -->
 Này Māgaṇḍiya, trái lại, bất cứ sa-môn hay bà-la-môn nào trong quá khứ, hiện tại hay vị lai đã sống, đang sống hay sẽ sống không còn khát, tâm an tịnh bên trong, thì tất cả những vị ấy đều đã như thật biết sự sinh khởi, sự diệt tận, vị ngọt, sự nguy hại và sự xuất ly của các dục, đã đoạn trừ tham ái đối với dục, đã xua tan sự nóng bức của dục, nên mới sống không còn khát, tâm an tịnh bên trong."

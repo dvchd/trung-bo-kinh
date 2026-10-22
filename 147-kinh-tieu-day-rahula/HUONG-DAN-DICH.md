@@ -27,7 +27,7 @@ chư thiên chứng pháp nhãn, và bài kinh kết thúc.
 | āyasmā rāhulo | Tôn giả Rāhula | Con trai Đức Thế Tôn. Lúc này đã là tỳ-kheo trưởng thành, nên Ngài gọi bằng tên và đại từ **"ông"** — khác với "con" ở bài 61, khi Rāhula còn là sa-di nhỏ (mn147:1.7, 2.6) |
 | devatāsahassāni | hàng ngàn chư thiên | Đi theo Đức Thế Tôn vào rừng; chi tiết chỉ có ở bài này (mn147:2.1) |
 | andhavana | rừng Andhavana (Rừng Tối) | Khu rừng ở ngoại vi Sāvatthī, nơi diễn ra cuộc hỏi đáp (mn147:1.9) |
-| anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | Người cúng dường tu viện Kỳ Viên (mn147:1.2) |
+| anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | Người cúng dường tu viện Kỳ-đà (mn147:1.2) |
 
 ## 3. Thuật ngữ riêng của bài
 

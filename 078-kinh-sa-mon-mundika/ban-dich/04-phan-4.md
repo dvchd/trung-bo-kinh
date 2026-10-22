@@ -16,7 +16,7 @@ Này thợ mộc, người thực hành như vậy là thực hành để chấm
 <!-- seg: mn78:14.2 -->
 Ở đây, này thợ mộc, vị tỳ-kheo thành tựu chánh kiến của bậc vô học, thành tựu chánh tư duy của bậc vô học, thành tựu chánh ngữ của bậc vô học, thành tựu chánh nghiệp của bậc vô học, thành tựu chánh mạng của bậc vô học, thành tựu chánh tinh tấn của bậc vô học, thành tựu chánh niệm của bậc vô học, thành tựu chánh định của bậc vô học, thành tựu chánh trí của bậc vô học, thành tựu chánh giải thoát của bậc vô học—
 
-[Chú thích: Bậc vô học là bậc đã hoàn tất việc học, tức vị A-la-hán. Mười pháp ở đây gồm tám chi phần của con đường cùng chánh trí và chánh giải thoát.]
+[Chú thích của người dịch: Bậc vô học là bậc đã hoàn tất việc học, tức vị A-la-hán. Mười pháp ở đây gồm tám chi phần của con đường cùng chánh trí và chánh giải thoát.]
 
 <!-- seg: mn78:14.3 -->
 này thợ mộc, với mười pháp ấy, Ta gọi một người hội đủ mười pháp là bậc thành tựu thiện pháp, tối thắng về thiện pháp, đạt đến thành tựu tối thượng, một sa-môn không thể bị đánh bại."

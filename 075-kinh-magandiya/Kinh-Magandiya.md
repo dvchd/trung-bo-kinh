@@ -273,7 +273,7 @@ Này Māgaṇḍiya, vậy ông sẽ nói gì với người ấy?'"
 "Không có gì, thưa ngài Gotama."
 
 <!-- seg: mn75:10.1 -->
-"Này Māgaṇḍiya, còn Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
+"Này Māgaṇḍiya, còn Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục công đức: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
 
 <!-- seg: mn75:10.2 -->
 những mùi hương do mũi nhận biết, những mùi hương khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
@@ -317,7 +317,7 @@ nên khi vui hưởng niềm vui ấy, Ta không thèm muốn cái thấp kém, 
 [Chú thích: Samadhigayha tiṭṭhati nghĩa là đứng ngang bằng, sánh ngang, chứ không phải vượt hơn.]
 
 <!-- seg: mn75:11.1 -->
-"Này Māgaṇḍiya, ví như có một gia chủ hay con trai một gia chủ giàu có, nhiều của cải, nhiều tài sản, đang vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
+"Này Māgaṇḍiya, ví như có một gia chủ hay con trai một gia chủ giàu có, nhiều của cải, nhiều tài sản, đang vui hưởng, đầy đủ và trọn vẹn năm dục công đức: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
 
 <!-- seg: mn75:11.2 -->
 những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những mùi hương do mũi nhận biết, những mùi hương khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những vị do lưỡi nhận biết, những vị khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
@@ -329,13 +329,13 @@ những xúc chạm do thân nhận biết, những xúc chạm khả ái, đán
 Người ấy đã thực hành thiện nghiệp bằng thân, thực hành thiện nghiệp bằng lời, thực hành thiện nghiệp bằng ý; khi thân hoại mạng chung, sau khi chết, người ấy được sinh lên cõi lành, cõi trời, cùng chung sống với chư thiên cõi Tāvatiṁsa (Đao-lợi).
 
 <!-- seg: mn75:11.5 -->
-Ở đó, trong vườn Nandana (Hoan hỷ), người ấy được một đoàn tiên nữ vây quanh, vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng cõi trời.
+Ở đó, trong vườn Nandana (Hoan hỷ), người ấy được một đoàn tiên nữ vây quanh, vui hưởng, đầy đủ và trọn vẹn năm dục công đức cõi trời.
 
 <!-- seg: mn75:11.6 -->
-Rồi người ấy thấy một gia chủ hay con trai một gia chủ đang vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng.
+Rồi người ấy thấy một gia chủ hay con trai một gia chủ đang vui hưởng, đầy đủ và trọn vẹn năm dục công đức.
 
 <!-- seg: mn75:11.7 -->
-Này Māgaṇḍiya, ông nghĩ sao, vị thiên tử ấy — đang vui hưởng trong vườn Nandana, được một đoàn tiên nữ vây quanh, đầy đủ và trọn vẹn năm dục trưởng dưỡng cõi trời — có thèm muốn năm dục trưởng dưỡng của người gia chủ hay con trai gia chủ kia, hay có muốn quay trở lại với các dục ở cõi người không?"
+Này Māgaṇḍiya, ông nghĩ sao, vị thiên tử ấy — đang vui hưởng trong vườn Nandana, được một đoàn tiên nữ vây quanh, đầy đủ và trọn vẹn năm dục công đức cõi trời — có thèm muốn năm dục công đức của người gia chủ hay con trai gia chủ kia, hay có muốn quay trở lại với các dục ở cõi người không?"
 
 <!-- seg: mn75:11.8 -->
 "Không đâu, thưa ngài Gotama.
@@ -347,7 +347,7 @@ Vì sao vậy?
 Vì dục lạc cõi trời, thưa ngài Gotama, tốt đẹp hơn và cao quý hơn dục lạc cõi người."
 
 <!-- seg: mn75:12.1 -->
-"Này Māgaṇḍiya, cũng vậy, Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;"
+"Này Māgaṇḍiya, cũng vậy, Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục công đức: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;"
 
 ---
 
@@ -381,6 +381,8 @@ nên khi vui hưởng niềm vui ấy, Ta không thèm muốn cái thấp kém, 
 <!-- seg: mn75:13.1 -->
 "Này Māgaṇḍiya, ví như có người bị bệnh phong, thân thể đầy mụn nhọt và lở loét, bị giòi bọ đục khoét, dùng móng tay cào xé các miệng vết thương, rồi hơ thân mình trên hố than hồng.
 
+[Chú thích: Kuṭṭhī puriso nghĩa là người bị bệnh phong.]
+
 <!-- seg: mn75:13.2 -->
 Bạn bè, thân hữu, bà con, họ hàng của người ấy sẽ mời một thầy thuốc chuyên mổ đến chữa trị.
 
@@ -409,7 +411,7 @@ Vì sao vậy?
 Vì chỉ khi có bệnh mới cần dùng thuốc, thưa ngài Gotama; khi không có bệnh thì không cần dùng thuốc."
 
 <!-- seg: mn75:14.1 -->
-"Này Māgaṇḍiya, cũng vậy, Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
+"Này Māgaṇḍiya, cũng vậy, Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục công đức: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
 
 <!-- seg: mn75:14.2 -->
 những mùi hương do mũi nhận biết, những mùi hương khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
@@ -499,7 +501,7 @@ Này Māgaṇḍiya, người phong ấy — thân thể đầy mụn nhọt và
 Này Māgaṇḍiya, cũng vậy, những chúng sinh chưa lìa tham đối với dục, bị tham ái đối với dục gặm nhấm, bị sự nóng bức của dục thiêu đốt, đang thọ hưởng các dục.
 
 <!-- seg: mn75:17.4 -->
-Này Māgaṇḍiya, những chúng sinh chưa lìa tham đối với dục, bị tham ái đối với dục gặm nhấm, bị sự nóng bức của dục thiêu đốt, càng thọ hưởng các dục bao nhiêu thì tham ái đối với dục của chúng càng tăng trưởng bấy nhiêu, và chúng càng bị sự nóng bức của dục thiêu đốt; nhưng chúng vẫn có một chút khoái cảm, một chút vị ngọt, đó là nhờ năm dục trưởng dưỡng."
+Này Māgaṇḍiya, những chúng sinh chưa lìa tham đối với dục, bị tham ái đối với dục gặm nhấm, bị sự nóng bức của dục thiêu đốt, càng thọ hưởng các dục bao nhiêu thì tham ái đối với dục của chúng càng tăng trưởng bấy nhiêu, và chúng càng bị sự nóng bức của dục thiêu đốt; nhưng chúng vẫn có một chút khoái cảm, một chút vị ngọt, đó là nhờ năm dục công đức."
 
 ---
 
@@ -507,7 +509,7 @@ Này Māgaṇḍiya, những chúng sinh chưa lìa tham đối với dục, b�
 "Này Māgaṇḍiya, ông nghĩ sao,
 
 <!-- seg: mn75:18.2 -->
-ông đã từng thấy hay từng nghe có vị vua nào, hay một quan đại thần nào của vua, đang vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng, mà không đoạn trừ tham ái đối với dục, không xua tan sự nóng bức của dục, lại sống không còn khát, tâm an tịnh bên trong — trong quá khứ, trong hiện tại hay trong vị lai không?"
+ông đã từng thấy hay từng nghe có vị vua nào, hay một quan đại thần nào của vua, đang vui hưởng, đầy đủ và trọn vẹn năm dục công đức, mà không đoạn trừ tham ái đối với dục, không xua tan sự nóng bức của dục, lại sống không còn khát, tâm an tịnh bên trong — trong quá khứ, trong hiện tại hay trong vị lai không?"
 
 <!-- seg: mn75:18.3 -->
 "Không đâu, thưa ngài Gotama."
@@ -516,7 +518,7 @@ Này Māgaṇḍiya, những chúng sinh chưa lìa tham đối với dục, b�
 "Lành thay, này Māgaṇḍiya.
 
 <!-- seg: mn75:18.5 -->
-Ta cũng chưa từng thấy, chưa từng nghe có vị vua nào hay quan đại thần nào của vua, đang vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng, mà không đoạn trừ tham ái đối với dục, không xua tan sự nóng bức của dục, lại sống không còn khát, tâm an tịnh bên trong — trong quá khứ, trong hiện tại hay trong vị lai.
+Ta cũng chưa từng thấy, chưa từng nghe có vị vua nào hay quan đại thần nào của vua, đang vui hưởng, đầy đủ và trọn vẹn năm dục công đức, mà không đoạn trừ tham ái đối với dục, không xua tan sự nóng bức của dục, lại sống không còn khát, tâm an tịnh bên trong — trong quá khứ, trong hiện tại hay trong vị lai.
 
 <!-- seg: mn75:18.6 -->
 Này Māgaṇḍiya, trái lại, bất cứ sa-môn hay bà-la-môn nào trong quá khứ, hiện tại hay vị lai đã sống, đang sống hay sẽ sống không còn khát, tâm an tịnh bên trong, thì tất cả những vị ấy đều đã như thật biết sự sinh khởi, sự diệt tận, vị ngọt, sự nguy hại và sự xuất ly của các dục, đã đoạn trừ tham ái đối với dục, đã xua tan sự nóng bức của dục, nên mới sống không còn khát, tâm an tịnh bên trong."
@@ -742,6 +744,8 @@ Ngay khi mắt được sinh ra, lòng tham và sự ưa thích đối với t�
 <!-- seg: mn75:23.16 -->
 Người ấy bắt đầu coi kẻ kia là kẻ thù chứ không phải bạn, coi là kẻ chống đối, và thậm chí nghĩ đến việc lấy mạng kẻ ấy:
 
+[Chú thích: Chữ daheyya ở đây nghĩa là coi là bạn; xem thêm Kinh SN 22.85:14.15.]
+
 <!-- seg: mn75:23.17 -->
 Bấy lâu nay tôi đã bị kẻ này lừa dối, đánh lừa, dụ dỗ bằng tấm vải dính dầu, bẩn thỉu, thô xấu ấy — nó bảo tôi:
 
@@ -771,6 +775,8 @@ Vì tôi đã nắm giữ chỉ có sắc, đã nắm giữ chỉ có thọ, đ�
 
 <!-- seg: mn75:24.8 -->
 Do thủ của tôi làm duyên cho hữu, hữu làm duyên cho sinh, sinh làm duyên cho già chết, sầu, bi, khổ, ưu, não cùng sinh khởi;
+
+[Chú thích: Đoạn này kết hợp năm uẩn với lý duyên khởi; xem thêm Kinh SN 22.80:9.10.]
 
 <!-- seg: mn75:24.9 -->
 đó là cách toàn bộ khối khổ này sinh khởi.'"
@@ -829,7 +835,7 @@ Xin cho tôi được xuất gia ngay trước ngài Gotama, được thọ cụ
 Nhưng ở đây, Ta nhận thấy có sự khác biệt tùy theo từng người."
 
 <!-- seg: mn75:27.3 -->
-"Bạch Thế Tôn, nếu người trước đây đã xuất gia trong giáo phái khác mà muốn xuất gia, muốn thọ cụ túc giới trong Pháp và Luật này phải sống thời gian thử thách bốn tháng, và sau bốn tháng, nếu các tỳ-kheo hài lòng, họ sẽ cho người ấy xuất gia, cho thọ cụ túc giới để trở thành tỳ-kheo, thì con sẽ sống thời gian thử thách bốn năm. Sau bốn năm, nếu các tỳ-kheo hài lòng, xin để các vị ấy cho con xuất gia, cho con thọ cụ túc giới để trở thành tỳ-kheo."
+"Bạch Thế Tôn, nếu người trước đây đã xuất gia trong giáo phái khác mà muốn xuất gia, muốn thọ cụ túc giới trong Pháp và Luật này phải sống thời gian thử thách bốn tháng, và sau bốn tháng, nếu các tỳ-kheo hài lòng, họ sẽ cho người ấy xuất gia, cho thọ cụ túc giới để trở thành tỳ-kheo, thì tôi sẽ sống thời gian thử thách bốn năm. Sau bốn năm, nếu các tỳ-kheo hài lòng, xin để các vị ấy cho tôi xuất gia, cho tôi thọ cụ túc giới để trở thành tỳ-kheo."
 
 <!-- seg: mn75:28.1 -->
 Du sĩ Māgaṇḍiya đã được xuất gia ngay trước Đức Thế Tôn, đã được thọ cụ túc giới.

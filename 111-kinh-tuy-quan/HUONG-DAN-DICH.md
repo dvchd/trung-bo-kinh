@@ -18,7 +18,7 @@ Bài kinh diễn ra tại Sāvatthī, trong khu vườn Jetavana: Đức Thế T
 | sāriputto | ngài Sāriputta (Xá-lợi-phất) | 2.1; nhân vật chính nhưng không xuất hiện trực tiếp, chỉ được Đức Thế Tôn nhắc tên và thuật lại việc làm; sau lần đầu gọi "ngài" |
 | bhikkhū | các tỳ-kheo | 1.3; Đức Thế Tôn gọi là "này các tỳ-kheo"; các vị đáp "bạch Thế Tôn" |
 | sāvatthī | Sāvatthī (Xá-vệ) | 1.2; kinh đô nước Kosala |
-| jetavana | Jetavana (Kỳ Viên) | 1.2; khu vườn của thái tử Jeta |
+| jetavana | Jetavana (Kỳ-đà) | 1.2; khu vườn của thái tử Jeta |
 | anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | 1.2; người cúng dường tinh xá |
 | dīghanakha | du sĩ Dīghanakha | chỉ trong chú thích 2.8, nhắc tới MN 74 |
 | sañjaya | Sañjaya | chỉ trong chú thích 2.8; thầy cũ của ngài Sāriputta |

@@ -13,7 +13,7 @@ Rồi du sĩ Vacchagotta đi đến chỗ Đức Thế Tôn. Đến nơi, ông c
 Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện xã giao, ông ngồi xuống một bên. Ngồi một bên, du sĩ Vacchagotta nói với Đức Thế Tôn:
 
 <!-- seg: mn73:3.1 -->
-"Thưa ngài Gotama, đã từ lâu tôi thường đàm đạo với ngài Gotama.
+"Đã từ lâu, tôi thường đàm đạo với ngài Gotama.
 
 <!-- seg: mn73:3.2 -->
 Lành thay, xin ngài Gotama dạy cho tôi biết thế nào là thiện và thế nào là bất thiện, một cách vắn tắt."

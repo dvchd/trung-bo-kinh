@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Bài kinh là một bài giảng liền mạch của Đức Thế Tôn tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ Viên),
+Bài kinh là một bài giảng liền mạch của Đức Thế Tôn tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà),
 cho các tỳ-kheo, không có người đối thoại và không có câu chuyện. Ngài mở đầu bằng chánh định cao
 quý, nói rằng định chỉ thành chánh khi có bảy nhánh kia làm điều kiện nền tảng và phương tiện hỗ trợ,
 rồi đi qua từng nhánh của con đường: chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp và chánh
@@ -30,7 +30,7 @@ ngay trong đời này tự chuốc lấy mười lời phê phán đúng pháp.
 | bhikkhū | các tỳ-kheo | người nghe; Đức Thế Tôn gọi là "các ông", các vị đáp "Thưa Thế Tôn" và "Thưa vâng, bạch Thế Tôn" |
 | Anāthapiṇḍika | gia chủ Anāthapiṇḍika (Cấp Cô Độc) | chỉ trong câu tả cảnh mn117:1.2 |
 | Sāvatthī | Sāvatthī (Xá-vệ) | mn117:1.2 |
-| Jetavana | rừng Jeta (Kỳ Viên) | mn117:1.2 |
+| Jetavana | rừng Jeta (Kỳ-đà) | mn117:1.2 |
 | okkalā vassabhaññā | những người hô hào mạnh mẽ thuyết không nhân | mn117:38.1; cụm Pali tối nghĩa, dịch theo nghĩa bản Anh của Sujato |
 
 ## 3. Thuật ngữ riêng của bài

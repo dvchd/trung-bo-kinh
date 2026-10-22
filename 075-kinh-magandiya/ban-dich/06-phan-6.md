@@ -14,7 +14,7 @@ Xin cho tôi được xuất gia ngay trước ngài Gotama, được thọ cụ
 Nhưng ở đây, Ta nhận thấy có sự khác biệt tùy theo từng người."
 
 <!-- seg: mn75:27.3 -->
-"Bạch Thế Tôn, nếu người trước đây đã xuất gia trong giáo phái khác mà muốn xuất gia, muốn thọ cụ túc giới trong Pháp và Luật này phải sống thời gian thử thách bốn tháng, và sau bốn tháng, nếu các tỳ-kheo hài lòng, họ sẽ cho người ấy xuất gia, cho thọ cụ túc giới để trở thành tỳ-kheo, thì con sẽ sống thời gian thử thách bốn năm. Sau bốn năm, nếu các tỳ-kheo hài lòng, xin để các vị ấy cho con xuất gia, cho con thọ cụ túc giới để trở thành tỳ-kheo."
+"Bạch Thế Tôn, nếu người trước đây đã xuất gia trong giáo phái khác mà muốn xuất gia, muốn thọ cụ túc giới trong Pháp và Luật này phải sống thời gian thử thách bốn tháng, và sau bốn tháng, nếu các tỳ-kheo hài lòng, họ sẽ cho người ấy xuất gia, cho thọ cụ túc giới để trở thành tỳ-kheo, thì tôi sẽ sống thời gian thử thách bốn năm. Sau bốn năm, nếu các tỳ-kheo hài lòng, xin để các vị ấy cho tôi xuất gia, cho tôi thọ cụ túc giới để trở thành tỳ-kheo."
 
 <!-- seg: mn75:28.1 -->
 Du sĩ Māgaṇḍiya đã được xuất gia ngay trước Đức Thế Tôn, đã được thọ cụ túc giới.

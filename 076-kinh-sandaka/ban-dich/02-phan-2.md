@@ -17,7 +17,7 @@ Nếu lời của vị thầy này là đúng, thì ở đây, ta chưa làm gì
 Cả hai chúng ta ở đây đều ngang nhau, đều đạt đến một mức như nhau, thế mà ta lại là người không nói rằng cả hai chúng ta sẽ bị chặt đứt, bị tiêu diệt, sẽ không còn sau khi chết.
 
 <!-- seg: mn76:8.13 -->
-Việc vị thầy này ở trần, cạo đầu, kiễng gót mà sống, nhổ râu tóc, hóa ra là thừa thãi, bởi ta đây đang sống trong nhà có con cái chen chúc, đang hưởng gỗ chiên-đàn xứ Kāsi (Ca-thi), đang đeo vòng hoa, hương thơm và phấn sáp, đang nhận vàng và bạc, thế mà về sau ta sẽ có cùng một cảnh giới, cùng một nơi tái sinh với vị thầy ấy.
+Việc vị thầy này ở trần, cạo đầu, ngồi xổm mà sống, nhổ râu tóc, hóa ra là thừa thãi, bởi ta đây đang sống trong nhà có con cái chen chúc, đang hưởng gỗ chiên-đàn xứ Kāsi (Ca-thi), đang đeo vòng hoa, hương thơm và phấn sáp, đang nhận vàng và bạc, thế mà về sau ta sẽ có cùng một cảnh giới, cùng một nơi tái sinh với vị thầy ấy.
 
 <!-- seg: mn76:8.14 -->
 Vậy ta biết được gì, thấy được gì mà phải sống đời phạm hạnh dưới vị thầy này?
@@ -76,7 +76,7 @@ Nếu lời của vị thầy này là đúng, thì ở đây, ta chưa làm gì
 Cả hai chúng ta ở đây đều ngang nhau, đều đạt đến một mức như nhau, thế mà ta lại là người không nói rằng khi cả hai cùng làm thì không có tội ác nào được làm ra.
 
 <!-- seg: mn76:11.9 -->
-Việc vị thầy này ở trần, cạo đầu, kiễng gót mà sống, nhổ râu tóc, hóa ra là thừa thãi, bởi ta đây đang sống trong nhà có con cái chen chúc, đang hưởng gỗ chiên-đàn xứ Kāsi, đang đeo vòng hoa, hương thơm và phấn sáp, đang nhận vàng và bạc, thế mà về sau ta sẽ có cùng một cảnh giới, cùng một nơi tái sinh với vị thầy ấy.
+Việc vị thầy này ở trần, cạo đầu, ngồi xổm mà sống, nhổ râu tóc, hóa ra là thừa thãi, bởi ta đây đang sống trong nhà có con cái chen chúc, đang hưởng gỗ chiên-đàn xứ Kāsi, đang đeo vòng hoa, hương thơm và phấn sáp, đang nhận vàng và bạc, thế mà về sau ta sẽ có cùng một cảnh giới, cùng một nơi tái sinh với vị thầy ấy.
 
 <!-- seg: mn76:11.10 -->
 Vậy ta biết được gì, thấy được gì mà phải sống đời phạm hạnh dưới vị thầy này?
@@ -137,7 +137,7 @@ Nếu lời của vị thầy này là đúng, thì ở đây, ta chưa làm gì
 Cả hai chúng ta ở đây đều ngang nhau, đều đạt đến một mức như nhau, thế mà ta lại là người không nói rằng cả hai chúng ta sẽ được thanh tịnh không nhân, không duyên.
 
 <!-- seg: mn76:14.8 -->
-Việc vị thầy này ở trần, cạo đầu, kiễng gót mà sống, nhổ râu tóc, hóa ra là thừa thãi, bởi ta đây đang sống trong nhà có con cái chen chúc, đang hưởng gỗ chiên-đàn xứ Kāsi, đang đeo vòng hoa, hương thơm và phấn sáp, đang nhận vàng và bạc, thế mà về sau ta sẽ có cùng một cảnh giới, cùng một nơi tái sinh với vị thầy ấy.
+Việc vị thầy này ở trần, cạo đầu, ngồi xổm mà sống, nhổ râu tóc, hóa ra là thừa thãi, bởi ta đây đang sống trong nhà có con cái chen chúc, đang hưởng gỗ chiên-đàn xứ Kāsi, đang đeo vòng hoa, hương thơm và phấn sáp, đang nhận vàng và bạc, thế mà về sau ta sẽ có cùng một cảnh giới, cùng một nơi tái sinh với vị thầy ấy.
 
 <!-- seg: mn76:14.9 -->
 Vậy ta biết được gì, thấy được gì mà phải sống đời phạm hạnh dưới vị thầy này?

@@ -33,7 +33,7 @@ Dīghanakha thì chỉ đắc quả Dự lưu. Pháp nhãn khởi lên nơi ông
 <!-- seg: mn74:0.2 -->
 **Kinh Dīghanakha** (*Dīghanakhasutta*) — bài kinh mang tên du sĩ Dīghanakha (Trường Trảo), người đến chất vấn Đức Thế Tôn với chủ trương tất cả đều không được mình chấp nhận.
 
-[Chú thích: Dīghanakha nghĩa là móng tay dài, hẳn là một biệt danh do ông để móng tay dài theo lối khổ hạnh. Bản dịch Hán thường gọi ông là Trường Trảo.]
+[Chú thích của người dịch: Dīghanakha nghĩa là móng tay dài, hẳn là một biệt danh do ông để móng tay dài theo lối khổ hạnh; bản dịch Hán thường gọi ông là Trường Trảo.]
 
 ---
 

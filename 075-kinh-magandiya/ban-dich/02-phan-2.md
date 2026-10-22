@@ -74,7 +74,7 @@ Này Māgaṇḍiya, vậy ông sẽ nói gì với người ấy?'"
 "Không có gì, thưa ngài Gotama."
 
 <!-- seg: mn75:10.1 -->
-"Này Māgaṇḍiya, còn Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
+"Này Māgaṇḍiya, còn Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục công đức: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
 
 <!-- seg: mn75:10.2 -->
 những mùi hương do mũi nhận biết, những mùi hương khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
@@ -118,7 +118,7 @@ nên khi vui hưởng niềm vui ấy, Ta không thèm muốn cái thấp kém, 
 [Chú thích: Samadhigayha tiṭṭhati nghĩa là đứng ngang bằng, sánh ngang, chứ không phải vượt hơn.]
 
 <!-- seg: mn75:11.1 -->
-"Này Māgaṇḍiya, ví như có một gia chủ hay con trai một gia chủ giàu có, nhiều của cải, nhiều tài sản, đang vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
+"Này Māgaṇḍiya, ví như có một gia chủ hay con trai một gia chủ giàu có, nhiều của cải, nhiều tài sản, đang vui hưởng, đầy đủ và trọn vẹn năm dục công đức: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
 
 <!-- seg: mn75:11.2 -->
 những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những mùi hương do mũi nhận biết, những mùi hương khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những vị do lưỡi nhận biết, những vị khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
@@ -130,13 +130,13 @@ những xúc chạm do thân nhận biết, những xúc chạm khả ái, đán
 Người ấy đã thực hành thiện nghiệp bằng thân, thực hành thiện nghiệp bằng lời, thực hành thiện nghiệp bằng ý; khi thân hoại mạng chung, sau khi chết, người ấy được sinh lên cõi lành, cõi trời, cùng chung sống với chư thiên cõi Tāvatiṁsa (Đao-lợi).
 
 <!-- seg: mn75:11.5 -->
-Ở đó, trong vườn Nandana (Hoan hỷ), người ấy được một đoàn tiên nữ vây quanh, vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng cõi trời.
+Ở đó, trong vườn Nandana (Hoan hỷ), người ấy được một đoàn tiên nữ vây quanh, vui hưởng, đầy đủ và trọn vẹn năm dục công đức cõi trời.
 
 <!-- seg: mn75:11.6 -->
-Rồi người ấy thấy một gia chủ hay con trai một gia chủ đang vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng.
+Rồi người ấy thấy một gia chủ hay con trai một gia chủ đang vui hưởng, đầy đủ và trọn vẹn năm dục công đức.
 
 <!-- seg: mn75:11.7 -->
-Này Māgaṇḍiya, ông nghĩ sao, vị thiên tử ấy — đang vui hưởng trong vườn Nandana, được một đoàn tiên nữ vây quanh, đầy đủ và trọn vẹn năm dục trưởng dưỡng cõi trời — có thèm muốn năm dục trưởng dưỡng của người gia chủ hay con trai gia chủ kia, hay có muốn quay trở lại với các dục ở cõi người không?"
+Này Māgaṇḍiya, ông nghĩ sao, vị thiên tử ấy — đang vui hưởng trong vườn Nandana, được một đoàn tiên nữ vây quanh, đầy đủ và trọn vẹn năm dục công đức cõi trời — có thèm muốn năm dục công đức của người gia chủ hay con trai gia chủ kia, hay có muốn quay trở lại với các dục ở cõi người không?"
 
 <!-- seg: mn75:11.8 -->
 "Không đâu, thưa ngài Gotama.
@@ -148,4 +148,4 @@ Vì sao vậy?
 Vì dục lạc cõi trời, thưa ngài Gotama, tốt đẹp hơn và cao quý hơn dục lạc cõi người."
 
 <!-- seg: mn75:12.1 -->
-"Này Māgaṇḍiya, cũng vậy, Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;"
+"Này Māgaṇḍiya, cũng vậy, Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục công đức: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;"

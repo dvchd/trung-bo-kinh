@@ -28,6 +28,8 @@ nên khi vui hưởng niềm vui ấy, Ta không thèm muốn cái thấp kém, 
 <!-- seg: mn75:13.1 -->
 "Này Māgaṇḍiya, ví như có người bị bệnh phong, thân thể đầy mụn nhọt và lở loét, bị giòi bọ đục khoét, dùng móng tay cào xé các miệng vết thương, rồi hơ thân mình trên hố than hồng.
 
+[Chú thích: Kuṭṭhī puriso nghĩa là người bị bệnh phong.]
+
 <!-- seg: mn75:13.2 -->
 Bạn bè, thân hữu, bà con, họ hàng của người ấy sẽ mời một thầy thuốc chuyên mổ đến chữa trị.
 
@@ -56,7 +58,7 @@ Vì sao vậy?
 Vì chỉ khi có bệnh mới cần dùng thuốc, thưa ngài Gotama; khi không có bệnh thì không cần dùng thuốc."
 
 <!-- seg: mn75:14.1 -->
-"Này Māgaṇḍiya, cũng vậy, Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục trưởng dưỡng: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
+"Này Māgaṇḍiya, cũng vậy, Ta, trước khi còn là người sống trong nhà, đã từng vui hưởng, đầy đủ và trọn vẹn năm dục công đức: những sắc do mắt nhận biết, những sắc khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham; những âm thanh do tai nhận biết, những âm thanh khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
 
 <!-- seg: mn75:14.2 -->
 những mùi hương do mũi nhận biết, những mùi hương khả ái, đáng yêu, dễ chịu, dễ thương, liên quan đến dục, khơi dậy lòng tham;
@@ -146,4 +148,4 @@ Này Māgaṇḍiya, người phong ấy — thân thể đầy mụn nhọt và
 Này Māgaṇḍiya, cũng vậy, những chúng sinh chưa lìa tham đối với dục, bị tham ái đối với dục gặm nhấm, bị sự nóng bức của dục thiêu đốt, đang thọ hưởng các dục.
 
 <!-- seg: mn75:17.4 -->
-Này Māgaṇḍiya, những chúng sinh chưa lìa tham đối với dục, bị tham ái đối với dục gặm nhấm, bị sự nóng bức của dục thiêu đốt, càng thọ hưởng các dục bao nhiêu thì tham ái đối với dục của chúng càng tăng trưởng bấy nhiêu, và chúng càng bị sự nóng bức của dục thiêu đốt; nhưng chúng vẫn có một chút khoái cảm, một chút vị ngọt, đó là nhờ năm dục trưởng dưỡng."
+Này Māgaṇḍiya, những chúng sinh chưa lìa tham đối với dục, bị tham ái đối với dục gặm nhấm, bị sự nóng bức của dục thiêu đốt, càng thọ hưởng các dục bao nhiêu thì tham ái đối với dục của chúng càng tăng trưởng bấy nhiêu, và chúng càng bị sự nóng bức của dục thiêu đốt; nhưng chúng vẫn có một chút khoái cảm, một chút vị ngọt, đó là nhờ năm dục công đức."

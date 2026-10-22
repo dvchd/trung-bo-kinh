@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong khu vườn Jetavana (Kỳ Viên): Đức Thế Tôn gọi các tỳ-kheo
+Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong khu vườn Jetavana (Kỳ-đà): Đức Thế Tôn gọi các tỳ-kheo
 lại và mở đầu bằng một nhận định về nguồn gốc của mọi hiểm họa — chúng sinh khởi từ kẻ ngu, không
 phải từ người trí, ví như ngọn lửa bùng từ căn nhà tranh lại đốt cháy cả tòa nhà kiên cố. Tôn giả
 Ānanda lần lượt hỏi thế nào là một tỳ-kheo thiện xảo về giới, về xứ, về duyên khởi, và về điều có

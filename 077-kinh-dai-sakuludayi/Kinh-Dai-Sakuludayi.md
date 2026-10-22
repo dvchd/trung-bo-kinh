@@ -516,7 +516,7 @@ Sa-môn Gotama thuyết Pháp có thể chứng nghiệm, không phải không t
 'Sa-môn Gotama có tuệ, thành tựu khối tuệ tối thắng;
 
 <!-- seg: mn77:13.3 -->
-rằng Ngài không thấy trước được con đường tranh luận sẽ đến trong tương lai, hay không thể dùng đúng Pháp mà khuất phục hoàn toàn học thuyết của người khác khi nó khởi lên — điều ấy không thể xảy ra.'
+rằng Ngài không thấy trước được những lời chỉ trích sẽ đến trong tương lai, hay không thể dùng đúng Pháp mà khuất phục hoàn toàn học thuyết của người khác khi nó khởi lên — điều ấy không thể xảy ra.'
 
 [Chú thích: Vādapatha ở đây mang nghĩa "sự chỉ trích, lời bắt bẻ"; trong một số văn bản khác, chữ này lại mang nghĩa "cách nói, lối tranh luận".]
 
@@ -542,7 +542,7 @@ Này Udāyi, vì các đệ tử của Ta tôn kính Ta về tuệ cao thượng
 'Sa-môn Gotama có tuệ, thành tựu khối tuệ tối thắng;
 
 <!-- seg: mn77:13.11 -->
-rằng Ngài không thấy trước được con đường tranh luận sẽ đến trong tương lai, hay không thể dùng đúng Pháp mà khuất phục học thuyết của người khác khi nó khởi lên —
+rằng Ngài không thấy trước được những lời chỉ trích sẽ đến trong tương lai, hay không thể dùng đúng Pháp mà khuất phục học thuyết của người khác khi nó khởi lên —
 
 <!-- seg: mn77:13.12 -->
 điều ấy không thể xảy ra',
@@ -1091,7 +1091,7 @@ Cũng vậy, này Udāyi, Ta đã giảng cho các đệ tử con đường th�
 Và tại đó, nhiều đệ tử của Ta an trú, đã đạt đến sự viên mãn tột cùng của thắng trí.
 
 <!-- seg: mn77:31.1 -->
-Hơn nữa, này Udāyi, Ta đã giảng cho các đệ tử con đường thực hành; thực hành theo đó, các đệ tử của Ta chứng nghiệm nhiều loại thần thông: khi là một, trở thành nhiều; khi là nhiều, trở thành một; hiện ra rồi biến mất; đi xuyên qua tường, qua thành lũy, qua núi mà không bị cản, như đi trong hư không; lặn xuống đất rồi trồi lên như ở trong nước; đi trên nước mà không chìm, như đi trên đất; ngồi kiết già đi trên hư không, như con chim có cánh; chạm tay vào mặt trăng và mặt trời, những vì ấy có thần lực lớn, uy lực lớn; cho đến cõi Phạm Thiên, vị ấy cũng điều khiển thân mình.
+Hơn nữa, này Udāyi, Ta đã giảng cho các đệ tử con đường thực hành; thực hành theo đó, các đệ tử của Ta chứng nghiệm nhiều loại thần thông: khi là một, trở thành nhiều; khi là nhiều, trở thành một; hiện ra rồi biến mất; đi xuyên qua tường, qua thành lũy, qua núi mà không bị cản, như đi trong hư không; lặn xuống đất rồi trồi lên như ở trong nước; đi trên nước mà không chìm, như đi trên đất; ngồi kiết già đi trên hư không, như con chim có cánh; chạm tay vào mặt trăng và mặt trời, những vị ấy có thần lực lớn, uy lực lớn; cho đến cõi Phạm Thiên, vị ấy cũng điều khiển thân mình.
 
 <!-- seg: mn77:31.2 -->
 Ví như, này Udāyi, một người thợ gốm khéo léo hay học trò của ông ta, với đất sét đã được nhào kỹ, có thể làm ra bất cứ loại đồ đựng nào mình muốn và làm cho nó thành hình;
@@ -1107,7 +1107,7 @@ hay như, này Udāyi, một người thợ vàng khéo léo hay học trò củ
 [Chú thích: Ví dụ này được triển khai chi tiết trong Tăng Chi Bộ Kinh 3.101.]
 
 <!-- seg: mn77:31.5 -->
-Cũng vậy, này Udāyi, Ta đã giảng cho các đệ tử con đường thực hành; thực hành theo đó, các đệ tử của Ta chứng nghiệm nhiều loại thần thông: khi là một, trở thành nhiều; khi là nhiều, trở thành một; hiện ra rồi biến mất; đi xuyên qua tường, qua thành lũy, qua núi mà không bị cản, như đi trong hư không; lặn xuống đất rồi trồi lên như ở trong nước; đi trên nước mà không chìm, như đi trên đất; ngồi kiết già đi trên hư không, như con chim có cánh; chạm tay vào mặt trăng và mặt trời, những vì ấy có thần lực lớn, uy lực lớn; cho đến cõi Phạm Thiên, vị ấy cũng điều khiển thân mình.
+Cũng vậy, này Udāyi, Ta đã giảng cho các đệ tử con đường thực hành; thực hành theo đó, các đệ tử của Ta chứng nghiệm nhiều loại thần thông: khi là một, trở thành nhiều; khi là nhiều, trở thành một; hiện ra rồi biến mất; đi xuyên qua tường, qua thành lũy, qua núi mà không bị cản, như đi trong hư không; lặn xuống đất rồi trồi lên như ở trong nước; đi trên nước mà không chìm, như đi trên đất; ngồi kiết già đi trên hư không, như con chim có cánh; chạm tay vào mặt trăng và mặt trời, những vị ấy có thần lực lớn, uy lực lớn; cho đến cõi Phạm Thiên, vị ấy cũng điều khiển thân mình.
 
 <!-- seg: mn77:31.6 -->
 Và tại đó, nhiều đệ tử của Ta an trú, đã đạt đến sự viên mãn tột cùng của thắng trí.
@@ -1178,7 +1178,7 @@ biết tâm không định là 'tâm không định'."
 ---
 
 <!-- seg: mn77:33.16 -->
-"biết tâm giải thoát là 'tâm giải thoát',
+"Biết tâm giải thoát là 'tâm giải thoát',
 
 <!-- seg: mn77:33.17 -->
 biết tâm không giải thoát là 'tâm không giải thoát'.
