@@ -80,7 +80,7 @@ Chỗ nào các quan điểm ấy khởi lên, lắng lại và biểu hiện, t
 [Chú thích: Đây là tuệ của bậc Dự lưu, nơi tà kiến bị từ bỏ hoàn toàn nhờ tuệ thấy rõ sự thật về duyên khởi. Phần còn lại của bài kinh bàn về con đường tu tập dẫn đến điểm này.]
 
 <!-- seg: mn8:4.1 -->
-Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, xa lìa các dục và xa lìa các pháp bất thiện, chứng và trú vào thiền-na thứ nhất, tầng thiền có tầm có tứ, với hỷ và lạc sinh ra từ sự ly dục.
+Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, xa lìa các dục và xa lìa các pháp bất thiện, chứng đạt và an trú vào thiền-na thứ nhất, tầng thiền có tầm có tứ, với hỷ và lạc sinh ra từ sự ly dục.
 
 <!-- seg: mn8:4.2 -->
 Vị ấy nghĩ:
@@ -99,7 +99,7 @@ Trong sự huấn luyện của bậc thánh, chúng được gọi là những 
 [Chú thích: Bài kinh không hề chê các tầng thiền, vì thiền-na là phần nền tảng của con đường và về sau được xếp vào chánh định. Ý ở đây là phải chủ động tu mọi mặt của con đường, thấp hay cao, và đưa chúng vào mọi mặt của đời sống, chứ không chỉ nương vào sự ngồi thiền nơi vắng vẻ.]
 
 <!-- seg: mn8:5.1 -->
-Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, khi các tầm và tứ lắng xuống, chứng và trú vào thiền-na thứ hai, tầng thiền có sự trong sáng nội tâm, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc sinh ra từ định.
+Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, khi các tầm và tứ lắng xuống, chứng đạt và an trú vào thiền-na thứ hai, tầng thiền có sự trong sáng nội tâm, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc sinh ra từ định.
 
 <!-- seg: mn8:5.2 -->
 Vị ấy nghĩ:
@@ -114,7 +114,7 @@ Nhưng này Cunda, trong sự huấn luyện của bậc thánh, những thứ �
 Trong sự huấn luyện của bậc thánh, chúng được gọi là những sự an trú an lạc ngay trong đời này.
 
 <!-- seg: mn8:6.1 -->
-Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, khi hỷ phai nhạt, trú với xả, chánh niệm và tỉnh giác, cảm nhận sự an lạc nơi thân — điều mà các bậc thánh nói là "xả, có chánh niệm, sống an lạc" — chứng và trú vào thiền-na thứ ba.
+Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, khi hỷ phai nhạt, trú với xả, chánh niệm và tỉnh giác, cảm nhận sự an lạc nơi thân — điều mà các bậc thánh nói là "xả, có chánh niệm, sống an lạc" — chứng đạt và an trú vào thiền-na thứ ba.
 
 <!-- seg: mn8:6.2 -->
 Vị ấy nghĩ:
@@ -129,7 +129,7 @@ Nhưng này Cunda, trong sự huấn luyện của bậc thánh, những thứ �
 Trong sự huấn luyện của bậc thánh, chúng được gọi là những sự an trú an lạc ngay trong đời này.
 
 <!-- seg: mn8:7.1 -->
-Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, khi từ bỏ lạc và từ bỏ khổ, khi hỷ và ưu trước đây đã lắng xuống, chứng và trú vào thiền-na thứ tư, tầng thiền không khổ không lạc, với xả và chánh niệm trong sạch.
+Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, khi từ bỏ lạc và từ bỏ khổ, khi hỷ và ưu trước đây đã lắng xuống, chứng đạt và an trú vào thiền-na thứ tư, tầng thiền không khổ không lạc, với xả và chánh niệm trong sạch.
 
 <!-- seg: mn8:7.2 -->
 Vị ấy nghĩ:
@@ -144,7 +144,7 @@ Nhưng này Cunda, trong sự huấn luyện của bậc thánh, những thứ �
 Trong sự huấn luyện của bậc thánh, chúng được gọi là những sự an trú an lạc ngay trong đời này.
 
 <!-- seg: mn8:8.1 -->
-Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, vượt qua hoàn toàn các tưởng về sắc, khi các tưởng về sự va chạm đã lắng xuống, không tác ý đến các tưởng sai biệt, biết rằng "không gian là vô biên", chứng và trú vào xứ không gian vô biên.
+Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, vượt qua hoàn toàn các tưởng về sắc, khi các tưởng về sự va chạm đã lắng xuống, không tác ý đến các tưởng sai biệt, biết rằng "không gian là vô biên", chứng đạt và an trú vào xứ không gian vô biên.
 
 <!-- seg: mn8:8.2 -->
 Vị ấy nghĩ:
@@ -159,7 +159,7 @@ Nhưng này Cunda, trong sự huấn luyện của bậc thánh, những thứ �
 Trong sự huấn luyện của bậc thánh, chúng được gọi là những sự an trú tịch tĩnh.
 
 <!-- seg: mn8:9.1 -->
-Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, vượt qua hoàn toàn xứ không gian vô biên, biết rằng "thức là vô biên", chứng và trú vào xứ thức vô biên.
+Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, vượt qua hoàn toàn xứ không gian vô biên, biết rằng "thức là vô biên", chứng đạt và an trú vào xứ thức vô biên.
 
 <!-- seg: mn8:9.2 -->
 Vị ấy nghĩ:
@@ -174,7 +174,7 @@ Nhưng này Cunda, trong sự huấn luyện của bậc thánh, những thứ �
 Trong sự huấn luyện của bậc thánh, chúng được gọi là những sự an trú tịch tĩnh.
 
 <!-- seg: mn8:10.1 -->
-Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, vượt qua hoàn toàn xứ thức vô biên, biết rằng "không có gì cả", chứng và trú vào xứ không có gì.
+Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, vượt qua hoàn toàn xứ thức vô biên, biết rằng "không có gì cả", chứng đạt và an trú vào xứ không có gì.
 
 <!-- seg: mn8:10.2 -->
 Vị ấy nghĩ:
@@ -189,7 +189,7 @@ Nhưng này Cunda, trong sự huấn luyện của bậc thánh, những thứ �
 Trong sự huấn luyện của bậc thánh, chúng được gọi là những sự an trú tịch tĩnh.
 
 <!-- seg: mn8:11.1 -->
-Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, vượt qua hoàn toàn xứ không có gì, chứng và trú vào xứ không có tưởng cũng không phải không có tưởng.
+Này Cunda, có thể xảy ra chuyện một tỳ-kheo nọ, vượt qua hoàn toàn xứ không có gì, chứng đạt và an trú vào xứ không có tưởng cũng không phải không có tưởng.
 
 <!-- seg: mn8:11.2 -->
 Vị ấy nghĩ:

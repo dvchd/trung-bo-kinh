@@ -1,5 +1,5 @@
 <!-- seg: mn52:13.1 -->
-"Lại nữa, này gia chủ, một vị tỳ-kheo vượt qua hoàn toàn không vô biên xứ, nhận biết 'thức là vô biên', chứng và trú thức vô biên xứ.
+"Lại nữa, này gia chủ, một vị tỳ-kheo vượt qua hoàn toàn không vô biên xứ, nhận biết 'thức là vô biên', chứng đạt và an trú thức vô biên xứ.
 
 <!-- seg: mn52:13.2 -->
 Vị ấy suy xét như vầy:
@@ -17,7 +17,7 @@ Vị ấy vững trú ở đó và đi đến chỗ đoạn tận các lậu ho�
 Này gia chủ, đây cũng là một pháp mà Đức Thế Tôn — bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác — đã dạy, mà nhờ đó một vị tỳ-kheo sống không xao lãng, nhiệt tâm, quyết chí, thì tâm chưa được giải thoát được giải thoát, các lậu hoặc chưa được đoạn tận đi đến đoạn tận, và vị ấy chứng đạt vô thượng an ổn khỏi các ách phược mà trước đó chưa từng đạt.
 
 <!-- seg: mn52:14.1 -->
-Lại nữa, này gia chủ, một vị tỳ-kheo vượt qua hoàn toàn thức vô biên xứ, nhận biết 'không có gì cả', chứng và trú vô sở hữu xứ.
+Lại nữa, này gia chủ, một vị tỳ-kheo vượt qua hoàn toàn thức vô biên xứ, nhận biết 'không có gì cả', chứng đạt và an trú vô sở hữu xứ.
 
 <!-- seg: mn52:14.2 -->
 Vị ấy suy xét như vầy:

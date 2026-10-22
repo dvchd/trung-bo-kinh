@@ -137,13 +137,13 @@ Nhưng khi Đức Thế Tôn truy vấn, gạn hỏi, chất vấn chúng con v�
 "Nhưng thưa Ngài, con đường thực hành có căn cứ để chứng nghiệm thế giới an lạc tuyệt đối ấy là gì?"
 
 <!-- seg: mn79:25.1 -->
-"Này Udāyi, ở đây một tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú thiền-na thứ nhất, có tầm có tứ, có hỷ và lạc do sự ly dục sinh ra;
+"Này Udāyi, ở đây một tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú thiền-na thứ nhất, có tầm có tứ, có hỷ và lạc do sự ly dục sinh ra;
 
 <!-- seg: mn79:25.2 -->
-do tầm và tứ lắng yên, vị ấy chứng và trú thiền-na thứ hai, nội tâm thanh tịnh, tâm chuyên nhất, không tầm không tứ, có hỷ và lạc do định sinh ra;
+do tầm và tứ lắng yên, vị ấy chứng đạt và an trú thiền-na thứ hai, nội tâm thanh tịnh, tâm chuyên nhất, không tầm không tứ, có hỷ và lạc do định sinh ra;
 
 <!-- seg: mn79:25.3 -->
-do ly hỷ, vị ấy sống xả, chánh niệm tỉnh giác, thân cảm nhận lạc, chứng và trú thiền-na thứ ba, mà các bậc thánh nói là 'sống xả, có chánh niệm, an trú trong lạc' —
+do ly hỷ, vị ấy sống xả, chánh niệm tỉnh giác, thân cảm nhận lạc, chứng đạt và an trú thiền-na thứ ba, mà các bậc thánh nói là 'sống xả, có chánh niệm, an trú trong lạc' —
 
 <!-- seg: mn79:25.4 -->
 này Udāyi, đó là con đường thực hành có căn cứ để chứng nghiệm thế giới an lạc tuyệt đối."

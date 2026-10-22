@@ -230,7 +230,7 @@ Này Anuruddha và các ông, ở đây, một tỳ-kheo nghe rằng:
 vị ấy đã được Đức Thế Tôn tuyên bố—
 
 <!-- seg: mn68:10.4 -->
-vị ấy đã chứng ngộ và an trú."
+vị ấy đã chứng đạt và an trú."
 
 <!-- seg: mn68:10.5 -->
 Và vị tỳ-kheo ấy hoặc đã tự mình thấy vị Tôn giả kia, hoặc đã nghe người khác kể lại rằng:
@@ -326,7 +326,7 @@ Này Anuruddha và các ông, ở đây, một tỳ-kheo-ni nghe rằng:
 vị ấy đã được Đức Thế Tôn tuyên bố—
 
 <!-- seg: mn68:14.4 -->
-vị ấy đã chứng ngộ và an trú."
+vị ấy đã chứng đạt và an trú."
 
 <!-- seg: mn68:14.5 -->
 Và vị tỳ-kheo-ni ấy hoặc đã tự mình thấy vị kia, hoặc đã nghe người khác kể lại rằng:

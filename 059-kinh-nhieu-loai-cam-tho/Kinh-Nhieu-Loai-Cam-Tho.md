@@ -216,7 +216,7 @@ Này Ānanda, vì có một lạc khác, cao hơn và vi tế hơn lạc ấy.
 Này Ānanda, lạc ấy là gì?
 
 <!-- seg: mn59:7.5 -->
-Ở đây, này Ānanda, vị tỳ-kheo ly khỏi các dục, ly khỏi các pháp bất thiện, chứng và trú vào thiền-na thứ nhất (tầng thiền định thứ nhất), có tầm và tứ, với hỷ lạc do ly dục sinh.
+Ở đây, này Ānanda, vị tỳ-kheo ly khỏi các dục, ly khỏi các pháp bất thiện, chứng đạt và an trú vào thiền-na thứ nhất (tầng thiền định thứ nhất), có tầm và tứ, với hỷ lạc do ly dục sinh.
 
 <!-- seg: mn59:7.6 -->
 Này Ānanda, đây là một lạc khác, cao hơn và vi tế hơn lạc ấy."
@@ -234,7 +234,7 @@ Này Ānanda, vì có một lạc khác, cao hơn và vi tế hơn lạc ấy.
 Này Ānanda, lạc ấy là gì?
 
 <!-- seg: mn59:8.5 -->
-Ở đây, này Ānanda, khi tầm và tứ lắng xuống, vị tỳ-kheo chứng và trú vào thiền-na thứ hai: nội tâm tĩnh lặng, tâm chuyên nhất, không tầm không tứ, với hỷ lạc do định sinh.
+Ở đây, này Ānanda, khi tầm và tứ lắng xuống, vị tỳ-kheo chứng đạt và an trú vào thiền-na thứ hai: nội tâm tĩnh lặng, tâm chuyên nhất, không tầm không tứ, với hỷ lạc do định sinh.
 
 <!-- seg: mn59:8.6 -->
 Này Ānanda, đây là một lạc khác, cao hơn và vi tế hơn lạc ấy."
@@ -249,7 +249,7 @@ Này Ānanda, vì có một lạc khác, cao hơn và vi tế hơn lạc ấy.
 Này Ānanda, lạc ấy là gì?
 
 <!-- seg: mn59:9.4 -->
-Ở đây, này Ānanda, do ly hỷ, vị tỳ-kheo trú với tâm xả, chánh niệm và tỉnh giác, cảm nhận lạc bằng thân; vị ấy chứng và trú vào thiền-na thứ ba, tầng thiền mà các bậc thánh gọi là 'người trú lạc, có xả và chánh niệm'.
+Ở đây, này Ānanda, do ly hỷ, vị tỳ-kheo trú với tâm xả, chánh niệm và tỉnh giác, cảm nhận lạc bằng thân; vị ấy chứng đạt và an trú vào thiền-na thứ ba, tầng thiền mà các bậc thánh gọi là 'người trú lạc, có xả và chánh niệm'.
 
 <!-- seg: mn59:9.5 -->
 Này Ānanda, đây là một lạc khác, cao hơn và vi tế hơn lạc ấy."
@@ -264,7 +264,7 @@ Này Ānanda, vì có một lạc khác, cao hơn và vi tế hơn lạc ấy.
 Này Ānanda, lạc ấy là gì?
 
 <!-- seg: mn59:10.4 -->
-Ở đây, này Ānanda, do đoạn trừ lạc và đoạn trừ khổ, do hỷ và ưu trước đây đã lặng mất, vị tỳ-kheo chứng và trú vào thiền-na thứ tư: không khổ không lạc, với xả và chánh niệm thanh tịnh.
+Ở đây, này Ānanda, do đoạn trừ lạc và đoạn trừ khổ, do hỷ và ưu trước đây đã lặng mất, vị tỳ-kheo chứng đạt và an trú vào thiền-na thứ tư: không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 [Chú thích: Điều này xác nhận cách hiểu của thợ mộc Pañcakaṅga rằng cảm thọ không khổ không lạc có thể được xem là một loại lạc vi tế.]
 
@@ -281,7 +281,7 @@ Này Ānanda, vì có một lạc khác, cao hơn và vi tế hơn lạc ấy.
 Này Ānanda, lạc ấy là gì?
 
 <!-- seg: mn59:11.4 -->
-Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn các tưởng về sắc, làm lắng diệt các tưởng về đối ngại, không tác ý đến các tưởng sai biệt, nhận biết 'hư không là vô biên', chứng và trú vào không vô biên xứ.
+Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn các tưởng về sắc, làm lắng diệt các tưởng về đối ngại, không tác ý đến các tưởng sai biệt, nhận biết 'hư không là vô biên', chứng đạt và an trú vào không vô biên xứ.
 
 <!-- seg: mn59:11.5 -->
 Này Ānanda, đây là một lạc khác, cao hơn và vi tế hơn lạc ấy."
@@ -296,7 +296,7 @@ Này Ānanda, vì có một lạc khác, cao hơn và vi tế hơn lạc ấy.
 Này Ānanda, lạc ấy là gì?
 
 <!-- seg: mn59:12.4 -->
-Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn không vô biên xứ, nhận biết 'thức là vô biên', chứng và trú vào thức vô biên xứ.
+Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn không vô biên xứ, nhận biết 'thức là vô biên', chứng đạt và an trú vào thức vô biên xứ.
 
 <!-- seg: mn59:12.5 -->
 Này Ānanda, đây là một lạc khác, cao hơn và vi tế hơn lạc ấy."
@@ -311,7 +311,7 @@ Này Ānanda, vì có một lạc khác, cao hơn và vi tế hơn lạc ấy.
 Này Ānanda, lạc ấy là gì?
 
 <!-- seg: mn59:13.4 -->
-Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn thức vô biên xứ, nhận biết 'không có gì cả', chứng và trú vào vô sở hữu xứ.
+Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn thức vô biên xứ, nhận biết 'không có gì cả', chứng đạt và an trú vào vô sở hữu xứ.
 
 <!-- seg: mn59:13.5 -->
 Này Ānanda, đây là một lạc khác, cao hơn và vi tế hơn lạc ấy."
@@ -326,7 +326,7 @@ Này Ānanda, vì có một lạc khác, cao hơn và vi tế hơn lạc ấy.
 Này Ānanda, lạc ấy là gì?
 
 <!-- seg: mn59:14.4 -->
-Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn vô sở hữu xứ, chứng và trú vào phi tưởng phi phi tưởng xứ.
+Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn vô sở hữu xứ, chứng đạt và an trú vào phi tưởng phi phi tưởng xứ.
 
 <!-- seg: mn59:14.5 -->
 Này Ānanda, đây là một lạc khác, cao hơn và vi tế hơn lạc ấy."
@@ -344,7 +344,7 @@ Này Ānanda, vì có một lạc khác, cao hơn và vi tế hơn lạc ấy.
 Này Ānanda, lạc ấy là gì?
 
 <!-- seg: mn59:15.5 -->
-Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn phi tưởng phi phi tưởng xứ, chứng và trú vào sự diệt thọ tưởng.
+Ở đây, này Ānanda, vị tỳ-kheo vượt qua hoàn toàn phi tưởng phi phi tưởng xứ, chứng đạt và an trú vào sự diệt thọ tưởng.
 
 [Chú thích của người dịch: Sự diệt thọ tưởng là trạng thái trong đó tưởng và thọ tạm thời ngưng nghỉ.]
 

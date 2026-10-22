@@ -84,31 +84,31 @@ Vị ấy hướng thuần đến cái đẹp —
 đó là hướng thứ ba.
 
 <!-- seg: mn137:27.7 -->
-Do vượt qua hoàn toàn các tưởng về sắc, do sự chấm dứt các tưởng về chướng ngại, do không tác ý đến các tưởng về sự đa dạng, vị ấy biết "không gian là vô biên", chứng và trú vào xứ không gian vô biên —
+Do vượt qua hoàn toàn các tưởng về sắc, do sự chấm dứt các tưởng về chướng ngại, do không tác ý đến các tưởng về sự đa dạng, vị ấy biết "không gian là vô biên", chứng đạt và an trú vào xứ không gian vô biên —
 
 <!-- seg: mn137:27.8 -->
 đó là hướng thứ tư.
 
 <!-- seg: mn137:27.9 -->
-Do vượt qua hoàn toàn xứ không gian vô biên, vị ấy biết "thức là vô biên", chứng và trú vào xứ thức vô biên —
+Do vượt qua hoàn toàn xứ không gian vô biên, vị ấy biết "thức là vô biên", chứng đạt và an trú vào xứ thức vô biên —
 
 <!-- seg: mn137:27.10 -->
 đó là hướng thứ năm.
 
 <!-- seg: mn137:27.11 -->
-Do vượt qua hoàn toàn xứ thức vô biên, vị ấy biết "không có gì cả", chứng và trú vào xứ vô sở hữu —
+Do vượt qua hoàn toàn xứ thức vô biên, vị ấy biết "không có gì cả", chứng đạt và an trú vào xứ vô sở hữu —
 
 <!-- seg: mn137:27.12 -->
 đó là hướng thứ sáu.
 
 <!-- seg: mn137:27.13 -->
-Do vượt qua hoàn toàn xứ vô sở hữu, vị ấy chứng và trú vào xứ phi tưởng phi phi tưởng —
+Do vượt qua hoàn toàn xứ vô sở hữu, vị ấy chứng đạt và an trú vào xứ phi tưởng phi phi tưởng —
 
 <!-- seg: mn137:27.14 -->
 đó là hướng thứ bảy.
 
 <!-- seg: mn137:27.15 -->
-Do vượt qua hoàn toàn xứ phi tưởng phi phi tưởng, vị ấy chứng và trú vào sự diệt tận tưởng và cảm thọ —
+Do vượt qua hoàn toàn xứ phi tưởng phi phi tưởng, vị ấy chứng đạt và an trú vào sự diệt tận tưởng và cảm thọ —
 
 <!-- seg: mn137:27.16 -->
 đó là hướng thứ tám.

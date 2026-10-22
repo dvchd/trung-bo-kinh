@@ -282,7 +282,7 @@ Do đoạn trừ chúng, tâm của vị ấy lắng yên ngay bên trong, an tr
 Đó cũng là cách, này các tỳ-kheo, vị tỳ-kheo tu tập niệm thân.
 
 <!-- seg: mn119:18.1 -->
-Lại nữa, này các tỳ-kheo, vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú thiền-na thứ nhất, một trạng thái có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi.
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú thiền-na thứ nhất, một trạng thái có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi.
 
 [Chú thích: Trong Kinh Niệm Xứ, việc nhập thiền-na chỉ được ngụ ý qua phần quán thọ, quán tâm và quán pháp, còn bốn thiền-na được nêu rõ trong bản mở rộng (DN 22). Ở bài kinh này, chúng giữ vai trò trung tâm hơn hẳn.]
 
@@ -309,7 +309,7 @@ Do đoạn trừ chúng, tâm của vị ấy lắng yên ngay bên trong, an tr
 Đó cũng là cách, này các tỳ-kheo, vị tỳ-kheo tu tập niệm thân.
 
 <!-- seg: mn119:19.1 -->
-Lại nữa, này các tỳ-kheo, khi tầm và tứ lắng xuống, vị tỳ-kheo chứng và trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi.
+Lại nữa, này các tỳ-kheo, khi tầm và tứ lắng xuống, vị tỳ-kheo chứng đạt và an trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi.
 
 <!-- seg: mn119:19.2 -->
 Vị ấy rưới đẫm, thấm đẫm, làm tràn đầy, làm thấm khắp thân này bằng hỷ và lạc do định sinh khởi; không có chỗ nào nơi toàn thân ấy lại không được hỷ và lạc do định sinh khởi thấm khắp.
@@ -329,7 +329,7 @@ Khi vị ấy sống như vậy — không phóng dật, nhiệt tâm, đã dố
 Đó cũng là cách, này các tỳ-kheo, vị tỳ-kheo tu tập niệm thân.
 
 <!-- seg: mn119:20.1 -->
-Lại nữa, này các tỳ-kheo, khi hỷ đã lìa, vị tỳ-kheo trú với xả, chánh niệm và tỉnh giác, và cảm nhận lạc bằng thân; vị ấy chứng và trú thiền-na thứ ba, trạng thái mà các bậc thánh tuyên bố: 'Người có xả và chánh niệm thì sống an lạc.'
+Lại nữa, này các tỳ-kheo, khi hỷ đã lìa, vị tỳ-kheo trú với xả, chánh niệm và tỉnh giác, và cảm nhận lạc bằng thân; vị ấy chứng đạt và an trú thiền-na thứ ba, trạng thái mà các bậc thánh tuyên bố: 'Người có xả và chánh niệm thì sống an lạc.'
 
 <!-- seg: mn119:20.2 -->
 Vị ấy rưới đẫm, thấm đẫm, làm tràn đầy, làm thấm khắp thân này bằng lạc không có hỷ; không có chỗ nào nơi toàn thân ấy lại không được lạc không có hỷ thấm khắp.
@@ -349,7 +349,7 @@ Khi vị ấy sống như vậy — không phóng dật, nhiệt tâm, đã dố
 Đó cũng là cách, này các tỳ-kheo, vị tỳ-kheo tu tập niệm thân.
 
 <!-- seg: mn119:21.1 -->
-Lại nữa, này các tỳ-kheo, sau khi từ bỏ lạc và từ bỏ khổ, và khi hỷ và ưu từ trước đã chấm dứt, vị tỳ-kheo chứng và trú thiền-na thứ tư, trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
+Lại nữa, này các tỳ-kheo, sau khi từ bỏ lạc và từ bỏ khổ, và khi hỷ và ưu từ trước đã chấm dứt, vị tỳ-kheo chứng đạt và an trú thiền-na thứ tư, trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn119:21.2 -->
 Vị ấy ngồi, trùm khắp thân này bằng tâm thanh tịnh, trong sáng; không có chỗ nào nơi toàn thân ấy lại không được tâm thanh tịnh, trong sáng ấy trùm khắp.

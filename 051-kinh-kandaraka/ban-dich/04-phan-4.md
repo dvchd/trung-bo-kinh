@@ -56,16 +56,16 @@ từ bỏ hoài nghi, sống đã vượt qua hoài nghi, không còn do dự v�
 Vị ấy từ bỏ năm chướng ngại này, những thứ làm ô nhiễm tâm và làm yếu đi tuệ,
 
 <!-- seg: mn51:20.2 -->
-ly dục, ly các pháp bất thiện, vị ấy chứng và trú thiền-na thứ nhất, một trạng thái có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi;
+ly dục, ly các pháp bất thiện, vị ấy chứng đạt và an trú thiền-na thứ nhất, một trạng thái có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi;
 
 <!-- seg: mn51:21.1 -->
-khi tầm và tứ lắng xuống, vị ấy chứng và trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi;
+khi tầm và tứ lắng xuống, vị ấy chứng đạt và an trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi;
 
 <!-- seg: mn51:22.1 -->
-khi hỷ đã lìa, vị ấy trú với xả, chánh niệm và tỉnh giác, và cảm nhận lạc bằng thân; vị ấy chứng và trú thiền-na thứ ba, trạng thái mà các bậc thánh tuyên bố: "Người có xả và chánh niệm thì sống an lạc";
+khi hỷ đã lìa, vị ấy trú với xả, chánh niệm và tỉnh giác, và cảm nhận lạc bằng thân; vị ấy chứng đạt và an trú thiền-na thứ ba, trạng thái mà các bậc thánh tuyên bố: "Người có xả và chánh niệm thì sống an lạc";
 
 <!-- seg: mn51:23.1 -->
-sau khi từ bỏ lạc và từ bỏ khổ, và khi hỷ và ưu từ trước đã chấm dứt, vị ấy chứng và trú thiền-na thứ tư, trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
+sau khi từ bỏ lạc và từ bỏ khổ, và khi hỷ và ưu từ trước đã chấm dứt, vị ấy chứng đạt và an trú thiền-na thứ tư, trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn51:24.1 -->
 Khi tâm đã định như vậy — trong sạch, sáng tỏ, không cấu uế, đã lìa các ô nhiễm, mềm mỏng, dễ sử dụng, vững chắc, đạt đến bất động — vị ấy hướng tâm đến trí nhớ lại các đời sống quá khứ.

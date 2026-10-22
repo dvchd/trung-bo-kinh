@@ -387,7 +387,7 @@ Và đối với tri kiến ấy, vị ấy khởi lên ước muốn, nỗ lự
 Này bà-la-môn, những pháp nào cao hơn và tốt đẹp hơn tri kiến?
 
 <!-- seg: mn30:13.1 -->
-Ở đây, này bà-la-môn, vị tỳ-kheo ly khỏi các dục, ly khỏi các pháp bất thiện, chứng và trú vào thiền-na thứ nhất, có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi.
+Ở đây, này bà-la-môn, vị tỳ-kheo ly khỏi các dục, ly khỏi các pháp bất thiện, chứng đạt và an trú vào thiền-na thứ nhất, có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi.
 
 [Chú thích: Bài kinh trước đi thẳng từ tri kiến đến giải thoát cuối cùng, còn bài này chèn thêm một khối văn dài về chín tầng định. Nhiều dấu hiệu cho thấy khối văn ấy được thêm vào sau: các tầng thiền-na đã nằm trong phần thành tựu định ở trên, và ở đó định dẫn tới tri kiến theo trình tự thông thường chứ không thấp hơn tri kiến như ở đây. Bài này mang tên Tiểu so với bài Đại trước đó nhưng lại dài hơn vì khối văn thêm ấy, và bản Hán tương ứng duy nhất cũng không có đoạn này.]
 
@@ -395,49 +395,49 @@ Này bà-la-môn, những pháp nào cao hơn và tốt đẹp hơn tri kiến?
 Này bà-la-môn, pháp này cũng cao hơn và tốt đẹp hơn tri kiến.
 
 <!-- seg: mn30:14.1 -->
-Lại nữa, này bà-la-môn, vị tỳ-kheo do tầm và tứ được lắng xuống, nội tâm được trong sáng, tâm đạt đến chuyên nhất, chứng và trú vào thiền-na thứ hai, không tầm, không tứ, với hỷ và lạc do định sinh khởi.
+Lại nữa, này bà-la-môn, vị tỳ-kheo do tầm và tứ được lắng xuống, nội tâm được trong sáng, tâm đạt đến chuyên nhất, chứng đạt và an trú vào thiền-na thứ hai, không tầm, không tứ, với hỷ và lạc do định sinh khởi.
 
 <!-- seg: mn30:14.2 -->
 Này bà-la-môn, pháp này cũng cao hơn và tốt đẹp hơn tri kiến.
 
 <!-- seg: mn30:15.1 -->
-Lại nữa, này bà-la-môn, vị tỳ-kheo do ly hỷ, sống với xả, có chánh niệm và tỉnh giác, thân cảm nhận được lạc thọ, chứng và trú vào thiền-na thứ ba, mà các bậc thánh gọi là 'sống với xả, có chánh niệm, an trú trong lạc'.
+Lại nữa, này bà-la-môn, vị tỳ-kheo do ly hỷ, sống với xả, có chánh niệm và tỉnh giác, thân cảm nhận được lạc thọ, chứng đạt và an trú vào thiền-na thứ ba, mà các bậc thánh gọi là 'sống với xả, có chánh niệm, an trú trong lạc'.
 
 <!-- seg: mn30:15.2 -->
 Này bà-la-môn, pháp này cũng cao hơn và tốt đẹp hơn tri kiến.
 
 <!-- seg: mn30:16.1 -->
-Lại nữa, này bà-la-môn, vị tỳ-kheo do từ bỏ lạc, do từ bỏ khổ, do hỷ và ưu trước đây đã lắng xuống, chứng và trú vào thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm thanh tịnh.
+Lại nữa, này bà-la-môn, vị tỳ-kheo do từ bỏ lạc, do từ bỏ khổ, do hỷ và ưu trước đây đã lắng xuống, chứng đạt và an trú vào thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn30:16.2 -->
 Này bà-la-môn, pháp này cũng cao hơn và tốt đẹp hơn tri kiến.
 
 <!-- seg: mn30:17.1 -->
-Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua các tưởng về sắc, do các tưởng về sự chống đối đã lắng xuống, do không tác ý đến các tưởng về sự sai biệt, biết rằng 'hư không là vô biên', chứng và trú vào Không vô biên xứ.
+Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua các tưởng về sắc, do các tưởng về sự chống đối đã lắng xuống, do không tác ý đến các tưởng về sự sai biệt, biết rằng 'hư không là vô biên', chứng đạt và an trú vào Không vô biên xứ.
 
 <!-- seg: mn30:17.2 -->
 Này bà-la-môn, pháp này cũng cao hơn và tốt đẹp hơn tri kiến.
 
 <!-- seg: mn30:18.1 -->
-Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua Không vô biên xứ, biết rằng 'thức là vô biên', chứng và trú vào Thức vô biên xứ.
+Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua Không vô biên xứ, biết rằng 'thức là vô biên', chứng đạt và an trú vào Thức vô biên xứ.
 
 <!-- seg: mn30:18.2 -->
 Này bà-la-môn, pháp này cũng cao hơn và tốt đẹp hơn tri kiến.
 
 <!-- seg: mn30:19.1 -->
-Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua Thức vô biên xứ, biết rằng 'không có gì cả', chứng và trú vào Vô sở hữu xứ.
+Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua Thức vô biên xứ, biết rằng 'không có gì cả', chứng đạt và an trú vào Vô sở hữu xứ.
 
 <!-- seg: mn30:19.2 -->
 Này bà-la-môn, pháp này cũng cao hơn và tốt đẹp hơn tri kiến.
 
 <!-- seg: mn30:20.1 -->
-Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua Vô sở hữu xứ, chứng và trú vào Phi tưởng phi phi tưởng xứ.
+Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua Vô sở hữu xứ, chứng đạt và an trú vào Phi tưởng phi phi tưởng xứ.
 
 <!-- seg: mn30:20.2 -->
 Này bà-la-môn, pháp này cũng cao hơn và tốt đẹp hơn tri kiến.
 
 <!-- seg: mn30:21.1 -->
-Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua Phi tưởng phi phi tưởng xứ, chứng và trú vào sự diệt tận thọ và tưởng; và với tuệ, sau khi đã thấy, các lậu hoặc của vị ấy được đoạn tận.
+Lại nữa, này bà-la-môn, vị tỳ-kheo hoàn toàn vượt qua Phi tưởng phi phi tưởng xứ, chứng đạt và an trú vào sự diệt tận thọ và tưởng; và với tuệ, sau khi đã thấy, các lậu hoặc của vị ấy được đoạn tận.
 
 <!-- seg: mn30:21.2 -->
 Này bà-la-môn, pháp này cũng cao hơn và tốt đẹp hơn tri kiến.

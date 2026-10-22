@@ -875,16 +875,16 @@ Một gia chủ, hay con của một gia chủ, hay một người sinh trong m�
 Vị ấy từ bỏ năm triền cái này, những cấu uế của tâm làm yếu ớt tuệ,
 
 <!-- seg: mn60:40-54.4 -->
-rồi ly dục, ly các pháp bất thiện, chứng và trú tầng thiền-na thứ nhất, có tầm có tứ, có hỷ và lạc do sự ly dục sinh ra.
+rồi ly dục, ly các pháp bất thiện, chứng đạt và an trú tầng thiền-na thứ nhất, có tầm có tứ, có hỷ và lạc do sự ly dục sinh ra.
 
 <!-- seg: mn60:40-54.5 -->
-Khi tầm và tứ đã lặng xuống, vị ấy chứng và trú tầng thiền-na thứ hai, có sự an tịnh nội tâm, có sự nhất tâm, không tầm không tứ, có hỷ và lạc do định sinh ra.
+Khi tầm và tứ đã lặng xuống, vị ấy chứng đạt và an trú tầng thiền-na thứ hai, có sự an tịnh nội tâm, có sự nhất tâm, không tầm không tứ, có hỷ và lạc do định sinh ra.
 
 <!-- seg: mn60:40-54.6 -->
 Với sự ly hỷ, vị ấy trú xả, có chánh niệm và tỉnh giác, thân cảm thọ lạc, và chứng tầng thiền-na thứ ba, mà các bậc thánh nói là "người trú xả, có chánh niệm, sống an lạc".
 
 <!-- seg: mn60:40-54.7 -->
-Sau khi đoạn trừ lạc và khổ, sau khi diệt trừ hỷ và ưu có từ trước, vị ấy chứng và trú tầng thiền-na thứ tư, không khổ không lạc, có sự thanh tịnh của xả và chánh niệm.
+Sau khi đoạn trừ lạc và khổ, sau khi diệt trừ hỷ và ưu có từ trước, vị ấy chứng đạt và an trú tầng thiền-na thứ tư, không khổ không lạc, có sự thanh tịnh của xả và chánh niệm.
 
 <!-- seg: mn60:55.1 -->
 Với tâm đã định như vậy, thanh tịnh, trong sáng, không cấu uế, đã lìa các ô nhiễm, đã trở nên mềm mại, dễ sử dụng, vững vàng, đạt đến bất động, vị ấy hướng tâm đến trí nhớ về các đời sống quá khứ.

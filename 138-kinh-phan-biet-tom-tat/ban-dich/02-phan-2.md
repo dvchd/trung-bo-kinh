@@ -69,7 +69,7 @@ Và này chư hiền, thế nào gọi là mắc kẹt ở bên trong?
 [Chú thích: Trong câu tóm tắt chính, thức là chủ ngữ của cả ba mệnh đề. Khi ba mệnh đề ấy được tách ra, chủ ngữ bị bỏ trống.]
 
 <!-- seg: mn138:12.2 -->
-Ở đây, này chư hiền, tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú thiền-na thứ nhất, có tầm có tứ, với hỷ và lạc do ly dục sinh.
+Ở đây, này chư hiền, tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú thiền-na thứ nhất, có tầm có tứ, với hỷ và lạc do ly dục sinh.
 
 <!-- seg: mn138:12.3 -->
 Thức của vị ấy chạy theo hỷ và lạc do ly dục sinh, dính chặt vào vị ngọt của hỷ và lạc do ly dục sinh, bị trói buộc vào vị ngọt của hỷ và lạc do ly dục sinh, bị xiềng xích bởi kiết sử của vị ngọt nơi hỷ và lạc do ly dục sinh; như vậy gọi là tâm mắc kẹt ở bên trong.
@@ -77,13 +77,13 @@ Thức của vị ấy chạy theo hỷ và lạc do ly dục sinh, dính chặt
 [Chú thích: Định là kết quả của sự buông bỏ, và sự buông bỏ ấy cũng áp dụng cho chính định, nên không nên bằng lòng dừng lại ở đó. Ở phần này, vì nói về các tầng thiền, Mahākaccāna chuyển từ "thức" sang "tâm".]
 
 <!-- seg: mn138:13.1 -->
-Lại nữa, này chư hiền, tỳ-kheo do tầm và tứ lắng xuống, đạt được nội tâm thanh tịnh, tâm chuyên nhất, chứng và trú thiền-na thứ hai, không tầm không tứ, với hỷ và lạc do định sinh.
+Lại nữa, này chư hiền, tỳ-kheo do tầm và tứ lắng xuống, đạt được nội tâm thanh tịnh, tâm chuyên nhất, chứng đạt và an trú thiền-na thứ hai, không tầm không tứ, với hỷ và lạc do định sinh.
 
 <!-- seg: mn138:13.2 -->
 Thức của vị ấy chạy theo hỷ và lạc do định sinh, dính chặt vào vị ngọt của hỷ và lạc do định sinh, bị trói buộc vào vị ngọt của hỷ và lạc do định sinh, bị xiềng xích bởi kiết sử của vị ngọt nơi hỷ và lạc do định sinh; như vậy gọi là tâm mắc kẹt ở bên trong.
 
 <!-- seg: mn138:14.1 -->
-Lại nữa, này chư hiền, tỳ-kheo do ly hỷ, trú xả, chánh niệm tỉnh giác, thân cảm nhận lạc; vị ấy chứng và trú thiền-na thứ ba, mà các bậc thánh gọi là 'trú xả, chánh niệm, sống an lạc'.
+Lại nữa, này chư hiền, tỳ-kheo do ly hỷ, trú xả, chánh niệm tỉnh giác, thân cảm nhận lạc; vị ấy chứng đạt và an trú thiền-na thứ ba, mà các bậc thánh gọi là 'trú xả, chánh niệm, sống an lạc'.
 
 <!-- seg: mn138:14.2 -->
 Thức của vị ấy chạy theo xả, dính chặt vào vị ngọt của lạc với xả, bị trói buộc vào vị ngọt của lạc với xả, bị xiềng xích bởi kiết sử của vị ngọt nơi lạc với xả; như vậy gọi là tâm mắc kẹt ở bên trong.
@@ -91,7 +91,7 @@ Thức của vị ấy chạy theo xả, dính chặt vào vị ngọt của l�
 [Chú thích: Bản Pali dùng "xả" ở chỗ thứ nhất, còn những chỗ sau thì dùng "lạc với xả".]
 
 <!-- seg: mn138:15.1 -->
-Lại nữa, này chư hiền, tỳ-kheo do đoạn lạc, do đoạn khổ, do hỷ và ưu trước đó đã lắng xuống, chứng và trú thiền-na thứ tư, không khổ không lạc, xả và chánh niệm thanh tịnh.
+Lại nữa, này chư hiền, tỳ-kheo do đoạn lạc, do đoạn khổ, do hỷ và ưu trước đó đã lắng xuống, chứng đạt và an trú thiền-na thứ tư, không khổ không lạc, xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn138:15.2 -->
 Thức của vị ấy chạy theo cái không khổ không lạc, dính chặt vào vị ngọt của cái không khổ không lạc, bị trói buộc vào vị ngọt của cái không khổ không lạc, bị xiềng xích bởi kiết sử của vị ngọt nơi cái không khổ không lạc; như vậy gọi là tâm mắc kẹt ở bên trong.
@@ -105,7 +105,7 @@ Này chư hiền, đó là cách gọi mắc kẹt ở bên trong.
 Và này chư hiền, thế nào gọi là không mắc kẹt ở bên trong?
 
 <!-- seg: mn138:16.2 -->
-Ở đây, này chư hiền, tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú thiền-na thứ nhất, có tầm có tứ, với hỷ và lạc do ly dục sinh.
+Ở đây, này chư hiền, tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú thiền-na thứ nhất, có tầm có tứ, với hỷ và lạc do ly dục sinh.
 
 <!-- seg: mn138:16.3 -->
 Thức của vị ấy không chạy theo hỷ và lạc do ly dục sinh, không dính chặt vào vị ngọt của hỷ và lạc do ly dục sinh, không bị trói buộc vào vị ngọt của hỷ và lạc do ly dục sinh, không bị xiềng xích bởi kiết sử của vị ngọt nơi hỷ và lạc do ly dục sinh; như vậy gọi là tâm không mắc kẹt ở bên trong.
@@ -113,19 +113,19 @@ Thức của vị ấy không chạy theo hỷ và lạc do ly dục sinh, khôn
 [Chú thích: Cách giải thoát khỏi sự mắc kẹt bên trong là tiếp tục làm sâu thêm định bằng cách buông bỏ nhiều hơn, chứ không phải tránh định vì sợ bị dính mắc như một số thầy dạy thiền ở thế kỷ 20 đã chủ trương.]
 
 <!-- seg: mn138:17.1 -->
-Lại nữa, này chư hiền, tỳ-kheo do tầm và tứ lắng xuống, đạt được nội tâm thanh tịnh, tâm chuyên nhất, chứng và trú thiền-na thứ hai, không tầm không tứ, với hỷ và lạc do định sinh.
+Lại nữa, này chư hiền, tỳ-kheo do tầm và tứ lắng xuống, đạt được nội tâm thanh tịnh, tâm chuyên nhất, chứng đạt và an trú thiền-na thứ hai, không tầm không tứ, với hỷ và lạc do định sinh.
 
 <!-- seg: mn138:17.2 -->
 Thức của vị ấy không chạy theo hỷ và lạc do định sinh, không dính chặt vào vị ngọt của hỷ và lạc do định sinh, không bị trói buộc vào vị ngọt của hỷ và lạc do định sinh, không bị xiềng xích bởi kiết sử của vị ngọt nơi hỷ và lạc do định sinh; như vậy gọi là tâm không mắc kẹt ở bên trong.
 
 <!-- seg: mn138:18.1 -->
-Lại nữa, này chư hiền, tỳ-kheo do ly hỷ, trú xả, chánh niệm tỉnh giác, thân cảm nhận lạc; vị ấy chứng và trú thiền-na thứ ba, mà các bậc thánh gọi là 'trú xả, chánh niệm, sống an lạc'.
+Lại nữa, này chư hiền, tỳ-kheo do ly hỷ, trú xả, chánh niệm tỉnh giác, thân cảm nhận lạc; vị ấy chứng đạt và an trú thiền-na thứ ba, mà các bậc thánh gọi là 'trú xả, chánh niệm, sống an lạc'.
 
 <!-- seg: mn138:18.2 -->
 Thức của vị ấy không chạy theo xả, không dính chặt vào vị ngọt của lạc với xả, không bị trói buộc vào vị ngọt của lạc với xả, không bị xiềng xích bởi kiết sử của vị ngọt nơi lạc với xả; như vậy gọi là tâm không mắc kẹt ở bên trong.
 
 <!-- seg: mn138:19.1 -->
-Lại nữa, này chư hiền, tỳ-kheo do đoạn lạc, do đoạn khổ, do hỷ và ưu trước đó đã lắng xuống, chứng và trú thiền-na thứ tư, không khổ không lạc, xả và chánh niệm thanh tịnh.
+Lại nữa, này chư hiền, tỳ-kheo do đoạn lạc, do đoạn khổ, do hỷ và ưu trước đó đã lắng xuống, chứng đạt và an trú thiền-na thứ tư, không khổ không lạc, xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn138:19.2 -->
 Thức của vị ấy không chạy theo cái không khổ không lạc, không dính chặt vào vị ngọt của cái không khổ không lạc, không bị trói buộc vào vị ngọt của cái không khổ không lạc, không bị xiềng xích bởi kiết sử của vị ngọt nơi cái không khổ không lạc; như vậy gọi là tâm không mắc kẹt ở bên trong.

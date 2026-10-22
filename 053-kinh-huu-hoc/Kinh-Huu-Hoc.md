@@ -224,16 +224,16 @@ Như vậy, này Mahānāma, vị thánh đệ tử thành tựu bảy thiện p
 Và này Mahānāma, thế nào là vị thánh đệ tử có được bốn thiền-na — những trạng thái thuộc tâm cao hơn, là chỗ an trú an lạc ngay trong đời này — khi muốn là được, không khó khăn, không vất vả?
 
 <!-- seg: mn53:18.2 -->
-Ở đây, này Mahānāma, vị thánh đệ tử ly dục, ly các pháp bất thiện, chứng và trú thiền-na thứ nhất, một trạng thái có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi;
+Ở đây, này Mahānāma, vị thánh đệ tử ly dục, ly các pháp bất thiện, chứng đạt và an trú thiền-na thứ nhất, một trạng thái có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi;
 
 <!-- seg: mn53:18.3 -->
-khi tầm và tứ lắng xuống, vị ấy chứng và trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi;
+khi tầm và tứ lắng xuống, vị ấy chứng đạt và an trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi;
 
 <!-- seg: mn53:18.4 -->
-khi hỷ đã lìa, vị ấy trú với xả, chánh niệm và tỉnh giác, cảm nhận lạc bằng thân, chứng và trú thiền-na thứ ba, trạng thái mà các bậc thánh tuyên bố: 'Người có xả và chánh niệm thì sống an lạc';
+khi hỷ đã lìa, vị ấy trú với xả, chánh niệm và tỉnh giác, cảm nhận lạc bằng thân, chứng đạt và an trú thiền-na thứ ba, trạng thái mà các bậc thánh tuyên bố: 'Người có xả và chánh niệm thì sống an lạc';
 
 <!-- seg: mn53:18.5 -->
-sau khi từ bỏ lạc và từ bỏ khổ, và khi hỷ và ưu từ trước đã chấm dứt, vị ấy chứng và trú thiền-na thứ tư, trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
+sau khi từ bỏ lạc và từ bỏ khổ, và khi hỷ và ưu từ trước đã chấm dứt, vị ấy chứng đạt và an trú thiền-na thứ tư, trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn53:18.6 -->
 Như vậy, này Mahānāma, vị thánh đệ tử có được bốn thiền-na — những trạng thái thuộc tâm cao hơn, là chỗ an trú an lạc ngay trong đời này — khi muốn là được, không khó khăn, không vất vả.

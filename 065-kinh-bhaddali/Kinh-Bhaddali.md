@@ -342,7 +342,7 @@ Khi vị ấy sống tách biệt như vậy, bậc Đạo sư không khiển tr
 Vị ấy không bị bậc Đạo sư khiển trách, không bị các vị đồng phạm hạnh có trí sau khi xem xét khiển trách, không bị chư thiên khiển trách, và không tự khiển trách mình, nên chứng đắc sự thù thắng về tri kiến và tuệ giác, xứng đáng bậc Thánh và vượt ngoài những gì thuộc loài người.
 
 <!-- seg: mn65:16.1 -->
-Vị ấy ly dục, ly các pháp bất thiện, chứng và trú vào thiền-na thứ nhất, có tầm, có tứ, với hỷ và lạc sinh ra từ sự ly dục.
+Vị ấy ly dục, ly các pháp bất thiện, chứng đạt và an trú vào thiền-na thứ nhất, có tầm, có tứ, với hỷ và lạc sinh ra từ sự ly dục.
 
 <!-- seg: mn65:16.2 -->
 Vì sao vậy?
@@ -351,7 +351,7 @@ Vì sao vậy?
 Vì đó là điều tự nhiên, này Bhaddāli, đối với người làm tròn sự học tập theo lời dạy của bậc Đạo sư.
 
 <!-- seg: mn65:17.1 -->
-Lại nữa, này Bhaddāli, do tầm và tứ lắng yên, vị ấy chứng và trú vào thiền-na thứ hai, là trạng thái nội tâm thanh tịnh, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc sinh ra từ định."
+Lại nữa, này Bhaddāli, do tầm và tứ lắng yên, vị ấy chứng đạt và an trú vào thiền-na thứ hai, là trạng thái nội tâm thanh tịnh, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc sinh ra từ định."
 
 ---
 
@@ -362,7 +362,7 @@ Vì sao vậy?
 Vì đó là điều tự nhiên, này Bhaddāli, đối với người làm tròn sự học tập theo lời dạy của bậc Đạo sư.
 
 <!-- seg: mn65:17.4 -->
-Lại nữa, này Bhaddāli, do ly hỷ, vị ấy trú trong xả, có chánh niệm và tỉnh giác, thân cảm nhận được lạc; vị ấy chứng và trú vào thiền-na thứ ba, mà các bậc Thánh gọi là 'sống an lạc với xả và niệm'.
+Lại nữa, này Bhaddāli, do ly hỷ, vị ấy trú trong xả, có chánh niệm và tỉnh giác, thân cảm nhận được lạc; vị ấy chứng đạt và an trú vào thiền-na thứ ba, mà các bậc Thánh gọi là 'sống an lạc với xả và niệm'.
 
 <!-- seg: mn65:17.5 -->
 Vì sao vậy?
@@ -371,7 +371,7 @@ Vì sao vậy?
 Vì đó là điều tự nhiên, này Bhaddāli, đối với người làm tròn sự học tập theo lời dạy của bậc Đạo sư.
 
 <!-- seg: mn65:17.7 -->
-Lại nữa, này Bhaddāli, do đoạn trừ lạc và đoạn trừ khổ, do hỷ và ưu trước đó đã lắng hẳn, vị ấy chứng và trú vào thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm hoàn toàn thanh tịnh.
+Lại nữa, này Bhaddāli, do đoạn trừ lạc và đoạn trừ khổ, do hỷ và ưu trước đó đã lắng hẳn, vị ấy chứng đạt và an trú vào thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm hoàn toàn thanh tịnh.
 
 <!-- seg: mn65:17.8 -->
 Vì sao vậy?

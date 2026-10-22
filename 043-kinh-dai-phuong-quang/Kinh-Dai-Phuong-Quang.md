@@ -318,7 +318,7 @@ thì không có sự sinh ra một dạng tồn tại mới trong tương lai."
 "Thưa hiền giả, vậy tầng thiền-na thứ nhất là gì?"
 
 <!-- seg: mn43:18.2 -->
-"Này hiền giả, ở đây một tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú tầng thiền-na thứ nhất, có tầm, có tứ, có hỷ và lạc do sự ly dục sinh ra —
+"Này hiền giả, ở đây một tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú tầng thiền-na thứ nhất, có tầm, có tứ, có hỷ và lạc do sự ly dục sinh ra —
 
 <!-- seg: mn43:18.3 -->
 này hiền giả, đây gọi là tầng thiền-na thứ nhất."
@@ -482,7 +482,7 @@ Này hiền giả, giữa người đã chết, đã qua đời, và tỳ-kheo �
 "Này hiền giả, có bốn duyên để chứng đạt tâm giải thoát không khổ không lạc.
 
 <!-- seg: mn43:26.3 -->
-Này hiền giả, ở đây một tỳ-kheo do từ bỏ lạc, do từ bỏ khổ, và do sự chấm dứt của hỷ và ưu có từ trước, chứng và trú tầng thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm thanh tịnh.
+Này hiền giả, ở đây một tỳ-kheo do từ bỏ lạc, do từ bỏ khổ, và do sự chấm dứt của hỷ và ưu có từ trước, chứng đạt và an trú tầng thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn43:26.4 -->
 Này hiền giả, đó là bốn duyên để chứng đạt tâm giải thoát không khổ không lạc."
@@ -562,7 +562,7 @@ Này hiền giả, đây gọi là tâm giải thoát vô lượng."
 "Thưa hiền giả, tâm giải thoát vô sở hữu là gì?"
 
 <!-- seg: mn43:32.2 -->
-"Này hiền giả, ở đây một tỳ-kheo vượt qua hoàn toàn xứ Thức vô biên, biết 'không có gì cả', chứng và trú xứ Vô sở hữu.
+"Này hiền giả, ở đây một tỳ-kheo vượt qua hoàn toàn xứ Thức vô biên, biết 'không có gì cả', chứng đạt và an trú xứ Vô sở hữu.
 
 <!-- seg: mn43:32.3 -->
 Này hiền giả, đây gọi là tâm giải thoát vô sở hữu."
@@ -583,7 +583,7 @@ Này hiền giả, đây gọi là tâm giải thoát không."
 "Thưa hiền giả, tâm giải thoát vô tướng là gì?"
 
 <!-- seg: mn43:34.2 -->
-"Này hiền giả, ở đây một tỳ-kheo, do không tác ý đến mọi tướng, chứng và trú định vô tướng của tâm.
+"Này hiền giả, ở đây một tỳ-kheo, do không tác ý đến mọi tướng, chứng đạt và an trú định vô tướng của tâm.
 
 <!-- seg: mn43:34.3 -->
 Này hiền giả, đây gọi là tâm giải thoát vô tướng.

@@ -80,7 +80,7 @@ Có những pháp được nhận biết bằng ý — đáng ưa, đáng muốn
 Khi đã biết tính vô thường của các sắc — sự biến đổi, sự phai nhạt, sự chấm dứt của chúng — và với tuệ chân chánh thấy đúng như thật rằng: "Trước kia cũng vậy, nay cũng vậy, tất cả các sắc ấy đều vô thường, là khổ, là pháp biến đổi", thì vị ấy khơi lên sự mong mỏi đối với những giải thoát tối thượng:
 
 <!-- seg: mn137:13.3 -->
-"Bao giờ ta mới chứng và trú vào xứ mà các bậc Thánh hôm nay đang chứng và trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
+"Bao giờ ta mới chứng đạt và an trú vào xứ mà các bậc Thánh hôm nay đang chứng đạt và an trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
 
 [Chú thích: Xem chú thích ở MN 44:28.6.]
 
@@ -88,22 +88,22 @@ Khi đã biết tính vô thường của các sắc — sự biến đổi, s�
 Ưu như vậy được gọi là ưu gắn với sự xuất ly.
 
 <!-- seg: mn137:13.5 -->
-Khi đã biết tính vô thường của các âm thanh — sự biến đổi, sự phai nhạt, sự chấm dứt của chúng — và với tuệ chân chánh thấy đúng như thật rằng: "Trước kia cũng vậy, nay cũng vậy, tất cả các âm thanh ấy đều vô thường, là khổ, là pháp biến đổi", thì vị ấy khơi lên sự mong mỏi đối với những giải thoát tối thượng: "Bao giờ ta mới chứng và trú vào xứ mà các bậc Thánh hôm nay đang chứng và trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
+Khi đã biết tính vô thường của các âm thanh — sự biến đổi, sự phai nhạt, sự chấm dứt của chúng — và với tuệ chân chánh thấy đúng như thật rằng: "Trước kia cũng vậy, nay cũng vậy, tất cả các âm thanh ấy đều vô thường, là khổ, là pháp biến đổi", thì vị ấy khơi lên sự mong mỏi đối với những giải thoát tối thượng: "Bao giờ ta mới chứng đạt và an trú vào xứ mà các bậc Thánh hôm nay đang chứng đạt và an trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
 
 <!-- seg: mn137:13.6 -->
-Khi đã biết tính vô thường của các mùi — sự biến đổi, sự phai nhạt, sự chấm dứt của chúng — và với tuệ chân chánh thấy đúng như thật rằng: "Trước kia cũng vậy, nay cũng vậy, tất cả các mùi ấy đều vô thường, là khổ, là pháp biến đổi", thì vị ấy khơi lên sự mong mỏi đối với những giải thoát tối thượng: "Bao giờ ta mới chứng và trú vào xứ mà các bậc Thánh hôm nay đang chứng và trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
+Khi đã biết tính vô thường của các mùi — sự biến đổi, sự phai nhạt, sự chấm dứt của chúng — và với tuệ chân chánh thấy đúng như thật rằng: "Trước kia cũng vậy, nay cũng vậy, tất cả các mùi ấy đều vô thường, là khổ, là pháp biến đổi", thì vị ấy khơi lên sự mong mỏi đối với những giải thoát tối thượng: "Bao giờ ta mới chứng đạt và an trú vào xứ mà các bậc Thánh hôm nay đang chứng đạt và an trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
 
 <!-- seg: mn137:13.7 -->
-Khi đã biết tính vô thường của các vị — sự biến đổi, sự phai nhạt, sự chấm dứt của chúng — và với tuệ chân chánh thấy đúng như thật rằng: "Trước kia cũng vậy, nay cũng vậy, tất cả các vị ấy đều vô thường, là khổ, là pháp biến đổi", thì vị ấy khơi lên sự mong mỏi đối với những giải thoát tối thượng: "Bao giờ ta mới chứng và trú vào xứ mà các bậc Thánh hôm nay đang chứng và trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
+Khi đã biết tính vô thường của các vị — sự biến đổi, sự phai nhạt, sự chấm dứt của chúng — và với tuệ chân chánh thấy đúng như thật rằng: "Trước kia cũng vậy, nay cũng vậy, tất cả các vị ấy đều vô thường, là khổ, là pháp biến đổi", thì vị ấy khơi lên sự mong mỏi đối với những giải thoát tối thượng: "Bao giờ ta mới chứng đạt và an trú vào xứ mà các bậc Thánh hôm nay đang chứng đạt và an trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
 
 <!-- seg: mn137:13.8 -->
-Khi đã biết tính vô thường của các xúc — sự biến đổi, sự phai nhạt, sự chấm dứt của chúng — và với tuệ chân chánh thấy đúng như thật rằng: "Trước kia cũng vậy, nay cũng vậy, tất cả các xúc ấy đều vô thường, là khổ, là pháp biến đổi", thì vị ấy khơi lên sự mong mỏi đối với những giải thoát tối thượng: "Bao giờ ta mới chứng và trú vào xứ mà các bậc Thánh hôm nay đang chứng và trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
+Khi đã biết tính vô thường của các xúc — sự biến đổi, sự phai nhạt, sự chấm dứt của chúng — và với tuệ chân chánh thấy đúng như thật rằng: "Trước kia cũng vậy, nay cũng vậy, tất cả các xúc ấy đều vô thường, là khổ, là pháp biến đổi", thì vị ấy khơi lên sự mong mỏi đối với những giải thoát tối thượng: "Bao giờ ta mới chứng đạt và an trú vào xứ mà các bậc Thánh hôm nay đang chứng đạt và an trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
 
 <!-- seg: mn137:13.9 -->
 Khi đã biết tính vô thường của các pháp — sự biến đổi, sự phai nhạt, sự chấm dứt của chúng — và với tuệ chân chánh thấy đúng như thật rằng: "Trước kia cũng vậy, nay cũng vậy, tất cả các pháp ấy đều vô thường, là khổ, là pháp biến đổi", thì vị ấy khơi lên sự mong mỏi đối với những giải thoát tối thượng:
 
 <!-- seg: mn137:13.10 -->
-"Bao giờ ta mới chứng và trú vào xứ mà các bậc Thánh hôm nay đang chứng và trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
+"Bao giờ ta mới chứng đạt và an trú vào xứ mà các bậc Thánh hôm nay đang chứng đạt và an trú?" Khi khơi lên sự mong mỏi đối với những giải thoát tối thượng như vậy, ưu sinh khởi do duyên sự mong mỏi.
 
 <!-- seg: mn137:13.11 -->
 Ưu như vậy được gọi là ưu gắn với sự xuất ly.

@@ -106,16 +106,16 @@ Vốn không có bản tính sân hận mãnh liệt, không thường xuyên c�
 Vốn không có bản tính si mê mãnh liệt, không thường xuyên cảm thọ khổ đau và ưu não do si mê sinh khởi.
 
 <!-- seg: mn45:7.5 -->
-Người ấy ly dục, ly các pháp bất thiện, chứng và trú thiền-na thứ nhất, một trạng thái có tầm có tứ, với hỷ và lạc do viễn ly sinh khởi.
+Người ấy ly dục, ly các pháp bất thiện, chứng đạt và an trú thiền-na thứ nhất, một trạng thái có tầm có tứ, với hỷ và lạc do viễn ly sinh khởi.
 
 <!-- seg: mn45:7.6 -->
-Khi tầm và tứ lắng xuống, người ấy chứng và trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi.
+Khi tầm và tứ lắng xuống, người ấy chứng đạt và an trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi.
 
 <!-- seg: mn45:7.7 -->
-Khi hỷ đã lìa, người ấy trú xả, chánh niệm và tỉnh giác, cảm nhận lạc bằng thân; người ấy chứng và trú thiền-na thứ ba, trạng thái mà các bậc thánh gọi là 'Người có xả và chánh niệm thì sống an lạc'.
+Khi hỷ đã lìa, người ấy trú xả, chánh niệm và tỉnh giác, cảm nhận lạc bằng thân; người ấy chứng đạt và an trú thiền-na thứ ba, trạng thái mà các bậc thánh gọi là 'Người có xả và chánh niệm thì sống an lạc'.
 
 <!-- seg: mn45:7.8 -->
-Sau khi từ bỏ lạc và từ bỏ khổ, và khi hỷ và ưu trước đây đã chấm dứt, người ấy chứng và trú thiền-na thứ tư, một trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
+Sau khi từ bỏ lạc và từ bỏ khổ, và khi hỷ và ưu trước đây đã chấm dứt, người ấy chứng đạt và an trú thiền-na thứ tư, một trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn45:7.9 -->
 Khi thân hoại mạng chung, người ấy sinh vào cõi lành, cõi trời.

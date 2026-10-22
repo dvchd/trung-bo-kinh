@@ -83,22 +83,22 @@ Này các tỳ-kheo, tinh tấn của Ta đã được khởi lên, không thố
 [Chú thích: Đoạn văn mô tả tiến trình nhập thiền này đối lập với tình trạng trước đó, khi tâm còn tiếp tục suy tầm dù là tầm thiện.]
 
 <!-- seg: mn19:14.1 -->
-Này các tỳ-kheo, Ta ly khỏi các dục, ly khỏi các pháp bất thiện, chứng và trú vào thiền-na thứ nhất (tầng thiền định thứ nhất), có tầm và tứ, với hỷ lạc do ly dục sinh.
+Này các tỳ-kheo, Ta ly khỏi các dục, ly khỏi các pháp bất thiện, chứng đạt và an trú vào thiền-na thứ nhất (tầng thiền định thứ nhất), có tầm và tứ, với hỷ lạc do ly dục sinh.
 
 [Chú thích: Thiền-na thứ nhất vẫn có tầm; ở phần trên, tầm được hiểu là sự suy nghĩ thành lời. Nhưng thiền-na là trạng thái của tâm cao hơn, trong đó mọi hoạt động tâm đều được nâng lên: lạc không còn là kích thích thô của giác quan, ly dục không còn chỉ là cách ly thân xác, hỷ không còn là sự phấn khích, và tầm không còn là lời nói thầm trong đầu — vì chính bài kinh cho thấy ngay cả tầm thiện cũng ngăn cản việc nhập thiền, nên tầm ở đây được hiểu là tiến trình vi tế đặt tâm vào và giữ tâm lại (MN 117:14.2). Peṭakopadesa thời kỳ sau có một cách phân tích đáng chú ý, đi trước cách hiểu của các nhà chú giải Nguyên thủy về điểm này.]
 
 <!-- seg: mn19:15.1 -->
-Do tầm và tứ lắng xuống, Ta chứng và trú vào thiền-na thứ hai: nội tâm tĩnh lặng, tâm thành một, không tầm không tứ, với hỷ lạc do định sinh.
+Do tầm và tứ lắng xuống, Ta chứng đạt và an trú vào thiền-na thứ hai: nội tâm tĩnh lặng, tâm thành một, không tầm không tứ, với hỷ lạc do định sinh.
 
 [Chú thích: Mỗi tầng thiền bắt đầu đúng lúc khía cạnh thô nhất của tầng trước chấm dứt. Điều này không do chủ ý điều khiển mà mô tả tiến trình lắng dịu tự nhiên. Người tu lúc này đã hoàn toàn vững tin, không cần gắng sức đặt tâm nữa: tâm chỉ còn lặng yên và hợp nhất.]
 
 <!-- seg: mn19:16.1 -->
-Do ly hỷ, Ta trú với tâm xả, chánh niệm và tỉnh giác, và Ta cảm nhận lạc bằng thân; Ta chứng và trú vào thiền-na thứ ba, thiền-na mà các bậc thánh gọi là "người trú lạc, có xả và chánh niệm".
+Do ly hỷ, Ta trú với tâm xả, chánh niệm và tỉnh giác, và Ta cảm nhận lạc bằng thân; Ta chứng đạt và an trú vào thiền-na thứ ba, thiền-na mà các bậc thánh gọi là "người trú lạc, có xả và chánh niệm".
 
 [Chú thích: Cảm nhận về lạc trưởng thành dần, từ cái rung động tinh tế của hỷ đến sự thăng bằng của xả. Chánh niệm có mặt trong mọi tầng thiền sâu, nhưng khi có xả thì nó trở nên nổi bật.]
 
 <!-- seg: mn19:17.1 -->
-Do đoạn trừ lạc và đoạn trừ khổ, do hỷ và ưu trước đây đã lặng mất, Ta chứng và trú vào thiền-na thứ tư: không khổ không lạc, với xả và chánh niệm thanh tịnh.
+Do đoạn trừ lạc và đoạn trừ khổ, do hỷ và ưu trước đây đã lặng mất, Ta chứng đạt và an trú vào thiền-na thứ tư: không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 [Chú thích: Sự thăng bằng của xả khiến cảm giác lạc lắng xuống thành cảm giác trung tính tinh tế hơn. Khổ và ưu đã được đoạn trừ từ lâu, nhưng ở đây được nhắc lại vì chúng là đối ứng tinh tế của lạc.]
 

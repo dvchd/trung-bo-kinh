@@ -113,13 +113,13 @@ Này Sandaka, ở đây Như Lai xuất hiện trong thế gian, là bậc A-la-
 Vị ấy từ bỏ năm triền cái này, những cấu uế của tâm làm yếu ớt tuệ,
 
 <!-- seg: mn76:35-42.3 -->
-rồi ly dục, ly các pháp bất thiện, chứng và trú thiền-na thứ nhất, có tầm có tứ, có hỷ và lạc do sự ly dục sinh ra.
+rồi ly dục, ly các pháp bất thiện, chứng đạt và an trú thiền-na thứ nhất, có tầm có tứ, có hỷ và lạc do sự ly dục sinh ra.
 
 <!-- seg: mn76:35-42.4 -->
 Này Sandaka, một vị thầy mà dưới vị ấy một đệ tử đạt được một sự thù thắng cao quý như vậy, thì ở nơi vị ấy, một người sáng suốt, dù có cố gắng hết sức, cũng nên sống đời phạm hạnh; và khi sống như vậy, người ấy sẽ thành tựu được pháp thiện khéo đúng lý.
 
 <!-- seg: mn76:43.1 -->
-Lại nữa, này Sandaka, do tầm và tứ lắng yên, một tỳ-kheo chứng và trú thiền-na thứ hai, nội tâm thanh tịnh, tâm chuyên nhất, không tầm không tứ, có hỷ và lạc do định sinh ra.
+Lại nữa, này Sandaka, do tầm và tứ lắng yên, một tỳ-kheo chứng đạt và an trú thiền-na thứ hai, nội tâm thanh tịnh, tâm chuyên nhất, không tầm không tứ, có hỷ và lạc do định sinh ra.
 
 [Chú thích: Chữ bhikkhu (tỳ-kheo) ở đây có vẻ không hợp cảnh, nhưng các bản thảo đều ghi như vậy.]
 
@@ -127,13 +127,13 @@ Lại nữa, này Sandaka, do tầm và tứ lắng yên, một tỳ-kheo chứn
 Này Sandaka, một vị thầy mà dưới vị ấy một đệ tử đạt được một sự thù thắng cao quý như vậy, thì ở nơi vị ấy, một người sáng suốt, dù có cố gắng hết sức, cũng nên sống đời phạm hạnh; và khi sống như vậy, người ấy sẽ thành tựu được pháp thiện khéo đúng lý.
 
 <!-- seg: mn76:44-45.1 -->
-Lại nữa, này Sandaka, do ly hỷ, một tỳ-kheo sống xả, chánh niệm tỉnh giác, thân cảm nhận lạc; vị ấy chứng và trú thiền-na thứ ba, mà các bậc thánh nói là sống xả, có chánh niệm, an trú trong lạc.
+Lại nữa, này Sandaka, do ly hỷ, một tỳ-kheo sống xả, chánh niệm tỉnh giác, thân cảm nhận lạc; vị ấy chứng đạt và an trú thiền-na thứ ba, mà các bậc thánh nói là sống xả, có chánh niệm, an trú trong lạc.
 
 <!-- seg: mn76:44-45.2 -->
 Này Sandaka, một vị thầy mà dưới vị ấy một đệ tử đạt được một sự thù thắng cao quý như vậy, thì ở nơi vị ấy, một người sáng suốt, dù có cố gắng hết sức, cũng nên sống đời phạm hạnh; và khi sống như vậy, người ấy sẽ thành tựu được pháp thiện khéo đúng lý.
 
 <!-- seg: mn76:46.1 -->
-Lại nữa, này Sandaka, do xả lạc và xả khổ, do hỷ và ưu đã lắng xuống từ trước, một tỳ-kheo chứng và trú thiền-na thứ tư, không khổ không lạc, xả niệm thanh tịnh.
+Lại nữa, này Sandaka, do xả lạc và xả khổ, do hỷ và ưu đã lắng xuống từ trước, một tỳ-kheo chứng đạt và an trú thiền-na thứ tư, không khổ không lạc, xả niệm thanh tịnh.
 
 <!-- seg: mn76:46.2 -->
 Này Sandaka, một vị thầy mà dưới vị ấy một đệ tử đạt được một sự thù thắng cao quý như vậy, thì ở nơi vị ấy, một người sáng suốt, dù có cố gắng hết sức, cũng nên sống đời phạm hạnh; và khi sống như vậy, người ấy sẽ thành tựu được pháp thiện khéo đúng lý.

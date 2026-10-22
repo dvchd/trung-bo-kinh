@@ -462,22 +462,22 @@ Này bà-la-môn, khi ấy tinh tấn của ta đã được khởi lên, không
 [Chú thích: Đến đây bài kinh trở về cách trình bày quen thuộc về định rồi về tuệ. Gộp lại, đây là lần trình bày đầu tiên về lộ trình tu tập từng bước trong Trung Bộ Kinh. Chữ "nhất tâm" (ekagga) được chú giải hiểu là "đặt đúng chỗ", còn dạng Sanskrit ekāgra lại gợi nghĩa "đỉnh cao".]
 
 <!-- seg: mn4:22-26.2 -->
-Này bà-la-môn, ta ly các dục, ly các pháp bất thiện, chứng và trú thiền-na thứ nhất, một trạng thái có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi.
+Này bà-la-môn, ta ly các dục, ly các pháp bất thiện, chứng đạt và an trú thiền-na thứ nhất, một trạng thái có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi.
 
 [Chú thích: Thiền-na là trạng thái tâm thức cao hơn mức thường, nên các chữ ở đây cũng mang nghĩa cao hơn. "Tầm" và "tứ" thường có nghĩa là suy nghĩ, nhưng trong thiền-na chỉ sự hướng tâm và giữ tâm vào đối tượng.]
 
 <!-- seg: mn4:22-26.3 -->
-Khi tầm và tứ lắng xuống, ta chứng và trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi.
+Khi tầm và tứ lắng xuống, ta chứng đạt và an trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi.
 
 [Chú thích: Mỗi tầng thiền-na bắt đầu đúng lúc khía cạnh thô nhất của tầng trước vừa lắng xuống; đây là tiến trình tự nhiên, không phải do cố ý điều khiển.]
 
 <!-- seg: mn4:22-26.4 -->
-Khi hỷ đã lìa, ta trú với xả, chánh niệm và tỉnh giác, và thân cảm nhận được lạc; ta chứng và trú thiền-na thứ ba, cảnh giới mà các bậc thánh tuyên bố: "Người có xả và chánh niệm thì sống an lạc."
+Khi hỷ đã lìa, ta trú với xả, chánh niệm và tỉnh giác, và thân cảm nhận được lạc; ta chứng đạt và an trú thiền-na thứ ba, cảnh giới mà các bậc thánh tuyên bố: "Người có xả và chánh niệm thì sống an lạc."
 
 [Chú thích: Phản ứng với hỷ chín dần từ niềm phấn khởi vi tế sang sự thăng bằng của xả. Chánh niệm có mặt trong mọi tầng thiền sâu, nhưng đến đây mới nổi bật.]
 
 <!-- seg: mn4:22-26.5 -->
-Khi lạc đã được từ bỏ và khổ đã được từ bỏ, và khi hỷ và ưu từ trước đã chấm dứt, ta chứng và trú thiền-na thứ tư, một trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
+Khi lạc đã được từ bỏ và khổ đã được từ bỏ, và khi hỷ và ưu từ trước đã chấm dứt, ta chứng đạt và an trú thiền-na thứ tư, một trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 [Chú thích: Xả dẫn cảm thọ vào trạng thái trung tính vi tế; khổ và ưu đã được buông từ lâu, nhưng được nhắc ở đây vì là cặp đối ứng vi tế của lạc và hỷ.]
 

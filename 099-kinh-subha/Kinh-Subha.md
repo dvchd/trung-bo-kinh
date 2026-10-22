@@ -534,13 +534,13 @@ Ví như, này thanh niên, ngọn lửa cháy không nhờ cỏ và củi làm 
 Này thanh niên, niềm hỷ khác hẳn các dục, khác hẳn các pháp bất thiện là gì?
 
 <!-- seg: mn99:17.8 -->
-Ở đây, này thanh niên, vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú vào tầng thiền-na thứ nhất (tầng thiền định thứ nhất), có tầm và tứ, với hỷ và lạc sinh do sự ly dục.
+Ở đây, này thanh niên, vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú vào tầng thiền-na thứ nhất (tầng thiền định thứ nhất), có tầm và tứ, với hỷ và lạc sinh do sự ly dục.
 
 <!-- seg: mn99:17.9 -->
 Này thanh niên, đây là niềm hỷ khác hẳn các dục, khác hẳn các pháp bất thiện.
 
 <!-- seg: mn99:17.10 -->
-Lại nữa, này thanh niên, vị tỳ-kheo do tầm và tứ được lắng xuống, đạt đến nội tâm sáng trong, tâm chuyên nhất, chứng và trú vào tầng thiền-na thứ hai, không tầm không tứ, với hỷ và lạc sinh do định.
+Lại nữa, này thanh niên, vị tỳ-kheo do tầm và tứ được lắng xuống, đạt đến nội tâm sáng trong, tâm chuyên nhất, chứng đạt và an trú vào tầng thiền-na thứ hai, không tầm không tứ, với hỷ và lạc sinh do định.
 
 <!-- seg: mn99:17.11 -->
 Này thanh niên, đây cũng là niềm hỷ khác hẳn các dục, khác hẳn các pháp bất thiện."

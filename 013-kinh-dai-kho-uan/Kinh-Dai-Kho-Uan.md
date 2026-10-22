@@ -464,12 +464,12 @@ Còn những sa-môn hay bà-la-môn nào như thật biết rõ sự thích th�
 Và này các tỳ-kheo, cái gì là sự thích thú của các cảm thọ?
 
 <!-- seg: mn13:32.2 -->
-Ở đây, này các tỳ-kheo, vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú vào thiền-na thứ nhất, có tầm, có tứ, có hỷ và lạc do sự ly dục sinh ra.
+Ở đây, này các tỳ-kheo, vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú vào thiền-na thứ nhất, có tầm, có tứ, có hỷ và lạc do sự ly dục sinh ra.
 
 [Chú thích: Đức Thế Tôn minh họa "cảm thọ" bằng những cảm thọ cao nhất và vi tế nhất có thể, tức cảm thọ trong thiền-na.]
 
 <!-- seg: mn13:32.3 -->
-Này các tỳ-kheo, vào lúc vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú vào thiền-na thứ nhất, có tầm, có tứ, có hỷ và lạc do sự ly dục sinh ra, thì lúc ấy vị ấy không có ý nghĩ làm hại mình, không có ý nghĩ làm hại người khác, không có ý nghĩ làm hại cả hai;
+Này các tỳ-kheo, vào lúc vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú vào thiền-na thứ nhất, có tầm, có tứ, có hỷ và lạc do sự ly dục sinh ra, thì lúc ấy vị ấy không có ý nghĩ làm hại mình, không có ý nghĩ làm hại người khác, không có ý nghĩ làm hại cả hai;
 
 <!-- seg: mn13:32.4 -->
 lúc ấy vị ấy chỉ cảm nhận những cảm thọ không làm hại.
@@ -478,13 +478,13 @@ lúc ấy vị ấy chỉ cảm nhận những cảm thọ không làm hại.
 Này các tỳ-kheo, Ta nói rằng sự không làm hại là sự thích thú tối thượng của các cảm thọ.
 
 <!-- seg: mn13:33-35.1 -->
-Hơn nữa, này các tỳ-kheo, vị tỳ-kheo do tầm và tứ được lắng xuống, đạt đến sự an tịnh nội tâm, tâm chuyên nhất, chứng và trú vào thiền-na thứ hai, không tầm không tứ, có hỷ và lạc do định sinh ra. Này các tỳ-kheo, vào lúc vị tỳ-kheo do tầm và tứ được lắng xuống, đạt đến sự an tịnh nội tâm, tâm chuyên nhất, chứng và trú vào thiền-na thứ hai, không tầm không tứ, có hỷ và lạc do định sinh ra, thì lúc ấy vị ấy không có ý nghĩ làm hại mình, không có ý nghĩ làm hại người khác, không có ý nghĩ làm hại cả hai; lúc ấy vị ấy chỉ cảm nhận những cảm thọ không làm hại. Này các tỳ-kheo, Ta nói rằng sự không làm hại là sự thích thú tối thượng của các cảm thọ.
+Hơn nữa, này các tỳ-kheo, vị tỳ-kheo do tầm và tứ được lắng xuống, đạt đến sự an tịnh nội tâm, tâm chuyên nhất, chứng đạt và an trú vào thiền-na thứ hai, không tầm không tứ, có hỷ và lạc do định sinh ra. Này các tỳ-kheo, vào lúc vị tỳ-kheo do tầm và tứ được lắng xuống, đạt đến sự an tịnh nội tâm, tâm chuyên nhất, chứng đạt và an trú vào thiền-na thứ hai, không tầm không tứ, có hỷ và lạc do định sinh ra, thì lúc ấy vị ấy không có ý nghĩ làm hại mình, không có ý nghĩ làm hại người khác, không có ý nghĩ làm hại cả hai; lúc ấy vị ấy chỉ cảm nhận những cảm thọ không làm hại. Này các tỳ-kheo, Ta nói rằng sự không làm hại là sự thích thú tối thượng của các cảm thọ.
 
 <!-- seg: mn13:33-35.2 -->
-Này các tỳ-kheo, vào lúc vị tỳ-kheo do hỷ đã phai nhạt, trú xả, chánh niệm, tỉnh giác, cảm thọ lạc bằng thân — điều mà các bậc thánh gọi là "trú xả, có chánh niệm, sống an lạc" — chứng và trú vào thiền-na thứ ba, thì lúc ấy vị ấy không có ý nghĩ làm hại mình, không có ý nghĩ làm hại người khác, không có ý nghĩ làm hại cả hai; lúc ấy vị ấy chỉ cảm nhận những cảm thọ không làm hại. Này các tỳ-kheo, Ta nói rằng sự không làm hại là sự thích thú tối thượng của các cảm thọ.
+Này các tỳ-kheo, vào lúc vị tỳ-kheo do hỷ đã phai nhạt, trú xả, chánh niệm, tỉnh giác, cảm thọ lạc bằng thân — điều mà các bậc thánh gọi là "trú xả, có chánh niệm, sống an lạc" — chứng đạt và an trú vào thiền-na thứ ba, thì lúc ấy vị ấy không có ý nghĩ làm hại mình, không có ý nghĩ làm hại người khác, không có ý nghĩ làm hại cả hai; lúc ấy vị ấy chỉ cảm nhận những cảm thọ không làm hại. Này các tỳ-kheo, Ta nói rằng sự không làm hại là sự thích thú tối thượng của các cảm thọ.
 
 <!-- seg: mn13:33-35.3 -->
-Này các tỳ-kheo, vào lúc vị tỳ-kheo do đoạn trừ lạc, đoạn trừ khổ, và trước đó đã chấm dứt hỷ và ưu, chứng và trú vào thiền-na thứ tư, không khổ không lạc, thanh tịnh nhờ xả và chánh niệm, thì lúc ấy vị ấy không có ý nghĩ làm hại mình, không có ý nghĩ làm hại người khác, không có ý nghĩ làm hại cả hai;
+Này các tỳ-kheo, vào lúc vị tỳ-kheo do đoạn trừ lạc, đoạn trừ khổ, và trước đó đã chấm dứt hỷ và ưu, chứng đạt và an trú vào thiền-na thứ tư, không khổ không lạc, thanh tịnh nhờ xả và chánh niệm, thì lúc ấy vị ấy không có ý nghĩ làm hại mình, không có ý nghĩ làm hại người khác, không có ý nghĩ làm hại cả hai;
 
 <!-- seg: mn13:33-35.4 -->
 lúc ấy vị ấy chỉ cảm nhận những cảm thọ không làm hại.

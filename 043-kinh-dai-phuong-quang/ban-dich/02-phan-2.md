@@ -111,7 +111,7 @@ thì không có sự sinh ra một dạng tồn tại mới trong tương lai."
 "Thưa hiền giả, vậy tầng thiền-na thứ nhất là gì?"
 
 <!-- seg: mn43:18.2 -->
-"Này hiền giả, ở đây một tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú tầng thiền-na thứ nhất, có tầm, có tứ, có hỷ và lạc do sự ly dục sinh ra —
+"Này hiền giả, ở đây một tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú tầng thiền-na thứ nhất, có tầm, có tứ, có hỷ và lạc do sự ly dục sinh ra —
 
 <!-- seg: mn43:18.3 -->
 này hiền giả, đây gọi là tầng thiền-na thứ nhất."

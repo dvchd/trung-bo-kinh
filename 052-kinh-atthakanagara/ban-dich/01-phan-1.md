@@ -44,7 +44,7 @@ Rồi gia chủ Dasama, người Aṭṭhakanāgara, làm xong việc ấy ở P
 "Nhưng thưa Ngài Ānanda, pháp ấy là gì — pháp mà Đức Thế Tôn, bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác, đã dạy, mà nhờ đó một vị tỳ-kheo sống không xao lãng, nhiệt tâm, quyết chí, thì tâm chưa được giải thoát được giải thoát, các lậu hoặc chưa được đoạn tận đi đến đoạn tận, và vị ấy chứng đạt vô thượng an ổn khỏi các ách phược mà trước đó chưa từng đạt?"
 
 <!-- seg: mn52:4.1 -->
-"Này gia chủ, ở đây một vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú thiền-na thứ nhất, có tầm, có tứ, với hỷ và lạc do viễn ly mà sinh.
+"Này gia chủ, ở đây một vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú thiền-na thứ nhất, có tầm, có tứ, với hỷ và lạc do viễn ly mà sinh.
 
 <!-- seg: mn52:4.2 -->
 Vị ấy suy xét như vầy:
@@ -71,7 +71,7 @@ Nếu vị ấy không đi đến chỗ đoạn tận các lậu hoặc, thì nh
 Này gia chủ, đây cũng là một pháp mà Đức Thế Tôn — bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác — đã dạy, mà nhờ đó một vị tỳ-kheo sống không xao lãng, nhiệt tâm, quyết chí, thì tâm chưa được giải thoát được giải thoát, các lậu hoặc chưa được đoạn tận đi đến đoạn tận, và vị ấy chứng đạt vô thượng an ổn khỏi các ách phược mà trước đó chưa từng đạt.
 
 <!-- seg: mn52:5.1 -->
-Lại nữa, này gia chủ, một vị tỳ-kheo, khi tầm và tứ được lắng xuống, chứng và trú thiền-na thứ hai — một trạng thái có sự an tịnh nội tâm, có sự nhất tâm, không tầm không tứ, với hỷ và lạc do định mà sinh.
+Lại nữa, này gia chủ, một vị tỳ-kheo, khi tầm và tứ được lắng xuống, chứng đạt và an trú thiền-na thứ hai — một trạng thái có sự an tịnh nội tâm, có sự nhất tâm, không tầm không tứ, với hỷ và lạc do định mà sinh.
 
 <!-- seg: mn52:5.2 -->
 Vị ấy suy xét như vầy:
@@ -83,7 +83,7 @@ Vị ấy suy xét như vầy:
 Này gia chủ, đây cũng là một pháp mà Đức Thế Tôn — bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác — đã dạy, mà nhờ đó một vị tỳ-kheo sống không xao lãng, nhiệt tâm, quyết chí, thì tâm chưa được giải thoát được giải thoát, các lậu hoặc chưa được đoạn tận đi đến đoạn tận, và vị ấy chứng đạt vô thượng an ổn khỏi các ách phược mà trước đó chưa từng đạt.
 
 <!-- seg: mn52:6.1 -->
-Lại nữa, này gia chủ, một vị tỳ-kheo, do ly hỷ, vị ấy trú xả, chánh niệm, tỉnh giác, và thân cảm nhận được lạc (điều mà các bậc thánh nói: 'Vị ấy trú xả, có chánh niệm, sống an lạc'), rồi chứng và trú thiền-na thứ ba.
+Lại nữa, này gia chủ, một vị tỳ-kheo, do ly hỷ, vị ấy trú xả, chánh niệm, tỉnh giác, và thân cảm nhận được lạc (điều mà các bậc thánh nói: 'Vị ấy trú xả, có chánh niệm, sống an lạc'), rồi chứng đạt và an trú thiền-na thứ ba.
 
 <!-- seg: mn52:6.2 -->
 Vị ấy suy xét như vầy:
@@ -95,7 +95,7 @@ Vị ấy suy xét như vầy:
 Này gia chủ, đây cũng là một pháp mà Đức Thế Tôn — bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác — đã dạy, mà nhờ đó một vị tỳ-kheo sống không xao lãng, nhiệt tâm, quyết chí, thì tâm chưa được giải thoát được giải thoát, các lậu hoặc chưa được đoạn tận đi đến đoạn tận, và vị ấy chứng đạt vô thượng an ổn khỏi các ách phược mà trước đó chưa từng đạt.
 
 <!-- seg: mn52:7.1 -->
-Lại nữa, này gia chủ, một vị tỳ-kheo, do đoạn trừ lạc và đoạn trừ khổ, cùng với sự lắng diệt trước đó của hỷ và ưu, chứng và trú thiền-na thứ tư — một trạng thái không khổ không lạc, với sự thanh tịnh của xả và chánh niệm.
+Lại nữa, này gia chủ, một vị tỳ-kheo, do đoạn trừ lạc và đoạn trừ khổ, cùng với sự lắng diệt trước đó của hỷ và ưu, chứng đạt và an trú thiền-na thứ tư — một trạng thái không khổ không lạc, với sự thanh tịnh của xả và chánh niệm.
 
 <!-- seg: mn52:7.2 -->
 Vị ấy suy xét như vầy:
@@ -149,7 +149,7 @@ Vị ấy vững trú ở đó và đi đến chỗ đoạn tận các lậu ho�
 Này gia chủ, đây cũng là một pháp mà Đức Thế Tôn — bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác — đã dạy, mà nhờ đó một vị tỳ-kheo sống không xao lãng, nhiệt tâm, quyết chí, thì tâm chưa được giải thoát được giải thoát, các lậu hoặc chưa được đoạn tận đi đến đoạn tận, và vị ấy chứng đạt vô thượng an ổn khỏi các ách phược mà trước đó chưa từng đạt.
 
 <!-- seg: mn52:12.1 -->
-Lại nữa, này gia chủ, một vị tỳ-kheo vượt qua hoàn toàn các tưởng về sắc, làm lắng diệt các tưởng về đối ngại, không tác ý đến các tưởng sai biệt, nhận biết 'hư không là vô biên', chứng và trú không vô biên xứ.
+Lại nữa, này gia chủ, một vị tỳ-kheo vượt qua hoàn toàn các tưởng về sắc, làm lắng diệt các tưởng về đối ngại, không tác ý đến các tưởng sai biệt, nhận biết 'hư không là vô biên', chứng đạt và an trú không vô biên xứ.
 
 <!-- seg: mn52:12.2 -->
 Vị ấy suy xét như vầy:

@@ -2,7 +2,7 @@
 "Đây cũng là con đường, này Ānanda, là lối thực hành để từ bỏ năm hạ phần kiết sử.
 
 <!-- seg: mn64:13.1 -->
-Lại nữa, này Ānanda, một tỳ-kheo do vượt qua hoàn toàn các sắc tưởng, do các tưởng đối kháng chấm dứt, do không tác ý đến các tưởng sai biệt, với ý niệm 'Hư không là vô biên', chứng và trú Không vô biên xứ.
+Lại nữa, này Ānanda, một tỳ-kheo do vượt qua hoàn toàn các sắc tưởng, do các tưởng đối kháng chấm dứt, do không tác ý đến các tưởng sai biệt, với ý niệm 'Hư không là vô biên', chứng đạt và an trú Không vô biên xứ.
 
 <!-- seg: mn64:13.2 -->
 Vị ấy quán thấy các pháp ở đó — những gì thuộc thọ, thuộc tưởng, thuộc hành, thuộc thức — là vô thường, là khổ, là bệnh, là ung nhọt, là mũi tên, là nỗi khổ não, là sự ốm đau, là cái xa lạ, là cái đang hoại, là trống không, là vô ngã.
@@ -17,7 +17,7 @@ không còn trở lại từ thế giới ấy nữa.
 Đây cũng là con đường, này Ānanda, là lối thực hành để từ bỏ năm hạ phần kiết sử.
 
 <!-- seg: mn64:14.1 -->
-Lại nữa, này Ānanda, một tỳ-kheo do vượt qua hoàn toàn Không vô biên xứ, với ý niệm 'Thức là vô biên', chứng và trú Thức vô biên xứ.
+Lại nữa, này Ānanda, một tỳ-kheo do vượt qua hoàn toàn Không vô biên xứ, với ý niệm 'Thức là vô biên', chứng đạt và an trú Thức vô biên xứ.
 
 <!-- seg: mn64:14.2 -->
 Vị ấy quán thấy các pháp ở đó — những gì thuộc thọ, thuộc tưởng, thuộc hành, thuộc thức — là vô thường, là khổ, là bệnh, là ung nhọt, là mũi tên, là nỗi khổ não, là sự ốm đau, là cái xa lạ, là cái đang hoại, là trống không, là vô ngã.
@@ -32,7 +32,7 @@ không còn trở lại từ thế giới ấy nữa.
 Đây cũng là con đường, này Ānanda, là lối thực hành để từ bỏ năm hạ phần kiết sử.
 
 <!-- seg: mn64:15.1 -->
-Lại nữa, này Ānanda, một tỳ-kheo do vượt qua hoàn toàn Thức vô biên xứ, với ý niệm 'Không có gì cả', chứng và trú Vô sở hữu xứ.
+Lại nữa, này Ānanda, một tỳ-kheo do vượt qua hoàn toàn Thức vô biên xứ, với ý niệm 'Không có gì cả', chứng đạt và an trú Vô sở hữu xứ.
 
 <!-- seg: mn64:15.2 -->
 Vị ấy quán thấy các pháp ở đó — những gì thuộc thọ, thuộc tưởng, thuộc hành, thuộc thức — là vô thường, là khổ, là bệnh, là ung nhọt, là mũi tên, là nỗi khổ não, là sự ốm đau, là cái xa lạ, là cái đang hoại, là trống không, là vô ngã.

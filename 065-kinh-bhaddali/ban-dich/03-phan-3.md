@@ -5,7 +5,7 @@ Vì sao vậy?
 Vì đó là điều tự nhiên, này Bhaddāli, đối với người làm tròn sự học tập theo lời dạy của bậc Đạo sư.
 
 <!-- seg: mn65:17.4 -->
-Lại nữa, này Bhaddāli, do ly hỷ, vị ấy trú trong xả, có chánh niệm và tỉnh giác, thân cảm nhận được lạc; vị ấy chứng và trú vào thiền-na thứ ba, mà các bậc Thánh gọi là 'sống an lạc với xả và niệm'.
+Lại nữa, này Bhaddāli, do ly hỷ, vị ấy trú trong xả, có chánh niệm và tỉnh giác, thân cảm nhận được lạc; vị ấy chứng đạt và an trú vào thiền-na thứ ba, mà các bậc Thánh gọi là 'sống an lạc với xả và niệm'.
 
 <!-- seg: mn65:17.5 -->
 Vì sao vậy?
@@ -14,7 +14,7 @@ Vì sao vậy?
 Vì đó là điều tự nhiên, này Bhaddāli, đối với người làm tròn sự học tập theo lời dạy của bậc Đạo sư.
 
 <!-- seg: mn65:17.7 -->
-Lại nữa, này Bhaddāli, do đoạn trừ lạc và đoạn trừ khổ, do hỷ và ưu trước đó đã lắng hẳn, vị ấy chứng và trú vào thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm hoàn toàn thanh tịnh.
+Lại nữa, này Bhaddāli, do đoạn trừ lạc và đoạn trừ khổ, do hỷ và ưu trước đó đã lắng hẳn, vị ấy chứng đạt và an trú vào thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm hoàn toàn thanh tịnh.
 
 <!-- seg: mn65:17.8 -->
 Vì sao vậy?

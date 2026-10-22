@@ -99,7 +99,7 @@ Này hiền giả, giữa người đã chết, đã qua đời, và tỳ-kheo �
 "Này hiền giả, có bốn duyên để chứng đạt tâm giải thoát không khổ không lạc.
 
 <!-- seg: mn43:26.3 -->
-Này hiền giả, ở đây một tỳ-kheo do từ bỏ lạc, do từ bỏ khổ, và do sự chấm dứt của hỷ và ưu có từ trước, chứng và trú tầng thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm thanh tịnh.
+Này hiền giả, ở đây một tỳ-kheo do từ bỏ lạc, do từ bỏ khổ, và do sự chấm dứt của hỷ và ưu có từ trước, chứng đạt và an trú tầng thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn43:26.4 -->
 Này hiền giả, đó là bốn duyên để chứng đạt tâm giải thoát không khổ không lạc."

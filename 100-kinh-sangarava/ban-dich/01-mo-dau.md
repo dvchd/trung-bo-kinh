@@ -776,13 +776,13 @@ Nhưng khi Ta ăn thức ăn thô, cơm và cháo đặc, thì năm vị tỳ-kh
 Này Bhāradvāja, sau khi ăn thức ăn thô và lấy lại sức, Ta ly dục, ly bất thiện pháp, nhập và trú thiền-na thứ nhất, có tầm có tứ, có hỷ lạc do ly dục sinh.
 
 <!-- seg: mn100:31-33.2 -->
-Do tầm và tứ lắng xuống, Ta chứng và trú thiền-na thứ hai, có sự an tịnh nội tâm, tâm chuyên nhất, không tầm không tứ, có hỷ lạc do định sinh;
+Do tầm và tứ lắng xuống, Ta chứng đạt và an trú thiền-na thứ hai, có sự an tịnh nội tâm, tâm chuyên nhất, không tầm không tứ, có hỷ lạc do định sinh;
 
 <!-- seg: mn100:31-33.3 -->
-do hỷ đã lắng xuống, Ta trú xả, có chánh niệm và tỉnh giác, thân cảm nhận hạnh phúc; Ta chứng và trú thiền-na thứ ba, mà các bậc Thánh gọi là 'trú xả, có chánh niệm, sống an lạc';
+do hỷ đã lắng xuống, Ta trú xả, có chánh niệm và tỉnh giác, thân cảm nhận hạnh phúc; Ta chứng đạt và an trú thiền-na thứ ba, mà các bậc Thánh gọi là 'trú xả, có chánh niệm, sống an lạc';
 
 <!-- seg: mn100:31-33.4 -->
-do đoạn trừ lạc và khổ, do hỷ và ưu đã lắng xuống từ trước, Ta chứng và trú thiền-na thứ tư, không khổ không lạc, thanh tịnh chánh niệm và xả.
+do đoạn trừ lạc và khổ, do hỷ và ưu đã lắng xuống từ trước, Ta chứng đạt và an trú thiền-na thứ tư, không khổ không lạc, thanh tịnh chánh niệm và xả.
 
 <!-- seg: mn100:34.1 -->
 Khi tâm đã định như vậy, thanh tịnh, trong sáng, không ô nhiễm, không cấu uế, mềm mại, dễ sử dụng, vững chắc, đạt đến bất động, Ta hướng tâm đến trí nhớ về các đời sống trước.

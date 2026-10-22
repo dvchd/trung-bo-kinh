@@ -11,7 +11,7 @@ Này hiền giả, đây gọi là tâm giải thoát vô lượng."
 "Thưa hiền giả, tâm giải thoát vô sở hữu là gì?"
 
 <!-- seg: mn43:32.2 -->
-"Này hiền giả, ở đây một tỳ-kheo vượt qua hoàn toàn xứ Thức vô biên, biết 'không có gì cả', chứng và trú xứ Vô sở hữu.
+"Này hiền giả, ở đây một tỳ-kheo vượt qua hoàn toàn xứ Thức vô biên, biết 'không có gì cả', chứng đạt và an trú xứ Vô sở hữu.
 
 <!-- seg: mn43:32.3 -->
 Này hiền giả, đây gọi là tâm giải thoát vô sở hữu."
@@ -32,7 +32,7 @@ Này hiền giả, đây gọi là tâm giải thoát không."
 "Thưa hiền giả, tâm giải thoát vô tướng là gì?"
 
 <!-- seg: mn43:34.2 -->
-"Này hiền giả, ở đây một tỳ-kheo, do không tác ý đến mọi tướng, chứng và trú định vô tướng của tâm.
+"Này hiền giả, ở đây một tỳ-kheo, do không tác ý đến mọi tướng, chứng đạt và an trú định vô tướng của tâm.
 
 <!-- seg: mn43:34.3 -->
 Này hiền giả, đây gọi là tâm giải thoát vô tướng.

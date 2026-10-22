@@ -83,7 +83,7 @@ Như hết nợ, như khỏi bệnh, như được thả khỏi nhà tù, như �
 Sau khi từ bỏ năm chướng ngại ấy, những ô nhiễm của tâm làm cho tuệ yếu ớt,
 
 <!-- seg: mn39:15.2 -->
-vị ấy ly dục, ly các pháp bất thiện, chứng và trú thiền-na thứ nhất, một trạng thái có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi.
+vị ấy ly dục, ly các pháp bất thiện, chứng đạt và an trú thiền-na thứ nhất, một trạng thái có tầm, có tứ, với hỷ và lạc do viễn ly sinh khởi.
 
 <!-- seg: mn39:15.3 -->
 Vị ấy rưới đẫm, thấm đẫm, làm tràn đầy, làm thấm khắp thân này bằng hỷ và lạc do viễn ly sinh khởi; không có chỗ nào nơi toàn thân ấy lại không được hỷ và lạc do viễn ly sinh khởi thấm khắp.
@@ -99,7 +99,7 @@ Này các tỳ-kheo, ví như một người thợ tắm khéo léo, hoặc họ
 Cũng vậy, này các tỳ-kheo, vị tỳ-kheo rưới đẫm, thấm đẫm, làm tràn đầy, làm thấm khắp thân này bằng hỷ và lạc do viễn ly sinh khởi; không có chỗ nào nơi toàn thân ấy lại không được hỷ và lạc do viễn ly sinh khởi thấm khắp.
 
 <!-- seg: mn39:16.1 -->
-Lại nữa, này các tỳ-kheo, khi tầm và tứ lắng xuống, vị tỳ-kheo chứng và trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi.
+Lại nữa, này các tỳ-kheo, khi tầm và tứ lắng xuống, vị tỳ-kheo chứng đạt và an trú thiền-na thứ hai, một trạng thái nội tâm lắng trong, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh khởi.
 
 <!-- seg: mn39:16.2 -->
 Vị ấy rưới đẫm, thấm đẫm, làm tràn đầy, làm thấm khắp thân này bằng hỷ và lạc do định sinh khởi; không có chỗ nào nơi toàn thân ấy lại không được hỷ và lạc do định sinh khởi thấm khắp.
@@ -113,7 +113,7 @@ Này các tỳ-kheo, ví như một hồ nước có mạch nước phun lên t�
 Cũng vậy, này các tỳ-kheo, vị tỳ-kheo rưới đẫm, thấm đẫm, làm tràn đầy, làm thấm khắp thân này bằng hỷ và lạc do định sinh khởi; không có chỗ nào nơi toàn thân ấy lại không được hỷ và lạc do định sinh khởi thấm khắp.
 
 <!-- seg: mn39:17.1 -->
-Lại nữa, này các tỳ-kheo, khi hỷ đã lìa, vị tỳ-kheo trú với xả, chánh niệm và tỉnh giác, và cảm nhận lạc bằng thân; vị ấy chứng và trú thiền-na thứ ba, trạng thái mà các bậc thánh tuyên bố: 'Người có xả và chánh niệm thì sống an lạc.'
+Lại nữa, này các tỳ-kheo, khi hỷ đã lìa, vị tỳ-kheo trú với xả, chánh niệm và tỉnh giác, và cảm nhận lạc bằng thân; vị ấy chứng đạt và an trú thiền-na thứ ba, trạng thái mà các bậc thánh tuyên bố: 'Người có xả và chánh niệm thì sống an lạc.'
 
 <!-- seg: mn39:17.2 -->
 Vị ấy rưới đẫm, thấm đẫm, làm tràn đầy, làm thấm khắp thân này bằng lạc không có hỷ; không có chỗ nào nơi toàn thân ấy lại không được lạc không có hỷ thấm khắp.
@@ -127,7 +127,7 @@ Này các tỳ-kheo, ví như trong một ao có hoa sen xanh, hoa sen hồng ha
 Cũng vậy, này các tỳ-kheo, vị tỳ-kheo rưới đẫm, thấm đẫm, làm tràn đầy, làm thấm khắp thân này bằng lạc không có hỷ; không có chỗ nào nơi toàn thân ấy lại không được lạc không có hỷ thấm khắp.
 
 <!-- seg: mn39:18.1 -->
-Lại nữa, này các tỳ-kheo, sau khi từ bỏ lạc và từ bỏ khổ, và khi hỷ và ưu từ trước đã chấm dứt, vị tỳ-kheo chứng và trú thiền-na thứ tư, trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
+Lại nữa, này các tỳ-kheo, sau khi từ bỏ lạc và từ bỏ khổ, và khi hỷ và ưu từ trước đã chấm dứt, vị tỳ-kheo chứng đạt và an trú thiền-na thứ tư, trạng thái không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn39:18.2 -->
 Vị ấy ngồi, trùm khắp thân này bằng tâm thanh tịnh, trong sáng; không có chỗ nào nơi toàn thân ấy lại không được tâm thanh tịnh, trong sáng ấy trùm khắp.

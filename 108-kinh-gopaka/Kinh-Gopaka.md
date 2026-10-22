@@ -503,16 +503,16 @@ Này bà-la-môn, thứ thiền như vậy là thứ Đức Thế Tôn không ca
 Vậy này bà-la-môn, thứ thiền nào Đức Thế Tôn ca ngợi?
 
 <!-- seg: mn108:27.2 -->
-Ở đây, này bà-la-môn, vị tỳ-kheo ly các dục, ly các pháp bất thiện, chứng và trú vào tầng thiền-na thứ nhất, có tầm và tứ, với hỷ và lạc sinh khởi do sự ly dục.
+Ở đây, này bà-la-môn, vị tỳ-kheo ly các dục, ly các pháp bất thiện, chứng đạt và an trú vào tầng thiền-na thứ nhất, có tầm và tứ, với hỷ và lạc sinh khởi do sự ly dục.
 
 <!-- seg: mn108:27.3 -->
-Do sự lắng dịu của tầm và tứ, vị ấy chứng và trú vào tầng thiền-na thứ hai, với sự thanh tịnh bên trong và sự nhất tâm của tâm, không tầm không tứ, với hỷ và lạc sinh khởi do định.
+Do sự lắng dịu của tầm và tứ, vị ấy chứng đạt và an trú vào tầng thiền-na thứ hai, với sự thanh tịnh bên trong và sự nhất tâm của tâm, không tầm không tứ, với hỷ và lạc sinh khởi do định.
 
 <!-- seg: mn108:27.4 -->
-Do sự ly hỷ, vị ấy trú xả, chánh niệm và tỉnh giác, cảm nhận lạc bằng thân, và chứng và trú vào tầng thiền-na thứ ba, mà các bậc thánh gọi là 'xả, chánh niệm, sống an lạc'.
+Do sự ly hỷ, vị ấy trú xả, chánh niệm và tỉnh giác, cảm nhận lạc bằng thân, và chứng đạt và an trú vào tầng thiền-na thứ ba, mà các bậc thánh gọi là 'xả, chánh niệm, sống an lạc'.
 
 <!-- seg: mn108:27.5 -->
-Do sự đoạn trừ lạc và khổ, cùng với sự lắng xuống của hỷ và ưu đã có từ trước, vị ấy chứng và trú vào tầng thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm thanh tịnh.
+Do sự đoạn trừ lạc và khổ, cùng với sự lắng xuống của hỷ và ưu đã có từ trước, vị ấy chứng đạt và an trú vào tầng thiền-na thứ tư, không khổ không lạc, với xả và chánh niệm thanh tịnh.
 
 <!-- seg: mn108:27.6 -->
 Này bà-la-môn, thứ thiền như vậy là thứ Đức Thế Tôn ca ngợi."

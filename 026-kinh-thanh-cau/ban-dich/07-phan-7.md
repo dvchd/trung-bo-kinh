@@ -128,25 +128,25 @@ Vì sao vậy?
 Vì nó đã đi ra ngoài tầm với của người thợ săn.
 
 <!-- seg: mn26:34.4 -->
-Cũng vậy, này các tỳ-kheo, vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng đắc và an trú tầng thiền thứ nhất, với tầm và tứ, với hỷ và lạc do ly dục sinh.
+Cũng vậy, này các tỳ-kheo, vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú tầng thiền thứ nhất, với tầm và tứ, với hỷ và lạc do ly dục sinh.
 
 <!-- seg: mn26:34.5 -->
 Này các tỳ-kheo, đây gọi là vị tỳ-kheo đã làm mù Ma vương, xóa hết dấu vết, đi đến chỗ Ác ma không còn thấy được.
 
 <!-- seg: mn26:35.1 -->
-Lại nữa, này các tỳ-kheo, vị tỳ-kheo do lắng dịu tầm và tứ, chứng đắc và an trú tầng thiền thứ hai, với sự thanh tịnh nội tâm, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh.
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo do lắng dịu tầm và tứ, chứng đạt và an trú tầng thiền thứ hai, với sự thanh tịnh nội tâm, tâm chuyên nhất, không tầm không tứ, với hỷ và lạc do định sinh.
 
 <!-- seg: mn26:35.2 -->
 Này các tỳ-kheo, đây gọi là vị tỳ-kheo đã làm mù Ma vương, xóa hết dấu vết, đi đến chỗ Ác ma không còn thấy được.
 
 <!-- seg: mn26:36.1 -->
-Lại nữa, này các tỳ-kheo, vị tỳ-kheo do ly hỷ, an trú xả, có niệm và tỉnh giác, thân cảm nhận được lạc, chứng đắc và an trú tầng thiền thứ ba, điều mà các bậc thánh nói là "xả, có niệm, sống an lạc".
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo do ly hỷ, an trú xả, có niệm và tỉnh giác, thân cảm nhận được lạc, chứng đạt và an trú tầng thiền thứ ba, điều mà các bậc thánh nói là "xả, có niệm, sống an lạc".
 
 <!-- seg: mn26:36.2 -->
 Này các tỳ-kheo, đây gọi là vị tỳ-kheo đã làm mù Ma vương, xóa hết dấu vết, đi đến chỗ Ác ma không còn thấy được.
 
 <!-- seg: mn26:37.1 -->
-Lại nữa, này các tỳ-kheo, vị tỳ-kheo do đoạn trừ lạc và khổ, do sự chấm dứt của hỷ và ưu trước đó, chứng đắc và an trú tầng thiền thứ tư, không khổ không lạc, với xả và niệm thanh tịnh.
+Lại nữa, này các tỳ-kheo, vị tỳ-kheo do đoạn trừ lạc và khổ, do sự chấm dứt của hỷ và ưu trước đó, chứng đạt và an trú tầng thiền thứ tư, không khổ không lạc, với xả và niệm thanh tịnh.
 
 <!-- seg: mn26:37.2 -->
 Này các tỳ-kheo, đây gọi là vị tỳ-kheo đã làm mù Ma vương, xóa hết dấu vết, đi đến chỗ Ác ma không còn thấy được.

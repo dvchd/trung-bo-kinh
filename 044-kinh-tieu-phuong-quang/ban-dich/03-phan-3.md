@@ -8,7 +8,7 @@
 "Này Visākha, không phải vậy. Không phải nơi mọi lạc thọ, tham tùy miên cần được đoạn trừ; không phải nơi mọi khổ thọ, sân tùy miên cần được đoạn trừ; không phải nơi mọi thọ không khổ không lạc, vô minh tùy miên cần được đoạn trừ.
 
 <!-- seg: mn44:28.3 -->
-Ở đây, này Visākha, có vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng và trú vào thiền-na thứ nhất, có tầm, có tứ, có hỷ và lạc do sự ly dục sinh ra.
+Ở đây, này Visākha, có vị tỳ-kheo ly dục, ly các pháp bất thiện, chứng đạt và an trú vào thiền-na thứ nhất, có tầm, có tứ, có hỷ và lạc do sự ly dục sinh ra.
 
 <!-- seg: mn44:28.4 -->
 Nhờ đó vị ấy đoạn trừ tham, và nơi ấy tham tùy miên không ngủ ngầm.
@@ -19,7 +19,7 @@ Nhờ đó vị ấy đoạn trừ tham, và nơi ấy tham tùy miên không ng
 Ở đây, này Visākha, có vị tỳ-kheo suy xét như vầy:
 
 <!-- seg: mn44:28.6 -->
-'Bao giờ ta mới chứng và trú được vào xứ ấy, xứ mà các bậc thánh hôm nay đang chứng và trú?'
+'Bao giờ ta mới chứng đạt và an trú được vào xứ ấy, xứ mà các bậc thánh hôm nay đang chứng đạt và an trú?'
 
 [Chú thích: Câu này cũng gặp ở Trung Bộ Kinh 137. 'Xứ ấy' đôi khi được hiểu là Niết-bàn, nhưng cũng có khi chỉ các tầng định; ở đây hẳn là nghĩa sau, vì nó được đồng nhất với một trong các lối giải thoát, mà các lối giải thoát thường chỉ những trạng thái định khác nhau.]
 
@@ -32,7 +32,7 @@ Khi vị ấy nuôi dưỡng lòng mong mỏi như vậy đối với những s�
 Nhờ đó vị ấy đoạn trừ sân, và nơi ấy sân tùy miên không ngủ ngầm.
 
 <!-- seg: mn44:28.9 -->
-Ở đây, này Visākha, có vị tỳ-kheo do đoạn trừ lạc, đoạn trừ khổ, và trước đó đã chấm dứt hỷ và ưu, chứng và trú vào thiền-na thứ tư, không khổ không lạc, thanh tịnh nhờ xả và chánh niệm.
+Ở đây, này Visākha, có vị tỳ-kheo do đoạn trừ lạc, đoạn trừ khổ, và trước đó đã chấm dứt hỷ và ưu, chứng đạt và an trú vào thiền-na thứ tư, không khổ không lạc, thanh tịnh nhờ xả và chánh niệm.
 
 <!-- seg: mn44:28.10 -->
 Nhờ đó vị ấy đoạn trừ vô minh, và nơi ấy vô minh tùy miên không ngủ ngầm."
