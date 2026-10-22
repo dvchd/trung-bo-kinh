@@ -27,7 +27,7 @@ và xin Tôn giả Anuruddha đến sớm hơn thường lệ, bạch Ngài;
 <!-- seg: mn127:2.7 -->
 vì thợ mộc Pañcakaṅga có nhiều việc, nhiều việc phải làm cho vua.'"
 
-[Chú thích: Lời thỉnh dùng lối nói người thứ tư, nghĩa là bữa ăn dành cho bốn người, tính cả người thỉnh.]
+[Chú thích của người dịch: Lời thỉnh dùng lối nói người thứ tư, nghĩa là bữa ăn dành cho bốn người, tính cả người thỉnh.]
 
 <!-- seg: mn127:2.8 -->
 "Thưa vâng." Người ấy vâng lời thợ mộc Pañcakaṅga, rồi đi đến chỗ Tôn giả Anuruddha; đến nơi, đảnh lễ Tôn giả Anuruddha rồi ngồi xuống một bên. Ngồi xuống một bên, người ấy thưa với Tôn giả Anuruddha:

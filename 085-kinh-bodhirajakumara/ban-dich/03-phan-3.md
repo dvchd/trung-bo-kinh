@@ -4,7 +4,7 @@
 <!-- seg: mn85:13.3 -->
 Khi ta nói vậy, này thái tử, Uddaka Rāmaputta tuyên bố về xứ Phi tưởng phi phi tưởng.
 
-[Chú thích: Xứ Phi tưởng phi phi tưởng là tầng vô sắc thứ tư, nơi tưởng đã vi tế đến mức không thể nói là có tưởng hay không có tưởng.]
+[Chú thích của người dịch: Xứ Phi tưởng phi phi tưởng là tầng vô sắc thứ tư, nơi tưởng đã vi tế đến mức không thể nói là có tưởng hay không có tưởng.]
 
 <!-- seg: mn85:13.4 -->
 Rồi này thái tử, ta nghĩ như vầy:

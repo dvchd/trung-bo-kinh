@@ -62,7 +62,7 @@ và xin Tôn giả Anuruddha đến sớm hơn thường lệ, bạch Ngài;
 <!-- seg: mn127:2.7 -->
 vì thợ mộc Pañcakaṅga có nhiều việc, nhiều việc phải làm cho vua.'"
 
-[Chú thích: Lời thỉnh dùng lối nói người thứ tư, nghĩa là bữa ăn dành cho bốn người, tính cả người thỉnh.]
+[Chú thích của người dịch: Lời thỉnh dùng lối nói người thứ tư, nghĩa là bữa ăn dành cho bốn người, tính cả người thỉnh.]
 
 <!-- seg: mn127:2.8 -->
 "Thưa vâng." Người ấy vâng lời thợ mộc Pañcakaṅga, rồi đi đến chỗ Tôn giả Anuruddha; đến nơi, đảnh lễ Tôn giả Anuruddha rồi ngồi xuống một bên. Ngồi xuống một bên, người ấy thưa với Tôn giả Anuruddha:
@@ -430,7 +430,7 @@ nơi vị ấy, sự nặng nề của thân chưa được hoàn toàn lắng d
 <!-- seg: mn127:16.8 -->
 Vì sự nặng nề của thân chưa được hoàn toàn lắng dịu, vì hôn trầm thụy miên chưa được hoàn toàn xóa sạch, vì trạo cử và hối hận chưa được hoàn toàn trừ bỏ, nên vị ấy hành thiền một cách mù mịt như thế.
 
-[Chú thích: Chữ *jhāyati* trong Pali vừa có nghĩa là cháy, vừa có nghĩa là hành thiền; ở đây cả hai nghĩa cùng được dùng, nên ngọn đèn cháy leo lét cũng là người tu hành thiền mờ tối.]
+[Chú thích của người dịch: Chữ *jhāyati* trong Pali vừa có nghĩa là cháy, vừa có nghĩa là hành thiền; ở đây cả hai nghĩa cùng được dùng, nên ngọn đèn cháy leo lét cũng là người tu hành thiền mờ tối.]
 
 <!-- seg: mn127:16.9 -->
 Sau khi thân hoại mạng chung, vị ấy sinh vào cõi của chư thiên có ánh sáng ô nhiễm, cùng sống chung với các vị ấy.

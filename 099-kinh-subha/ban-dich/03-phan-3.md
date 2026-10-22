@@ -120,7 +120,7 @@ Thật không thể có chuyện ông ta biết, thấy hay chứng ngộ đư�
 <!-- seg: mn99:16.1 -->
 "Này thanh niên, có năm dục công đức này.
 
-[Chú thích: Dục công đức là năm nhóm đối tượng của giác quan được xem là đáng ưa, gồm sắc, tiếng, mùi, vị và xúc hấp dẫn.]
+[Chú thích của người dịch: Dục công đức là năm nhóm đối tượng của giác quan được xem là đáng ưa, gồm sắc, tiếng, mùi, vị và xúc hấp dẫn.]
 
 <!-- seg: mn99:16.2 -->
 Năm là những gì?

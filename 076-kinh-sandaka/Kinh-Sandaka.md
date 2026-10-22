@@ -142,7 +142,7 @@ Tôn giả Ānanda nói như vầy:
 <!-- seg: mn76:6.1 -->
 Này Sandaka, Đức Thế Tôn, bậc đã biết và đã thấy, bậc A-la-hán, Chánh đẳng giác, đã tuyên thuyết bốn nếp sống phi phạm hạnh và bốn đời sống phạm hạnh không đáng tin cậy; ở nơi ấy, một người sáng suốt, dù có cố gắng hết sức, cũng không nên sống đời phạm hạnh, mà nếu có sống thì cũng không thành tựu được pháp thiện khéo đúng lý.
 
-[Chú thích: Nếp sống phi phạm hạnh (abrahmacariyavāsa) là lối sống mà ai theo nó thì đời sống phạm hạnh không thể đứng vững. Đời sống phạm hạnh không đáng tin cậy (anassāsika) là lối tu nghe rất tự tin nhưng không đem lại chỗ nương chắc thật.]
+[Chú thích của người dịch: Nếp sống phi phạm hạnh (abrahmacariyavāsa) là lối sống mà ai theo nó thì đời sống phạm hạnh không thể đứng vững. Đời sống phạm hạnh không đáng tin cậy (anassāsika) là lối tu nghe rất tự tin nhưng không đem lại chỗ nương chắc thật.]
 
 <!-- seg: mn76:6.2 -->
 "Nhưng thưa ngài Ānanda, bốn nếp sống phi phạm hạnh ấy là những gì, mà Đức Thế Tôn, bậc đã biết và đã thấy, bậc A-la-hán, Chánh đẳng giác, đã tuyên thuyết, ở nơi ấy một người sáng suốt, dù có cố gắng hết sức, cũng không nên sống đời phạm hạnh, mà nếu có sống thì cũng không thành tựu được pháp thiện khéo đúng lý?"

@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 <!-- seg: mn85:1.2 -->
 Một thuở nọ, Đức Thế Tôn trú tại xứ Bhaggā, ở Susumāragira, trong vườn nai tại rừng Bhesakaḷā.
 
-[Chú thích: Susumāragira nghĩa là "tiếng gầm của cá sấu", một khu rừng trên dãy đồi thuộc xứ Bhaggā, phía nam sông Hằng.]
+[Chú thích của người dịch: Susumāragira nghĩa là "tiếng gầm của cá sấu", một khu rừng trên dãy đồi thuộc xứ Bhaggā, phía nam sông Hằng.]
 
 <!-- seg: mn85:2.1 -->
 Lúc bấy giờ, thái tử Bodhi vừa cho xây xong một cung điện tên là Kokanada, và cung điện ấy chưa có sa-môn, bà-la-môn hay bất cứ người nào đến ở.

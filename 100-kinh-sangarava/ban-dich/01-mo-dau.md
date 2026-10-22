@@ -82,7 +82,7 @@ Thưa ngài Gotama, trong số những sa-môn và bà-la-môn ấy, ngài Gotam
 <!-- seg: mn100:7.1 -->
 "Này Bhāradvāja, ngay trong những người tự nhận đã đạt đến sự viên mãn và tận cùng của thắng trí ngay trong đời này và đã nắm vững phần căn bản của đời sống phạm hạnh, Ta vẫn nói là có sự khác nhau.
 
-[Chú thích: Đức Thế Tôn gọi thanh niên Saṅgārava bằng tên dòng họ của ông ta là Bhāradvāja, theo lối gọi quen thuộc dành cho người bà-la-môn.]
+[Chú thích của người dịch: Đức Thế Tôn gọi thanh niên Saṅgārava bằng tên dòng họ của ông ta là Bhāradvāja, theo lối gọi quen thuộc dành cho người bà-la-môn.]
 
 <!-- seg: mn100:7.2 -->
 Này Bhāradvāja, có những sa-môn và bà-la-môn dựa vào truyền khẩu.

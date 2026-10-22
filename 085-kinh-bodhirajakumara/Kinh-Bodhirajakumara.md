@@ -35,7 +35,7 @@ Người đọc lần đầu có thể thấy phần giữa bài kinh rất dài
 <!-- seg: mn85:0.2 -->
 **Kinh Bodhirājakumāra** (*Bodhirājakumāra Sutta*, quen gọi: Kinh Bồ-đề vương tử) — bài kinh ghi lại cuộc gặp gỡ tại cung điện Kokanada của thái tử Bodhi thuộc bộ tộc Thích-ca: thái tử đem chủ trương của phái Ni-kiền-tử rằng hạnh phúc chỉ có thể đạt được bằng khổ đau ra chất vấn, và Đức Thế Tôn đáp lại bằng việc kể lại toàn bộ con đường tu tập của mình, từ lúc rời nhà cho đến khi giác ngộ và độ năm vị tỳ-kheo.
 
-[Chú thích: *Bodhirājakumāra* là hợp từ *bodhi* (giác ngộ) và *rājakumāra* (thái tử); đây là tên riêng của một vị thái tử dòng Thích-ca, không phải một danh từ chung.]
+[Chú thích của người dịch: *Bodhirājakumāra* là hợp từ *bodhi* (giác ngộ) và *rājakumāra* (thái tử); đây là tên riêng của một vị thái tử dòng Thích-ca, không phải một danh từ chung.]
 
 ---
 
@@ -45,7 +45,7 @@ Tôi nghe như vầy.
 <!-- seg: mn85:1.2 -->
 Một thuở nọ, Đức Thế Tôn trú tại xứ Bhaggā, ở Susumāragira, trong vườn nai tại rừng Bhesakaḷā.
 
-[Chú thích: Susumāragira nghĩa là "tiếng gầm của cá sấu", một khu rừng trên dãy đồi thuộc xứ Bhaggā, phía nam sông Hằng.]
+[Chú thích của người dịch: Susumāragira nghĩa là "tiếng gầm của cá sấu", một khu rừng trên dãy đồi thuộc xứ Bhaggā, phía nam sông Hằng.]
 
 <!-- seg: mn85:2.1 -->
 Lúc bấy giờ, thái tử Bodhi vừa cho xây xong một cung điện tên là Kokanada, và cung điện ấy chưa có sa-môn, bà-la-môn hay bất cứ người nào đến ở.
@@ -257,7 +257,7 @@ Rồi này thái tử, ta đến chỗ Āḷāra Kālāma; đến nơi, ta nói 
 <!-- seg: mn85:12.3 -->
 Khi ta nói vậy, này thái tử, Āḷāra Kālāma tuyên bố về xứ Vô sở hữu.
 
-[Chú thích: Xứ Vô sở hữu là tầng vô sắc thứ ba, nơi tâm an trú trên ý niệm "không có gì cả".]
+[Chú thích của người dịch: Xứ Vô sở hữu là tầng vô sắc thứ ba, nơi tâm an trú trên ý niệm "không có gì cả".]
 
 <!-- seg: mn85:12.4 -->
 Rồi này thái tử, ta nghĩ như vầy:
@@ -369,7 +369,7 @@ Rồi này thái tử, ta đến chỗ Uddaka Rāmaputta; đến nơi, ta nói v
 <!-- seg: mn85:13.3 -->
 Khi ta nói vậy, này thái tử, Uddaka Rāmaputta tuyên bố về xứ Phi tưởng phi phi tưởng.
 
-[Chú thích: Xứ Phi tưởng phi phi tưởng là tầng vô sắc thứ tư, nơi tưởng đã vi tế đến mức không thể nói là có tưởng hay không có tưởng.]
+[Chú thích của người dịch: Xứ Phi tưởng phi phi tưởng là tầng vô sắc thứ tư, nơi tưởng đã vi tế đến mức không thể nói là có tưởng hay không có tưởng.]
 
 <!-- seg: mn85:13.4 -->
 Rồi này thái tử, ta nghĩ như vầy:

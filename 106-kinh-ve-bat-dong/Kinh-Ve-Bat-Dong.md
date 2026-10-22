@@ -411,7 +411,7 @@ các tưởng về bất động, các tưởng về cảnh giới vô sở hữ
 <!-- seg: mn106:13.10 -->
 Đó chính là hữu thân, chừng nào hữu thân còn kéo dài.
 
-[Chú thích: `Sakkāya`, hữu thân, là cách gọi toàn bộ thân tâm gồm năm uẩn. Câu này nói rằng tất cả những gì vừa kể đều nằm trong phạm vi của hữu thân.]
+[Chú thích của người dịch: `Sakkāya`, hữu thân, là cách gọi toàn bộ thân tâm gồm năm uẩn. Câu này nói rằng tất cả những gì vừa kể đều nằm trong phạm vi của hữu thân.]
 
 <!-- seg: mn106:13.11 -->
 Đây là cái bất tử, tức là sự giải thoát của tâm nhờ không chấp thủ.'"

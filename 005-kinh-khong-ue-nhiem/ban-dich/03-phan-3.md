@@ -45,7 +45,7 @@ Này các vị, có thể có trường hợp một tỳ-kheo nào đó khởi l
 <!-- seg: mn5:18-20.2 -->
 "Ước gì chính tôi được giảng Pháp cho các tỳ-kheo-ni đang ở trong tu viện, chứ không phải một tỳ-kheo nào khác được giảng Pháp cho các tỳ-kheo-ni đang ở trong tu viện."
 
-[Chú thích: Một tỳ-kheo giảng Pháp cho tỳ-kheo-ni vì động cơ thế tục thì phạm tội.]
+[Chú thích của người dịch: Một tỳ-kheo giảng Pháp cho tỳ-kheo-ni vì động cơ thế tục thì phạm tội.]
 
 <!-- seg: mn5:18-20.3 -->
 "Ước gì chính tôi được giảng Pháp cho các nam cư sĩ đang ở trong tu viện, chứ không phải một tỳ-kheo nào khác được giảng Pháp cho các nam cư sĩ đang ở trong tu viện."

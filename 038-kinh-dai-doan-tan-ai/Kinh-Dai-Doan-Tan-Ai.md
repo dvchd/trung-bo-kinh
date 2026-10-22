@@ -553,7 +553,7 @@ chúng con thấy đúng như vậy ở đây:
 <!-- seg: mn38:18.5 -->
 già chết do sinh làm duyên."
 
-[Chú thích: Đức Thế Tôn hỏi tới hỏi lui các học trò, củng cố việc học bằng cách chắc chắn rằng họ hiểu từng điểm.]
+[Chú thích của người dịch: Đức Thế Tôn hỏi tới hỏi lui các học trò, củng cố việc học bằng cách chắc chắn rằng họ hiểu từng điểm.]
 
 <!-- seg: mn38:18.6 -->
 "Hữu làm duyên cho sinh — đó là điều Ta đã nói.

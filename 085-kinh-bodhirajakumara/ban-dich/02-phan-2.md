@@ -50,7 +50,7 @@ Rồi này thái tử, ta đến chỗ Āḷāra Kālāma; đến nơi, ta nói 
 <!-- seg: mn85:12.3 -->
 Khi ta nói vậy, này thái tử, Āḷāra Kālāma tuyên bố về xứ Vô sở hữu.
 
-[Chú thích: Xứ Vô sở hữu là tầng vô sắc thứ ba, nơi tâm an trú trên ý niệm "không có gì cả".]
+[Chú thích của người dịch: Xứ Vô sở hữu là tầng vô sắc thứ ba, nơi tâm an trú trên ý niệm "không có gì cả".]
 
 <!-- seg: mn85:12.4 -->
 Rồi này thái tử, ta nghĩ như vầy:

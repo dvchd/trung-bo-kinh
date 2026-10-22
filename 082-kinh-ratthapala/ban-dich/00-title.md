@@ -8,4 +8,4 @@
 <!-- seg: mn82:0.2 -->
 **Kinh Raṭṭhapāla** (*Raṭṭhapāla Sutta*) — bài kinh kể chuyện một thiện nam tử ở thị trấn Thullakoṭṭhika nằm xuống đất, nhịn ăn bảy ngày để cha mẹ cho phép xuất gia; sau khi chứng quả, ông trở về quê và giảng cho vua Koravya về bốn điều tóm tắt của Pháp.
 
-[Chú thích: Tên *Raṭṭhapāla* ghép từ *raṭṭha*, "quốc gia", và *pāla*, "người gìn giữ"; nghĩa là "người gìn giữ quốc gia".]
+[Chú thích của người dịch: Tên *Raṭṭhapāla* ghép từ *raṭṭha*, "quốc gia", và *pāla*, "người gìn giữ"; nghĩa là "người gìn giữ quốc gia".]
