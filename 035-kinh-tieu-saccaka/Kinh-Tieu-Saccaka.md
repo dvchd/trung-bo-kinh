@@ -277,7 +277,7 @@ một vị vua thuộc giai cấp vua chúa đã được làm lễ quán đản
 <!-- seg: mn35:12.4 -->
 giết những kẻ đáng bị giết, phạt tiền những kẻ đáng bị phạt tiền, trục xuất những kẻ đáng bị trục xuất chăng?"
 
-[Chú thích: Bản Pali dùng một dạng động từ có thể hiểu là những kẻ đáng bị giết, nhưng nếu hiểu như vậy thì hoá ra Đức Thế Tôn tán thành án tử hình, điều không thấy ở chỗ nào khác và trái với giới luật của Ngài. Nên hiểu theo nghĩa nhẹ hơn là giết những kẻ đã bị kết tội phải chết; đây là sự thừa nhận quyền lực của vua, không phải sự tán thành.]
+[Chú thích: Bản Pali dùng một dạng động từ có thể hiểu là những kẻ đáng bị giết, nhưng nếu hiểu như vậy thì hóa ra Đức Thế Tôn tán thành án tử hình, điều không thấy ở chỗ nào khác và trái với giới luật của Ngài. Nên hiểu theo nghĩa nhẹ hơn là giết những kẻ đã bị kết tội phải chết; đây là sự thừa nhận quyền lực của vua, không phải sự tán thành.]
 
 <!-- seg: mn35:12.5 -->
 "Thưa ngài Gotama, một vị vua thuộc giai cấp vua chúa đã được làm lễ quán đảnh, trong lãnh thổ của mình, có quyền—
@@ -594,7 +594,7 @@ Người ấy chặt nó ở gốc, chặt gốc xong chặt ngọn, chặt ng�
 Trong khi bóc các bẹ lá ấy, người ấy không tìm được cả dác, huống chi là lõi gỗ.
 
 <!-- seg: mn35:22.5 -->
-Cũng vậy, này Aggivessana, khi bị Ta truy vấn, gạn hỏi, chất vấn về chính lập luận của ông, thì ông hoá ra trống rỗng, rỗng tuếch, và sai lạc.
+Cũng vậy, này Aggivessana, khi bị Ta truy vấn, gạn hỏi, chất vấn về chính lập luận của ông, thì ông hóa ra trống rỗng, rỗng tuếch, và sai lạc.
 
 <!-- seg: mn35:22.6 -->
 Nhưng này Aggivessana, chính ông đã nói lời này trước hội chúng ở Vesālī:

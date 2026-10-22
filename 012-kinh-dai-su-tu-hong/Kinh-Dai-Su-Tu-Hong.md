@@ -4,7 +4,7 @@
 
 **Đại Kinh Sư Tử Hống** (*Mahāsīhanāda Sutta*) là bài kinh thứ mười hai trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng tiếng Pali. Tên bài có nghĩa là "tiếng rống lớn của sư tử": trong kinh điển, tiếng rống sư tử là hình ảnh chỉ lời tuyên bố dõng dạc, không chút sợ hãi của một bậc đã tự mình giác ngộ, nói trước đám đông về những gì mình đã chứng được. Bài kinh này là một trong những lần tuyên bố ấy được ghi lại đầy đủ nhất.
 
-Chuyện bắt đầu bằng một chuyện nhỏ. Một người tên là Sunakkhatta, xuất thân dòng Licchavi, vừa mới rời bỏ đời sống tu tập của Tăng đoàn. Ông ta đi khắp Vesālī nói xấu vị thầy cũ: rằng sa-môn Gotama chẳng có gì siêu việt hơn người thường, rằng những gì ông ấy dạy chỉ là do suy luận mà ra. Tỳ-kheo Sāriputta tình cờ nghe được, bèn đem chuyện về thưa lại. Đức Thế Tôn nghe xong không giận; Ngài chỉ nói rằng Sunakkhatta đang nói trong cơn giận, và rằng những lời ấy, dù ông ta muốn chê bai, lại hoá ra là lời khen.
+Chuyện bắt đầu bằng một chuyện nhỏ. Một người tên là Sunakkhatta, xuất thân dòng Licchavi, vừa mới rời bỏ đời sống tu tập của Tăng đoàn. Ông ta đi khắp Vesālī nói xấu vị thầy cũ: rằng sa-môn Gotama chẳng có gì siêu việt hơn người thường, rằng những gì ông ấy dạy chỉ là do suy luận mà ra. Tỳ-kheo Sāriputta tình cờ nghe được, bèn đem chuyện về thưa lại. Đức Thế Tôn nghe xong không giận; Ngài chỉ nói rằng Sunakkhatta đang nói trong cơn giận, và rằng những lời ấy, dù ông ta muốn chê bai, lại hóa ra là lời khen.
 
 Phần lớn còn lại của bài là lời đáp. Đức Thế Tôn kể ra mười sức mạnh của Như Lai — mười điều Ngài biết rõ mà người thường không biết, từ chỗ hiểu cái gì có thể và cái gì không thể, cho đến sự đoạn tận hoàn toàn các lậu hoặc. Rồi Ngài kể bốn sự tự tin: không ai trên đời có thể quở trách Ngài đúng với pháp về bốn điểm ấy. Rồi Ngài nói đến tám hội chúng — vua chúa, bà-la-môn, gia chủ, sa-môn, chư thiên, Ma vương, Phạm Thiên — và chuyện Ngài đã từng bước vào, ngồi chung, nói chuyện với tất cả mà không hề run sợ.
 
@@ -33,7 +33,7 @@ Bản dịch này theo sát bản Pali từng đoạn một, kể cả những c
 <!-- seg: mn12:0.2 -->
 **Đại Kinh Sư Tử Hống** (*Mahāsīhanāda Sutta*) — "tiếng rống sư tử lớn".
 
-[Chú thích: *Sīhanāda* là "tiếng rống của sư tử", hình ảnh chỉ lời tuyên bố dõng dạc và không sợ hãi của Như Lai giữa hội chúng. Bản Pali còn ghi tên gốc của bài là *Lomahaṁsanapariyāya*, "pháp môn làm dựng tóc gáy".]
+[Chú thích của người dịch: *Sīhanāda* là "tiếng rống của sư tử", hình ảnh chỉ lời tuyên bố dõng dạc và không sợ hãi của Như Lai giữa hội chúng. Bản Pali còn ghi tên gốc của bài là *Lomahaṁsanapariyāya*, "pháp môn làm dựng tóc gáy".]
 
 ---
 
@@ -398,22 +398,22 @@ Này Sāriputta, vì Ta không thấy lý do ấy, nên Ta sống an ổn, khôn
 Này Sāriputta, Ta nhớ Ta đã từng đi đến hội chúng gồm hàng trăm vị bà-la-môn.
 
 <!-- seg: mn12:30.2 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm gia chủ; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm gia chủ.
 
 <!-- seg: mn12:30.3 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm sa-môn; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm sa-môn.
 
 <!-- seg: mn12:30.4 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm chư thiên của bốn đại vương; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm chư thiên của bốn đại vương.
 
 <!-- seg: mn12:30.5 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm chư thiên cõi Ba Mươi Ba; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm chư thiên cõi Ba Mươi Ba.
 
 <!-- seg: mn12:30.6 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm Ma vương; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm Ma vương.
 
 <!-- seg: mn12:30.7 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm Phạm Thiên; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm Phạm Thiên.
 
 <!-- seg: mn12:30.8 -->
 Ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ.

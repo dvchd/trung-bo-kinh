@@ -5,22 +5,22 @@ Này Sāriputta, vì Ta không thấy lý do ấy, nên Ta sống an ổn, khôn
 Này Sāriputta, Ta nhớ Ta đã từng đi đến hội chúng gồm hàng trăm vị bà-la-môn.
 
 <!-- seg: mn12:30.2 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm gia chủ; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm gia chủ.
 
 <!-- seg: mn12:30.3 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm sa-môn; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm sa-môn.
 
 <!-- seg: mn12:30.4 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm chư thiên của bốn đại vương; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm chư thiên của bốn đại vương.
 
 <!-- seg: mn12:30.5 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm chư thiên cõi Ba Mươi Ba; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm chư thiên cõi Ba Mươi Ba.
 
 <!-- seg: mn12:30.6 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm Ma vương; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm Ma vương.
 
 <!-- seg: mn12:30.7 -->
-Ta cũng đã từng đi đến hội chúng gồm hàng trăm Phạm Thiên; ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ; Ta không thấy có lý do nào để sự sợ hãi hay sự run sợ có thể xâm nhập vào Ta.
+Ta cũng đã từng đi đến hội chúng gồm hàng trăm Phạm Thiên.
 
 <!-- seg: mn12:30.8 -->
 Ở đó, Ta đã từng ngồi chung, đã từng nói chuyện, và đã từng tham gia thảo luận với họ.

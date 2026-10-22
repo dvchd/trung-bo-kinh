@@ -403,7 +403,7 @@ Còn ông, này Udāyi, lại nói về sắc thấp kém hơn và đáng chê h
 'Đây là sắc tối thượng, đây là sắc tối thượng.'
 
 <!-- seg: mn79:19.6 -->
-Nhưng khi Đức Thế Tôn truy vấn, gạn hỏi, chất vấn chúng con về giáo phái của mình, thì chúng con hoá ra trống rỗng, rỗng tuếch và sai lầm."
+Nhưng khi Đức Thế Tôn truy vấn, gạn hỏi, chất vấn chúng con về giáo phái của mình, thì chúng con hóa ra trống rỗng, rỗng tuếch và sai lầm."
 
 <!-- seg: mn79:20.1 -->
 "Nhưng này Udāyi, có một thế giới an lạc tuyệt đối chăng? Có một con đường thực hành có căn cứ để chứng nghiệm thế giới an lạc tuyệt đối chăng?"
@@ -488,7 +488,7 @@ nương vào một con đường thực hành có lạc và khổ xen lẫn, li�
 [Chú thích: *Ākāravatī paṭipadā*, "con đường thực hành có căn cứ", dùng cùng một tính từ với *ākāravatī saddhā*, "lòng tin có căn cứ", trong Trung Bộ Kinh 47 và Trung Bộ Kinh 60.]
 
 <!-- seg: mn79:23.6 -->
-Nhưng khi Đức Thế Tôn truy vấn, gạn hỏi, chất vấn chúng con về giáo phái của mình, thì chúng con hoá ra trống rỗng, rỗng tuếch và sai lầm."
+Nhưng khi Đức Thế Tôn truy vấn, gạn hỏi, chất vấn chúng con về giáo phái của mình, thì chúng con hóa ra trống rỗng, rỗng tuếch và sai lầm."
 
 <!-- seg: mn79:23.7 -->
 "Nhưng thưa Ngài, có một thế giới an lạc tuyệt đối chăng? Có một con đường thực hành có căn cứ để chứng nghiệm thế giới an lạc tuyệt đối chăng?"

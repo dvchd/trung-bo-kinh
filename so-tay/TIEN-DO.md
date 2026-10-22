@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 44 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 50 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 44/152 bài
+## Đợt đọc lại văn phong: 50/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -66,9 +66,15 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 23 | 0 | không có chỗ sai; đối chiếu cả 104 đoạn và 20 chú thích |
 | MN 24 | 1 | 4.4 lặp câu của 4.3, mất chi tiết Puṇṇa nghe tin Đức Thế Tôn đến Sāvatthī |
 | MN 25 | 3 | 9.6 lọt "chúng ta hãy", chú thích 6.28 nhận sai bầy nai, lời giới thiệu tả ngược bầy thứ ba |
+| MN 12 | 7 | peyyāla 30.2–30.7 khai triển thừa, chú thích 0.2 thiếu nhãn người dịch |
+| MN 21 | 6 | "gọi thầy" ở 4.3/4.5, 9.33 lệch 9.22, chú thích 9.10/7.4 sai, thiếu chú thích 21.1 |
+| MN 22 | 1 | 11.23 thiếu vế "an vui lâu dài" |
+| MN 26 | 5 | "này Upaka" thừa ở 25.25, "im lặng" ở 19.16/20.2, hô cách 20.18, "nhất thời" trong lời giới thiệu |
+| MN 27 | 2 | chú thích 3.1 thiếu giới từ, chú thích 13.9 diễn giải sai NOTE |
+| MN 28 | 9 | dulladdha/suladdha dịch nhầm thành "khó được" ở 8 chỗ, chú thích 6.8 thiếu dấu hỏi |
 
-Tổng 193 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 214 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 223 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 243 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
@@ -76,11 +82,12 @@ phạm hạnh đã sống xong…" nay thống nhất ở tám bài (MN 7, 75, 8
 thích của người dịch: 15 chú thích ở sáu bài (MN 12, 13, 14, 36, 125, 137) trước đây dùng
 "(người dịch)" hoặc "Người dịch:" nay đều theo một dạng "Chú thích của người dịch:". Cũng trong đợt này, `tien-do.py` của cả 152
 bài được sửa để nhận marker dải (`mn17:7-10.1`): trước đó regex bỏ qua chúng và báo thiếu đoạn giả;
-nay cả 152 bài báo thiếu 0.
+nay cả 152 bài báo thiếu 0. Cũng trong đợt này, các chỗ viết "hoá ra" lẻ tẻ được đưa về "hóa ra"
+cho khớp phần lớn kho (MN 12, 24, 35, 79).
 
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 108 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+1. Đọc lại 102 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
    trình như trên. Phiên 19:00 ngày 2026-10-22 bắt đầu từ MN 12 (372 đoạn, nên tách đôi), rồi
    MN 21, 22, 26, 27, 28.
 2. Bổ sung 31 chú thích còn thiếu của MN 1: nguồn có 41 NOTE nhưng bản dịch mới có 11 chú thích.

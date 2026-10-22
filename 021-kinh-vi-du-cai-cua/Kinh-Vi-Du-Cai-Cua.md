@@ -87,13 +87,13 @@ Rồi Đức Thế Tôn gọi một tỳ-kheo:
 "Này tỳ-kheo, ông hãy nhân danh Ta mà gọi tỳ-kheo Moḷiyaphagguna:
 
 <!-- seg: mn21:4.3 -->
-'Bậc Đạo sư gọi thầy, này Phagguna.'"
+'Bậc Đạo sư gọi hiền giả, này Phagguna.'"
 
 <!-- seg: mn21:4.4 -->
 "Thưa vâng, bạch Thế Tôn," vị tỳ-kheo ấy đáp lời Đức Thế Tôn. Rồi vị ấy đi đến chỗ tỳ-kheo Moḷiyaphagguna; đến nơi, vị ấy nói với ngài:
 
 <!-- seg: mn21:4.5 -->
-"Bậc Đạo sư gọi thầy, này Phagguna."
+"Bậc Đạo sư gọi hiền giả, này Phagguna."
 
 <!-- seg: mn21:4.6 -->
 "Thưa vâng, thưa hiền giả," tỳ-kheo Moḷiyaphagguna đáp lời vị tỳ-kheo ấy. Rồi ngài đi đến chỗ Đức Thế Tôn; đến nơi, ngài đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Đức Thế Tôn nói với tỳ-kheo Moḷiyaphagguna đang ngồi một bên:
@@ -185,7 +185,7 @@ Có lần, này các tỳ-kheo, Ta đã nói với các tỳ-kheo:
 <!-- seg: mn21:7.4 -->
 "Này các tỳ-kheo, Ta ăn mỗi ngày một bữa, chỉ trong một lần ngồi.
 
-[Chú thích: Ăn mỗi ngày một bữa cũng được khuyến khích ở MN 65, còn MN 70 khuyến khích không ăn ban đêm. Cả ba lần trong kinh đều cho thấy các tỳ-kheo phản đối khi được yêu cầu giữ hạnh này, dẫn đến việc Đức Thế Tôn chế định giới luật về ăn phi thời. Theo MN 65, các tỳ-kheo không bắt buộc phải ăn một lần ngồi, đó là hạnh tu tùy chọn.]
+[Chú thích: Ăn mỗi ngày một bữa cũng được khuyến khích ở MN 65, còn MN 70 khuyến khích không ăn ban đêm. Ở MN 65 và MN 70, các tỳ-kheo phản đối khi được yêu cầu giữ hạnh này; cả ba chỗ ấy đều cho thấy ảnh hưởng ngày càng tăng của các tỳ-kheo cứng đầu, dẫn đến việc Đức Thế Tôn chế định giới luật về ăn phi thời. Theo MN 65, các tỳ-kheo không bắt buộc phải ăn một lần ngồi, đó là hạnh tu tùy chọn.]
 
 <!-- seg: mn21:7.5 -->
 Khi Ta ăn mỗi ngày một bữa như vậy, này các tỳ-kheo, Ta biết mình ít bệnh, ít tật, nhẹ nhàng, khỏe mạnh và sống an lạc.
@@ -288,7 +288,7 @@ Hay là công việc của ta được sắp xếp chu đáo, nên bà chủ kh�
 <!-- seg: mn21:9.10 -->
 Vậy ta hãy thử bà chủ xem sao."
 
-[Chú thích: "Thử" là *vīmaṁsā*, tức sự dò xét, tìm hiểu; đây là một trong bốn nền tảng của sự thành tựu.]
+[Chú thích: "Thử" là *vīmaṁsā*, tức sự dò xét, tìm hiểu; đây là một trong bốn thần túc.]
 
 <!-- seg: mn21:9.11 -->
 Rồi này các tỳ-kheo, nữ tỳ Kāḷī thức dậy lúc trời đã sáng.
@@ -361,7 +361,7 @@ Công việc của ta được sắp xếp chu đáo, nên bà chủ không lộ
 Vậy ta hãy thử bà chủ thêm nữa."
 
 <!-- seg: mn21:9.33 -->
-Rồi này các tỳ-kheo, nữ tỳ Kāḷī thức dậy còn muộn hơn nữa.
+Rồi này các tỳ-kheo, nữ tỳ Kāḷī thức dậy muộn hơn nữa trong ngày.
 
 [Chú thích: Có thể hiểu ba lần ấy là *divā*, *divātaraṁ*, *divātaraṁyeva*, tức "ban ngày", "muộn hơn trong ngày", "còn muộn hơn nữa", nhưng bản Pali không theo đúng thứ tự ấy một cách nhất quán.]
 
@@ -756,6 +756,8 @@ thì các ông có thấy cách nói nào, dù nhỏ hay lớn, mà các ông kh
 
 <!-- seg: mn21:21.5 -->
 Điều ấy sẽ đưa đến lợi ích và an lạc lâu dài cho các ông."
+
+[Chú thích: Đoạn kết này được dẫn lại ở MN 28:24.3, nơi bài kinh mang tên "Lời khuyên về ví dụ cái cưa"; đây là một trong những ví dụ nổi tiếng nhất của Phật giáo. Ngoài MN 21, MN 28 và các bản Hán tương ứng, đoạn này còn được dẫn ở Thag 6.12:5.2 và SA 497, cùng nhiều bản chú giải như *Mahāvibhāṣā*, chú giải Ud 3.3 và chương về phép rải tâm từ trong *Thanh Tịnh Đạo*.]
 
 <!-- seg: mn21:21.6 -->
 Đức Thế Tôn nói như vậy.

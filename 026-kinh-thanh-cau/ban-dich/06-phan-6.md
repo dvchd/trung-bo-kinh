@@ -54,7 +54,7 @@ Những bậc chiến thắng là những người như Ta,
 những người đã đạt đến sự đoạn tận lậu hoặc;
 
 <!-- seg: mn26:25.25 -->
-Ta đã chiến thắng mọi pháp ác, này Upaka,
+Ta đã chiến thắng mọi pháp ác,
 
 <!-- seg: mn26:25.26 -->
 vì vậy này Upaka, Ta là bậc chiến thắng.

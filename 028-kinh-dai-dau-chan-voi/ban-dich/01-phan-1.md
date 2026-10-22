@@ -94,7 +94,7 @@ Này các hiền giả, nội địa đại và ngoại địa đại đều ch�
 <!-- seg: mn28:6.8 -->
 Điều này cần được thấy như thật bằng chánh tuệ như vầy: "Cái này không phải của tôi, tôi không phải là cái này, cái này không phải là tự ngã của tôi."
 
-[Chú thích: Vì cái ở bên trong và cái ở bên ngoài là cùng một đại, thì sao nó có thể là thân của tôi. Trong cách quán vô ngã quen thuộc này, "không phải của tôi" đối trị lòng tham do cảm giác sở hữu, "tôi không phải là cái này" đối trị ngã mạn do đồng nhất mình với nó, và "không phải tự ngã của tôi" đối trị những kiến chấp do suy đoán.]
+[Chú thích: Vì cái ở bên trong và cái ở bên ngoài là cùng một đại, thì sao nó có thể là thân của tôi? Trong cách quán vô ngã quen thuộc này, "không phải của tôi" đối trị lòng tham do cảm giác sở hữu, "tôi không phải là cái này" đối trị ngã mạn do đồng nhất mình với nó, và "không phải tự ngã của tôi" đối trị những kiến chấp do suy đoán.]
 
 <!-- seg: mn28:6.9 -->
 Sau khi thấy điều này như thật bằng chánh tuệ, vị ấy nhàm chán địa đại, làm cho tâm mình lìa khỏi địa đại.
@@ -181,7 +181,7 @@ Này các hiền giả, nếu vị tỳ-kheo ấy, trong khi tùy niệm Đức 
 Vị ấy xúc động, khởi lên sự thôi thúc:
 
 <!-- seg: mn28:10.3 -->
-"Thật là mất mát cho tôi, thật là không có lợi ích gì cho tôi; thật là khó được cho tôi, thật chẳng dễ được gì cho tôi.
+"Thật là mất mát cho tôi, thật là không có lợi ích gì cho tôi; thật là được một cách dở tệ cho tôi, thật chẳng phải được một cách tốt lành cho tôi.
 
 <!-- seg: mn28:10.4 -->
 Bởi vì với tôi, trong khi tùy niệm Đức Thế Tôn, tùy niệm Pháp, tùy niệm Tăng như vậy, mà xả nương vào thiện pháp lại không được an trú."

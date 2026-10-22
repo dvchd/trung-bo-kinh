@@ -66,6 +66,8 @@ thì các ông có thấy cách nói nào, dù nhỏ hay lớn, mà các ông kh
 <!-- seg: mn21:21.5 -->
 Điều ấy sẽ đưa đến lợi ích và an lạc lâu dài cho các ông."
 
+[Chú thích: Đoạn kết này được dẫn lại ở MN 28:24.3, nơi bài kinh mang tên "Lời khuyên về ví dụ cái cưa"; đây là một trong những ví dụ nổi tiếng nhất của Phật giáo. Ngoài MN 21, MN 28 và các bản Hán tương ứng, đoạn này còn được dẫn ở Thag 6.12:5.2 và SA 497, cùng nhiều bản chú giải như *Mahāvibhāṣā*, chú giải Ud 3.3 và chương về phép rải tâm từ trong *Thanh Tịnh Đạo*.]
+
 <!-- seg: mn21:21.6 -->
 Đức Thế Tôn nói như vậy.
 

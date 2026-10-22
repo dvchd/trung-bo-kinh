@@ -85,7 +85,7 @@ Hay là công việc của ta được sắp xếp chu đáo, nên bà chủ kh�
 <!-- seg: mn21:9.10 -->
 Vậy ta hãy thử bà chủ xem sao."
 
-[Chú thích: "Thử" là *vīmaṁsā*, tức sự dò xét, tìm hiểu; đây là một trong bốn nền tảng của sự thành tựu.]
+[Chú thích: "Thử" là *vīmaṁsā*, tức sự dò xét, tìm hiểu; đây là một trong bốn thần túc.]
 
 <!-- seg: mn21:9.11 -->
 Rồi này các tỳ-kheo, nữ tỳ Kāḷī thức dậy lúc trời đã sáng.
@@ -158,7 +158,7 @@ Công việc của ta được sắp xếp chu đáo, nên bà chủ không lộ
 Vậy ta hãy thử bà chủ thêm nữa."
 
 <!-- seg: mn21:9.33 -->
-Rồi này các tỳ-kheo, nữ tỳ Kāḷī thức dậy còn muộn hơn nữa.
+Rồi này các tỳ-kheo, nữ tỳ Kāḷī thức dậy muộn hơn nữa trong ngày.
 
 [Chú thích: Có thể hiểu ba lần ấy là *divā*, *divātaraṁ*, *divātaraṁyeva*, tức "ban ngày", "muộn hơn trong ngày", "còn muộn hơn nữa", nhưng bản Pali không theo đúng thứ tự ấy một cách nhất quán.]
 

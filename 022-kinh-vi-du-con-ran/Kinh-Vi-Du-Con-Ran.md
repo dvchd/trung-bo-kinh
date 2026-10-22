@@ -503,7 +503,7 @@ Họ không học thuộc pháp để tìm lỗi, cũng không để thắng tro
 Mục đích họ học thuộc pháp là gì, họ chứng đạt mục đích ấy.
 
 <!-- seg: mn22:11.23 -->
-Họ nắm bắt những pháp ấy đúng, nên chúng đưa đến lợi ích, hạnh phúc lâu dài cho họ.
+Họ nắm bắt những pháp ấy đúng, nên chúng đưa đến lợi ích, hạnh phúc và an vui lâu dài cho họ.
 
 <!-- seg: mn22:11.24 -->
 Vì sao vậy?

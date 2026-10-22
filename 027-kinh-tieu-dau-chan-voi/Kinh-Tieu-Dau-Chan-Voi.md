@@ -88,7 +88,7 @@ Ngài Gotama ấy đã được các bậc đáng ca ngợi ca ngợi; ngài là
 <!-- seg: mn27:3.1 -->
 Thưa ngài, ví như một người thợ săn voi khéo léo đi vào rừng voi.
 
-[Chú thích: Ở đây văn bản phân biệt nāga (voi đực), hatthi (voi) và hatthinī (voi cái). Điều này rất quan trọng cho phép so sánh, vì người thợ săn đang tìm đúng một con voi đực.]
+[Chú thích: Ở đây văn bản phân biệt nāga (voi đực), hatthi (voi) và hatthinī (voi cái). Điều này rất quan trọng đối với phép so sánh, vì người thợ săn đang tìm đúng một con voi đực.]
 
 <!-- seg: mn27:3.2 -->
 Người ấy thấy trong rừng voi một dấu chân voi lớn, dài và rộng.
@@ -421,7 +421,7 @@ Vị ấy tránh xa việc phá hoại các loài cây cỏ và hạt giống.
 <!-- seg: mn27:13.9 -->
 Vị ấy ăn một bữa mỗi ngày, không ăn ban đêm, tránh xa việc ăn phi thời.
 
-[Chú thích: "Ban đêm" là sau khi trời tối, còn "phi thời" là buổi chiều. Nói rõ hơn, đó là những lúc không phải giờ ăn trong ngày.]
+[Chú thích: "Ban đêm" là sau khi trời tối, còn "phi thời" là buổi chiều. Nói rõ hơn, đó là 'phi thời ban đêm' và 'phi thời ban ngày', nên cả hai đều là 'phi thời'.]
 
 <!-- seg: mn27:13.10 -->
 Vị ấy tránh xa việc xem múa, hát, âm nhạc và các trò trình diễn.

@@ -60,7 +60,7 @@ Vị ấy tránh xa việc phá hoại các loài cây cỏ và hạt giống.
 <!-- seg: mn27:13.9 -->
 Vị ấy ăn một bữa mỗi ngày, không ăn ban đêm, tránh xa việc ăn phi thời.
 
-[Chú thích: "Ban đêm" là sau khi trời tối, còn "phi thời" là buổi chiều. Nói rõ hơn, đó là những lúc không phải giờ ăn trong ngày.]
+[Chú thích: "Ban đêm" là sau khi trời tối, còn "phi thời" là buổi chiều. Nói rõ hơn, đó là 'phi thời ban đêm' và 'phi thời ban ngày', nên cả hai đều là 'phi thời'.]
 
 <!-- seg: mn27:13.10 -->
 Vị ấy tránh xa việc xem múa, hát, âm nhạc và các trò trình diễn.

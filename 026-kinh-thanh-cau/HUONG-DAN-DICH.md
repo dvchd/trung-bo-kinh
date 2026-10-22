@@ -41,7 +41,7 @@ Tại tịnh xá Kỳ Viên, sau buổi khất thực, Đức Thế Tôn cùng n
 | appossukkatā | sự yên lặng | 19.16; nghiêng về không thuyết Pháp |
 | dhammacakka | Bánh xe Pháp | 25.18 |
 | kāmaguṇā | năm loại dục lạc | 31.1 |
-| andhamakāsi māraṁ | làm mù Ma vương | 34.5; công thức lặp 11 lần |
+| andhamakāsi māraṁ | làm mù Ma vương | 34.5, 35.2–41.2, 42.2; công thức lặp 9 lần |
 | saññāvedayitanirodha | sự chấm dứt của tưởng và thọ | 42.1 |
 
 ## 4. Chỗ dễ dịch sai

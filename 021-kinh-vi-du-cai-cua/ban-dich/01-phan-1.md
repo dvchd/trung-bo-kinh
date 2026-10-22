@@ -48,13 +48,13 @@ Rồi Đức Thế Tôn gọi một tỳ-kheo:
 "Này tỳ-kheo, ông hãy nhân danh Ta mà gọi tỳ-kheo Moḷiyaphagguna:
 
 <!-- seg: mn21:4.3 -->
-'Bậc Đạo sư gọi thầy, này Phagguna.'"
+'Bậc Đạo sư gọi hiền giả, này Phagguna.'"
 
 <!-- seg: mn21:4.4 -->
 "Thưa vâng, bạch Thế Tôn," vị tỳ-kheo ấy đáp lời Đức Thế Tôn. Rồi vị ấy đi đến chỗ tỳ-kheo Moḷiyaphagguna; đến nơi, vị ấy nói với ngài:
 
 <!-- seg: mn21:4.5 -->
-"Bậc Đạo sư gọi thầy, này Phagguna."
+"Bậc Đạo sư gọi hiền giả, này Phagguna."
 
 <!-- seg: mn21:4.6 -->
 "Thưa vâng, thưa hiền giả," tỳ-kheo Moḷiyaphagguna đáp lời vị tỳ-kheo ấy. Rồi ngài đi đến chỗ Đức Thế Tôn; đến nơi, ngài đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Đức Thế Tôn nói với tỳ-kheo Moḷiyaphagguna đang ngồi một bên:
@@ -146,7 +146,7 @@ Có lần, này các tỳ-kheo, Ta đã nói với các tỳ-kheo:
 <!-- seg: mn21:7.4 -->
 "Này các tỳ-kheo, Ta ăn mỗi ngày một bữa, chỉ trong một lần ngồi.
 
-[Chú thích: Ăn mỗi ngày một bữa cũng được khuyến khích ở MN 65, còn MN 70 khuyến khích không ăn ban đêm. Cả ba lần trong kinh đều cho thấy các tỳ-kheo phản đối khi được yêu cầu giữ hạnh này, dẫn đến việc Đức Thế Tôn chế định giới luật về ăn phi thời. Theo MN 65, các tỳ-kheo không bắt buộc phải ăn một lần ngồi, đó là hạnh tu tùy chọn.]
+[Chú thích: Ăn mỗi ngày một bữa cũng được khuyến khích ở MN 65, còn MN 70 khuyến khích không ăn ban đêm. Ở MN 65 và MN 70, các tỳ-kheo phản đối khi được yêu cầu giữ hạnh này; cả ba chỗ ấy đều cho thấy ảnh hưởng ngày càng tăng của các tỳ-kheo cứng đầu, dẫn đến việc Đức Thế Tôn chế định giới luật về ăn phi thời. Theo MN 65, các tỳ-kheo không bắt buộc phải ăn một lần ngồi, đó là hạnh tu tùy chọn.]
 
 <!-- seg: mn21:7.5 -->
 Khi Ta ăn mỗi ngày một bữa như vậy, này các tỳ-kheo, Ta biết mình ít bệnh, ít tật, nhẹ nhàng, khỏe mạnh và sống an lạc.

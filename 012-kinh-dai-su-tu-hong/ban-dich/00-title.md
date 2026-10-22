@@ -8,4 +8,4 @@
 <!-- seg: mn12:0.2 -->
 **Đại Kinh Sư Tử Hống** (*Mahāsīhanāda Sutta*) — "tiếng rống sư tử lớn".
 
-[Chú thích: *Sīhanāda* là "tiếng rống của sư tử", hình ảnh chỉ lời tuyên bố dõng dạc và không sợ hãi của Như Lai giữa hội chúng. Bản Pali còn ghi tên gốc của bài là *Lomahaṁsanapariyāya*, "pháp môn làm dựng tóc gáy".]
+[Chú thích của người dịch: *Sīhanāda* là "tiếng rống của sư tử", hình ảnh chỉ lời tuyên bố dõng dạc và không sợ hãi của Như Lai giữa hội chúng. Bản Pali còn ghi tên gốc của bài là *Lomahaṁsanapariyāya*, "pháp môn làm dựng tóc gáy".]

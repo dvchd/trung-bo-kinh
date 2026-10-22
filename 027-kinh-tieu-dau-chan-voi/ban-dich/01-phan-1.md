@@ -51,7 +51,7 @@ Ngài Gotama ấy đã được các bậc đáng ca ngợi ca ngợi; ngài là
 <!-- seg: mn27:3.1 -->
 Thưa ngài, ví như một người thợ săn voi khéo léo đi vào rừng voi.
 
-[Chú thích: Ở đây văn bản phân biệt nāga (voi đực), hatthi (voi) và hatthinī (voi cái). Điều này rất quan trọng cho phép so sánh, vì người thợ săn đang tìm đúng một con voi đực.]
+[Chú thích: Ở đây văn bản phân biệt nāga (voi đực), hatthi (voi) và hatthinī (voi cái). Điều này rất quan trọng đối với phép so sánh, vì người thợ săn đang tìm đúng một con voi đực.]
 
 <!-- seg: mn27:3.2 -->
 Người ấy thấy trong rừng voi một dấu chân voi lớn, dài và rộng.

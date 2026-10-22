@@ -74,7 +74,7 @@ kẻ đắm trong tham không thấy được,
 vì bị khối tối tăm che phủ.
 
 <!-- seg: mn26:19.16 -->
-Này các tỳ-kheo, khi Ta quán xét như vậy, tâm Ta nghiêng về sự im lặng, không nghiêng về việc thuyết Pháp.
+Này các tỳ-kheo, khi Ta quán xét như vậy, tâm Ta nghiêng về sự yên lặng, không nghiêng về việc thuyết Pháp.
 
 [Chú thích: Nếu Ngài theo khuynh hướng ấy thì Ngài đã thành một bậc giác ngộ cho riêng mình, không thuyết Pháp cho người khác.]
 
@@ -84,7 +84,7 @@ Này các tỳ-kheo, rồi Phạm Thiên Sahampati, biết được tâm và ý 
 [Chú thích: Sahampati xuất hiện nhiều trong kinh nhưng không có vị thần nào tên ấy trong văn liệu bà-la-môn sớm. Ông dường như là bản Phật giáo của Phạm Thiên Svayambhū, "Đấng Tự sinh", mà Yājñavalkya truy nguyên thẩm quyền truyền thừa của mình. Danh hiệu "Đấng Tự sinh" (sayambhū) về sau được dùng cho Đức Thế Tôn.]
 
 <!-- seg: mn26:20.2 -->
-"Than ôi, thế gian này sẽ mất đi, thế gian này sẽ diệt vong! Vì tâm của Như Lai, bậc A-la-hán, Chánh đẳng giác, lại nghiêng về sự im lặng, không nghiêng về việc thuyết Pháp."
+"Than ôi, thế gian này sẽ mất đi, thế gian này sẽ diệt vong! Vì tâm của Như Lai, bậc A-la-hán, Chánh đẳng giác, lại nghiêng về sự yên lặng, không nghiêng về việc thuyết Pháp."
 
 [Chú thích: Sau khi vượt qua những ẩn sĩ bà-la-môn vĩ đại nhất, thành tựu của Đức Thế Tôn được chính vị thần tối cao của bà-la-môn công nhận.]
 
@@ -140,7 +140,7 @@ cũng vậy, này bậc trí tuệ, lầu đài làm bằng Pháp,
 này bậc nhìn khắp, hãy bước lên,
 
 <!-- seg: mn26:20.18 -->
-rồi không còn sầu, hãy nhìn dân chúng đang chìm trong sầu,
+này bậc đã hết sầu, hãy nhìn dân chúng đang chìm trong sầu,
 
 <!-- seg: mn26:20.19 -->
 đang bị sinh và già chế ngự.

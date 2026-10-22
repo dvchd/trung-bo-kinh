@@ -59,7 +59,7 @@ Này các hiền giả, nếu vị tỳ-kheo ấy, trong khi tùy niệm Đức 
 Vị ấy xúc động, khởi lên sự thôi thúc:
 
 <!-- seg: mn28:25.3 -->
-"Thật là mất mát cho tôi, thật là không có lợi ích gì cho tôi; thật là khó được cho tôi, thật chẳng dễ được gì cho tôi.
+"Thật là mất mát cho tôi, thật là không có lợi ích gì cho tôi; thật là được một cách dở tệ cho tôi, thật chẳng phải được một cách tốt lành cho tôi.
 
 <!-- seg: mn28:25.4 -->
 Bởi vì với tôi, trong khi tùy niệm Đức Thế Tôn, tùy niệm Pháp, tùy niệm Tăng như vậy, mà xả nương vào thiện pháp lại không được an trú."
@@ -74,7 +74,7 @@ Cũng vậy, này các hiền giả, nếu vị tỳ-kheo ấy, trong khi tùy n
 Vị ấy xúc động, khởi lên sự thôi thúc:
 
 <!-- seg: mn28:25.8 -->
-"Thật là mất mát cho tôi, thật là không có lợi ích gì cho tôi; thật là khó được cho tôi, thật chẳng dễ được gì cho tôi.
+"Thật là mất mát cho tôi, thật là không có lợi ích gì cho tôi; thật là được một cách dở tệ cho tôi, thật chẳng phải được một cách tốt lành cho tôi.
 
 <!-- seg: mn28:25.9 -->
 Bởi vì với tôi, trong khi tùy niệm Đức Thế Tôn, tùy niệm Pháp, tùy niệm Tăng như vậy, mà xả nương vào thiện pháp lại không được an trú."
