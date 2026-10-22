@@ -76,6 +76,7 @@ dấu), hoặc đọc lướt theo nhóm chủ đề. Những từ có dấu * l
 | sati, samādhi, paññā | niệm, định, tuệ | Ba chi trong bát chánh đạo |
 | ariya aṭṭhaṅgika magga | bát chánh đạo | |
 | bojjhaṅga | giác chi | Bảy giác chi |
+| vossaggapariṇāmiṁ | chín muồi thành sự buông bỏ | Công thức bảy giác chi: "nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ" |
 | iddhi | thần thông | |
 | abhiññā | thắng trí | "bằng thắng trí" khi nói về chứng đắc |
 | vijjā | minh | Ba minh |

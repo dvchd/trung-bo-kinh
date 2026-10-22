@@ -691,25 +691,25 @@ Và tại đó, nhiều đệ tử của Ta an trú, đã đạt đến sự vi�
 Hơn nữa, này Udāyi, Ta đã giảng cho các đệ tử con đường thực hành; thực hành theo đó, các đệ tử của Ta tu tập bảy giác chi.
 
 <!-- seg: mn77:20.2 -->
-Ở đây, này Udāyi, một tỳ-kheo tu tập niệm giác chi, y chỉ viễn ly, y chỉ ly tham, y chỉ đoạn diệt, chín muồi thành sự buông bỏ;
+Ở đây, này Udāyi, một tỳ-kheo tu tập niệm giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ;
 
 <!-- seg: mn77:20.3 -->
-tu tập trạch pháp giác chi, y chỉ viễn ly, y chỉ ly tham, y chỉ đoạn diệt, chín muồi thành sự buông bỏ;
+tu tập trạch pháp giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ;
 
 <!-- seg: mn77:20.4 -->
-tu tập tấn giác chi, y chỉ viễn ly, y chỉ ly tham, y chỉ đoạn diệt, chín muồi thành sự buông bỏ;
+tu tập tấn giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ;
 
 <!-- seg: mn77:20.5 -->
-tu tập hỷ giác chi, y chỉ viễn ly, y chỉ ly tham, y chỉ đoạn diệt, chín muồi thành sự buông bỏ;
+tu tập hỷ giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ;
 
 <!-- seg: mn77:20.6 -->
-tu tập khinh an giác chi, y chỉ viễn ly, y chỉ ly tham, y chỉ đoạn diệt, chín muồi thành sự buông bỏ;
+tu tập khinh an giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ;
 
 <!-- seg: mn77:20.7 -->
-tu tập định giác chi, y chỉ viễn ly, y chỉ ly tham, y chỉ đoạn diệt, chín muồi thành sự buông bỏ;
+tu tập định giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ;
 
 <!-- seg: mn77:20.8 -->
-tu tập xả giác chi, y chỉ viễn ly, y chỉ ly tham, y chỉ đoạn diệt, chín muồi thành sự buông bỏ.
+tu tập xả giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn77:20.9 -->
 Và tại đó, nhiều đệ tử của Ta an trú, đã đạt đến sự viên mãn tột cùng của thắng trí.

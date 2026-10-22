@@ -91,7 +91,7 @@ Này tỳ-kheo, trong giới luật của bậc thánh, ai thấy lỗi là lỗ
 Rồi Tôn giả Pukkusāti hoan hỷ, tán thán lời Đức Thế Tôn dạy, đứng dậy khỏi chỗ ngồi, đảnh lễ Ngài, đi nhiễu quanh Ngài theo phía hữu, rồi ra đi tìm bát và y.
 
 <!-- seg: mn140:35.2 -->
-Rồi trong lúc Tôn giả Pukkusāti đang đi tìm bát và y, một con bò đi lạc đã lấy mất mạng sống của Ngài.
+Rồi trong lúc Tôn giả Pukkusāti đang đi tìm bát và y, một con bò đi lạc đã lấy mất mạng sống của vị ấy.
 
 [Chú thích: Bò thường được xem là loài hiền lành, nhưng đôi khi chúng trở nên hung dữ, nhất là khi bảo vệ bò con; chuyện tương tự cũng được kể về Bāhiya và Suppabuddha.]
 

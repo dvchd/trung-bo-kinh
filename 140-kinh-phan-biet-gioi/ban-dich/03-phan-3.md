@@ -128,7 +128,7 @@ Khi đang cảm thọ lạc thọ, vị ấy biết rõ: "ta đang cảm thọ l
 Vị ấy biết rõ: "Do xúc đáng được cảm thọ là lạc ấy diệt, nên cảm thọ tương ứng ấy — tức lạc thọ khởi lên do duyên với xúc đáng được cảm thọ là lạc — cũng diệt và lắng xuống."
 
 <!-- seg: mn140:19.17 -->
-Khổ thọ khởi lên do duyên với xúc đáng được cảm thọ là khổ.
+Này tỳ-kheo, khổ thọ khởi lên do duyên với xúc đáng được cảm thọ là khổ.
 
 <!-- seg: mn140:19.18 -->
 Khi đang cảm thọ khổ thọ, vị ấy biết rõ: "ta đang cảm thọ khổ thọ."
@@ -137,7 +137,7 @@ Khi đang cảm thọ khổ thọ, vị ấy biết rõ: "ta đang cảm thọ k
 Vị ấy biết rõ: "Do xúc đáng được cảm thọ là khổ ấy diệt, nên cảm thọ tương ứng ấy — tức khổ thọ khởi lên do duyên với xúc đáng được cảm thọ là khổ — cũng diệt và lắng xuống."
 
 <!-- seg: mn140:19.20 -->
-Không khổ không lạc thọ khởi lên do duyên với xúc đáng được cảm thọ là không khổ không lạc.
+Này tỳ-kheo, không khổ không lạc thọ khởi lên do duyên với xúc đáng được cảm thọ là không khổ không lạc.
 
 <!-- seg: mn140:19.21 -->
 Khi đang cảm thọ không khổ không lạc thọ, vị ấy biết rõ: "ta đang cảm thọ không khổ không lạc thọ."

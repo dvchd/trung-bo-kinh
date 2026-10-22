@@ -227,7 +227,7 @@ Xúc xứ của mắt, xúc xứ của tai, xúc xứ của mũi, xúc xứ củ
 Đó là điều Ta đã nói, và đây là lý do Ta nói điều ấy.
 
 <!-- seg: mn140:10.1 -->
-"Con người này, này tỳ-kheo, có mười tám sự hướng tâm của ý" —
+"Con người này, này tỳ-kheo, có mười tám sự hướng tâm" —
 
 [Chú thích: Các xúc xứ là phạm vi nơi kinh nghiệm xảy ra; khi phản ứng với nó, người ta bị cuốn theo sức mạnh của thọ, và đó chính là sự hướng tâm.]
 
@@ -256,7 +256,7 @@ sau khi biết pháp bằng ý, vị ấy hướng tâm đến pháp làm nền 
 như vậy là sáu sự hướng tâm đến hỷ, sáu sự hướng tâm đến ưu, sáu sự hướng tâm đến xả.
 
 <!-- seg: mn140:10.10 -->
-"Con người này, này tỳ-kheo, có mười tám sự hướng tâm của ý" —
+"Con người này, này tỳ-kheo, có mười tám sự hướng tâm" —
 
 <!-- seg: mn140:10.11 -->
 Đó là điều Ta đã nói, và đây là lý do Ta nói điều ấy.
@@ -499,7 +499,7 @@ Khi đang cảm thọ lạc thọ, vị ấy biết rõ: "ta đang cảm thọ l
 Vị ấy biết rõ: "Do xúc đáng được cảm thọ là lạc ấy diệt, nên cảm thọ tương ứng ấy — tức lạc thọ khởi lên do duyên với xúc đáng được cảm thọ là lạc — cũng diệt và lắng xuống."
 
 <!-- seg: mn140:19.17 -->
-Khổ thọ khởi lên do duyên với xúc đáng được cảm thọ là khổ.
+Này tỳ-kheo, khổ thọ khởi lên do duyên với xúc đáng được cảm thọ là khổ.
 
 <!-- seg: mn140:19.18 -->
 Khi đang cảm thọ khổ thọ, vị ấy biết rõ: "ta đang cảm thọ khổ thọ."
@@ -508,7 +508,7 @@ Khi đang cảm thọ khổ thọ, vị ấy biết rõ: "ta đang cảm thọ k
 Vị ấy biết rõ: "Do xúc đáng được cảm thọ là khổ ấy diệt, nên cảm thọ tương ứng ấy — tức khổ thọ khởi lên do duyên với xúc đáng được cảm thọ là khổ — cũng diệt và lắng xuống."
 
 <!-- seg: mn140:19.20 -->
-Không khổ không lạc thọ khởi lên do duyên với xúc đáng được cảm thọ là không khổ không lạc.
+Này tỳ-kheo, không khổ không lạc thọ khởi lên do duyên với xúc đáng được cảm thọ là không khổ không lạc.
 
 <!-- seg: mn140:19.21 -->
 Khi đang cảm thọ không khổ không lạc thọ, vị ấy biết rõ: "ta đang cảm thọ không khổ không lạc thọ."
@@ -798,7 +798,7 @@ Này tỳ-kheo, trong giới luật của bậc thánh, ai thấy lỗi là lỗ
 Rồi Tôn giả Pukkusāti hoan hỷ, tán thán lời Đức Thế Tôn dạy, đứng dậy khỏi chỗ ngồi, đảnh lễ Ngài, đi nhiễu quanh Ngài theo phía hữu, rồi ra đi tìm bát và y.
 
 <!-- seg: mn140:35.2 -->
-Rồi trong lúc Tôn giả Pukkusāti đang đi tìm bát và y, một con bò đi lạc đã lấy mất mạng sống của Ngài.
+Rồi trong lúc Tôn giả Pukkusāti đang đi tìm bát và y, một con bò đi lạc đã lấy mất mạng sống của vị ấy.
 
 [Chú thích: Bò thường được xem là loài hiền lành, nhưng đôi khi chúng trở nên hung dữ, nhất là khi bảo vệ bò con; chuyện tương tự cũng được kể về Bāhiya và Suppabuddha.]
 

@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 143 bài (146 lượt, có 3 bài rà hai lần).
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 151 bài (154 lượt, có 3 bài rà hai lần).
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 143/152 bài
+## Đợt đọc lại văn phong: 151/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -168,9 +168,17 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 130 | 3 | 2.2 thứ tự cặp đẹp–xấu, 7.7 "bện cói", 12.1 "rìu nhỏ" |
 | MN 133 | 6 | ngoặc kép 20.6–20.30, "(Đại Ca Chiên Diên)" 7.21, "Thiện thệ" 6.2 |
 | MN 135 | 1 | thêm chú thích 21.4 |
+| MN 136 | 5 | 2.3 công thức chào hỏi, 4 chú thích bị rút mất dữ kiện (2.2, 6.5, 6.15, 9.7) |
+| MN 139 | 0 | sạch |
+| MN 140 | 4 | 10.1/10.10 bỏ "của ý", 19.17/19.20 thêm "Này tỳ-kheo", 35.2 "của vị ấy" |
+| MN 141 | 1 | 31.4 peyyāla thiếu "và an trú" |
+| MN 142 | 0 | sạch |
+| MN 143 | 0 | sạch |
+| MN 146 | 2 | 15.2/27.2 "nhiều người", 15.3/27.3 "trăng chưa tròn" |
+| MN 147 | 5 | 9.2–9.6 viết hoa đầu câu |
 
-Tổng 502 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 769 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 519 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 819 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
@@ -201,8 +209,8 @@ riêng MN 38:26.2 tách thành hai chú thích (một của Sujato, một của 
    còn 2 điểm nhóm C (MN 21:21.5, MN 138:15.2) cần xét tay.
  (tùy chọn)
 
-1. Đọc lại 9 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
-   trình như trên. Đợt kế tiếp trong phiên 19:00 ngày 2026-10-22: MN 136, 139, 140, 141, 142, 143, 146, 147, 148.
+1. Đọc lại 1 bài chưa rà từng dòng (MN 148). Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+   trình như trên. Đợt kế tiếp: MN 148 (bài cuối), rồi tổng kết đợt đọc lại văn phong.
 2. ~~Bổ sung 31 chú thích còn thiếu của MN 1~~ — đã xong 2026-10-22: nguồn thật ra có 14 NOTE
    (con số 41 là đọc nhầm từ tệp mẫu), nay đã dịch đủ 14 và đổi nhãn 7 chú thích người dịch.
 3. Quyết khoảng 429 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn

@@ -5,10 +5,10 @@ Rồi các tỳ-kheo-ni ấy đảnh lễ Đức Thế Tôn, đi nhiễu quanh N
 Rồi Đức Thế Tôn, khi các tỳ-kheo-ni ấy vừa rời đi không lâu, liền gọi các tỳ-kheo:
 
 <!-- seg: mn146:27.2 -->
-Này các tỳ-kheo, ví như vào ngày bố-tát mười lăm, đông người không hề có nghi ngờ hay phân vân:
+Này các tỳ-kheo, ví như vào ngày bố-tát mười lăm, nhiều người không hề có nghi ngờ hay phân vân:
 
 <!-- seg: mn146:27.3 -->
-"Trăng non hay trăng tròn đây?", mà rõ ràng lúc ấy trăng đã tròn.
+"Trăng chưa tròn hay trăng tròn đây?", mà rõ ràng lúc ấy trăng đã tròn.
 
 <!-- seg: mn146:27.4 -->
 Cũng vậy, này các tỳ-kheo, các tỳ-kheo-ni ấy hoan hỷ với lời thuyết pháp của Tôn giả Nandaka và đã được tròn đủ như ý nguyện.

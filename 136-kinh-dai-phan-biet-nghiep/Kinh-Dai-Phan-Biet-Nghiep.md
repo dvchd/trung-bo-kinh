@@ -47,10 +47,10 @@ Lúc bấy giờ, Tôn giả Samiddhi đang trú trong một chòi nhỏ giữa 
 <!-- seg: mn136:2.2 -->
 Rồi du sĩ Potaliputta, đang đi dạo cho giãn chân, đi tới đi lui, đến chỗ Tôn giả Samiddhi. Đến nơi, ông chào hỏi thân thiện với Tôn giả Samiddhi.
 
-[Chú thích: Đây là lần duy nhất du sĩ Potaliputta xuất hiện trong kinh. Tên ông cho thấy ông đến từ kinh đô của xứ Assaka, tên ấy có khi viết là Potali, có khi là Potana.]
+[Chú thích: Đây là lần duy nhất du sĩ Potaliputta xuất hiện trong kinh. Tên ông cho thấy ông đến từ kinh đô của xứ Assaka, tên ấy có khi viết là Potali, có khi là Potana (DN 19:36.4). Về Tôn giả Samiddhi, xem chú thích ở MN 133:1.3.]
 
 <!-- seg: mn136:2.3 -->
-Sau khi trao đổi những lời chào hỏi thân mật và những câu chuyện thăm hỏi, ông ngồi xuống một bên. Khi đã ngồi xuống một bên, du sĩ Potaliputta nói với Tôn giả Samiddhi:
+Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lễ độ, ông ngồi xuống một bên. Khi đã ngồi xuống một bên, du sĩ Potaliputta nói với Tôn giả Samiddhi:
 
 <!-- seg: mn136:2.4 -->
 "Thưa ngài Samiddhi, tôi đã nghe và đã thọ nhận trước mặt sa-môn Gotama như vầy:
@@ -151,7 +151,7 @@ Rồi Đức Thế Tôn bảo Tôn giả Ānanda:
 <!-- seg: mn136:6.5 -->
 "Này Ānanda, ông có thấy kẻ ngu si Udāyī này vừa ló ra cái gì không?
 
-[Chú thích: Có mấy vị tỳ-kheo cùng tên Udāyī và rất khó phân biệt. Một vị trong số ấy nổi tiếng là chậm hiểu. Từ ummaṅga bắt nguồn từ ummujjati ở ngay dưới, nghĩa là trồi lên, ló ra.]
+[Chú thích: Có mấy vị tỳ-kheo cùng tên Udāyī và rất khó phân biệt. Một vị trong số ấy nổi tiếng là chậm hiểu (AN 6.29:3.3). Từ ummaṅga bắt nguồn từ ummujjati ở ngay dưới, nghĩa là trồi lên, ló ra.]
 
 <!-- seg: mn136:6.6 -->
 Này Ānanda, Ta đã biết:
@@ -183,7 +183,7 @@ Nhưng này Ānanda, những du sĩ ngoại đạo ngu dốt và kém cỏi ấy
 <!-- seg: mn136:6.15 -->
 Này Ānanda, nếu các ông chịu nghe, Ta sẽ giảng giải sự phân tích nghiệp rộng lớn của Như Lai."
 
-[Chú thích: Bản Pali ở đây là vibhajantassa, xét ra không đúng ngữ pháp. Câu này cũng có ở AN 6.62:5.8, nơi Pali dùng vibhajissāmi, nghĩa là "Ta sẽ giảng giải", và bản chú giải cũng hiểu theo thì tương lai.]
+[Chú thích: Bản Pali ở đây là vibhajantassa, xét ra không đúng ngữ pháp. Câu này cũng có ở AN 6.62:5.8, cũng là trường hợp một vị tỳ-kheo mới xuất gia nói một câu ngớ ngẩn; ở đó Pali dùng vibhajissāmi, nghĩa là "Ta sẽ giảng giải". Bản chú giải không bàn thẳng vào câu này, nhưng có nói rằng Đức Thế Tôn đã nghĩ: "Ta sẽ làm cho Tăng đoàn tỳ-kheo được rõ", điều ấy cho thấy chú giải hiểu theo thì tương lai; so với lối dùng thì tương lai trong công thức "Hãy nghe và khéo tác ý, Ta sẽ nói" (MN 138:2.2).]
 
 <!-- seg: mn136:7.1 -->
 "Bạch Thế Tôn, nay đã đến lúc, bạch Thiện Thệ, nay đã đến lúc
@@ -259,7 +259,7 @@ Vị ấy nói như vầy:
 <!-- seg: mn136:9.7 -->
 "Xem ra, thưa các vị, ai giết hại chúng sinh, lấy của không cho, tà hạnh trong các dục, nói dối, nói lời chia rẽ, nói lời thô ác, nói lời vô nghĩa, tham lam, có tâm sân hận, có tà kiến, thì tất cả những người ấy sau khi thân hoại mạng chung, sau khi chết, đều sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
-[Chú thích: Ở đây người ấy mắc hai lỗi lập luận. Thứ nhất là khái quát vội vàng: thấy một số người làm ác bị đọa địa ngục không có nghĩa là mọi người làm ác đều như vậy. Thứ hai là nhầm nhân với quả: việc nghiệp ác xảy ra trước không có nghĩa là nó gây ra quả ấy.]
+[Chú thích: Ở đây người ấy mắc hai lỗi lập luận. Thứ nhất là khái quát vội vàng: thấy một số người làm ác bị đọa địa ngục không có nghĩa là mọi người làm ác đều như vậy; thứ hai là nhầm nhân với quả: việc nghiệp ác xảy ra trước không có nghĩa là nó gây ra quả ấy. Đức Thế Tôn tránh cả hai lỗi ấy bằng cách khảo sát một phạm vi rộng lớn hơn nhiều, được nói là chín mươi mốt kiếp (MN 71:14.2), và bằng cách đảo ngược mũi tên nhân quả: nếu có nghiệp thì dẫn đến tái sinh, thì không có nghiệp phải dẫn đến chấm dứt tái sinh, và Ngài đã tự mình chứng nghiệm điều ấy.]
 
 <!-- seg: mn136:9.8 -->
 Ai hiểu như vậy là hiểu đúng; ai hiểu khác đi thì sự hiểu của họ là sai."

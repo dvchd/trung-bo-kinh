@@ -74,25 +74,25 @@ Này các tỳ-kheo-ni, có bảy giác chi này; do tu tập và làm cho sung 
 Bảy là những gì?
 
 <!-- seg: mn146:13.3 -->
-Ở đây, này các tỳ-kheo-ni, một tỳ-kheo tu tập niệm giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Ở đây, này các tỳ-kheo-ni, một tỳ-kheo tu tập niệm giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:13.4 -->
-Tu tập trạch pháp giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập trạch pháp giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:13.5 -->
-Tu tập tinh tấn giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập tinh tấn giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:13.6 -->
-Tu tập hỷ giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập hỷ giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:13.7 -->
-Tu tập khinh an giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập khinh an giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:13.8 -->
-Tu tập định giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập định giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:13.9 -->
-Tu tập xả giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập xả giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:13.10 -->
 Này các tỳ-kheo-ni, chính bảy giác chi này, do tu tập và làm cho sung mãn, mà một tỳ-kheo do lậu hoặc đã cạn, tự mình chứng biết ngay trong đời này, chứng đạt và an trú tâm giải thoát vô lậu cùng tuệ giải thoát.
@@ -118,10 +118,10 @@ Rồi các tỳ-kheo-ni ấy đảnh lễ Đức Thế Tôn, đi nhiễu quanh N
 Rồi Đức Thế Tôn, khi các tỳ-kheo-ni ấy vừa rời đi không lâu, liền gọi các tỳ-kheo:
 
 <!-- seg: mn146:15.2 -->
-Này các tỳ-kheo, ví như vào ngày bố-tát mười bốn, đông người không hề có nghi ngờ hay phân vân:
+Này các tỳ-kheo, ví như vào ngày bố-tát mười bốn, nhiều người không hề có nghi ngờ hay phân vân:
 
 <!-- seg: mn146:15.3 -->
-"Trăng non hay trăng tròn đây?", mà rõ ràng lúc ấy trăng chưa tròn.
+"Trăng chưa tròn hay trăng tròn đây?", mà rõ ràng lúc ấy trăng chưa tròn.
 
 <!-- seg: mn146:15.4 -->
 Cũng vậy, này các tỳ-kheo, các tỳ-kheo-ni ấy hoan hỷ với lời thuyết pháp của Tôn giả Nandaka, nhưng chưa được tròn đủ như ý nguyện.

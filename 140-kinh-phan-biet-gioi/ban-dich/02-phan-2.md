@@ -20,7 +20,7 @@ Xúc xứ của mắt, xúc xứ của tai, xúc xứ của mũi, xúc xứ củ
 Đó là điều Ta đã nói, và đây là lý do Ta nói điều ấy.
 
 <!-- seg: mn140:10.1 -->
-"Con người này, này tỳ-kheo, có mười tám sự hướng tâm của ý" —
+"Con người này, này tỳ-kheo, có mười tám sự hướng tâm" —
 
 [Chú thích: Các xúc xứ là phạm vi nơi kinh nghiệm xảy ra; khi phản ứng với nó, người ta bị cuốn theo sức mạnh của thọ, và đó chính là sự hướng tâm.]
 
@@ -49,7 +49,7 @@ sau khi biết pháp bằng ý, vị ấy hướng tâm đến pháp làm nền 
 như vậy là sáu sự hướng tâm đến hỷ, sáu sự hướng tâm đến ưu, sáu sự hướng tâm đến xả.
 
 <!-- seg: mn140:10.10 -->
-"Con người này, này tỳ-kheo, có mười tám sự hướng tâm của ý" —
+"Con người này, này tỳ-kheo, có mười tám sự hướng tâm" —
 
 <!-- seg: mn140:10.11 -->
 Đó là điều Ta đã nói, và đây là lý do Ta nói điều ấy.

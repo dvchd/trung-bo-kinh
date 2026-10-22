@@ -113,25 +113,25 @@ Này các tỳ-kheo-ni, có bảy giác chi này; do tu tập và làm cho sung 
 Bảy là những gì?
 
 <!-- seg: mn146:26.3 -->
-Ở đây, này các tỳ-kheo-ni, một tỳ-kheo tu tập niệm giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Ở đây, này các tỳ-kheo-ni, một tỳ-kheo tu tập niệm giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:26.4 -->
-Tu tập trạch pháp giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập trạch pháp giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:26.5 -->
-Tu tập tinh tấn giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập tinh tấn giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:26.6 -->
-Tu tập hỷ giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập hỷ giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:26.7 -->
-Tu tập khinh an giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập khinh an giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:26.8 -->
-Tu tập định giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập định giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:26.9 -->
-Tu tập xả giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến sự buông bỏ.
+Tu tập xả giác chi, nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ.
 
 <!-- seg: mn146:26.10 -->
 Này các tỳ-kheo-ni, chính bảy giác chi này, do tu tập và làm cho sung mãn, mà một tỳ-kheo do lậu hoặc đã cạn, tự mình chứng biết ngay trong đời này, chứng đạt và an trú tâm giải thoát vô lậu cùng tuệ giải thoát.

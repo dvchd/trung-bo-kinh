@@ -1,17 +1,17 @@
 <!-- seg: mn147:9.2 -->
-nhàm chán tai, nhàm chán các âm thanh, nhàm chán thức của tai, nhàm chán xúc chạm qua tai, và nhàm chán cả những gì sinh khởi do duyên xúc chạm qua tai, thuộc về thọ, thuộc về tưởng, thuộc về hành, thuộc về thức.
+Nhàm chán tai, nhàm chán các âm thanh, nhàm chán thức của tai, nhàm chán xúc chạm qua tai, và nhàm chán cả những gì sinh khởi do duyên xúc chạm qua tai, thuộc về thọ, thuộc về tưởng, thuộc về hành, thuộc về thức.
 
 <!-- seg: mn147:9.3 -->
-nhàm chán mũi, nhàm chán các mùi, nhàm chán thức của mũi, nhàm chán xúc chạm qua mũi, và nhàm chán cả những gì sinh khởi do duyên xúc chạm qua mũi, thuộc về thọ, thuộc về tưởng, thuộc về hành, thuộc về thức.
+Nhàm chán mũi, nhàm chán các mùi, nhàm chán thức của mũi, nhàm chán xúc chạm qua mũi, và nhàm chán cả những gì sinh khởi do duyên xúc chạm qua mũi, thuộc về thọ, thuộc về tưởng, thuộc về hành, thuộc về thức.
 
 <!-- seg: mn147:9.4 -->
-nhàm chán lưỡi, nhàm chán các vị, nhàm chán thức của lưỡi, nhàm chán xúc chạm qua lưỡi, và nhàm chán cả những gì sinh khởi do duyên xúc chạm qua lưỡi, thuộc về thọ, thuộc về tưởng, thuộc về hành, thuộc về thức.
+Nhàm chán lưỡi, nhàm chán các vị, nhàm chán thức của lưỡi, nhàm chán xúc chạm qua lưỡi, và nhàm chán cả những gì sinh khởi do duyên xúc chạm qua lưỡi, thuộc về thọ, thuộc về tưởng, thuộc về hành, thuộc về thức.
 
 <!-- seg: mn147:9.5 -->
-nhàm chán thân, nhàm chán các xúc, nhàm chán thức của thân, nhàm chán xúc chạm qua thân, và nhàm chán cả những gì sinh khởi do duyên xúc chạm qua thân, thuộc về thọ, thuộc về tưởng, thuộc về hành, thuộc về thức.
+Nhàm chán thân, nhàm chán các xúc, nhàm chán thức của thân, nhàm chán xúc chạm qua thân, và nhàm chán cả những gì sinh khởi do duyên xúc chạm qua thân, thuộc về thọ, thuộc về tưởng, thuộc về hành, thuộc về thức.
 
 <!-- seg: mn147:9.6 -->
-nhàm chán ý, nhàm chán các pháp, nhàm chán thức của ý, nhàm chán xúc chạm qua ý, và nhàm chán cả những gì sinh khởi do duyên xúc chạm qua ý, thuộc về thọ, thuộc về tưởng, thuộc về hành, thuộc về thức.
+Nhàm chán ý, nhàm chán các pháp, nhàm chán thức của ý, nhàm chán xúc chạm qua ý, và nhàm chán cả những gì sinh khởi do duyên xúc chạm qua ý, thuộc về thọ, thuộc về tưởng, thuộc về hành, thuộc về thức.
 
 <!-- seg: mn147:9.7 -->
 Do nhàm chán, vị ấy ly tham; do ly tham, vị ấy giải thoát; khi đã giải thoát, vị ấy biết mình đã giải thoát.

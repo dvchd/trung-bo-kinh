@@ -41,7 +41,7 @@ Một buổi sáng ở Rājagaha, Đức Thế Tôn vào khu vườn của các 
 | sammappadhāna | bốn chánh cần | |
 | iddhipāda | bốn thần túc | "gồm định do dục và các hành tinh cần" |
 | indriya / bala | năm căn / năm lực | "hướng đến an tịnh, hướng đến giác ngộ" |
-| bojjhaṅga | bảy giác chi | "y chỉ viễn ly, y chỉ ly tham, y chỉ đoạn diệt, chín muồi thành sự buông bỏ" |
+| bojjhaṅga | bảy giác chi | "nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, chín muồi thành sự buông bỏ" |
 | ariyo aṭṭhaṅgiko maggo | con đường tám chi phần của bậc thánh | |
 | vimokkha | tám giải thoát | |
 | abhibhāyatana | tám thắng xứ | |

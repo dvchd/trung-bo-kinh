@@ -58,7 +58,7 @@ Vị ấy nói như vầy:
 <!-- seg: mn136:9.7 -->
 "Xem ra, thưa các vị, ai giết hại chúng sinh, lấy của không cho, tà hạnh trong các dục, nói dối, nói lời chia rẽ, nói lời thô ác, nói lời vô nghĩa, tham lam, có tâm sân hận, có tà kiến, thì tất cả những người ấy sau khi thân hoại mạng chung, sau khi chết, đều sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
-[Chú thích: Ở đây người ấy mắc hai lỗi lập luận. Thứ nhất là khái quát vội vàng: thấy một số người làm ác bị đọa địa ngục không có nghĩa là mọi người làm ác đều như vậy. Thứ hai là nhầm nhân với quả: việc nghiệp ác xảy ra trước không có nghĩa là nó gây ra quả ấy.]
+[Chú thích: Ở đây người ấy mắc hai lỗi lập luận. Thứ nhất là khái quát vội vàng: thấy một số người làm ác bị đọa địa ngục không có nghĩa là mọi người làm ác đều như vậy; thứ hai là nhầm nhân với quả: việc nghiệp ác xảy ra trước không có nghĩa là nó gây ra quả ấy. Đức Thế Tôn tránh cả hai lỗi ấy bằng cách khảo sát một phạm vi rộng lớn hơn nhiều, được nói là chín mươi mốt kiếp (MN 71:14.2), và bằng cách đảo ngược mũi tên nhân quả: nếu có nghiệp thì dẫn đến tái sinh, thì không có nghiệp phải dẫn đến chấm dứt tái sinh, và Ngài đã tự mình chứng nghiệm điều ấy.]
 
 <!-- seg: mn136:9.8 -->
 Ai hiểu như vậy là hiểu đúng; ai hiểu khác đi thì sự hiểu của họ là sai."

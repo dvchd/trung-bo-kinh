@@ -413,7 +413,7 @@ Do tầm và tứ lắng xuống, vị ấy đạt được sự an tịnh của
 [Chú thích: Mỗi tầng thiền bắt đầu đúng lúc khía cạnh thô nhất của tầng trước vừa lặng xuống. Đây không phải việc làm có chủ ý, mà là quá trình lắng lại tự nhiên; hành giả không còn cần đặt tâm nữa, tâm chỉ còn yên và hợp nhất.]
 
 <!-- seg: mn141:31.4 -->
-Do hỷ lắng xuống, vị ấy an trú trong xả, có chánh niệm và tỉnh giác, cảm nhận lạc bằng thân, và chứng đạt thiền-na thứ ba, trạng thái mà các bậc thánh gọi là "có xả, có chánh niệm, an trú trong lạc"—
+Do hỷ lắng xuống, vị ấy an trú trong xả, có chánh niệm và tỉnh giác, cảm nhận lạc bằng thân, rồi chứng đạt và an trú vào thiền-na thứ ba, trạng thái mà các bậc thánh gọi là "có xả, có chánh niệm, an trú trong lạc"—
 
 [Chú thích: Hỷ chuyển dần từ cái rung nhẹ tinh tế sang thế đứng của xả. Chánh niệm có mặt trong mọi tầng thiền sâu, nhưng khi có xả thì nó trở nên nổi bật.]
 
