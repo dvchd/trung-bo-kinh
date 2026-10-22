@@ -38,7 +38,7 @@ Bài kinh khép lại bằng một cảnh đáng nhớ. Kāpaṭika, người v�
 <!-- seg: mn95:1.1 -->
 Tôi nghe như vầy.
 
-[Chú thích: Bài kinh ghi lại cuộc đối thoại ở làng Opāsāda, trong đó Đức Thế Tôn phân biệt ba việc thường bị lẫn làm một: gìn giữ sự thật, giác ngộ sự thật và đạt đến sự thật.]
+[Chú thích của người dịch: Bài kinh ghi lại cuộc đối thoại ở làng Opāsāda, trong đó Đức Thế Tôn phân biệt ba việc thường bị lẫn làm một: gìn giữ sự thật, giác ngộ sự thật và đạt đến sự thật.]
 
 <!-- seg: mn95:1.2 -->
 Một thuở nọ, Đức Thế Tôn đang du hành trong xứ Kosala cùng với một Tăng đoàn tỳ-kheo đông đảo, và Ngài đến làng Opāsāda, một làng bà-la-môn của xứ Kosala.
@@ -278,11 +278,17 @@ Vì sa-môn Gotama có đủ ba mươi hai tướng của bậc đại nhân. V�
 <!-- seg: mn95:9.23 -->
 Vì vua Seniya Bimbisāra xứ Magadha cùng với con cái và vợ đã quy y sa-môn Gotama cho đến trọn đời. Vì lý do ấy, vị tôn giả Gotama ấy không thích hợp để đi đến gặp chúng tôi; mà chính chúng tôi mới thích hợp để đi đến gặp vị tôn giả Gotama ấy.
 
+[Chú thích: Chuyện vua Bimbisāra quy y được chép ở Luật tạng, Kd 1:22.11.4.]
+
 <!-- seg: mn95:9.24 -->
 Vì vua Pasenadi xứ Kosala cùng với con cái và vợ đã quy y sa-môn Gotama cho đến trọn đời. Vì lý do ấy, vị tôn giả Gotama ấy không thích hợp để đi đến gặp chúng tôi; mà chính chúng tôi mới thích hợp để đi đến gặp vị tôn giả Gotama ấy.
 
+[Chú thích: Chuyện vua Pasenadi quy y được chép ở Tương Ưng Bộ Kinh 3.1, đoạn 14.5.]
+
 <!-- seg: mn95:9.25 -->
 Vì bà-la-môn Pokkharasāti cùng với con cái và vợ đã quy y sa-môn Gotama cho đến trọn đời. Vì lý do ấy, vị tôn giả Gotama ấy không thích hợp để đi đến gặp chúng tôi; mà chính chúng tôi mới thích hợp để đi đến gặp vị tôn giả Gotama ấy.
+
+[Chú thích: Chuyện bà-la-môn Pokkharasāti cùng gia đình quy y được chép ở Trường Bộ Kinh 3, đoạn 2.22.4.]
 
 <!-- seg: mn95:9.26 -->
 Vì sa-môn Gotama đã đến Opāsāda, đang trú ở rừng Devavana, khu rừng cây sala ở phía bắc Opāsāda.
@@ -404,6 +410,8 @@ Ngài Gotama nói gì về điều ấy?"
 
 <!-- seg: mn95:13.1 -->
 "Này Bhāradvāja, có bà-la-môn nào trong các bà-la-môn đã nói như vầy chăng:
+
+[Chú thích: Có thể so với Trung Bộ Kinh 99, đoạn 9.8.]
 
 <!-- seg: mn95:13.2 -->
 'Tôi biết điều này, tôi thấy điều này:
@@ -841,18 +849,18 @@ Do đó, sự chấp nhận giáo pháp sau khi suy xét có ích nhiều cho ư
 Chúng tôi xin hỏi ngài Gotama về pháp có ích nhiều cho sự chấp nhận giáo pháp sau khi suy xét."
 
 <!-- seg: mn95:27.3 -->
-Này Bhāradvāja, sự suy xét ý nghĩa có ích nhiều cho sự chấp nhận giáo pháp sau khi suy xét.
+"Này Bhāradvāja, sự suy xét ý nghĩa có ích nhiều cho sự chấp nhận giáo pháp sau khi suy xét.
 
 <!-- seg: mn95:27.4 -->
 Nếu người ta không suy xét ý nghĩa thì các pháp không được chấp nhận sau khi suy xét.
 
 <!-- seg: mn95:27.5 -->
-Vì người ta suy xét ý nghĩa nên các pháp được chấp nhận sau khi suy xét.
+Vì người ta suy xét ý nghĩa nên các pháp được chấp nhận sau khi suy xét."
 
 ---
 
 <!-- seg: mn95:27.6 -->
-Do đó, sự suy xét ý nghĩa có ích nhiều cho sự chấp nhận giáo pháp sau khi suy xét.
+"Do đó, sự suy xét ý nghĩa có ích nhiều cho sự chấp nhận giáo pháp sau khi suy xét."
 
 <!-- seg: mn95:28.1 -->
 "Nhưng thưa ngài Gotama, pháp nào có ích nhiều cho sự suy xét ý nghĩa?
@@ -1006,7 +1014,7 @@ Quả thật ngài Gotama đã khơi dậy nơi tôi lòng mến mộ sa-môn, n
 ---
 
 <!-- seg: mn95:35.1 -->
-"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Ví như có người dựng lại vật bị lật ngửa, mở ra vật bị che kín, chỉ đường cho kẻ đi lạc, hay đem đèn dầu soi sáng trong bóng tối để những ai có mắt nhìn thấy được các hình sắc; cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp.
+"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Ví như có người dựng lại vật bị lật ngửa, mở ra vật bị che kín, chỉ đường cho kẻ đi lạc, hay đem đèn dầu soi sáng trong bóng tối để những ai có mắt nhìn thấy được các hình sắc; cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp. Con xin quy y Đức Thế Tôn, Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn95:35.2 -->
 Từ hôm nay, xin ngài Gotama nhận tôi làm người cư sĩ, đã đi đến nơi nương tựa cho đến trọn đời."

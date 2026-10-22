@@ -69,11 +69,17 @@ Vì sa-môn Gotama có đủ ba mươi hai tướng của bậc đại nhân. V�
 <!-- seg: mn95:9.23 -->
 Vì vua Seniya Bimbisāra xứ Magadha cùng với con cái và vợ đã quy y sa-môn Gotama cho đến trọn đời. Vì lý do ấy, vị tôn giả Gotama ấy không thích hợp để đi đến gặp chúng tôi; mà chính chúng tôi mới thích hợp để đi đến gặp vị tôn giả Gotama ấy.
 
+[Chú thích: Chuyện vua Bimbisāra quy y được chép ở Luật tạng, Kd 1:22.11.4.]
+
 <!-- seg: mn95:9.24 -->
 Vì vua Pasenadi xứ Kosala cùng với con cái và vợ đã quy y sa-môn Gotama cho đến trọn đời. Vì lý do ấy, vị tôn giả Gotama ấy không thích hợp để đi đến gặp chúng tôi; mà chính chúng tôi mới thích hợp để đi đến gặp vị tôn giả Gotama ấy.
 
+[Chú thích: Chuyện vua Pasenadi quy y được chép ở Tương Ưng Bộ Kinh 3.1, đoạn 14.5.]
+
 <!-- seg: mn95:9.25 -->
 Vì bà-la-môn Pokkharasāti cùng với con cái và vợ đã quy y sa-môn Gotama cho đến trọn đời. Vì lý do ấy, vị tôn giả Gotama ấy không thích hợp để đi đến gặp chúng tôi; mà chính chúng tôi mới thích hợp để đi đến gặp vị tôn giả Gotama ấy.
+
+[Chú thích: Chuyện bà-la-môn Pokkharasāti cùng gia đình quy y được chép ở Trường Bộ Kinh 3, đoạn 2.22.4.]
 
 <!-- seg: mn95:9.26 -->
 Vì sa-môn Gotama đã đến Opāsāda, đang trú ở rừng Devavana, khu rừng cây sala ở phía bắc Opāsāda.

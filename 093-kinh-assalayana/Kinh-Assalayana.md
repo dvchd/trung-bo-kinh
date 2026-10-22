@@ -208,7 +208,7 @@ chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:6.3 -->
-những người thừa kế của Phạm Thiên.'"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên.'"
 
 <!-- seg: mn93:6.4 -->
 "Ngài nghĩ sao, Assalāyana,
@@ -228,7 +228,7 @@ ngài có nghe nói rằng ở xứ Yona và Kamboja, cùng những miền biên
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:6.9 -->
-những người thừa kế của Phạm Thiên'?"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên'?"
 
 <!-- seg: mn93:7.1 -->
 "Dù ngài Gotama nói như vậy, nhưng ở đây các bà-la-môn vẫn nghĩ rằng:
@@ -237,7 +237,7 @@ những người thừa kế của Phạm Thiên'?"
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:7.3 -->
-những người thừa kế của Phạm Thiên.'"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên.'"
 
 <!-- seg: mn93:7.4 -->
 "Ngài nghĩ sao, Assalāyana,
@@ -276,7 +276,7 @@ Vì này Ngài, cả bốn giai cấp, ai sát sinh, trộm cắp, tà hạnh tr
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:7.16 -->
-những người thừa kế của Phạm Thiên'?"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên'?"
 
 <!-- seg: mn93:8.1 -->
 "Dù ngài Gotama nói như vậy, nhưng ở đây các bà-la-môn vẫn nghĩ rằng:
@@ -285,7 +285,7 @@ những người thừa kế của Phạm Thiên'?"
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:8.3 -->
-những người thừa kế của Phạm Thiên.'"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên.'"
 
 <!-- seg: mn93:8.4 -->
 "Ngài nghĩ sao, Assalāyana,
@@ -318,7 +318,7 @@ Vì này Ngài, cả bốn giai cấp, ai từ bỏ sát sinh, từ bỏ trộm 
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:8.14 -->
-những người thừa kế của Phạm Thiên'?"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên'?"
 
 <!-- seg: mn93:9.1 -->
 "Dù ngài Gotama nói như vậy, nhưng ở đây các bà-la-môn vẫn nghĩ rằng:
@@ -327,7 +327,7 @@ những người thừa kế của Phạm Thiên'?"
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:9.3 -->
-những người thừa kế của Phạm Thiên.'"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên.'"
 
 <!-- seg: mn93:9.4 -->
 "Ngài nghĩ sao, Assalāyana,
@@ -364,7 +364,7 @@ vì này Ngài, cả bốn giai cấp đều có thể tu tập tâm từ, khôn
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:9.14 -->
-những người thừa kế của Phạm Thiên'?"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên'?"
 
 <!-- seg: mn93:10.1 -->
 "Dù ngài Gotama nói như vậy, nhưng ở đây các bà-la-môn vẫn nghĩ rằng:
@@ -373,7 +373,7 @@ những người thừa kế của Phạm Thiên'?"
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:10.3 -->
-những người thừa kế của Phạm Thiên.'"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên.'"
 
 <!-- seg: mn93:10.4 -->
 "Ngài nghĩ sao, Assalāyana,
@@ -403,7 +403,7 @@ vì này Ngài, cả bốn giai cấp đều có thể lấy đồ tắm rửa, 
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:10.13 -->
-những người thừa kế của Phạm Thiên'?"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên'?"
 
 <!-- seg: mn93:11.1 -->
 "Dù ngài Gotama nói như vậy, nhưng ở đây các bà-la-môn vẫn nghĩ rằng:
@@ -412,7 +412,7 @@ những người thừa kế của Phạm Thiên'?"
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:11.3 -->
-những người thừa kế của Phạm Thiên.'"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên.'"
 
 <!-- seg: mn93:11.4 -->
 "Ngài nghĩ sao, Assalāyana,
@@ -425,7 +425,7 @@ những người thừa kế của Phạm Thiên.'"
 <!-- seg: mn93:11.6 -->
 'Xin mời các ngài ở đây, ai sinh ra trong gia đình vua chúa, gia đình bà-la-môn hay gia đình quý tộc, hãy lấy que cọ lửa làm bằng gỗ sāka, gỗ sāla, gỗ salaḷa, gỗ chiên đàn hay gỗ padumaka, nhóm lên ngọn lửa và làm cho hơi nóng hiện ra.
 
-[Chú thích: Đây dường như là chỗ duy nhất trong kinh Pali nhắc đến cây padumaka, có thể là padmaka trong tiếng Phạn, mà một cách xác định có thể là loài anh đào dại của vùng Himalaya. Ở đây có cả sāka và sāla nên sāka được dịch là gỗ teak, còn sāla là gỗ sal.]
+[Chú thích: Đây dường như là chỗ duy nhất trong kinh Pali nhắc đến cây padumaka, có thể là padmaka trong tiếng Phạn, mà một cách xác định có thể là loài anh đào dại của vùng Himalaya. Ở đây có cả sāka và sāla, nên sāka là gỗ teak, còn sāla là gỗ sal.]
 
 <!-- seg: mn93:11.7 -->
 Và xin mời các ngài ở đây, ai sinh ra trong gia đình cùng đinh, gia đình thợ săn, gia đình thợ đan tre, gia đình thợ đóng xe hay gia đình người hốt rác, hãy lấy que cọ lửa làm bằng máng ăn của chó, máng ăn của heo, máng giặt của thợ giặt hay gỗ cây thầu dầu, nhóm lên ngọn lửa và làm cho hơi nóng hiện ra.'
@@ -477,7 +477,7 @@ chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ
 'Chỉ bà-la-môn là giai cấp cao nhất, các giai cấp khác là thấp kém; chỉ bà-la-môn là giai cấp sáng, các giai cấp khác là tối; chỉ bà-la-môn được thanh tịnh, không phải những người không phải bà-la-môn;
 
 <!-- seg: mn93:12.3 -->
-những người thừa kế của Phạm Thiên.'"
+chỉ bà-la-môn là con của Phạm Thiên, sinh từ ngực Ngài, sinh từ miệng Ngài, do Phạm Thiên sinh ra, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên.'"
 
 <!-- seg: mn93:12.4 -->
 "Ngài nghĩ sao, Assalāyana,

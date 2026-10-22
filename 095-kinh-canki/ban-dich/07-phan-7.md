@@ -1,5 +1,5 @@
 <!-- seg: mn95:35.1 -->
-"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Ví như có người dựng lại vật bị lật ngửa, mở ra vật bị che kín, chỉ đường cho kẻ đi lạc, hay đem đèn dầu soi sáng trong bóng tối để những ai có mắt nhìn thấy được các hình sắc; cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp.
+"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Ví như có người dựng lại vật bị lật ngửa, mở ra vật bị che kín, chỉ đường cho kẻ đi lạc, hay đem đèn dầu soi sáng trong bóng tối để những ai có mắt nhìn thấy được các hình sắc; cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp. Con xin quy y Đức Thế Tôn, Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn95:35.2 -->
 Từ hôm nay, xin ngài Gotama nhận tôi làm người cư sĩ, đã đi đến nơi nương tựa cho đến trọn đời."

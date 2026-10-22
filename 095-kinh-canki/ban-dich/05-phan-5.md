@@ -148,10 +148,10 @@ Do đó, sự chấp nhận giáo pháp sau khi suy xét có ích nhiều cho ư
 Chúng tôi xin hỏi ngài Gotama về pháp có ích nhiều cho sự chấp nhận giáo pháp sau khi suy xét."
 
 <!-- seg: mn95:27.3 -->
-Này Bhāradvāja, sự suy xét ý nghĩa có ích nhiều cho sự chấp nhận giáo pháp sau khi suy xét.
+"Này Bhāradvāja, sự suy xét ý nghĩa có ích nhiều cho sự chấp nhận giáo pháp sau khi suy xét.
 
 <!-- seg: mn95:27.4 -->
 Nếu người ta không suy xét ý nghĩa thì các pháp không được chấp nhận sau khi suy xét.
 
 <!-- seg: mn95:27.5 -->
-Vì người ta suy xét ý nghĩa nên các pháp được chấp nhận sau khi suy xét.
+Vì người ta suy xét ý nghĩa nên các pháp được chấp nhận sau khi suy xét."

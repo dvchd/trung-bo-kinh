@@ -1,5 +1,5 @@
 <!-- seg: mn95:27.6 -->
-Do đó, sự suy xét ý nghĩa có ích nhiều cho sự chấp nhận giáo pháp sau khi suy xét.
+"Do đó, sự suy xét ý nghĩa có ích nhiều cho sự chấp nhận giáo pháp sau khi suy xét."
 
 <!-- seg: mn95:28.1 -->
 "Nhưng thưa ngài Gotama, pháp nào có ích nhiều cho sự suy xét ý nghĩa?

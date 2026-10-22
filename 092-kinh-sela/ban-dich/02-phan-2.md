@@ -151,7 +151,7 @@ Vị tỳ-kheo có dáng vẻ tốt lành,
 da Ngài như vàng óng;
 
 <!-- seg: mn92:16.15 -->
-với sắc tướng cao quý như thế,
+Ngài còn cần chi đời sống sa-môn nữa,
 
 <!-- seg: mn92:16.16 -->
-Ngài còn cần chi đời sống sa-môn nữa?"
+với sắc tướng cao quý như thế?"

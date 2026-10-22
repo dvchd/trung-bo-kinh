@@ -36,6 +36,8 @@ Ngài Gotama nói gì về điều ấy?"
 <!-- seg: mn95:13.1 -->
 "Này Bhāradvāja, có bà-la-môn nào trong các bà-la-môn đã nói như vầy chăng:
 
+[Chú thích: Có thể so với Trung Bộ Kinh 99, đoạn 9.8.]
+
 <!-- seg: mn95:13.2 -->
 'Tôi biết điều này, tôi thấy điều này:
 

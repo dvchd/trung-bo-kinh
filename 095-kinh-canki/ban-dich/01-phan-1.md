@@ -1,7 +1,7 @@
 <!-- seg: mn95:1.1 -->
 Tôi nghe như vầy.
 
-[Chú thích: Bài kinh ghi lại cuộc đối thoại ở làng Opāsāda, trong đó Đức Thế Tôn phân biệt ba việc thường bị lẫn làm một: gìn giữ sự thật, giác ngộ sự thật và đạt đến sự thật.]
+[Chú thích của người dịch: Bài kinh ghi lại cuộc đối thoại ở làng Opāsāda, trong đó Đức Thế Tôn phân biệt ba việc thường bị lẫn làm một: gìn giữ sự thật, giác ngộ sự thật và đạt đến sự thật.]
 
 <!-- seg: mn95:1.2 -->
 Một thuở nọ, Đức Thế Tôn đang du hành trong xứ Kosala cùng với một Tăng đoàn tỳ-kheo đông đảo, và Ngài đến làng Opāsāda, một làng bà-la-môn của xứ Kosala.

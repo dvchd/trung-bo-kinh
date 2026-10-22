@@ -17,10 +17,10 @@ Các vị vua chúa và những bậc giàu sang,
 xin hãy theo phò Ngài;
 
 <!-- seg: mn92:16.23 -->
-xin Ngài trị vì, hỡi Gotama,
+như vua của các vua, bậc chúa tể của loài người,
 
 <!-- seg: mn92:16.24 -->
-như vua của các vua, bậc chúa tể của loài người."
+xin Ngài trị vì, hỡi Gotama."
 
 <!-- seg: mn92:17.1 -->
 "Ta là vua, này Sela,
@@ -158,4 +158,4 @@ dù là kẻ sinh ra trong dòng dõi tối tăm?
 [Chú thích: Dòng dõi tối tăm chỉ những người sinh ra trong cảnh bất hạnh. Sela muốn nói con đường của Đức Thế Tôn là cho mọi người, không chỉ cho người may mắn.]
 
 <!-- seg: mn92:20.9 -->
-Ai muốn thì hãy đi theo Ta.
+Ai muốn thì hãy đi theo tôi.

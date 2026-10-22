@@ -90,6 +90,8 @@ Thật tốt lành thay khi được gặp những bậc A-la-hán như vậy."
 <!-- seg: mn91:4.7 -->
 "Này Uttara thân mến, con hãy đến chỗ sa-môn Gotama. Đến rồi, con hãy tìm hiểu xem tiếng lành về ngài Gotama ấy có đúng như thật hay không;
 
+[Chú thích: Những cuộc sai đi tương tự cũng được Pokkharasāti giao cho Ambaṭṭha (DN 3:1.4.8), và bà-la-môn già Bāvari giao cho mười sáu học trò của mình (Snp 5.1:22.1).]
+
 <!-- seg: mn91:4.8 -->
 xem ngài Gotama ấy có đúng là người như vậy hay không.
 
@@ -146,7 +148,7 @@ và con là người lãnh nhận các bài tụng."
 Đi dần từng chặng, anh đến chỗ Đức Thế Tôn; đến nơi, anh chào hỏi thân thiện với Ngài.
 
 <!-- seg: mn91:6.3 -->
-Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lễ độ, ông ngồi xuống một bên.
+Sau khi trao đổi những lời chào hỏi thân thiện và những câu chuyện lễ độ, anh ngồi xuống một bên.
 
 <!-- seg: mn91:6.4 -->
 Ngồi một bên, thanh niên Uttara quan sát thân Đức Thế Tôn để tìm ba mươi hai tướng của bậc đại nhân.

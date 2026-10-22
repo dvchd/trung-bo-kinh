@@ -150,3 +150,9 @@ for f in glob.glob("*/ban-dich/*.md"):
         for c in re.findall(r"\[Chú thích: (.+?)\]",m.group(3),re.S):
             print(f, m.group(1)+":"+m.group(2), c[:60])
 ```
+
+## 8. Kết quả xử lý (2026-10-22)
+
+- **Nhóm A**: đổi nhãn 32 chú thích sang `[Chú thích của người dịch: …]`, bỏ câu tự khai thừa trong nội dung; riêng `mn38:26.2` tách làm hai chú thích (phần đầu của Sujato, phần sau của người dịch). Một trường hợp trong danh sách A là **báo nhầm**: `mn76:0.2` thực ra dịch từ NOTE ở `mn76:1.2` ("Neither Sandaka nor this location appear to be known elsewhere") nên giữ nguyên nhãn.
+- **Nhóm C**: đổi nhãn 17 chú thích giải nghĩa rõ ràng là của người dịch — 6 chú thích nhan đề (`mn7:0.2`, `mn24:0.2`, `mn75:0.2`, `mn82:0.2`, `mn85:0.2`, `mn117:0.2`; các tệp `00-title.md` không có NOTE nguồn) và 11 chú thích gloss từ ngữ (`mn5:18-20.2`, `mn38:18.5`, `mn76:6.1`, `mn85:1.2`, `mn85:12.3`, `mn85:13.3`, `mn99:16.1`, `mn100:7.1`, `mn106:13.10`, `mn127:2.7`, `mn127:16.8`).
+- **Còn để ngỏ**: 12 điểm nhóm B (chú thích dài hơn NOTE nguồn, cần tách phần thêm của người dịch) và 2 điểm nhóm C (`mn21:21.5`, `mn138:15.2`) — ghi ở mục "Việc còn lại" của `TIEN-DO.md`.
