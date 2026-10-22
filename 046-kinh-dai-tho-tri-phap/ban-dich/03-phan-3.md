@@ -11,7 +11,7 @@ ngay trong khi đang lạc, đang hỷ, vẫn có tâm sân hận; do nhân sân
 ngay trong khi đang lạc, đang hỷ, vẫn có tà kiến; do nhân tà kiến, người ấy cảm thọ lạc và hỷ.
 
 <!-- seg: mn46:15.12 -->
-Sau khi thân hoại mạng chung, người ấy sinh vào cõi khổ, ác thú, đọa xứ, địa ngục.
+Sau khi thân hoại mạng chung, người ấy sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn46:15.13 -->
 Này các tỳ-kheo, đây gọi là cách thọ trì pháp lạc ngay hiện tại nhưng về sau cho quả khổ.

@@ -800,7 +800,7 @@ vô minh bị diệt trừ, minh khởi lên; bóng tối bị diệt trừ, án
 Khi tâm đã định như vậy, thanh tịnh, trong sáng, không ô nhiễm, không cấu uế, mềm mại, dễ sử dụng, vững chắc, đạt đến bất động, Ta hướng tâm đến trí về sự chết đi và tái sinh của chúng sinh.
 
 <!-- seg: mn100:36-38.2 -->
-Ta thấy chúng sinh chết đi và tái sinh bằng thiên nhãn thanh tịnh, vượt ngoài tầm mắt của người thường — hạ liệt và cao quý, đẹp và xấu, đi đến chỗ lành hay chỗ dữ; Ta hiểu chúng sinh ấy tùy theo nghiệp mà tái sinh. Ta hiểu rõ: 'Những chúng sinh này đã thân làm ác, miệng nói ác, ý nghĩ ác, phỉ báng các bậc Thánh, có tà kiến, tạo nghiệp theo tà kiến; sau khi thân hoại mạng chung, họ đọa vào cõi dữ, ác thú, đọa xứ, địa ngục. Còn những chúng sinh này đã thân làm thiện, miệng nói thiện, ý nghĩ thiện, không phỉ báng các bậc Thánh, có chánh kiến, tạo nghiệp theo chánh kiến; sau khi thân hoại mạng chung, họ sinh vào cõi lành, cõi trời.'
+Ta thấy chúng sinh chết đi và tái sinh bằng thiên nhãn thanh tịnh, vượt ngoài tầm mắt của người thường — hạ liệt và cao quý, đẹp và xấu, đi đến chỗ lành hay chỗ dữ; Ta hiểu chúng sinh ấy tùy theo nghiệp mà tái sinh. Ta hiểu rõ: 'Những chúng sinh này đã thân làm ác, miệng nói ác, ý nghĩ ác, phỉ báng các bậc Thánh, có tà kiến, tạo nghiệp theo tà kiến; sau khi thân hoại mạng chung, họ đọa vào cõi khổ, đường ác, đọa xứ, địa ngục. Còn những chúng sinh này đã thân làm thiện, miệng nói thiện, ý nghĩ thiện, không phỉ báng các bậc Thánh, có chánh kiến, tạo nghiệp theo chánh kiến; sau khi thân hoại mạng chung, họ sinh vào cõi lành, cõi trời.'
 
 <!-- seg: mn100:36-38.3 -->
 Này Bhāradvāja, đó là minh thứ hai mà Ta đã chứng được trong canh giữa của đêm,

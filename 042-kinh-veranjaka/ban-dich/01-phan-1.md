@@ -36,13 +36,13 @@ Thật tốt lành thay khi được gặp những bậc A-la-hán như vậy."
 Rồi các bà-la-môn và gia chủ người Verañjā đi đến chỗ Đức Thế Tôn. Khi đến, một số người đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên; một số người chào hỏi, nói những lời thăm hỏi thân thiện rồi ngồi xuống một bên; một số người chắp tay hướng về Đức Thế Tôn rồi ngồi xuống một bên; một số người xưng tên họ trước Đức Thế Tôn rồi ngồi xuống một bên; một số người im lặng ngồi xuống một bên. Sau khi ngồi xuống một bên, các bà-la-môn và gia chủ người Verañjā thưa với Đức Thế Tôn:
 
 <!-- seg: mn42:4.1 -->
-Thưa ngài Gotama, đâu là nhân, đâu là duyên khiến một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?
+Thưa ngài Gotama, đâu là nhân, đâu là duyên khiến một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi khổ, đường ác, đọa xứ, địa ngục?
 
 <!-- seg: mn42:4.2 -->
 Và thưa ngài Gotama, đâu là nhân, đâu là duyên khiến một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào đường lành, cõi trời?
 
 <!-- seg: mn42:5.1 -->
-Này các gia chủ, do nhân hạnh phi pháp và tà vạy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+Này các gia chủ, do nhân hạnh phi pháp và tà vạy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn42:5.2 -->
 Này các gia chủ, do nhân hạnh đúng pháp và bình đẳng mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào đường lành, cõi trời.
@@ -117,7 +117,7 @@ Người ấy có tà kiến, có cái thấy đảo ngược:
 Này các gia chủ, người hành phi pháp và tà vạy có ba loại qua ý là như vậy.
 
 <!-- seg: mn42:10.7 -->
-Này các gia chủ, do nhân hạnh phi pháp và tà vạy như vậy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+Này các gia chủ, do nhân hạnh phi pháp và tà vạy như vậy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn42:11.1 -->
 Này các gia chủ, người hành đúng pháp và bình đẳng thì có ba loại qua thân, có bốn loại qua lời nói, có ba loại qua ý.

@@ -149,7 +149,7 @@ Nó lại xấu xí, khó nhìn, dị dạng, nhiều bệnh tật — mù một
 Nó thân làm ác, miệng nói ác, ý nghĩ ác.
 
 <!-- seg: mn129:25.6 -->
-Nó, sau khi thân làm ác, miệng nói ác, ý nghĩ ác, khi thân hoại mạng chung, thì sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+Nó, sau khi thân làm ác, miệng nói ác, ý nghĩ ác, khi thân hoại mạng chung, thì sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn129:26.1 -->
 Này các tỳ-kheo, giả sử một con bạc, ngay ván đầu thua, đã mất con, mất vợ, mất tất cả tài sản, và còn bị gông cùm thêm.

@@ -4,7 +4,7 @@
 
 **Kinh Verañjaka** (*Verañjaka Sutta*) là bài kinh thứ 42 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài này gần như trùng với bài trước, Kinh Sāleyyaka: cùng một câu hỏi, cùng một câu trả lời, cùng mười đường qua thân, lời nói và ý. Chỗ khác là bối cảnh. Lần này Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc). Một nhóm bà-la-môn và gia chủ từ Verañjā đang có việc phải ở lại Sāvatthī; nghe tiếng tốt về Ngài, họ tìm đến và ngồi xuống một bên.
 
-Câu hỏi họ đặt ra vừa cũ vừa mới: đâu là nhân, đâu là duyên khiến một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục; và đâu là nhân, đâu là duyên khiến một số khác sinh vào đường lành, cõi trời? Đức Thế Tôn trả lời bằng hai câu ngắn: do hạnh phi pháp và tà vạy mà người ta đi xuống; do hạnh đúng pháp và bình đẳng mà người ta đi lên. Những người nghe không hiểu, bèn xin Ngài giảng rộng, và phần lớn bài kinh là lời giảng rộng ấy.
+Câu hỏi họ đặt ra vừa cũ vừa mới: đâu là nhân, đâu là duyên khiến một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi khổ, đường ác, đọa xứ, địa ngục; và đâu là nhân, đâu là duyên khiến một số khác sinh vào đường lành, cõi trời? Đức Thế Tôn trả lời bằng hai câu ngắn: do hạnh phi pháp và tà vạy mà người ta đi xuống; do hạnh đúng pháp và bình đẳng mà người ta đi lên. Những người nghe không hiểu, bèn xin Ngài giảng rộng, và phần lớn bài kinh là lời giảng rộng ấy.
 
 Cách giảng rất gọn: mọi việc mình làm đều đi qua ba chỗ — thân, lời nói và ý. Qua thân có ba việc: giết hại sinh mạng, lấy của không được cho, tà hạnh trong các dục. Qua lời nói có bốn việc: nói dối, nói hai lưỡi, nói lời thô ác, nói lời phù phiếm. Qua ý có ba việc: tham muốn của người, sân hận muốn người khác bị hại, và cái thấy sai lệch về đời sống đạo đức. Đó là mười đường bất thiện. Đức Thế Tôn không dừng ở đó: Ngài lật lại từng việc, chỉ ra mặt kia của nó — không giết hại, không trộm cắp, không tà hạnh, nói thật, nói lời hòa hợp, nói lời dịu dàng, nói lời có ích, không tham, không sân, có cái thấy đúng — và gọi đó là mười đường thiện.
 
@@ -71,13 +71,13 @@ Thật tốt lành thay khi được gặp những bậc A-la-hán như vậy."
 Rồi các bà-la-môn và gia chủ người Verañjā đi đến chỗ Đức Thế Tôn. Khi đến, một số người đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên; một số người chào hỏi, nói những lời thăm hỏi thân thiện rồi ngồi xuống một bên; một số người chắp tay hướng về Đức Thế Tôn rồi ngồi xuống một bên; một số người xưng tên họ trước Đức Thế Tôn rồi ngồi xuống một bên; một số người im lặng ngồi xuống một bên. Sau khi ngồi xuống một bên, các bà-la-môn và gia chủ người Verañjā thưa với Đức Thế Tôn:
 
 <!-- seg: mn42:4.1 -->
-Thưa ngài Gotama, đâu là nhân, đâu là duyên khiến một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?
+Thưa ngài Gotama, đâu là nhân, đâu là duyên khiến một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi khổ, đường ác, đọa xứ, địa ngục?
 
 <!-- seg: mn42:4.2 -->
 Và thưa ngài Gotama, đâu là nhân, đâu là duyên khiến một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào đường lành, cõi trời?
 
 <!-- seg: mn42:5.1 -->
-Này các gia chủ, do nhân hạnh phi pháp và tà vạy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+Này các gia chủ, do nhân hạnh phi pháp và tà vạy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn42:5.2 -->
 Này các gia chủ, do nhân hạnh đúng pháp và bình đẳng mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào đường lành, cõi trời.
@@ -152,7 +152,7 @@ Người ấy có tà kiến, có cái thấy đảo ngược:
 Này các gia chủ, người hành phi pháp và tà vạy có ba loại qua ý là như vậy.
 
 <!-- seg: mn42:10.7 -->
-Này các gia chủ, do nhân hạnh phi pháp và tà vạy như vậy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+Này các gia chủ, do nhân hạnh phi pháp và tà vạy như vậy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn42:11.1 -->
 Này các gia chủ, người hành đúng pháp và bình đẳng thì có ba loại qua thân, có bốn loại qua lời nói, có ba loại qua ý.

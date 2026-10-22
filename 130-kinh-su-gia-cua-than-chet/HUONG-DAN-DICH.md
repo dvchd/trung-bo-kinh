@@ -40,7 +40,7 @@ Bài kinh mở đầu tại tu viện trong rừng Jeta, gần thành Sāvatthī
 | asipattavana | Rừng Lá Gươm | mn130:23.1 |
 | khārodakā nadī | sông Nước Chua | mn130:24.1 |
 | pettivisaya | cõi ngạ quỷ | mn130:2.2 |
-| apāya duggati vinipāta niraya | cõi dữ, ác thú, đọa xứ, địa ngục | công thức cố định |
+| apāya duggati vinipāta niraya | cõi khổ, đường ác, đọa xứ, địa ngục | công thức cố định |
 | kāyaduccarita, vacīduccarita, manoduccarita | ác hạnh về thân, miệng, ý | đối lập với thiện hạnh |
 | upādāna | chấp thủ | không dùng "chấp trước" |
 | diṭṭhadhammābhinibbuta | lắng dịu ngay trong đời này | trong bài kệ mn130:30.16 |

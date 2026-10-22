@@ -656,7 +656,7 @@ Nhưng bấy giờ vị thánh đệ tử vẫn chưa đi đến kết luận:
 Khi tâm đã định như vậy — trong sạch, sáng tỏ, không vết nhơ, không ô nhiễm, mềm mại, dễ sử dụng, vững vàng, không lay chuyển — vị ấy hướng tâm đến trí biết về sự chết đi và sinh lại của các chúng sinh.
 
 <!-- seg: mn27:24.2 -->
-Với thiên nhãn thanh tịnh, vượt hơn mắt người, vị ấy thấy các chúng sinh chết đi và sinh lại — hạ liệt, cao quý, đẹp đẽ, xấu xí, may mắn, bất hạnh — và hiểu rằng các chúng sinh ấy đi theo nghiệp của mình: 'Những chúng sinh này làm ác bằng thân, bằng lời, bằng ý, chê bai các bậc thánh, có tà kiến, tạo nghiệp do tà kiến; sau khi thân hoại mạng chung, họ sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Những chúng sinh kia làm thiện bằng thân, bằng lời, bằng ý, không chê bai các bậc thánh, có chánh kiến, tạo nghiệp do chánh kiến; sau khi thân hoại mạng chung, họ sinh vào cõi lành, cõi trời.' Như vậy, vị ấy hiểu các chúng sinh đi theo nghiệp của mình.
+Với thiên nhãn thanh tịnh, vượt hơn mắt người, vị ấy thấy các chúng sinh chết đi và sinh lại — hạ liệt, cao quý, đẹp đẽ, xấu xí, may mắn, bất hạnh — và hiểu rằng các chúng sinh ấy đi theo nghiệp của mình: 'Những chúng sinh này làm ác bằng thân, bằng lời, bằng ý, chê bai các bậc thánh, có tà kiến, tạo nghiệp do tà kiến; sau khi thân hoại mạng chung, họ sinh vào cõi khổ, đường ác, đọa xứ, địa ngục. Những chúng sinh kia làm thiện bằng thân, bằng lời, bằng ý, không chê bai các bậc thánh, có chánh kiến, tạo nghiệp do chánh kiến; sau khi thân hoại mạng chung, họ sinh vào cõi lành, cõi trời.' Như vậy, vị ấy hiểu các chúng sinh đi theo nghiệp của mình.
 
 <!-- seg: mn27:24.3 -->
 Điều này, thưa bà-la-môn, cũng được gọi là 'dấu chân của Như Lai', cũng được gọi là 'chỗ Như Lai thường lui tới', cũng được gọi là 'dấu vết của Như Lai'.

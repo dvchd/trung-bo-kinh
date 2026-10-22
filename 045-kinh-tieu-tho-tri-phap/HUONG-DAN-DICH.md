@@ -37,7 +37,7 @@ tự nó không làm cho một phép tu thành đúng, và lạc thú tự nó c
 | āyatiṁ dukkhavipāka / sukhavipāka | về sau cho quả khổ đau / cho quả vui sướng | *vipāka* là quả chín; dịch thành động từ "cho quả" cho xuôi câu. |
 | kāmesu pātabyataṁ āpajjanti | lao mình vào các dục lạc | *pātabyata* là sự lao vào, say đắm; không dịch "đắm chìm trong khoái lạc". |
 | moḷibaddhā | có dải ngọc buộc trên búi tóc | *moḷi* là búi tóc, *baddha* là buộc. |
-| apāya, duggati, vinipāta, niraya | cõi dữ, đường ác, đọa xứ, địa ngục | Giữ đủ bốn danh từ như Pali, không gộp còn một hai chữ. |
+| apāya, duggati, vinipāta, niraya | cõi khổ, đường ác, đọa xứ, địa ngục | Giữ đủ bốn danh từ như Pali, không gộp còn một hai chữ. |
 | sugati, sagga | cõi lành, cõi trời | Cặp đối lập của bốn danh từ trên. |
 | domanassa | ưu não | Đi cặp với *dukkha* trong công thức "khổ đau và ưu não". |
 | brahmacariya | đời phạm hạnh | |

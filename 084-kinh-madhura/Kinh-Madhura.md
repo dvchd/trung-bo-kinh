@@ -256,13 +256,13 @@ là những người thừa kế của Phạm Thiên.'"
 "Đại vương nghĩ sao?
 
 <!-- seg: mn84:6.2 -->
-Ở đây, nếu có một người vua chúa sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung, người ấy có phải sinh vào cõi dữ, ác thú, đọa xứ, địa ngục hay không?
+Ở đây, nếu có một người vua chúa sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung, người ấy có phải sinh vào cõi khổ, đường ác, đọa xứ, địa ngục hay không?
 
 <!-- seg: mn84:6.3 -->
 Đại vương thấy việc ấy thế nào?"
 
 <!-- seg: mn84:6.4 -->
-"Thưa ngài Kaccāna, dù là một người vua chúa, nếu sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung cũng sẽ sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+"Thưa ngài Kaccāna, dù là một người vua chúa, nếu sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung cũng sẽ sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn84:6.5 -->
 Con nghĩ như vậy, và con cũng đã nghe điều ấy từ các bậc A-la-hán."
@@ -279,19 +279,19 @@ Thưa đại vương, đại vương nghĩ như vậy là tốt, và đại vư�
 Đại vương nghĩ sao?
 
 <!-- seg: mn84:6.9 -->
-Ở đây, nếu có một người bà-la-môn sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung, người ấy có phải sinh vào cõi dữ, ác thú, đọa xứ, địa ngục hay không?
+Ở đây, nếu có một người bà-la-môn sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung, người ấy có phải sinh vào cõi khổ, đường ác, đọa xứ, địa ngục hay không?
 
 <!-- seg: mn84:6.10 -->
-Ở đây, nếu có một người thương nhân sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung, người ấy có phải sinh vào cõi dữ, ác thú, đọa xứ, địa ngục hay không?
+Ở đây, nếu có một người thương nhân sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung, người ấy có phải sinh vào cõi khổ, đường ác, đọa xứ, địa ngục hay không?
 
 <!-- seg: mn84:6.11 -->
-Ở đây, nếu có một người nô lệ sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung, người ấy có phải sinh vào cõi dữ, ác thú, đọa xứ, địa ngục hay không?
+Ở đây, nếu có một người nô lệ sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung, người ấy có phải sinh vào cõi khổ, đường ác, đọa xứ, địa ngục hay không?
 
 <!-- seg: mn84:6.12 -->
 Đại vương thấy việc ấy thế nào?"
 
 <!-- seg: mn84:6.13 -->
-"Thưa ngài Kaccāna, dù là người bà-la-môn, người thương nhân hay người nô lệ, nếu sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung cũng sẽ sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+"Thưa ngài Kaccāna, dù là người bà-la-môn, người thương nhân hay người nô lệ, nếu sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến, thì sau khi thân hoại mạng chung cũng sẽ sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn84:6.14 -->
 Con nghĩ như vậy, và con cũng đã nghe điều ấy từ các bậc A-la-hán."

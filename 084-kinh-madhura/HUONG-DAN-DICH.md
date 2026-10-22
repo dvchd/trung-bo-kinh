@@ -38,7 +38,7 @@ Bài kinh diễn ra tại Madhurā, vào thời gian sau khi Đức Thế Tôn �
 | pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī | dậy trước, đi ngủ sau, sẵn sàng làm theo lệnh, cư xử dễ chịu, nói lời thân ái | công thức lặp hơn ba mươi lần, phải dịch giống hệt nhau |
 | ghosoyeva eso lokasmiṁ | đó chỉ là lời đồn trong thế gian | câu chốt của Tôn giả, lặp 7 lần |
 | pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhi | sát sinh, trộm cắp, tà hạnh trong các dục, nói dối, nói hai lưỡi, nói lời thô ác, nói chuyện phù phiếm, tham lam, có tâm sân hận, có tà kiến | mười bất thiện nghiệp đạo |
-| apāyaṁ duggatiṁ vinipātaṁ nirayaṁ | cõi dữ, ác thú, đọa xứ, địa ngục | |
+| apāyaṁ duggatiṁ vinipātaṁ nirayaṁ | cõi khổ, đường ác, đọa xứ, địa ngục | |
 | sugatiṁ saggaṁ lokaṁ | thiện thú, cõi trời | |
 | kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajito | cạo bỏ râu tóc, mặc y màu vàng nâu, rời nhà xuất gia sống không nhà | |
 | rattūparato ekabhattiko brahmacārī sīlavā kalyāṇadhammo | không ăn ban đêm, ngày chỉ ăn một bữa, sống phạm hạnh, có giới, có thiện pháp | |

@@ -274,7 +274,7 @@ Ví như con lừa đã thôi chở nặng, đứng nơi ngõ hẻm, đống rá
 cũng vậy, bọn đầu trọc này, bọn sa-môn giả hiệu, bọn hèn hạ, bọn da đen, bọn sinh ra từ gót chân của người bà con ta, lại nói 'chúng ta thiền, chúng ta thiền', rồi vai rũ xuống, mặt cúi gằm, người mềm nhũn, chúng ngồi thiền, ngồi thiền định, ngồi trầm ngâm, ngồi ngẩn ngơ."
 
 <!-- seg: mn50:13.11 -->
-Này Ác ma, những người chết vào thời ấy, phần lớn sau khi thân hoại mạng chung đều sinh vào cõi khổ, ác thú, đọa xứ, địa ngục.
+Này Ác ma, những người chết vào thời ấy, phần lớn sau khi thân hoại mạng chung đều sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn50:14.1 -->
 Rồi này Ác ma, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh đẳng giác, gọi các tỳ-kheo:

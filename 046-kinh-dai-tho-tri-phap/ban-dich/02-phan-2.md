@@ -122,7 +122,7 @@ ngay trong khi đang khổ, đang ưu, vẫn có tâm sân hận; do nhân sân 
 ngay trong khi đang khổ, đang ưu, vẫn có tà kiến; do nhân tà kiến, người ấy cảm thọ khổ và ưu.
 
 <!-- seg: mn46:14.12 -->
-Sau khi thân hoại mạng chung, người ấy sinh vào cõi khổ, ác thú, đọa xứ, địa ngục.
+Sau khi thân hoại mạng chung, người ấy sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn46:14.13 -->
 Này các tỳ-kheo, đây gọi là cách thọ trì pháp khổ ngay hiện tại và về sau cho quả khổ.

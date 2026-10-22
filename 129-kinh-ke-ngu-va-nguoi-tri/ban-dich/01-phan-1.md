@@ -122,7 +122,7 @@ Nó sầu muộn, mệt mỏi, than van, đấm ngực gào khóc, rơi vào mê
 Này các tỳ-kheo, đó là loại khổ đau và buồn phiền thứ ba mà kẻ ngu trải qua ngay trong đời này.
 
 <!-- seg: mn129:6.1 -->
-Này các tỳ-kheo, kẻ ngu ấy, sau khi thân làm ác, miệng nói ác, ý nghĩ ác, khi thân hoại mạng chung, thì sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+Này các tỳ-kheo, kẻ ngu ấy, sau khi thân làm ác, miệng nói ác, ý nghĩ ác, khi thân hoại mạng chung, thì sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn129:7.1 -->
 Này các tỳ-kheo, nếu có điều gì mà người nói đúng sự thật có thể nói là:

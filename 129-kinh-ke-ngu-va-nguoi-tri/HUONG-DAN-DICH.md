@@ -41,7 +41,7 @@ Bài kinh này là lời dạy của Đức Thế Tôn tại rừng Jeta gần t
 | duccintitacintī, dubbhāsitabhāsī, dukkaṭakammakārī | suy nghĩ điều ác, nói lời ác, làm việc ác | tính từ đuôi -ī, không dịch thành "kẻ có tư tưởng xấu" (2.3) |
 | diṭṭheva dhamme | ngay trong đời này | không dịch "trong pháp hữu hiện" (3.1) |
 | kāyassa bhedā paraṁ maraṇā | khi thân hoại mạng chung | công thức cố định (6.1) |
-| apāyaṁ duggatiṁ vinipātaṁ nirayaṁ | cõi dữ, ác thú, đọa xứ, địa ngục | bốn từ, giữ đủ (6.1) |
+| apāyaṁ duggatiṁ vinipātaṁ nirayaṁ | cõi khổ, đường ác, đọa xứ, địa ngục | bốn từ, giữ đủ (6.1) |
 | sugatiṁ saggaṁ lokaṁ | cõi lành, cõi trời | đối xứng với công thức trên (31.1) |
 | dukkhaṁ domanassaṁ / sukhaṁ somanassaṁ | khổ đau và buồn phiền / an vui và hoan hỷ | cặp cố định, không đổi cách dịch giữa các đoạn (3.1, 28.3) |
 | pañcavidhabandhanaṁ kammakāraṇaṁ | hình phạt đóng năm cọc | chú giải: trói hai tay, hai chân và ngực (10.1) |

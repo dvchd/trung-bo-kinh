@@ -6,7 +6,7 @@
 
 Nửa đầu bài kinh nói về kẻ ngu. Ba dấu hiệu của họ là suy nghĩ điều ác, nói lời ác, làm việc ác; chính vì thế mà người khác nhận ra họ, chứ không phải vì họ kém thông minh. Rồi bài kinh kể ba nỗi khổ mà kẻ ngu phải chịu ngay trong đời này. Thứ nhất, khi ngồi ở hội trường, ngoài đường hay ở ngã tư, nghe người ta bàn những chuyện hợp với việc ấy, họ chợt nhận ra những điều xấu ấy đang có nơi mình. Thứ hai, khi thấy vua chúa bắt một tên trộm cướp và hành hạ đủ cách, họ biết mình cũng phạm đúng những việc ấy và có thể bị xử như vậy. Thứ ba, khi ngồi trên ghế, nằm trên giường hay nằm trên đất, những việc ác cũ hiện về, buông xuống trên họ như bóng núi lớn đổ xuống mặt đất lúc chiều tà.
 
-Sau khi chết, kẻ ngu sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Phần mô tả địa ngục là phần nặng nề nhất của bài kinh, và Đức Thế Tôn dùng một phép so sánh để nói rằng mọi hình dung của con người đều quá nhỏ: một người bị ba trăm ngọn giáo đâm trong một ngày đau đến đâu, nỗi đau ấy vẫn không đáng kể so với khổ ở địa ngục. Tiếp theo là cảnh ngục tốt đóng cọc sắt vào tay, chân và ngực, chặt bằng rìu, treo ngược, cột vào xe kéo qua nền đất cháy, ném lên núi than hồng, luộc trong nồi đồng đỏ, rồi quăng vào Đại địa ngục với bốn góc, bốn cửa và bức tường sắt.
+Sau khi chết, kẻ ngu sinh vào cõi khổ, đường ác, đọa xứ, địa ngục. Phần mô tả địa ngục là phần nặng nề nhất của bài kinh, và Đức Thế Tôn dùng một phép so sánh để nói rằng mọi hình dung của con người đều quá nhỏ: một người bị ba trăm ngọn giáo đâm trong một ngày đau đến đâu, nỗi đau ấy vẫn không đáng kể so với khổ ở địa ngục. Tiếp theo là cảnh ngục tốt đóng cọc sắt vào tay, chân và ngực, chặt bằng rìu, treo ngược, cột vào xe kéo qua nền đất cháy, ném lên núi than hồng, luộc trong nồi đồng đỏ, rồi quăng vào Đại địa ngục với bốn góc, bốn cửa và bức tường sắt.
 
 Từ địa ngục, bài kinh đi xuống các loài thú: loài ăn cỏ, loài ăn phân, loài sinh sống và chết trong bóng tối, trong nước, trong uế vật. Rồi có hình ảnh nổi tiếng về con rùa mù một mắt trồi lên mặt biển mỗi trăm năm một lần, giữa biển cả có một cái ách chỉ một lỗ. Rùa ấy còn có thể chui đầu qua lỗ ách dễ hơn một kẻ ngu đã rơi xuống đọa xứ có thể trở lại làm người. Lý do được nêu rõ: ở nơi ấy không có hạnh sống có nguyên tắc, không có việc làm lành, chỉ có ăn thịt lẫn nhau, mạnh hiếp yếu.
 
@@ -159,7 +159,7 @@ Nó sầu muộn, mệt mỏi, than van, đấm ngực gào khóc, rơi vào mê
 Này các tỳ-kheo, đó là loại khổ đau và buồn phiền thứ ba mà kẻ ngu trải qua ngay trong đời này.
 
 <!-- seg: mn129:6.1 -->
-Này các tỳ-kheo, kẻ ngu ấy, sau khi thân làm ác, miệng nói ác, ý nghĩ ác, khi thân hoại mạng chung, thì sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+Này các tỳ-kheo, kẻ ngu ấy, sau khi thân làm ác, miệng nói ác, ý nghĩ ác, khi thân hoại mạng chung, thì sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn129:7.1 -->
 Này các tỳ-kheo, nếu có điều gì mà người nói đúng sự thật có thể nói là:
@@ -508,7 +508,7 @@ Nó lại xấu xí, khó nhìn, dị dạng, nhiều bệnh tật — mù một
 Nó thân làm ác, miệng nói ác, ý nghĩ ác.
 
 <!-- seg: mn129:25.6 -->
-Nó, sau khi thân làm ác, miệng nói ác, ý nghĩ ác, khi thân hoại mạng chung, thì sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+Nó, sau khi thân làm ác, miệng nói ác, ý nghĩ ác, khi thân hoại mạng chung, thì sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn129:26.1 -->
 Này các tỳ-kheo, giả sử một con bạc, ngay ván đầu thua, đã mất con, mất vợ, mất tất cả tài sản, và còn bị gông cùm thêm.
@@ -519,7 +519,7 @@ Này các tỳ-kheo, giả sử một con bạc, ngay ván đầu thua, đã m�
 Này các tỳ-kheo, ván thua ấy là nhỏ bé, so với ván thua này:
 
 <!-- seg: mn129:26.3 -->
-Ván thua lớn hơn nhiều là cái này: kẻ ngu ấy thân làm ác, miệng nói ác, ý nghĩ ác, và khi thân hoại mạng chung thì sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+Ván thua lớn hơn nhiều là cái này: kẻ ngu ấy thân làm ác, miệng nói ác, ý nghĩ ác, và khi thân hoại mạng chung thì sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn129:26.4 -->
 Này các tỳ-kheo, đây là toàn bộ cảnh giới của kẻ ngu, trọn vẹn không thiếu.

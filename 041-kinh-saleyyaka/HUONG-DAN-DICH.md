@@ -38,7 +38,7 @@ sống đúng pháp và bình đẳng". Bài kinh khép lại bằng lời tán 
 | dhammacariyāsamacariyā | hạnh đúng pháp và bình đẳng | "sama" là bằng phẳng, chân chánh; dịch "bình đẳng" để giữ cặp đối |
 | dhammacārī samacārī | người sống đúng pháp và bình đẳng | dùng thống nhất ở mọi lời ước |
 | kāyassa bhedā paraṁ maraṇā | sau khi thân hoại mạng chung | công thức cố định |
-| apāyaṁ duggatiṁ vinipātaṁ nirayaṁ | cõi dữ, đường ác, chỗ đọa lạc, địa ngục | bốn từ nối nhau, không gộp |
+| apāyaṁ duggatiṁ vinipātaṁ nirayaṁ | cõi khổ, đường ác, đọa xứ, địa ngục | bốn từ nối nhau, không gộp |
 | sugatiṁ saggaṁ lokaṁ | đường lành, cõi trời | |
 | sahabyataṁ upapajjeyya | được sinh vào hàng ngũ | theo sau là tên giai cấp hay tên cõi |
 | dasakusalakammapatha | mười đường nghiệp lành | chỉ dùng trong chú thích |

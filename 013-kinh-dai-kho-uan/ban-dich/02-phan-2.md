@@ -101,7 +101,7 @@ Này các tỳ-kheo, đó cũng là mối nguy hại của các dục, thấy ng
 Hơn nữa, này các tỳ-kheo, vì dục làm nhân, vì dục làm duyên, vì dục làm cớ, chính vì dục, họ làm điều ác bằng thân, làm điều ác bằng lời, làm điều ác bằng ý.
 
 <!-- seg: mn13:15.2 -->
-Sau khi làm điều ác bằng thân, bằng lời, bằng ý, khi thân hoại mạng chung, họ tái sinh vào cõi khổ, ác thú, đọa xứ, địa ngục.
+Sau khi làm điều ác bằng thân, bằng lời, bằng ý, khi thân hoại mạng chung, họ tái sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 [Chú thích: Các mối nguy hại cứ tăng dần; ý ở đây là địa ngục còn khủng khiếp hơn những hình phạt vừa kể.]
 

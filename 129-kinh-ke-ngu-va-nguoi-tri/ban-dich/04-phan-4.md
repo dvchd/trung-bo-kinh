@@ -2,7 +2,7 @@
 Này các tỳ-kheo, ván thua ấy là nhỏ bé, so với ván thua này:
 
 <!-- seg: mn129:26.3 -->
-Ván thua lớn hơn nhiều là cái này: kẻ ngu ấy thân làm ác, miệng nói ác, ý nghĩ ác, và khi thân hoại mạng chung thì sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+Ván thua lớn hơn nhiều là cái này: kẻ ngu ấy thân làm ác, miệng nói ác, ý nghĩ ác, và khi thân hoại mạng chung thì sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn129:26.4 -->
 Này các tỳ-kheo, đây là toàn bộ cảnh giới của kẻ ngu, trọn vẹn không thiếu.

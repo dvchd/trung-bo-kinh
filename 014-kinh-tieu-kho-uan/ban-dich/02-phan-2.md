@@ -59,7 +59,7 @@ Này Mahānāma, đó cũng là mối nguy hại của các dục, thấy ngay t
 Hơn nữa, này Mahānāma, vì dục làm nhân, vì dục làm duyên, vì dục làm cớ, chính vì dục, họ làm điều ác bằng thân, làm điều ác bằng lời, làm điều ác bằng ý.
 
 <!-- seg: mn14:14.2 -->
-Sau khi làm điều ác bằng thân, bằng lời, bằng ý, khi thân hoại mạng chung, họ tái sinh vào cõi khổ, ác thú, đọa xứ, địa ngục.
+Sau khi làm điều ác bằng thân, bằng lời, bằng ý, khi thân hoại mạng chung, họ tái sinh vào cõi khổ, đường ác, đọa xứ, địa ngục.
 
 <!-- seg: mn14:14.3 -->
 Này Mahānāma, đó là mối nguy hại của các dục liên quan đến đời sau, là khối khổ do dục làm nhân, do dục làm duyên, do dục làm cớ, chính vì dục.
