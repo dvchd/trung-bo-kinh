@@ -13,4 +13,4 @@ Vīmaṁsaka, Kosambi và bài vị bà-la-môn,
 <!-- seg: mn50:32.4 -->
 Dūsī và Ma vương — phẩm thứ mười là vậy.
 
-[Chú thích: Đây là bài kệ tóm tắt tên các bài trong phẩm, mỗi tên chỉ gợi một chữ để người tụng nhớ thứ tự; có tên đã được rút gọn nên không hoàn toàn khớp với tiêu đề của từng bài.]
+[Chú thích của người dịch: Đây là bài kệ tóm tắt tên các bài trong phẩm, mỗi tên chỉ gợi một chữ để người tụng nhớ thứ tự; có tên đã được rút gọn nên không hoàn toàn khớp với tiêu đề của từng bài.]

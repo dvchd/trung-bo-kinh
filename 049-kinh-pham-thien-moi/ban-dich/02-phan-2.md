@@ -79,7 +79,7 @@ Ngài biết kẻ cao và kẻ thấp,
 và cả những ai còn tham, những ai đã lìa tham;
 
 <!-- seg: mn49:9.7 -->
-cảnh giới này và cảnh giới khác của chúng sanh,
+cảnh giới này và cảnh giới khác của chúng sinh,
 
 <!-- seg: mn49:9.8 -->
 đường chúng đến và đường chúng đi.
@@ -101,7 +101,7 @@ nhưng Ta biết, Ta thấy.
 [Chú thích: Bản PTS và bản BJT đọc tyāhaṁ, tức te ahaṁ, phù hợp với cách đọc số nhiều của họ, khác với tamahaṁ số ít của bản Mahāsaṅgīti. Điều này cho thấy sự khác biệt đã được chọn lựa có chủ ý, chứ không do bản chú giải quyết định.]
 
 <!-- seg: mn49:10.3 -->
-Này Phạm Thiên, có một cõi tên là Ābhassarā (Quang Âm); Ngài đã từ đó mệnh chung và sanh về đây.
+Này Phạm Thiên, có một cõi tên là Ābhassarā (Quang Âm); Ngài đã từ đó mệnh chung và sinh về đây.
 
 [Chú thích: Ở đây ābhassarā là giống đực số nhiều, nên không phải tính từ bổ nghĩa cho kāyo mà là chỉ chư thiên của cõi ấy. Bản Mahāsaṅgīti không nhất quán ở điểm này: phía dưới, subhakiṇho và vehapphalo lại được dùng như tính từ số ít, trong khi bản PTS và bản BJT luôn dùng dạng số nhiều.]
 

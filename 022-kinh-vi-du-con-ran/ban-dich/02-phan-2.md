@@ -148,9 +148,9 @@ Thật vậy, này các tỳ-kheo, chuyện một người hưởng thụ các d
 "Này các tỳ-kheo, ở đây có một số kẻ ngu si học thuộc pháp —
 
 <!-- seg: mn22:10.2 -->
-kinh, văn xuôi lẫn kệ, giảng giải, kệ tụng, cảm hứng ngữ, bản thuyết, bản sanh, chuyện kỳ diệu, phân tích mở rộng.
+kinh, văn xuôi lẫn kệ, giảng giải, kệ tụng, cảm hứng ngữ, bản thuyết, bổn sanh, chuyện kỳ diệu, phân tích mở rộng.
 
-[Chú thích: Chín thể loại này là cách phân loại giáo pháp có trước hệ thống bộ kinh, gồm kinh, văn xuôi lẫn kệ, giảng giải, kệ, cảm hứng ngữ, bản thuyết, bản sanh, chuyện kỳ diệu và phân tích mở rộng. Về sau, một số tên được dùng cho những bộ sách riêng như Udāna, Itivuttaka và Jātaka.]
+[Chú thích: Chín thể loại này là cách phân loại giáo pháp có trước hệ thống bộ kinh, gồm kinh, văn xuôi lẫn kệ, giảng giải, kệ, cảm hứng ngữ, bản thuyết, bổn sanh, chuyện kỳ diệu và phân tích mở rộng. Về sau, một số tên được dùng cho những bộ sách riêng như Udāna, Itivuttaka và Jātaka.]
 
 <!-- seg: mn22:10.3 -->
 Sau khi học thuộc pháp ấy, họ không dùng tuệ để xem xét ý nghĩa của những pháp ấy.

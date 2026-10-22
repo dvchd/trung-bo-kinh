@@ -8,7 +8,7 @@
 
 Từ đó bài kinh mở sang một câu chuyện thời xa xưa, khi Đức Thế Tôn Kakusandha xuất hiện trên thế gian cùng hai vị đệ tử thượng thủ là Vidhura và Sañjīva. Tôn giả Mahāmoggallāna thuở ấy là Ma vương Dūsī, còn Ma vương bây giờ là con của em gái ông ta, tức cháu gọi ông ta bằng cậu. Câu chuyện ấy cho thấy Ma vương Dūsī đã hai lần thất bại: lần đầu, hắn xúi người đời mắng nhiếc các tỳ-kheo, và các vị ấy đáp lại bằng tâm từ; lần sau, hắn xúi họ tâng bốc cúng dường, và các vị ấy đáp lại bằng phép quán thân bất tịnh, quán sự nhàm chán nơi đồ ăn, nơi thế gian, và quán vô thường.
 
-Lần thứ ba thì hắn không còn đứng ngoài. Hắn nhập vào một cậu bé, cầm đá đập vỡ đầu Tôn giả Vidhura khi vị này đang theo sau Đức Thế Tôn Kakusandha. Với cái đầu vỡ, máu chảy ròng ròng, Vidhura vẫn đi theo. Đức Thế Tôn quay lại nhìn theo thế voi ngoái và nói một câu: Ma vương Dūsī này không biết đâu là mức giới hạn. Ngay khi ấy, hắn rơi khỏi chỗ mình đang đứng và sanh vào Đại địa ngục.
+Lần thứ ba thì hắn không còn đứng ngoài. Hắn nhập vào một cậu bé, cầm đá đập vỡ đầu Tôn giả Vidhura khi vị này đang theo sau Đức Thế Tôn Kakusandha. Với cái đầu vỡ, máu chảy ròng ròng, Vidhura vẫn đi theo. Đức Thế Tôn quay lại nhìn theo thế voi ngoái và nói một câu: Ma vương Dūsī này không biết đâu là mức giới hạn. Ngay khi ấy, hắn rơi khỏi chỗ mình đang đứng và sinh vào Đại địa ngục.
 
 Phần còn lại là lời kể của chính Tôn giả Mahāmoggallāna về những gì Ngài đã trải qua trong Đại địa ngục ấy — một ngàn năm nướng trong lửa, rồi mười ngàn năm nữa nơi phần phụ của nó, với thân người và đầu cá — tiếp theo là những câu kệ cảnh cáo Ma vương. Bài kinh khép lại bằng hình ảnh vị tỳ-kheo khiển trách Ma vương ngay tại rừng Bhesakaḷā, và dạ-xoa ấy biến mất với tâm sầu muộn.
 
@@ -258,7 +258,7 @@ Rồi này Ác ma, Ma vương Dūsī khởi lên ý nghĩ:
 <!-- seg: mn50:12.2 -->
 "Ta không biết được chỗ đến và chỗ đi của các tỳ-kheo trì giới, có thiện pháp này.
 
-[Chú thích: Thành ngữ "chỗ đến và chỗ đi" chỉ đường tái sanh của một người.]
+[Chú thích: Thành ngữ "chỗ đến và chỗ đi" chỉ đường tái sinh của một người.]
 
 <!-- seg: mn50:12.3 -->
 Vậy ta hãy nhập vào các bà-la-môn và gia chủ, và bảo họ:
@@ -313,7 +313,7 @@ Ví như con lừa đã thôi chở nặng, đứng nơi ngõ hẻm, đống rá
 cũng vậy, bọn đầu trọc này, bọn sa-môn giả hiệu, bọn hèn hạ, bọn da đen, bọn sinh ra từ gót chân của người bà con ta, lại nói 'chúng ta thiền, chúng ta thiền', rồi vai rũ xuống, mặt cúi gằm, người mềm nhũn, chúng ngồi thiền, ngồi thiền định, ngồi trầm ngâm, ngồi ngẩn ngơ."
 
 <!-- seg: mn50:13.11 -->
-Này Ác ma, những người chết vào thời ấy, phần lớn sau khi thân hoại mạng chung đều sanh vào cõi khổ, ác thú, đọa xứ, địa ngục.
+Này Ác ma, những người chết vào thời ấy, phần lớn sau khi thân hoại mạng chung đều sinh vào cõi khổ, ác thú, đọa xứ, địa ngục.
 
 <!-- seg: mn50:14.1 -->
 Rồi này Ác ma, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh đẳng giác, gọi các tỳ-kheo:
@@ -377,7 +377,7 @@ May ra, khi được các ông kính trọng, tôn trọng, quý mến, cúng d�
 Rồi này Ác ma, các bà-la-môn và gia chủ ấy, bị Ma vương Dūsī nhập vào, kính trọng, tôn trọng, quý mến, cúng dường các tỳ-kheo trì giới, có thiện pháp.
 
 <!-- seg: mn50:17.5 -->
-Này Ác ma, những người chết vào thời ấy, phần lớn sau khi thân hoại mạng chung đều sanh vào cõi lành, cõi trời.
+Này Ác ma, những người chết vào thời ấy, phần lớn sau khi thân hoại mạng chung đều sinh vào cõi lành, cõi trời.
 
 <!-- seg: mn50:18.1 -->
 Rồi này Ác ma, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh đẳng giác, gọi các tỳ-kheo:
@@ -419,7 +419,7 @@ Rồi này Ác ma, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh đẳng
 "Ma vương Dūsī này không biết đâu là mức giới hạn."
 
 <!-- seg: mn50:21.5 -->
-Và này Ác ma, ngay khi Ngài vừa ngoái nhìn, Ma vương Dūsī rơi khỏi chỗ ấy và sanh vào Đại địa ngục.
+Và này Ác ma, ngay khi Ngài vừa ngoái nhìn, Ma vương Dūsī rơi khỏi chỗ ấy và sinh vào Đại địa ngục.
 
 [Chú thích: Chữ sahāpalokanāya cho thấy Ma vương rơi vào địa ngục cùng lúc với cái nhìn ấy, chứ không phải vì cái nhìn ấy.]
 
@@ -683,7 +683,7 @@ Rừng rú của những người Pubbavideha,
 <!-- seg: mn50:30.4 -->
 và những con người nằm trên mặt đất.
 
-[Chú thích: Pubbavideha là một trong bốn châu lớn trong vũ trụ quan Phật giáo; "những con người nằm trên mặt đất" là cách nói khó hiểu, có bản hiểu là dân chúng sống trên vùng đất ấy.]
+[Chú thích của người dịch: Pubbavideha là một trong bốn châu lớn trong vũ trụ quan Phật giáo; "những con người nằm trên mặt đất" là cách nói khó hiểu, có bản hiểu là dân chúng sống trên vùng đất ấy.]
 
 <!-- seg: mn50:30.5 -->
 Người nào trực nhận được điều này,
@@ -782,7 +782,7 @@ Vīmaṁsaka, Kosambi và bài vị bà-la-môn,
 <!-- seg: mn50:32.4 -->
 Dūsī và Ma vương — phẩm thứ mười là vậy.
 
-[Chú thích: Đây là bài kệ tóm tắt tên các bài trong phẩm, mỗi tên chỉ gợi một chữ để người tụng nhớ thứ tự; có tên đã được rút gọn nên không hoàn toàn khớp với tiêu đề của từng bài.]
+[Chú thích của người dịch: Đây là bài kệ tóm tắt tên các bài trong phẩm, mỗi tên chỉ gợi một chữ để người tụng nhớ thứ tự; có tên đã được rút gọn nên không hoàn toàn khớp với tiêu đề của từng bài.]
 
 ---
 
@@ -801,7 +801,7 @@ Kakaca và Gosiṅga,
 <!-- seg: mn50:33.4 -->
 cùng Sāleyya — đó là năm bài.
 
-[Chú thích: Năm tên này là bài mở đầu của năm phẩm trong nửa đầu Trung Bộ Kinh, nên bài kệ dùng chúng để nhớ tên năm phẩm.]
+[Chú thích của người dịch: Năm tên này là bài mở đầu của năm phẩm trong nửa đầu Trung Bộ Kinh, nên bài kệ dùng chúng để nhớ tên năm phẩm.]
 
 <!-- seg: mn50:33.5 -->
 Phần Mūlapaṇṇāsa đã hoàn tất.

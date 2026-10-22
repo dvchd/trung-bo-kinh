@@ -67,7 +67,7 @@ Thưa Ngài, những người theo giáo phái khác còn tìm của lễ để 
 Rồi gia chủ Dasama, người Aṭṭhakanāgara, tập hợp Tăng đoàn tỳ-kheo ở Pāṭaliputta và ở Vesālī, rồi tự tay làm cho họ thỏa mãn và vui lòng bằng các món ăn thượng hạng, cả món cứng lẫn món mềm.
 
 <!-- seg: mn52:16.2 -->
-Ông cho mỗi vị tỳ-kheo một đôi vải để may y, riêng tôn giả Ānanda thì cho trọn bộ ba y; và cho xây tặng tôn giả Ānanda một tịnh thất trị giá năm trăm.
+Ông cho mỗi vị tỳ-kheo một đôi vải, riêng tôn giả Ānanda thì cho trọn bộ ba y; và cho xây tặng tôn giả Ānanda một tịnh thất trị giá năm trăm.
 
 [Chú thích: Việc cúng dường xa hoa này là dấu hiệu sớm về sự giàu có mà Tăng đoàn được hưởng ở Pāṭaliputta. Hơn một thế kỷ sau, dưới thời vua Aśoka, nhiều người xấu đã vào Tăng đoàn để tìm lợi lộc, đến mức phải triệu tập một kết tập để trục xuất họ.]
 

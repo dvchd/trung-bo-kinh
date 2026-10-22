@@ -29,7 +29,7 @@ Lúc bấy giờ, này các tỳ-kheo, Phạm Thiên Baka khởi lên một tà 
 [Chú thích: Phạm Thiên Baka giữ tà kiến này cả ở SN 6.4, nơi các đời sống trước của ông được nêu ra. Tên baka nghĩa là con cò; trong thần thoại Bà-la-môn không có vị thần cao nào mang tên ấy, mà chỉ có một loài dạ-xoa ăn thịt người hình chim, về sau bị anh hùng Bhīma giết chết. Chuyện Pali kể con cò đứng lim dim như đang thiền bên nước, thật ra đang dụ cá đến gần để chộp lấy, nên một con chim trắng lớn, bay cao mà giả vờ thiền rất hợp để làm đối thủ trong những bài kinh này.]
 
 <!-- seg: mn49:2.3 -->
-"Đây là thường, đây là bền, đây là vĩnh cửu, đây là toàn vẹn, đây là pháp không bị hoại diệt. Ở đây không có sanh, không có già, không có chết, không có chết đi và không có tái sanh. Và không có lối thoát nào cao hơn lối thoát này."
+"Đây là thường, đây là bền, đây là vĩnh cửu, đây là toàn vẹn, đây là pháp không bị hoại diệt. Ở đây không có sinh, không có già, không có chết, không có chết đi và không có tái sinh. Và không có lối thoát nào cao hơn lối thoát này."
 
 [Chú thích: Dùng đại từ phiếm chỉ "cái này" để chỉ tự ngã là Phạm Thiên là lối nói quen thuộc của Upaniṣad, như "cái đó chính là ông" hay "tự ngã ấy là Phạm Thiên".]
 
@@ -54,7 +54,7 @@ thấy vậy, ông ta nói với Ta:
 Đã lâu lắm rồi, này hiền giả, ông mới có dịp đến đây.
 
 <!-- seg: mn49:3.7 -->
-Vì đây là thường, đây là bền, đây là vĩnh cửu, đây là toàn vẹn, đây là pháp không bị hoại diệt. Ở đây không có sanh, không có già, không có chết, không có chết đi và không có tái sanh. Và không có lối thoát nào cao hơn lối thoát này."
+Vì đây là thường, đây là bền, đây là vĩnh cửu, đây là toàn vẹn, đây là pháp không bị hoại diệt. Ở đây không có sinh, không có già, không có chết, không có chết đi và không có tái sinh. Và không có lối thoát nào cao hơn lối thoát này."
 
 <!-- seg: mn49:4.1 -->
 Khi ông ta nói như vậy, này các tỳ-kheo, Ta nói với Phạm Thiên Baka:
@@ -66,10 +66,10 @@ Khi ông ta nói như vậy, này các tỳ-kheo, Ta nói với Phạm Thiên Ba
 Bởi vì cái vốn là vô thường, ông ta lại nói là thường; cái vốn là không bền, lại nói là bền; cái vốn là không vĩnh cửu, lại nói là vĩnh cửu; cái vốn là không toàn vẹn, lại nói là toàn vẹn; cái vốn là pháp bị hoại diệt, lại nói là pháp không bị hoại diệt.
 
 <!-- seg: mn49:4.4 -->
-Và ở chỗ nào có sanh, có già, có chết, có chết đi và có tái sanh, thì về chỗ ấy ông ta lại nói:
+Và ở chỗ nào có sinh, có già, có chết, có chết đi và có tái sinh, thì về chỗ ấy ông ta lại nói:
 
 <!-- seg: mn49:4.5 -->
-'Ở đây không có sanh, không có già, không có chết, không có chết đi và không có tái sanh';
+'Ở đây không có sinh, không có già, không có chết, không có chết đi và không có tái sinh';
 
 <!-- seg: mn49:4.6 -->
 trong khi thật có một lối thoát khác cao hơn, ông ta lại nói: 'Không có lối thoát nào khác cao hơn.'"
@@ -80,7 +80,7 @@ Rồi này các tỳ-kheo, Ma vương Ác ma nhập vào một vị trong hội 
 [Chú thích: Từ đây, nội dung bài kinh tách khỏi SN 6.4:4.1.]
 
 <!-- seg: mn49:5.2 -->
-"Này tỳ-kheo, này tỳ-kheo! Chớ công kích vị ấy! Chớ công kích vị ấy! Vì vị ấy là Phạm Thiên, Đại Phạm Thiên, bậc Chiến thắng, bậc không ai chiến thắng nổi, bậc thấy hết mọi sự, bậc nắm quyền lực, bậc tự tại, bậc tạo tác, bậc kiến tạo, bậc tối thượng, bậc sắp đặt, bậc chế ngự, bậc cha của những loài đã sanh và sẽ sanh.
+"Này tỳ-kheo, này tỳ-kheo! Chớ công kích vị ấy! Chớ công kích vị ấy! Vì vị ấy là Phạm Thiên, Đại Phạm Thiên, bậc Chiến thắng, bậc không ai chiến thắng nổi, bậc thấy hết mọi sự, bậc nắm quyền lực, bậc tự tại, bậc tạo tác, bậc kiến tạo, bậc tối thượng, bậc sắp đặt, bậc chế ngự, bậc cha của những loài đã sinh và sẽ sinh.
 
 [Chú thích: Ma vương lặp lại đúng lời tự tán của Phạm Thiên trong DN 1:2.5.2. Việc gọi Đức Thế Tôn là "tỳ-kheo" rất hiếm gặp và có lẽ mang ý coi thường.]
 
@@ -137,7 +137,7 @@ Khi ông ta nói như vậy, này các tỳ-kheo, Ta nói với Ma vương Ác m
 <!-- seg: mn49:6.5 -->
 Này Ác ma, Phạm Thiên, hội chúng Phạm Thiên và các vị trong hội chúng ấy, tất cả đều đã nằm trong tay ông, tất cả đều ở dưới quyền của ông.
 
-[Chú thích: Thông thường Ma vương được xem là nắm quyền trên các cõi dục, còn các tầng thiền và cõi tái sanh tương ứng thì ngoài tầm với của ông ta (MN 25:12.1). Ở đây tầm với ấy đi xa hơn, vì các cõi Phạm Thiên tuy đã lìa dục nhưng vẫn chưa lìa sự bám víu vào hữu.]
+[Chú thích: Thông thường Ma vương được xem là nắm quyền trên các cõi dục, còn các tầng thiền và cõi tái sinh tương ứng thì ngoài tầm với của ông ta (MN 25:12.1). Ở đây tầm với ấy đi xa hơn, vì các cõi Phạm Thiên tuy đã lìa dục nhưng vẫn chưa lìa sự bám víu vào hữu.]
 
 <!-- seg: mn49:6.6 -->
 Vì ông nghĩ rằng:
@@ -152,12 +152,12 @@ Nhưng này Ác ma, Ta không nằm trong tay ông, cũng không ở dưới quy
 Khi Ta nói như vậy, này các tỳ-kheo, Phạm Thiên Baka nói với Ta:
 
 <!-- seg: mn49:7.2 -->
-"Này hiền giả, cái mà ta nói là thường thì thật là thường, cái ta nói là bền thì thật là bền, cái ta nói là vĩnh cửu thì thật là vĩnh cửu, cái ta nói là toàn vẹn thì thật là toàn vẹn, cái ta nói là pháp không bị hoại diệt thì thật là pháp không bị hoại diệt; và ở chỗ mà ta nói không có sanh, không có già, không có chết, không có chết đi và không có tái sanh, thì ở đó đúng thật là:
+"Này hiền giả, cái mà ta nói là thường thì thật là thường, cái ta nói là bền thì thật là bền, cái ta nói là vĩnh cửu thì thật là vĩnh cửu, cái ta nói là toàn vẹn thì thật là toàn vẹn, cái ta nói là pháp không bị hoại diệt thì thật là pháp không bị hoại diệt; và ở chỗ mà ta nói không có sinh, không có già, không có chết, không có chết đi và không có tái sinh, thì ở đó đúng thật là:
 
 [Chú thích: Một tài của Ma vương là làm cho người ta tưởng rằng những ý nghĩ xấu ác của ông ta chính là ý nghĩ của mình.]
 
 <!-- seg: mn49:7.3 -->
-'Ở đây không có sanh, không có già, không có chết, không có chết đi và không có tái sanh.'
+'Ở đây không có sinh, không có già, không có chết, không có chết đi và không có tái sinh.'
 
 <!-- seg: mn49:7.4 -->
 Và cái mà ta nói là không có lối thoát nào khác cao hơn thì thật là không có lối thoát nào khác cao hơn.

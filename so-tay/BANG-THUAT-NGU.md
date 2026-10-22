@@ -170,6 +170,8 @@ dấu), hoặc đọc lướt theo nhóm chủ đề. Những từ có dấu * l
 | yathābhūta | như thật | "thấy như thật" |
 | appossukkatā | sự yên lặng | Thái độ không bận tâm, không muốn hoạt động; MN 26 |
 | sāra / pheggu / taca / papaṭikā | lõi cây / gỗ giác / vỏ trong / vỏ ngoài | Năm lớp của cây trong ví dụ lõi cây; MN 29–30 |
+| jātaka / bổn sanh | bổn sanh | Một trong chín thể loại giáo pháp (aṅga), MN 22 |
+| apāya / duggati / vinipāta / niraya | cõi khổ / đường ác / chỗ đọa lạc / địa ngục | Công thức bốn phần về nơi tái sinh xấu; ba biến thể còn tồn trong kho cần thống nhất |
 | dulladdha / suladdha | được một cách dở tệ / được một cách tốt lành | MN 28; khác dullabha "khó được" |
 | vijjācaraṇasampanno | đầy đủ minh và hạnh | Trong danh hiệu chín phần |
 

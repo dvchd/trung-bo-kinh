@@ -43,12 +43,12 @@ Tôi nghe như vầy.
 <!-- seg: mn52:1.2 -->
 Một thuở nọ, vị tôn giả Ānanda (A-nan) trú tại Vesālī (Tỳ-xá-li), trong làng nhỏ Beluva.
 
-[Chú thích: Đức Thế Tôn đã trải mùa an cư cuối cùng của mình tại đây. Việc bài kinh không nhắc đến Ngài cho thấy bối cảnh là sau khi Ngài đã nhập diệt.]
+[Chú thích: Đức Thế Tôn đã trải mùa an cư cuối cùng của mình tại đây. Việc bài kinh không nhắc đến Ngài, cùng với bối cảnh ở Pāṭaliputta, gợi ý rằng Ngài đã nhập diệt.]
 
 <!-- seg: mn52:1.3 -->
 Lúc bấy giờ, gia chủ Dasama, người Aṭṭhakanāgara (Bát Thành), vì một việc cần làm mà đã đến Pāṭaliputta (Hoa Thị).
 
-[Chú thích: *Dasama* nghĩa là "thứ mười"; chú giải nói ông là người thứ mười trong dòng họ. *Aṭṭhakanāgara* thường được hiểu là tên một thành phố, nhưng có thể nên hiểu là "vị công dân giàu có"; Pāṭaliputta chỉ lớn mạnh vào cuối đời Đức Thế Tôn, cũng là một dấu hiệu cho thấy Ngài đã nhập diệt.]
+[Chú thích: *Dasama* nghĩa là "thứ mười"; chú giải nói ông là người thứ mười trong dòng họ. *Aṭṭhakanāgara* thường được hiểu là tên một thành phố, nhưng cả tên thành ấy lẫn dạng *nāgara* đều không thấy ở chỗ khác; vì điều duy nhất ta biết về ông là ông rất giàu, có lẽ nên hiểu *aṭṭhaka* theo *artha* là "giàu có", hợp với nghĩa *nāgara* về sau là "công dân có thế lực".]
 
 <!-- seg: mn52:2.1 -->
 Rồi gia chủ Dasama, người Aṭṭhakanāgara, đi đến tu viện Kukkuṭārāma (Kê Viên), đến chỗ một vị tỳ-kheo nọ. Đến nơi, ông đảnh lễ vị tỳ-kheo ấy rồi ngồi xuống một bên. Khi đã ngồi xuống một bên, gia chủ Dasama, người Aṭṭhakanāgara, thưa với vị tỳ-kheo ấy:
@@ -59,7 +59,7 @@ Rồi gia chủ Dasama, người Aṭṭhakanāgara, đi đến tu viện Kukku�
 "Thưa Ngài, hiện nay tôn giả Ānanda đang trú ở đâu?
 
 <!-- seg: mn52:2.3 -->
-Vì con muốn gặp tôn giả Ānanda."
+Ấy là vì chúng con muốn gặp tôn giả Ānanda."
 
 <!-- seg: mn52:2.4 -->
 "Này gia chủ, tôn giả Ānanda trú tại Vesālī, trong làng nhỏ Beluva."
@@ -108,7 +108,7 @@ Nếu vị ấy không đi đến chỗ đoạn tận các lậu hoặc, thì nh
 Này gia chủ, đây cũng là một pháp mà Đức Thế Tôn — bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác — đã dạy, mà nhờ đó một vị tỳ-kheo sống không xao lãng, nhiệt tâm, quyết chí, thì tâm chưa được giải thoát được giải thoát, các lậu hoặc chưa được đoạn tận đi đến đoạn tận, và vị ấy chứng đạt vô thượng an ổn khỏi các ách phược mà trước đó chưa từng đạt.
 
 <!-- seg: mn52:5.1 -->
-Lại nữa, này gia chủ, một vị tỳ-kheo, khi tầm và tứ được lắng xuống, chứng và trú thiền-na thứ hai — một trạng thái có sự an tịnh nội tâm, có sự nhất tâm của tâm, không tầm không tứ, với hỷ và lạc do định mà sinh.
+Lại nữa, này gia chủ, một vị tỳ-kheo, khi tầm và tứ được lắng xuống, chứng và trú thiền-na thứ hai — một trạng thái có sự an tịnh nội tâm, có sự nhất tâm, không tầm không tứ, với hỷ và lạc do định mà sinh.
 
 <!-- seg: mn52:5.2 -->
 Vị ấy suy xét như vầy:
@@ -120,7 +120,7 @@ Vị ấy suy xét như vầy:
 Này gia chủ, đây cũng là một pháp mà Đức Thế Tôn — bậc biết và thấy, bậc A-la-hán, Chánh đẳng giác — đã dạy, mà nhờ đó một vị tỳ-kheo sống không xao lãng, nhiệt tâm, quyết chí, thì tâm chưa được giải thoát được giải thoát, các lậu hoặc chưa được đoạn tận đi đến đoạn tận, và vị ấy chứng đạt vô thượng an ổn khỏi các ách phược mà trước đó chưa từng đạt.
 
 <!-- seg: mn52:6.1 -->
-Lại nữa, này gia chủ, một vị tỳ-kheo, do ly hỷ, trú xả, chánh niệm, tỉnh giác, và thân cảm nhận được lạc; đó là điều các bậc thánh nói: 'Vị ấy trú xả, có chánh niệm, sống an lạc' — vị ấy chứng và trú thiền-na thứ ba.
+Lại nữa, này gia chủ, một vị tỳ-kheo, do ly hỷ, vị ấy trú xả, chánh niệm, tỉnh giác, và thân cảm nhận được lạc (điều mà các bậc thánh nói: 'Vị ấy trú xả, có chánh niệm, sống an lạc'), rồi chứng và trú thiền-na thứ ba.
 
 <!-- seg: mn52:6.2 -->
 Vị ấy suy xét như vầy:
@@ -274,7 +274,7 @@ Thưa Ngài, những người theo giáo phái khác còn tìm của lễ để 
 Rồi gia chủ Dasama, người Aṭṭhakanāgara, tập hợp Tăng đoàn tỳ-kheo ở Pāṭaliputta và ở Vesālī, rồi tự tay làm cho họ thỏa mãn và vui lòng bằng các món ăn thượng hạng, cả món cứng lẫn món mềm.
 
 <!-- seg: mn52:16.2 -->
-Ông cho mỗi vị tỳ-kheo một đôi vải để may y, riêng tôn giả Ānanda thì cho trọn bộ ba y; và cho xây tặng tôn giả Ānanda một tịnh thất trị giá năm trăm.
+Ông cho mỗi vị tỳ-kheo một đôi vải, riêng tôn giả Ānanda thì cho trọn bộ ba y; và cho xây tặng tôn giả Ānanda một tịnh thất trị giá năm trăm.
 
 [Chú thích: Việc cúng dường xa hoa này là dấu hiệu sớm về sự giàu có mà Tăng đoàn được hưởng ở Pāṭaliputta. Hơn một thế kỷ sau, dưới thời vua Aśoka, nhiều người xấu đã vào Tăng đoàn để tìm lợi lộc, đến mức phải triệu tập một kết tập để trục xuất họ.]
 

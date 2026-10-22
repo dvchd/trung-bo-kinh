@@ -100,7 +100,7 @@ Rồi này các tỳ-kheo, Phạm Thiên, hội chúng Phạm Thiên và các v�
 Sa-môn Gotama có thần lực lớn như vậy, có uy lực lớn như vậy! Trước đây chúng ta chưa từng thấy, chưa từng nghe nói có một sa-môn hay bà-la-môn nào khác có thần lực lớn như vậy, có uy lực lớn như vậy, như sa-môn Gotama này, người dòng họ Sakya (Thích-ca), đã xuất gia từ dòng họ Sakya.
 
 <!-- seg: mn49:28.4 -->
-Loài chúng sanh ưa thích hữu, đắm say hữu, hoan hỷ trong hữu, mà vị ấy đã nhổ bật hữu lên tận gốc rễ!"
+Loài chúng sinh ưa thích hữu, đắm say hữu, hoan hỷ trong hữu, mà vị ấy đã nhổ bật hữu lên tận gốc rễ!"
 
 <!-- seg: mn49:29.1 -->
 Rồi này các tỳ-kheo, Ma vương Ác ma nhập vào một vị trong hội chúng Phạm Thiên, rồi nói với Ta:

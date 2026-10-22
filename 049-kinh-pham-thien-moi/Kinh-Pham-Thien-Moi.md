@@ -4,11 +4,11 @@
 
 **Kinh Phạm Thiên Mời** (*Brahmanimantanika Sutta*) là bài kinh thứ 49 trong **Trung Bộ Kinh**, bộ kinh gồm 152 bài giảng cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh kể một chuyến đi lên tận cùng thế giới quan của thời bấy giờ: cõi Phạm Thiên, nơi người ta tin là chỗ ở của đấng tạo hóa, cao hơn mọi tầng trời khác. Đức Thế Tôn đến đó không phải để thăm viếng, mà để chất vấn một ý niệm.
 
-Chủ nhân cõi ấy là Phạm Thiên Baka. Ông tin rằng cõi của mình là thường còn, bền vững, toàn vẹn, không bao giờ hoại diệt; rằng ở đây không có sanh, không có già, không có chết; và rằng ngoài chỗ này ra không còn lối thoát nào cao hơn. Ông cũng tin mình là đấng tạo tác, là cha của mọi loài đã sanh và sẽ sanh. Bài kinh mở đầu bằng chính ý nghĩ ấy của ông, và Đức Thế Tôn đọc được ý nghĩ ấy từ cách xa cả một hệ thế giới.
+Chủ nhân cõi ấy là Phạm Thiên Baka. Ông tin rằng cõi của mình là thường còn, bền vững, toàn vẹn, không bao giờ hoại diệt; rằng ở đây không có sinh, không có già, không có chết; và rằng ngoài chỗ này ra không còn lối thoát nào cao hơn. Ông cũng tin mình là đấng tạo tác, là cha của mọi loài đã sinh và sẽ sinh. Bài kinh mở đầu bằng chính ý nghĩ ấy của ông, và Đức Thế Tôn đọc được ý nghĩ ấy từ cách xa cả một hệ thế giới.
 
 Cuộc gặp diễn ra theo một nhịp bất ngờ. Baka đón tiếp Ngài như đón một người ngang hàng, thậm chí như bậc bề trên đang rộng lượng với khách. Rồi Ma vương xuất hiện, nhập vào một vị trong hội chúng Phạm Thiên, và lên tiếng bênh vực Baka: đừng công kích vị ấy, vị ấy là đấng tạo hóa, hãy làm đúng như lời vị ấy. Một cuộc liên minh kỳ lạ giữa kẻ được xem là thần linh tối cao và kẻ chuyên dụ dỗ con người, cùng chung một mục đích: giữ nguyên trật tự cũ.
 
-Phần lõi của bài kinh là cuộc đối đáp về cái mà Baka không biết. Đức Thế Tôn nói có những cõi cao hơn cõi của ông, trong đó có cõi mà chính ông đã từ đó chết đi và sanh về đây, và ông đã quên vì đã ở quá lâu. Ngài cũng nói Ngài thắng tri đất, nước, lửa, gió, chư thiên, Phạm Thiên, và cả cái gọi là "tất cả", nhưng không trở thành những thứ ấy, không nhận chúng là của mình. Đó là chỗ khác nhau căn bản: Baka muốn mình là tất cả, còn Đức Thế Tôn thì không đồng hóa mình với bất cứ gì.
+Phần lõi của bài kinh là cuộc đối đáp về cái mà Baka không biết. Đức Thế Tôn nói có những cõi cao hơn cõi của ông, trong đó có cõi mà chính ông đã từ đó chết đi và sinh về đây, và ông đã quên vì đã ở quá lâu. Ngài cũng nói Ngài thắng tri đất, nước, lửa, gió, chư thiên, Phạm Thiên, và cả cái gọi là "tất cả", nhưng không trở thành những thứ ấy, không nhận chúng là của mình. Đó là chỗ khác nhau căn bản: Baka muốn mình là tất cả, còn Đức Thế Tôn thì không đồng hóa mình với bất cứ gì.
 
 Đến đây bài kinh chuyển sang một màn thử thách. Baka tuyên bố sẽ biến mất để chứng minh quyền năng của mình, nhưng không biến mất được. Đức Thế Tôn thì biến mất thật, trong khi tiếng Ngài vẫn vang đến tai toàn thể hội chúng Phạm Thiên, và từ chỗ vô hình Ngài nói lên bốn câu kệ: thấy sự nguy hiểm nơi hữu, Ngài không tán dương một hữu nào và không nắm giữ sự ưa thích nào. Hội chúng Phạm Thiên kinh ngạc tột độ trước điều vừa thấy.
 
@@ -66,7 +66,7 @@ Lúc bấy giờ, này các tỳ-kheo, Phạm Thiên Baka khởi lên một tà 
 [Chú thích: Phạm Thiên Baka giữ tà kiến này cả ở SN 6.4, nơi các đời sống trước của ông được nêu ra. Tên baka nghĩa là con cò; trong thần thoại Bà-la-môn không có vị thần cao nào mang tên ấy, mà chỉ có một loài dạ-xoa ăn thịt người hình chim, về sau bị anh hùng Bhīma giết chết. Chuyện Pali kể con cò đứng lim dim như đang thiền bên nước, thật ra đang dụ cá đến gần để chộp lấy, nên một con chim trắng lớn, bay cao mà giả vờ thiền rất hợp để làm đối thủ trong những bài kinh này.]
 
 <!-- seg: mn49:2.3 -->
-"Đây là thường, đây là bền, đây là vĩnh cửu, đây là toàn vẹn, đây là pháp không bị hoại diệt. Ở đây không có sanh, không có già, không có chết, không có chết đi và không có tái sanh. Và không có lối thoát nào cao hơn lối thoát này."
+"Đây là thường, đây là bền, đây là vĩnh cửu, đây là toàn vẹn, đây là pháp không bị hoại diệt. Ở đây không có sinh, không có già, không có chết, không có chết đi và không có tái sinh. Và không có lối thoát nào cao hơn lối thoát này."
 
 [Chú thích: Dùng đại từ phiếm chỉ "cái này" để chỉ tự ngã là Phạm Thiên là lối nói quen thuộc của Upaniṣad, như "cái đó chính là ông" hay "tự ngã ấy là Phạm Thiên".]
 
@@ -91,7 +91,7 @@ thấy vậy, ông ta nói với Ta:
 Đã lâu lắm rồi, này hiền giả, ông mới có dịp đến đây.
 
 <!-- seg: mn49:3.7 -->
-Vì đây là thường, đây là bền, đây là vĩnh cửu, đây là toàn vẹn, đây là pháp không bị hoại diệt. Ở đây không có sanh, không có già, không có chết, không có chết đi và không có tái sanh. Và không có lối thoát nào cao hơn lối thoát này."
+Vì đây là thường, đây là bền, đây là vĩnh cửu, đây là toàn vẹn, đây là pháp không bị hoại diệt. Ở đây không có sinh, không có già, không có chết, không có chết đi và không có tái sinh. Và không có lối thoát nào cao hơn lối thoát này."
 
 <!-- seg: mn49:4.1 -->
 Khi ông ta nói như vậy, này các tỳ-kheo, Ta nói với Phạm Thiên Baka:
@@ -103,10 +103,10 @@ Khi ông ta nói như vậy, này các tỳ-kheo, Ta nói với Phạm Thiên Ba
 Bởi vì cái vốn là vô thường, ông ta lại nói là thường; cái vốn là không bền, lại nói là bền; cái vốn là không vĩnh cửu, lại nói là vĩnh cửu; cái vốn là không toàn vẹn, lại nói là toàn vẹn; cái vốn là pháp bị hoại diệt, lại nói là pháp không bị hoại diệt.
 
 <!-- seg: mn49:4.4 -->
-Và ở chỗ nào có sanh, có già, có chết, có chết đi và có tái sanh, thì về chỗ ấy ông ta lại nói:
+Và ở chỗ nào có sinh, có già, có chết, có chết đi và có tái sinh, thì về chỗ ấy ông ta lại nói:
 
 <!-- seg: mn49:4.5 -->
-'Ở đây không có sanh, không có già, không có chết, không có chết đi và không có tái sanh';
+'Ở đây không có sinh, không có già, không có chết, không có chết đi và không có tái sinh';
 
 <!-- seg: mn49:4.6 -->
 trong khi thật có một lối thoát khác cao hơn, ông ta lại nói: 'Không có lối thoát nào khác cao hơn.'"
@@ -117,7 +117,7 @@ Rồi này các tỳ-kheo, Ma vương Ác ma nhập vào một vị trong hội 
 [Chú thích: Từ đây, nội dung bài kinh tách khỏi SN 6.4:4.1.]
 
 <!-- seg: mn49:5.2 -->
-"Này tỳ-kheo, này tỳ-kheo! Chớ công kích vị ấy! Chớ công kích vị ấy! Vì vị ấy là Phạm Thiên, Đại Phạm Thiên, bậc Chiến thắng, bậc không ai chiến thắng nổi, bậc thấy hết mọi sự, bậc nắm quyền lực, bậc tự tại, bậc tạo tác, bậc kiến tạo, bậc tối thượng, bậc sắp đặt, bậc chế ngự, bậc cha của những loài đã sanh và sẽ sanh.
+"Này tỳ-kheo, này tỳ-kheo! Chớ công kích vị ấy! Chớ công kích vị ấy! Vì vị ấy là Phạm Thiên, Đại Phạm Thiên, bậc Chiến thắng, bậc không ai chiến thắng nổi, bậc thấy hết mọi sự, bậc nắm quyền lực, bậc tự tại, bậc tạo tác, bậc kiến tạo, bậc tối thượng, bậc sắp đặt, bậc chế ngự, bậc cha của những loài đã sinh và sẽ sinh.
 
 [Chú thích: Ma vương lặp lại đúng lời tự tán của Phạm Thiên trong DN 1:2.5.2. Việc gọi Đức Thế Tôn là "tỳ-kheo" rất hiếm gặp và có lẽ mang ý coi thường.]
 
@@ -174,7 +174,7 @@ Khi ông ta nói như vậy, này các tỳ-kheo, Ta nói với Ma vương Ác m
 <!-- seg: mn49:6.5 -->
 Này Ác ma, Phạm Thiên, hội chúng Phạm Thiên và các vị trong hội chúng ấy, tất cả đều đã nằm trong tay ông, tất cả đều ở dưới quyền của ông.
 
-[Chú thích: Thông thường Ma vương được xem là nắm quyền trên các cõi dục, còn các tầng thiền và cõi tái sanh tương ứng thì ngoài tầm với của ông ta (MN 25:12.1). Ở đây tầm với ấy đi xa hơn, vì các cõi Phạm Thiên tuy đã lìa dục nhưng vẫn chưa lìa sự bám víu vào hữu.]
+[Chú thích: Thông thường Ma vương được xem là nắm quyền trên các cõi dục, còn các tầng thiền và cõi tái sinh tương ứng thì ngoài tầm với của ông ta (MN 25:12.1). Ở đây tầm với ấy đi xa hơn, vì các cõi Phạm Thiên tuy đã lìa dục nhưng vẫn chưa lìa sự bám víu vào hữu.]
 
 <!-- seg: mn49:6.6 -->
 Vì ông nghĩ rằng:
@@ -189,12 +189,12 @@ Nhưng này Ác ma, Ta không nằm trong tay ông, cũng không ở dưới quy
 Khi Ta nói như vậy, này các tỳ-kheo, Phạm Thiên Baka nói với Ta:
 
 <!-- seg: mn49:7.2 -->
-"Này hiền giả, cái mà ta nói là thường thì thật là thường, cái ta nói là bền thì thật là bền, cái ta nói là vĩnh cửu thì thật là vĩnh cửu, cái ta nói là toàn vẹn thì thật là toàn vẹn, cái ta nói là pháp không bị hoại diệt thì thật là pháp không bị hoại diệt; và ở chỗ mà ta nói không có sanh, không có già, không có chết, không có chết đi và không có tái sanh, thì ở đó đúng thật là:
+"Này hiền giả, cái mà ta nói là thường thì thật là thường, cái ta nói là bền thì thật là bền, cái ta nói là vĩnh cửu thì thật là vĩnh cửu, cái ta nói là toàn vẹn thì thật là toàn vẹn, cái ta nói là pháp không bị hoại diệt thì thật là pháp không bị hoại diệt; và ở chỗ mà ta nói không có sinh, không có già, không có chết, không có chết đi và không có tái sinh, thì ở đó đúng thật là:
 
 [Chú thích: Một tài của Ma vương là làm cho người ta tưởng rằng những ý nghĩ xấu ác của ông ta chính là ý nghĩ của mình.]
 
 <!-- seg: mn49:7.3 -->
-'Ở đây không có sanh, không có già, không có chết, không có chết đi và không có tái sanh.'
+'Ở đây không có sinh, không có già, không có chết, không có chết đi và không có tái sinh.'
 
 <!-- seg: mn49:7.4 -->
 Và cái mà ta nói là không có lối thoát nào khác cao hơn thì thật là không có lối thoát nào khác cao hơn.
@@ -296,7 +296,7 @@ Ngài biết kẻ cao và kẻ thấp,
 và cả những ai còn tham, những ai đã lìa tham;
 
 <!-- seg: mn49:9.7 -->
-cảnh giới này và cảnh giới khác của chúng sanh,
+cảnh giới này và cảnh giới khác của chúng sinh,
 
 <!-- seg: mn49:9.8 -->
 đường chúng đến và đường chúng đi.
@@ -318,7 +318,7 @@ nhưng Ta biết, Ta thấy.
 [Chú thích: Bản PTS và bản BJT đọc tyāhaṁ, tức te ahaṁ, phù hợp với cách đọc số nhiều của họ, khác với tamahaṁ số ít của bản Mahāsaṅgīti. Điều này cho thấy sự khác biệt đã được chọn lựa có chủ ý, chứ không do bản chú giải quyết định.]
 
 <!-- seg: mn49:10.3 -->
-Này Phạm Thiên, có một cõi tên là Ābhassarā (Quang Âm); Ngài đã từ đó mệnh chung và sanh về đây.
+Này Phạm Thiên, có một cõi tên là Ābhassarā (Quang Âm); Ngài đã từ đó mệnh chung và sinh về đây.
 
 [Chú thích: Ở đây ābhassarā là giống đực số nhiều, nên không phải tính từ bổ nghĩa cho kāyo mà là chỉ chư thiên của cõi ấy. Bản Mahāsaṅgīti không nhất quán ở điểm này: phía dưới, subhakiṇho và vehapphalo lại được dùng như tính từ số ít, trong khi bản PTS và bản BJT luôn dùng dạng số nhiều.]
 
@@ -483,7 +483,7 @@ Rồi này các tỳ-kheo, Phạm Thiên, hội chúng Phạm Thiên và các v�
 Sa-môn Gotama có thần lực lớn như vậy, có uy lực lớn như vậy! Trước đây chúng ta chưa từng thấy, chưa từng nghe nói có một sa-môn hay bà-la-môn nào khác có thần lực lớn như vậy, có uy lực lớn như vậy, như sa-môn Gotama này, người dòng họ Sakya (Thích-ca), đã xuất gia từ dòng họ Sakya.
 
 <!-- seg: mn49:28.4 -->
-Loài chúng sanh ưa thích hữu, đắm say hữu, hoan hỷ trong hữu, mà vị ấy đã nhổ bật hữu lên tận gốc rễ!"
+Loài chúng sinh ưa thích hữu, đắm say hữu, hoan hỷ trong hữu, mà vị ấy đã nhổ bật hữu lên tận gốc rễ!"
 
 <!-- seg: mn49:29.1 -->
 Rồi này các tỳ-kheo, Ma vương Ác ma nhập vào một vị trong hội chúng Phạm Thiên, rồi nói với Ta:
@@ -565,19 +565,19 @@ Này Ác ma, dù Như Lai có nhận các đệ tử hay không nhận các đ�
 Vì sao vậy?
 
 <!-- seg: mn49:30.14 -->
-Này Ác ma, những lậu hoặc của Như Lai, tức là những thứ ô nhiễm, đưa đến tái sanh, có sự sợ hãi, có quả là khổ, dẫn đến sanh, già, chết trong tương lai,
+Này Ác ma, những lậu hoặc của Như Lai, tức là những thứ ô nhiễm, đưa đến tái sinh, có sự sợ hãi, có quả là khổ, dẫn đến sinh, già, chết trong tương lai,
 
 <!-- seg: mn49:30.15 -->
-những lậu hoặc ấy đã được đoạn trừ, bị chặt tận gốc, như cây thốt nốt bị đốn ngang ngọn, bị làm cho không còn hiện hữu, không còn khả năng sanh khởi trong tương lai.
+những lậu hoặc ấy đã được đoạn trừ, bị chặt tận gốc, như cây thốt nốt bị đốn ngang ngọn, bị làm cho không còn hiện hữu, không còn khả năng sinh khởi trong tương lai.
 
 <!-- seg: mn49:30.16 -->
 Này Ác ma, ví như một cây thốt nốt bị chặt đứt ngọn thì không thể mọc lại được nữa;
 
 <!-- seg: mn49:30.17 -->
-cũng vậy, này Ác ma, những lậu hoặc của Như Lai, tức là những thứ ô nhiễm, đưa đến tái sanh, có sự sợ hãi, có quả là khổ, dẫn đến sanh, già, chết trong tương lai,
+cũng vậy, này Ác ma, những lậu hoặc của Như Lai, tức là những thứ ô nhiễm, đưa đến tái sinh, có sự sợ hãi, có quả là khổ, dẫn đến sinh, già, chết trong tương lai,
 
 <!-- seg: mn49:30.18 -->
-những lậu hoặc ấy đã được đoạn trừ, bị chặt tận gốc, như cây thốt nốt bị đốn ngang ngọn, bị làm cho không còn hiện hữu, không còn khả năng sanh khởi trong tương lai."
+những lậu hoặc ấy đã được đoạn trừ, bị chặt tận gốc, như cây thốt nốt bị đốn ngang ngọn, bị làm cho không còn hiện hữu, không còn khả năng sinh khởi trong tương lai."
 
 <!-- seg: mn49:31.1 -->
 Như vậy, do Ma vương đã bị làm cho im tiếng và do Phạm Thiên đã thỉnh mời, nên bài giảng này được gọi tên là "Kinh Phạm Thiên Mời".

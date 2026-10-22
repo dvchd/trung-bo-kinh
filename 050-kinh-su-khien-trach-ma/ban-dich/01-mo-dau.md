@@ -219,7 +219,7 @@ Rồi này Ác ma, Ma vương Dūsī khởi lên ý nghĩ:
 <!-- seg: mn50:12.2 -->
 "Ta không biết được chỗ đến và chỗ đi của các tỳ-kheo trì giới, có thiện pháp này.
 
-[Chú thích: Thành ngữ "chỗ đến và chỗ đi" chỉ đường tái sanh của một người.]
+[Chú thích: Thành ngữ "chỗ đến và chỗ đi" chỉ đường tái sinh của một người.]
 
 <!-- seg: mn50:12.3 -->
 Vậy ta hãy nhập vào các bà-la-môn và gia chủ, và bảo họ:
@@ -274,7 +274,7 @@ Ví như con lừa đã thôi chở nặng, đứng nơi ngõ hẻm, đống rá
 cũng vậy, bọn đầu trọc này, bọn sa-môn giả hiệu, bọn hèn hạ, bọn da đen, bọn sinh ra từ gót chân của người bà con ta, lại nói 'chúng ta thiền, chúng ta thiền', rồi vai rũ xuống, mặt cúi gằm, người mềm nhũn, chúng ngồi thiền, ngồi thiền định, ngồi trầm ngâm, ngồi ngẩn ngơ."
 
 <!-- seg: mn50:13.11 -->
-Này Ác ma, những người chết vào thời ấy, phần lớn sau khi thân hoại mạng chung đều sanh vào cõi khổ, ác thú, đọa xứ, địa ngục.
+Này Ác ma, những người chết vào thời ấy, phần lớn sau khi thân hoại mạng chung đều sinh vào cõi khổ, ác thú, đọa xứ, địa ngục.
 
 <!-- seg: mn50:14.1 -->
 Rồi này Ác ma, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh đẳng giác, gọi các tỳ-kheo:
@@ -338,7 +338,7 @@ May ra, khi được các ông kính trọng, tôn trọng, quý mến, cúng d�
 Rồi này Ác ma, các bà-la-môn và gia chủ ấy, bị Ma vương Dūsī nhập vào, kính trọng, tôn trọng, quý mến, cúng dường các tỳ-kheo trì giới, có thiện pháp.
 
 <!-- seg: mn50:17.5 -->
-Này Ác ma, những người chết vào thời ấy, phần lớn sau khi thân hoại mạng chung đều sanh vào cõi lành, cõi trời.
+Này Ác ma, những người chết vào thời ấy, phần lớn sau khi thân hoại mạng chung đều sinh vào cõi lành, cõi trời.
 
 <!-- seg: mn50:18.1 -->
 Rồi này Ác ma, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh đẳng giác, gọi các tỳ-kheo:
@@ -380,7 +380,7 @@ Rồi này Ác ma, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh đẳng
 "Ma vương Dūsī này không biết đâu là mức giới hạn."
 
 <!-- seg: mn50:21.5 -->
-Và này Ác ma, ngay khi Ngài vừa ngoái nhìn, Ma vương Dūsī rơi khỏi chỗ ấy và sanh vào Đại địa ngục.
+Và này Ác ma, ngay khi Ngài vừa ngoái nhìn, Ma vương Dūsī rơi khỏi chỗ ấy và sinh vào Đại địa ngục.
 
 [Chú thích: Chữ sahāpalokanāya cho thấy Ma vương rơi vào địa ngục cùng lúc với cái nhìn ấy, chứ không phải vì cái nhìn ấy.]
 
@@ -644,7 +644,7 @@ Rừng rú của những người Pubbavideha,
 <!-- seg: mn50:30.4 -->
 và những con người nằm trên mặt đất.
 
-[Chú thích: Pubbavideha là một trong bốn châu lớn trong vũ trụ quan Phật giáo; "những con người nằm trên mặt đất" là cách nói khó hiểu, có bản hiểu là dân chúng sống trên vùng đất ấy.]
+[Chú thích của người dịch: Pubbavideha là một trong bốn châu lớn trong vũ trụ quan Phật giáo; "những con người nằm trên mặt đất" là cách nói khó hiểu, có bản hiểu là dân chúng sống trên vùng đất ấy.]
 
 <!-- seg: mn50:30.5 -->
 Người nào trực nhận được điều này,

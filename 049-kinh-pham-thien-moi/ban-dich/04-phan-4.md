@@ -14,19 +14,19 @@ Này Ác ma, dù Như Lai có nhận các đệ tử hay không nhận các đ�
 Vì sao vậy?
 
 <!-- seg: mn49:30.14 -->
-Này Ác ma, những lậu hoặc của Như Lai, tức là những thứ ô nhiễm, đưa đến tái sanh, có sự sợ hãi, có quả là khổ, dẫn đến sanh, già, chết trong tương lai,
+Này Ác ma, những lậu hoặc của Như Lai, tức là những thứ ô nhiễm, đưa đến tái sinh, có sự sợ hãi, có quả là khổ, dẫn đến sinh, già, chết trong tương lai,
 
 <!-- seg: mn49:30.15 -->
-những lậu hoặc ấy đã được đoạn trừ, bị chặt tận gốc, như cây thốt nốt bị đốn ngang ngọn, bị làm cho không còn hiện hữu, không còn khả năng sanh khởi trong tương lai.
+những lậu hoặc ấy đã được đoạn trừ, bị chặt tận gốc, như cây thốt nốt bị đốn ngang ngọn, bị làm cho không còn hiện hữu, không còn khả năng sinh khởi trong tương lai.
 
 <!-- seg: mn49:30.16 -->
 Này Ác ma, ví như một cây thốt nốt bị chặt đứt ngọn thì không thể mọc lại được nữa;
 
 <!-- seg: mn49:30.17 -->
-cũng vậy, này Ác ma, những lậu hoặc của Như Lai, tức là những thứ ô nhiễm, đưa đến tái sanh, có sự sợ hãi, có quả là khổ, dẫn đến sanh, già, chết trong tương lai,
+cũng vậy, này Ác ma, những lậu hoặc của Như Lai, tức là những thứ ô nhiễm, đưa đến tái sinh, có sự sợ hãi, có quả là khổ, dẫn đến sinh, già, chết trong tương lai,
 
 <!-- seg: mn49:30.18 -->
-những lậu hoặc ấy đã được đoạn trừ, bị chặt tận gốc, như cây thốt nốt bị đốn ngang ngọn, bị làm cho không còn hiện hữu, không còn khả năng sanh khởi trong tương lai."
+những lậu hoặc ấy đã được đoạn trừ, bị chặt tận gốc, như cây thốt nốt bị đốn ngang ngọn, bị làm cho không còn hiện hữu, không còn khả năng sinh khởi trong tương lai."
 
 <!-- seg: mn49:31.1 -->
 Như vậy, do Ma vương đã bị làm cho im tiếng và do Phạm Thiên đã thỉnh mời, nên bài giảng này được gọi tên là "Kinh Phạm Thiên Mời".

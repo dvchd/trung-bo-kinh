@@ -44,7 +44,7 @@ Vì nắm bắt con rắn sai, này các tỳ-kheo."
 "Cũng vậy, này các tỳ-kheo, ở đây có một số kẻ ngu si học thuộc pháp —
 
 <!-- seg: mn22:10.18 -->
-kinh, văn xuôi lẫn kệ, giảng giải, kệ tụng, cảm hứng ngữ, bản thuyết, bản sanh, chuyện kỳ diệu, phân tích mở rộng.
+kinh, văn xuôi lẫn kệ, giảng giải, kệ tụng, cảm hứng ngữ, bản thuyết, bổn sanh, chuyện kỳ diệu, phân tích mở rộng.
 
 <!-- seg: mn22:10.19 -->
 Sau khi học thuộc pháp ấy, họ không dùng tuệ để xem xét ý nghĩa của những pháp ấy.
@@ -71,7 +71,7 @@ Vì họ nắm bắt pháp sai, này các tỳ-kheo."
 "Này các tỳ-kheo, ở đây có một số người con nhà lành học thuộc pháp —
 
 <!-- seg: mn22:11.2 -->
-kinh, văn xuôi lẫn kệ, giảng giải, kệ tụng, cảm hứng ngữ, bản thuyết, bản sanh, chuyện kỳ diệu, phân tích mở rộng.
+kinh, văn xuôi lẫn kệ, giảng giải, kệ tụng, cảm hứng ngữ, bản thuyết, bổn sanh, chuyện kỳ diệu, phân tích mở rộng.
 
 <!-- seg: mn22:11.3 -->
 Sau khi học thuộc pháp ấy, họ dùng tuệ để xem xét ý nghĩa của những pháp ấy.
@@ -121,7 +121,7 @@ Vì nắm bắt con rắn đúng, này các tỳ-kheo."
 "Cũng vậy, này các tỳ-kheo, ở đây có một số người con nhà lành học thuộc pháp —
 
 <!-- seg: mn22:11.18 -->
-kinh, văn xuôi lẫn kệ, giảng giải, kệ tụng, cảm hứng ngữ, bản thuyết, bản sanh, chuyện kỳ diệu, phân tích mở rộng.
+kinh, văn xuôi lẫn kệ, giảng giải, kệ tụng, cảm hứng ngữ, bản thuyết, bổn sanh, chuyện kỳ diệu, phân tích mở rộng.
 
 <!-- seg: mn22:11.19 -->
 Sau khi học thuộc pháp ấy, họ dùng tuệ để xem xét ý nghĩa của những pháp ấy.

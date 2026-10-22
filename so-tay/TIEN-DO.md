@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 68 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 74 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 68/152 bài
+## Đợt đọc lại văn phong: 74/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -90,9 +90,15 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 45 | 1 | 4.6 thêm loại từ "con" lệch hai lần trích 4.12/4.20 |
 | MN 46 | 0 | không có chỗ sai; đối chiếu cả 176 đoạn, 8 khối sáu đoạn |
 | MN 47 | 2 | 16.1 ākāra "cách thức", chú thích 16.2 khôi phục vế so sánh |
+| MN 48 | 0 | không có chỗ sai; đối chiếu cả 110 đoạn và 5 chú thích |
+| MN 49 | 0 | không có chỗ sai về nghĩa; sau đó chuẩn hoá "sanh" → "sinh" (26 chỗ) |
+| MN 50 | 8 | "sanh vào" → "sinh vào" (5 chỗ), ba chú thích người dịch thiếu dấu xuất xứ |
+| MN 51 | 4 | etaparamaṁyeva "đến mức cao nhất như thế này thôi" → "đến mức ấy thôi" |
+| MN 52 | 6 | 2.3 "chúng con" (mayaṁ), 6.1 ngoặc đơn, 5.1 bỏ "của tâm", 16.2 bỏ "để may y", chú thích 1.2–1.3 |
+| MN 53 | 2 | 21.1/24.2 trật tự hīne paṇīte … sugate duggate theo PLI |
 
-Tổng 256 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 333 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 276 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 365 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
@@ -104,15 +110,16 @@ nay cả 152 bài báo thiếu 0. Cũng trong đợt này, các chỗ viết "ho
 cho khớp phần lớn kho (MN 12, 24, 35, 79). Đợt MN 29–34 còn đồng bộ bộ thuật ngữ năm lớp cây
 giữa MN 29 và MN 30: cả hai bài nay dùng "lõi cây / gỗ giác / vỏ trong / vỏ ngoài" (papaṭikā là
 vỏ khô ngoài cùng, không phải "chồi non" như Sujato dịch); ba mục được thêm vào bảng thuật ngữ. Đợt MN 41–47 còn đưa "Kỳ Viên" trong bốn tệp README về
-"Kỳ-đà" cho khớp cách gọi trong bản dịch (MN 9, 45, 117; MN 137 vốn đã dùng "Kỳ-đà").
+"Kỳ-đà" cho khớp cách gọi trong bản dịch (MN 9, 45, 117; MN 137 vốn đã dùng "Kỳ-đà"). Đợt MN 48–53
+chuẩn hoá "sanh" → "sinh" toàn kho (MN 49, MN 50) và "bản sanh" → "bổn sanh" (MN 22); nay mọi
+tệp ban-dich chỉ còn "sinh" và "bổn sanh".
 
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 84 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
-   trình như trên. Phiên 19:00 ngày 2026-10-22 bắt đầu từ MN 12 (372 đoạn, nên tách đôi), rồi
-   MN 21, 22, 26, 27, 28.
+1. Đọc lại 78 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+   trình như trên. Đợt kế tiếp trong phiên 19:00 ngày 2026-10-22: MN 54, 55, 56, 58, 59, 60.
 2. Bổ sung 31 chú thích còn thiếu của MN 1: nguồn có 41 NOTE nhưng bản dịch mới có 11 chú thích.
-3. Quyết khoảng 149 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
+3. Quyết khoảng 333 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
    giữa hai cách hiểu Pali, không phải lỗi rõ ràng.
 4. Bổ sung sổ tay chú giải cho các bài lớn nếu muốn (như bên Trường Bộ Kinh).
 5. Chạy `python3 cong-cu/ra-soat-toan-bo.py` và `ra-soat-van-phong.py` sau mỗi lần sửa.

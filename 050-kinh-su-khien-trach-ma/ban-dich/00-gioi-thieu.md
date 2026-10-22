@@ -8,7 +8,7 @@
 
 Từ đó bài kinh mở sang một câu chuyện thời xa xưa, khi Đức Thế Tôn Kakusandha xuất hiện trên thế gian cùng hai vị đệ tử thượng thủ là Vidhura và Sañjīva. Tôn giả Mahāmoggallāna thuở ấy là Ma vương Dūsī, còn Ma vương bây giờ là con của em gái ông ta, tức cháu gọi ông ta bằng cậu. Câu chuyện ấy cho thấy Ma vương Dūsī đã hai lần thất bại: lần đầu, hắn xúi người đời mắng nhiếc các tỳ-kheo, và các vị ấy đáp lại bằng tâm từ; lần sau, hắn xúi họ tâng bốc cúng dường, và các vị ấy đáp lại bằng phép quán thân bất tịnh, quán sự nhàm chán nơi đồ ăn, nơi thế gian, và quán vô thường.
 
-Lần thứ ba thì hắn không còn đứng ngoài. Hắn nhập vào một cậu bé, cầm đá đập vỡ đầu Tôn giả Vidhura khi vị này đang theo sau Đức Thế Tôn Kakusandha. Với cái đầu vỡ, máu chảy ròng ròng, Vidhura vẫn đi theo. Đức Thế Tôn quay lại nhìn theo thế voi ngoái và nói một câu: Ma vương Dūsī này không biết đâu là mức giới hạn. Ngay khi ấy, hắn rơi khỏi chỗ mình đang đứng và sanh vào Đại địa ngục.
+Lần thứ ba thì hắn không còn đứng ngoài. Hắn nhập vào một cậu bé, cầm đá đập vỡ đầu Tôn giả Vidhura khi vị này đang theo sau Đức Thế Tôn Kakusandha. Với cái đầu vỡ, máu chảy ròng ròng, Vidhura vẫn đi theo. Đức Thế Tôn quay lại nhìn theo thế voi ngoái và nói một câu: Ma vương Dūsī này không biết đâu là mức giới hạn. Ngay khi ấy, hắn rơi khỏi chỗ mình đang đứng và sinh vào Đại địa ngục.
 
 Phần còn lại là lời kể của chính Tôn giả Mahāmoggallāna về những gì Ngài đã trải qua trong Đại địa ngục ấy — một ngàn năm nướng trong lửa, rồi mười ngàn năm nữa nơi phần phụ của nó, với thân người và đầu cá — tiếp theo là những câu kệ cảnh cáo Ma vương. Bài kinh khép lại bằng hình ảnh vị tỳ-kheo khiển trách Ma vương ngay tại rừng Bhesakaḷā, và dạ-xoa ấy biến mất với tâm sầu muộn.
 

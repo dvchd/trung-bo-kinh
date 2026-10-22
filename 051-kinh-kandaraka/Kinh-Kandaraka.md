@@ -61,7 +61,7 @@ Còn du sĩ Kandaraka thì trao đổi những lời chào hỏi thân thiện v
 Chúng tỳ-kheo này đã được ngài Gotama hướng dẫn thực hành đúng đắn biết bao!
 
 <!-- seg: mn51:2.3 -->
-Thưa ngài Gotama, những bậc A-la-hán, Chánh đẳng giác trong quá khứ, chính các Đức Thế Tôn ấy cũng chỉ hướng dẫn chúng tỳ-kheo thực hành đúng đắn đến mức cao nhất như thế này thôi:
+Thưa ngài Gotama, những bậc A-la-hán, Chánh đẳng giác trong quá khứ, chính các Đức Thế Tôn ấy cũng chỉ hướng dẫn chúng tỳ-kheo thực hành đúng đắn đến mức ấy thôi:
 
 <!-- seg: mn51:2.4 -->
 cũng giống như ngài Gotama hiện nay đang hướng dẫn chúng tỳ-kheo thực hành đúng đắn.
@@ -69,7 +69,7 @@ cũng giống như ngài Gotama hiện nay đang hướng dẫn chúng tỳ-kheo
 [Chú thích: Thân phận du sĩ ngoại đạo của Kandaraka không ngăn cản lòng tin của ông nơi Đức Thế Tôn.]
 
 <!-- seg: mn51:2.5 -->
-Thưa ngài Gotama, những bậc A-la-hán, Chánh đẳng giác sẽ xuất hiện trong tương lai, chính các Đức Thế Tôn ấy cũng sẽ chỉ hướng dẫn chúng tỳ-kheo thực hành đúng đắn đến mức cao nhất như thế này thôi:
+Thưa ngài Gotama, những bậc A-la-hán, Chánh đẳng giác sẽ xuất hiện trong tương lai, chính các Đức Thế Tôn ấy cũng sẽ chỉ hướng dẫn chúng tỳ-kheo thực hành đúng đắn đến mức ấy thôi:
 
 <!-- seg: mn51:2.6 -->
 cũng giống như ngài Gotama hiện nay đang hướng dẫn chúng tỳ-kheo thực hành đúng đắn."
@@ -80,13 +80,13 @@ cũng giống như ngài Gotama hiện nay đang hướng dẫn chúng tỳ-kheo
 [Chú thích: Sau lần trao đổi này, bài kinh không kể gì thêm về Kandaraka.]
 
 <!-- seg: mn51:3.2 -->
-Này Kandaraka, những bậc A-la-hán, Chánh đẳng giác trong quá khứ, chính các Đức Thế Tôn ấy cũng chỉ hướng dẫn chúng tỳ-kheo thực hành đúng đắn đến mức cao nhất như thế này thôi:
+Này Kandaraka, những bậc A-la-hán, Chánh đẳng giác trong quá khứ, chính các Đức Thế Tôn ấy cũng chỉ hướng dẫn chúng tỳ-kheo thực hành đúng đắn đến mức ấy thôi:
 
 <!-- seg: mn51:3.3 -->
 cũng giống như Ta hiện nay đang hướng dẫn chúng tỳ-kheo thực hành đúng đắn.
 
 <!-- seg: mn51:3.4 -->
-Này Kandaraka, những bậc A-la-hán, Chánh đẳng giác sẽ xuất hiện trong tương lai, chính các Đức Thế Tôn ấy cũng sẽ chỉ hướng dẫn chúng tỳ-kheo thực hành đúng đắn đến mức cao nhất như thế này thôi:
+Này Kandaraka, những bậc A-la-hán, Chánh đẳng giác sẽ xuất hiện trong tương lai, chính các Đức Thế Tôn ấy cũng sẽ chỉ hướng dẫn chúng tỳ-kheo thực hành đúng đắn đến mức ấy thôi:
 
 <!-- seg: mn51:3.5 -->
 cũng giống như Ta hiện nay đang hướng dẫn chúng tỳ-kheo thực hành đúng đắn.
