@@ -63,7 +63,7 @@ Họ nói như vầy:
 "Cánh tay của nữ du sĩ này non trẻ, mềm mại, có lông tơ, chạm vào thật dễ chịu!" Rồi họ lao mình vào các dục lạc.
 
 <!-- seg: mn45:3.9 -->
-Sau khi lao mình vào các dục lạc, khi thân hoại mạng chung, họ sinh vào cõi dữ, đường ác, đọa xứ, địa ngục.
+Sau khi lao mình vào các dục lạc, khi thân hoại mạng chung, họ sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
 <!-- seg: mn45:3.10 -->
 Ở đó, họ cảm thọ những cảm thọ khổ đau, dữ dội, sắc nhọn, cay đắng.

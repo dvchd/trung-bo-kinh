@@ -317,7 +317,7 @@ Lại nữa, này chư hiền, tỳ-kheo do đoạn lạc, do đoạn khổ, do 
 <!-- seg: mn138:15.2 -->
 Thức của vị ấy chạy theo cái không khổ không lạc, dính chặt vào vị ngọt của cái không khổ không lạc, bị trói buộc vào vị ngọt của cái không khổ không lạc, bị xiềng xích bởi kiết sử của vị ngọt nơi cái không khổ không lạc; như vậy gọi là tâm mắc kẹt ở bên trong.
 
-[Chú thích: Bản Mahāsaṅgīti ở đoạn này ghi asaṇṭhita, nghĩa là "không mắc kẹt", nhưng câu kết ở 15.3 và cả mạch đoạn đều nói về sự mắc kẹt, nên đây có lẽ là một lỗi của bản in.]
+[Chú thích của người dịch: Bản Mahāsaṅgīti ở đoạn này ghi asaṇṭhita, nghĩa là "không mắc kẹt", nhưng câu kết ở 15.3 và cả mạch đoạn đều nói về sự mắc kẹt, nên đây có lẽ là một lỗi của bản in.]
 
 <!-- seg: mn138:15.3 -->
 Này chư hiền, đó là cách gọi mắc kẹt ở bên trong.

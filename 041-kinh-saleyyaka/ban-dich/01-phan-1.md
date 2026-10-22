@@ -34,7 +34,7 @@ Thật tốt lành thay khi được gặp những bậc A-la-hán như vậy."
 Rồi các bà-la-môn và gia chủ làng Sālā đi đến chỗ Đức Thế Tôn. Khi đến, một số người đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên; một số người chào hỏi, nói những lời thăm hỏi thân thiện rồi ngồi xuống một bên; một số người chắp tay hướng về Đức Thế Tôn rồi ngồi xuống một bên; một số người xưng tên họ trước Đức Thế Tôn rồi ngồi xuống một bên; một số người im lặng ngồi xuống một bên. Sau khi ngồi xuống một bên, các bà-la-môn và gia chủ làng Sālā thưa với Đức Thế Tôn:
 
 <!-- seg: mn41:4.1 -->
-Thưa ngài Gotama, đâu là nhân, đâu là duyên khiến một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, đường ác, chỗ đọa lạc, địa ngục?
+Thưa ngài Gotama, đâu là nhân, đâu là duyên khiến một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?
 
 [Chú thích: Trong các văn bản Bà-la-môn có nhiều thuyết về tái sinh. Chẳng hạn Bṛhadāraṇyaka Upaniṣad 4.4.5 nói tái sinh tùy vào việc lành hay dữ, nhưng có ghi ý kiến khác rằng chỉ ước muốn là đủ; Chāndogya Upaniṣad 5.10.1–5 mô tả hai con đường, người tu khổ hạnh trong rừng đi đến cõi Phạm Thiên, còn người làm lễ tế đi đến mặt trăng, từ đó người làm việc lành được sinh lại làm người trong giai cấp tốt, người làm việc dữ sinh làm kẻ cùng đinh, heo hay chó, còn người không theo con đường nào thì sinh làm loài vật nhỏ hay côn trùng.]
 
@@ -42,7 +42,7 @@ Thưa ngài Gotama, đâu là nhân, đâu là duyên khiến một số chúng 
 Và thưa ngài Gotama, đâu là nhân, đâu là duyên khiến một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào đường lành, cõi trời?
 
 <!-- seg: mn41:5.1 -->
-Này các gia chủ, do nhân hạnh phi pháp và tà vạy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, đường ác, chỗ đọa lạc, địa ngục.
+Này các gia chủ, do nhân hạnh phi pháp và tà vạy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
 <!-- seg: mn41:5.2 -->
 Này các gia chủ, do nhân hạnh đúng pháp và bình đẳng mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào đường lành, cõi trời.
@@ -129,7 +129,7 @@ Người ấy có tà kiến, có cái thấy đảo ngược:
 Này các gia chủ, hạnh phi pháp và tà vạy có ba loại qua ý là như vậy.
 
 <!-- seg: mn41:10.7 -->
-Này các gia chủ, do nhân hạnh phi pháp và tà vạy như vậy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, đường ác, chỗ đọa lạc, địa ngục.
+Này các gia chủ, do nhân hạnh phi pháp và tà vạy như vậy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
 <!-- seg: mn41:11.1 -->
 Này các gia chủ, hạnh đúng pháp và bình đẳng có ba loại qua thân, có bốn loại qua lời nói, có ba loại qua ý.

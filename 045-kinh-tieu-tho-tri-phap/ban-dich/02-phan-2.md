@@ -5,7 +5,7 @@
 Rồi họ lao mình vào các dục lạc.
 
 <!-- seg: mn45:4.29 -->
-Sau khi lao mình vào các dục lạc, khi thân hoại mạng chung, họ sinh vào cõi dữ, đường ác, đọa xứ, địa ngục.
+Sau khi lao mình vào các dục lạc, khi thân hoại mạng chung, họ sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
 <!-- seg: mn45:4.30 -->
 Ở đó, họ cảm thọ những cảm thọ khổ đau, dữ dội, sắc nhọn, cay đắng.
@@ -65,7 +65,7 @@ Người ấy sống chuyên tâm vào việc xuống nước tắm ba lần m�
 Như vậy, người ấy sống chuyên tâm vào nhiều cách đốt nóng và hành hạ thân xác.
 
 <!-- seg: mn45:5.15 -->
-Khi thân hoại mạng chung, người ấy sinh vào cõi dữ, đường ác, đọa xứ, địa ngục.
+Khi thân hoại mạng chung, người ấy sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
 <!-- seg: mn45:5.16 -->
 Này các tỳ-kheo, đây gọi là cách thọ trì pháp đem lại khổ đau ngay bây giờ và về sau cũng cho quả khổ đau.

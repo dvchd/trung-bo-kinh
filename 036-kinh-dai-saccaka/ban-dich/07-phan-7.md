@@ -16,7 +16,7 @@ Này Aggivessana, dù lạc thọ như vậy đã khởi lên nơi Ta, nó cũng
 Khi tâm Ta đã định như vậy — trong sạch, sáng tỏ, không vết nhơ, đã sạch các ô nhiễm, mềm mại, dễ sử dụng, vững chắc, đạt đến bất động — Ta hướng tâm đến tri kiến về sự chết và sinh của chúng sinh.
 
 <!-- seg: mn36:40.2 -->
-Bằng thiên nhãn trong sạch, vượt khỏi tầm mắt của con người, Ta thấy chúng sinh chết đi và sinh lại, thấp kém và cao quý, đẹp và xấu, sinh vào cõi lành hay cõi dữ; Ta hiểu rõ chúng sinh đi theo nghiệp của mình. Những chúng sinh nào thân làm ác, miệng nói ác, ý nghĩ ác, mắng nhiếc các bậc thánh, có tà kiến, thọ trì nghiệp theo tà kiến — sau khi thân hoại mạng chung, họ sinh vào cõi dữ, đường ác, đọa xứ, địa ngục. Những chúng sinh nào thân làm thiện, miệng nói thiện, ý nghĩ thiện, không mắng nhiếc các bậc thánh, có chánh kiến, thọ trì nghiệp theo chánh kiến — sau khi thân hoại mạng chung, họ sinh vào cõi lành, cõi trời.
+Bằng thiên nhãn trong sạch, vượt khỏi tầm mắt của con người, Ta thấy chúng sinh chết đi và sinh lại, thấp kém và cao quý, đẹp và xấu, sinh vào cõi lành hay cõi dữ; Ta hiểu rõ chúng sinh đi theo nghiệp của mình. Những chúng sinh nào thân làm ác, miệng nói ác, ý nghĩ ác, mắng nhiếc các bậc thánh, có tà kiến, thọ trì nghiệp theo tà kiến — sau khi thân hoại mạng chung, họ sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Những chúng sinh nào thân làm thiện, miệng nói thiện, ý nghĩ thiện, không mắng nhiếc các bậc thánh, có chánh kiến, thọ trì nghiệp theo chánh kiến — sau khi thân hoại mạng chung, họ sinh vào cõi lành, cõi trời.
 
 [Chú thích của người dịch: phần Pali ở đây viết tắt bằng dấu lược; bản dịch ghi đủ công thức về hai loại chúng sinh đi theo nghiệp thiện và nghiệp ác.]
 
