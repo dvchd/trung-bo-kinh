@@ -63,7 +63,7 @@ Bạch Thế Tôn, hiện nay chúng con đang trong mùa may y."
 Này Ānanda, tỳ-kheo ưa tụ họp đông người, thích tụ họp, chuyên tâm vào thú vui tụ họp, ưa bè đảng, thích bè đảng, vui với bè đảng thì không sáng đẹp.
 
 <!-- seg: mn122:3.2 -->
-Này Ānanda, một tỳ-kheo như vậy mà lại có thể đạt được lạc xuất ly, lạc viễn ly, lạc an tịnh, lạc giác ngộ ấy bất cứ khi nào muốn, một cách dễ dàng, không khó khăn, không mệt nhọc — điều ấy không thể xảy ra.
+Này Ānanda, một tỳ-kheo ưa tụ họp đông người, thích tụ họp, chuyên tâm vào thú vui tụ họp, ưa bè đảng, thích bè đảng, vui với bè đảng mà lại có thể đạt được lạc xuất ly, lạc viễn ly, lạc an tịnh, lạc giác ngộ ấy bất cứ khi nào muốn, một cách dễ dàng, không khó khăn, không mệt nhọc — điều ấy không thể xảy ra.
 
 [Chú thích: Bốn thứ lạc này được định nghĩa ở MN 139:9.18 là bốn tầng thiền-na.]
 
@@ -71,7 +71,7 @@ Này Ānanda, một tỳ-kheo như vậy mà lại có thể đạt được l�
 Còn với tỳ-kheo sống một mình, xa lìa đám đông, thì có thể chờ đợi điều này: vị ấy sẽ đạt được lạc xuất ly, lạc viễn ly, lạc an tịnh, lạc giác ngộ ấy bất cứ khi nào muốn, một cách dễ dàng, không khó khăn, không mệt nhọc. Điều ấy có thể xảy ra.
 
 <!-- seg: mn122:4.1 -->
-Này Ānanda, một tỳ-kheo như vậy mà lại chứng đạt và an trú tâm giải thoát tạm thời và khả ái, hoặc tâm giải thoát không tạm thời và bất động — điều ấy không thể xảy ra.
+Này Ānanda, một tỳ-kheo ưa tụ họp đông người, thích tụ họp, chuyên tâm vào thú vui tụ họp, ưa bè đảng, thích bè đảng, vui với bè đảng mà lại chứng đạt và an trú tâm giải thoát tạm thời và khả ái, hoặc tâm giải thoát không tạm thời và bất động — điều ấy không thể xảy ra.
 
 [Chú thích: Tâm giải thoát tạm thời và khả ái là các tầng thiền-na; tâm giải thoát không tạm thời và bất động là quả A-la-hán.]
 

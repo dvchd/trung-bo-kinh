@@ -32,7 +32,7 @@ Các đệ tử của vị ấy muốn nghe, lắng tai, đặt tâm vào chỗ 
 Như vậy, này Ānanda, là đệ tử đối xử với thầy mình như bạn, không như kẻ thù.
 
 <!-- seg: mn122:26.6 -->
-Vì vậy, này Ānanda, hãy đối xử với ta như bạn, đừng như kẻ thù.
+Vì vậy, này Ānanda, các ông hãy đối xử với ta như bạn, đừng như kẻ thù.
 
 <!-- seg: mn122:26.7 -->
 Điều ấy sẽ đem lại lợi ích và an lạc lâu dài cho các ông.

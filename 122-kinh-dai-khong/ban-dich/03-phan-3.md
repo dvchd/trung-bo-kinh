@@ -88,6 +88,8 @@ Khi các bà-la-môn và gia chủ, người thị trấn và người thôn qu�
 <!-- seg: mn122:22.5 -->
 Này Ānanda, đây được gọi là tai họa nơi bậc thầy.
 
+[Chú thích: So sánh câu tương tự ở SN 16.8:7.7.]
+
 <!-- seg: mn122:22.6 -->
 Vì tai họa nơi bậc thầy, những pháp ác, bất thiện, ô nhiễm, đưa đến tái sinh, kèm sợ hãi, quả là khổ, dẫn đến sinh, già, chết trong tương lai, đã chế ngự vị ấy.
 
@@ -158,4 +160,4 @@ Như vậy, này Ānanda, là có tai họa nơi người tu phạm hạnh.
 Trong trường hợp ấy, này Ānanda, so với tai họa nơi bậc thầy và tai họa nơi đệ tử, tai họa nơi người tu phạm hạnh này có quả khổ hơn, có quả chát đắng hơn, và còn dẫn đến đọa lạc.
 
 <!-- seg: mn122:25.1 -->
-Vì vậy, này Ānanda, hãy đối xử với ta như bạn, đừng như kẻ thù.
+Vì vậy, này Ānanda, các ông hãy đối xử với ta như bạn, đừng như kẻ thù.

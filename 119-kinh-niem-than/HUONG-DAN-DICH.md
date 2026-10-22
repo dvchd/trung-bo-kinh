@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Bài kinh diễn ra tại Sāvatthī (Xá-vệ), sau bữa ăn, khi một nhóm tỳ-kheo ngồi tụ lại trong nhà tụ họp và bàn rằng Đức Thế Tôn đã nói niệm thân được tu tập đầy đủ thì có quả lớn, có lợi ích lớn. Đức Thế Tôn đến, hỏi câu chuyện đang bàn, rồi dạy trọn mười bốn phép quán thân — hơi thở, bốn tư thế, tỉnh giác trong mọi sinh hoạt, ba mươi mốt bộ phận, bốn đại, chín giai đoạn thân chết ở nghĩa địa — và bốn tầng thiền-na. Nửa sau bài kinh so sánh niệm thân với biển cả, rồi bằng sáu cặp hình ảnh chỉ ra rằng thiếu niệm thân thì Ma vương có chỗ đột nhập, còn có niệm thân thì Ma vương không chen vào được. Bài kinh kết thúc bằng mười lợi ích, từ kham nhẫn lạnh nóng đến bốn tầng thiền-na, sáu thắng trí và sự đoạn tận lậu hoặc.
+Bài kinh diễn ra tại Sāvatthī (Xá-vệ), sau bữa ăn, khi một nhóm tỳ-kheo ngồi tụ lại trong nhà tụ họp và bàn rằng Đức Thế Tôn đã nói niệm thân được tu tập đầy đủ thì có quả lớn, có lợi ích lớn. Đức Thế Tôn đến, hỏi câu chuyện đang bàn, rồi dạy trọn mười bốn phép quán thân — hơi thở, bốn tư thế, tỉnh giác trong mọi sinh hoạt, ba mươi mốt bộ phận, bốn đại, chín giai đoạn thân chết ở nghĩa địa — và bốn tầng thiền-na. Nửa sau bài kinh so sánh niệm thân với biển cả, rồi bằng sáu hình ảnh chỉ ra rằng thiếu niệm thân thì Ma vương có chỗ đột nhập, còn có niệm thân thì Ma vương không chen vào được. Bài kinh kết thúc bằng mười lợi ích, từ kham nhẫn lạnh nóng đến bốn tầng thiền-na, sáu thắng trí và sự đoạn tận lậu hoặc.
 
 ## 2. Nhân vật
 

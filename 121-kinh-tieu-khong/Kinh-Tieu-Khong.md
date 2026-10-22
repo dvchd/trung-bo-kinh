@@ -59,6 +59,8 @@ Bạch Thế Tôn, một thuở nọ, Đức Thế Tôn trú ở xứ của ngư
 <!-- seg: mn121:3.3 -->
 'Này Ānanda, hiện nay Ta thường an trú nhiều trong sự trống không.'
 
+[Chú thích: Điều này cũng được Sāriputta nói ở MN 151:2.3, và Đức Thế Tôn nhân đó khuyên ông phản tỉnh về sự trong sạch của thức ăn khất thực. Trước Kết tập lần thứ hai, trưởng lão Sabbakāmī cũng cho biết sự trống không là pháp tu chính của mình (Kd 22:2.5.9), còn tỳ-kheo-ni Uttamā ở Thig 3.3:2.1 cũng nhận mình tu thiền về sự trống không; giải thoát nhờ sự trống không được xếp cùng với thiền-na là một thành tựu siêu phàm (Bu Pj 4:4.1.6). Ở MN 43:33.1 = SN 41.7:4.1, "sự giải thoát tâm nhờ sự trống không" được giải thích là một sự quán chiếu về vô ngã.]
+
 <!-- seg: mn121:3.4 -->
 Bạch Thế Tôn, phải chăng con đã nghe khéo, đã nắm khéo, đã tác ý khéo và đã ghi nhớ khéo điều ấy?
 
@@ -105,6 +107,8 @@ sự nhất thể nương vào tri giác về rừng."
 
 <!-- seg: mn121:4.10 -->
 Như vậy, về cái gì không có ở đó, vị ấy nhận ra nơi ấy trống không; còn cái gì còn lại ở đó, vị ấy hiểu: "Cái này đang có mặt."
+
+[Chú thích: Nói cách khác, sự trống không chỉ được gọi là trong sạch không phải vì mọi thứ đều trống không, mà vì cái gì trống không thì được nhận ra đúng là trống không.]
 
 <!-- seg: mn121:4.11 -->
 Như vậy, này Ānanda, vị ấy có được một sự nhập vào sự trống không chân thật, không méo mó, trong sạch.

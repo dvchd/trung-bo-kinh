@@ -57,7 +57,7 @@ Này các tỳ-kheo, người xấu thì có những phẩm chất xấu, yêu m
 Và thế nào, này các tỳ-kheo, là người xấu có những phẩm chất xấu?
 
 <!-- seg: mn110:5.2 -->
-Ở đây, này các tỳ-kheo, người xấu không có lòng tin, không biết hổ thẹn, không biết sợ điều sai, ít học, biếng nhác, mất chánh niệm, kém tuệ.
+Ở đây, này các tỳ-kheo, người xấu không có lòng tin, không biết hổ thẹn, không biết sợ điều ác, ít học, biếng nhác, mất chánh niệm, kém tuệ.
 
 <!-- seg: mn110:5.3 -->
 Như vậy, này các tỳ-kheo, người xấu có những phẩm chất xấu.
@@ -66,7 +66,7 @@ Như vậy, này các tỳ-kheo, người xấu có những phẩm chất xấu.
 Và thế nào, này các tỳ-kheo, là người xấu yêu mến người xấu?
 
 <!-- seg: mn110:6.2 -->
-Ở đây, này các tỳ-kheo, người xấu kết bạn và thân cận với những sa-môn, bà-la-môn không có lòng tin, không biết hổ thẹn, không biết sợ điều sai, ít học, biếng nhác, mất chánh niệm, kém tuệ; những vị ấy là bạn, là người đồng hành của người ấy.
+Ở đây, này các tỳ-kheo, người xấu kết bạn và thân cận với những sa-môn, bà-la-môn không có lòng tin, không biết hổ thẹn, không biết sợ điều ác, ít học, biếng nhác, mất chánh niệm, kém tuệ; những vị ấy là bạn, là người đồng hành của người ấy.
 
 [Chú thích: Ở Tăng Chi Bộ Kinh 10.62:3.1, assaddhamma có nghĩa là nghe những lời dạy không đúng; còn ở đây, từ này chỉ những phẩm chất xấu.]
 
@@ -192,7 +192,7 @@ Và người ấy bố thí theo kiểu người tốt.
 Và thế nào, này các tỳ-kheo, là người tốt có những phẩm chất tốt?
 
 <!-- seg: mn110:16.2 -->
-Ở đây, này các tỳ-kheo, người tốt có lòng tin, biết hổ thẹn, biết sợ điều sai, học nhiều, tinh tấn, chánh niệm vững vàng, có tuệ.
+Ở đây, này các tỳ-kheo, người tốt có lòng tin, biết hổ thẹn, biết sợ điều ác, học rộng, tinh tấn, giữ vững chánh niệm, có tuệ.
 
 <!-- seg: mn110:16.3 -->
 Như vậy, này các tỳ-kheo, người tốt có những phẩm chất tốt.
@@ -201,7 +201,7 @@ Như vậy, này các tỳ-kheo, người tốt có những phẩm chất tốt.
 Và thế nào, này các tỳ-kheo, là người tốt yêu mến người tốt?
 
 <!-- seg: mn110:17.2 -->
-Ở đây, này các tỳ-kheo, người tốt kết bạn và thân cận với những sa-môn, bà-la-môn có lòng tin, biết hổ thẹn, biết sợ điều sai, học nhiều, tinh tấn, chánh niệm vững vàng, có tuệ; những vị ấy là bạn, là người đồng hành của người ấy.
+Ở đây, này các tỳ-kheo, người tốt kết bạn và thân cận với những sa-môn, bà-la-môn có lòng tin, biết hổ thẹn, biết sợ điều ác, học rộng, tinh tấn, giữ vững chánh niệm, có tuệ; những vị ấy là bạn, là người đồng hành của người ấy.
 
 <!-- seg: mn110:17.3 -->
 Như vậy, này các tỳ-kheo, người tốt yêu mến người tốt.

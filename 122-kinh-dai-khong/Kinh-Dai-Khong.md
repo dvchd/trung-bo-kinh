@@ -100,7 +100,7 @@ Bạch Thế Tôn, hiện nay chúng con đang trong mùa may y."
 Này Ānanda, tỳ-kheo ưa tụ họp đông người, thích tụ họp, chuyên tâm vào thú vui tụ họp, ưa bè đảng, thích bè đảng, vui với bè đảng thì không sáng đẹp.
 
 <!-- seg: mn122:3.2 -->
-Này Ānanda, một tỳ-kheo như vậy mà lại có thể đạt được lạc xuất ly, lạc viễn ly, lạc an tịnh, lạc giác ngộ ấy bất cứ khi nào muốn, một cách dễ dàng, không khó khăn, không mệt nhọc — điều ấy không thể xảy ra.
+Này Ānanda, một tỳ-kheo ưa tụ họp đông người, thích tụ họp, chuyên tâm vào thú vui tụ họp, ưa bè đảng, thích bè đảng, vui với bè đảng mà lại có thể đạt được lạc xuất ly, lạc viễn ly, lạc an tịnh, lạc giác ngộ ấy bất cứ khi nào muốn, một cách dễ dàng, không khó khăn, không mệt nhọc — điều ấy không thể xảy ra.
 
 [Chú thích: Bốn thứ lạc này được định nghĩa ở MN 139:9.18 là bốn tầng thiền-na.]
 
@@ -108,7 +108,7 @@ Này Ānanda, một tỳ-kheo như vậy mà lại có thể đạt được l�
 Còn với tỳ-kheo sống một mình, xa lìa đám đông, thì có thể chờ đợi điều này: vị ấy sẽ đạt được lạc xuất ly, lạc viễn ly, lạc an tịnh, lạc giác ngộ ấy bất cứ khi nào muốn, một cách dễ dàng, không khó khăn, không mệt nhọc. Điều ấy có thể xảy ra.
 
 <!-- seg: mn122:4.1 -->
-Này Ānanda, một tỳ-kheo như vậy mà lại chứng đạt và an trú tâm giải thoát tạm thời và khả ái, hoặc tâm giải thoát không tạm thời và bất động — điều ấy không thể xảy ra.
+Này Ānanda, một tỳ-kheo ưa tụ họp đông người, thích tụ họp, chuyên tâm vào thú vui tụ họp, ưa bè đảng, thích bè đảng, vui với bè đảng mà lại chứng đạt và an trú tâm giải thoát tạm thời và khả ái, hoặc tâm giải thoát không tạm thời và bất động — điều ấy không thể xảy ra.
 
 [Chú thích: Tâm giải thoát tạm thời và khả ái là các tầng thiền-na; tâm giải thoát không tạm thời và bất động là quả A-la-hán.]
 
@@ -463,6 +463,8 @@ Khi các bà-la-môn và gia chủ, người thị trấn và người thôn qu�
 <!-- seg: mn122:22.5 -->
 Này Ānanda, đây được gọi là tai họa nơi bậc thầy.
 
+[Chú thích: So sánh câu tương tự ở SN 16.8:7.7.]
+
 <!-- seg: mn122:22.6 -->
 Vì tai họa nơi bậc thầy, những pháp ác, bất thiện, ô nhiễm, đưa đến tái sinh, kèm sợ hãi, quả là khổ, dẫn đến sinh, già, chết trong tương lai, đã chế ngự vị ấy.
 
@@ -533,7 +535,7 @@ Như vậy, này Ānanda, là có tai họa nơi người tu phạm hạnh.
 Trong trường hợp ấy, này Ānanda, so với tai họa nơi bậc thầy và tai họa nơi đệ tử, tai họa nơi người tu phạm hạnh này có quả khổ hơn, có quả chát đắng hơn, và còn dẫn đến đọa lạc.
 
 <!-- seg: mn122:25.1 -->
-Vì vậy, này Ānanda, hãy đối xử với ta như bạn, đừng như kẻ thù.
+Vì vậy, này Ānanda, các ông hãy đối xử với ta như bạn, đừng như kẻ thù.
 
 ---
 
@@ -571,7 +573,7 @@ Các đệ tử của vị ấy muốn nghe, lắng tai, đặt tâm vào chỗ 
 Như vậy, này Ānanda, là đệ tử đối xử với thầy mình như bạn, không như kẻ thù.
 
 <!-- seg: mn122:26.6 -->
-Vì vậy, này Ānanda, hãy đối xử với ta như bạn, đừng như kẻ thù.
+Vì vậy, này Ānanda, các ông hãy đối xử với ta như bạn, đừng như kẻ thù.
 
 <!-- seg: mn122:26.7 -->
 Điều ấy sẽ đem lại lợi ích và an lạc lâu dài cho các ông.

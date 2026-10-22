@@ -95,6 +95,8 @@ Khi ấy, Đức Thế Tôn nói với sa-di Aciravata:
 <!-- seg: mn125:7.3 -->
 Này Aggivessana, có điều chỉ có thể biết nhờ sự xuất ly, chỉ có thể thấy nhờ sự xuất ly, chỉ có thể đạt được nhờ sự xuất ly, chỉ có thể chứng ngộ nhờ sự xuất ly. Thái tử Jayasena thì sống giữa các dục, hưởng thụ các dục, bị các tầm về dục gặm nhấm, bị sức nóng của dục thiêu đốt, hăng hái tìm cầu các dục. Vậy mà ông ta lại có thể biết, có thể thấy, có thể chứng ngộ điều ấy — điều đó không có lý.
 
+[Chú thích: Đoạn này có một bản song song, ở đó hai cụm 'sống giữa các dục' và 'hưởng thụ các dục' được đặt ngược thứ tự. Trật tự ở đó hợp lý hơn: bắt đầu từ chỗ người ấy đang ở, rồi đến điều người ấy hưởng thụ, rồi mới đến bị gặm nhấm và tìm cầu thêm. Bản dịch theo nghĩa ấy ở cả hai chỗ.]
+
 <!-- seg: mn125:8.1 -->
 Này Aggivessana, ví như có hai con voi, hay hai con ngựa, hay hai con bò đã khéo điều phục, khéo huấn luyện; và có hai con voi, hay hai con ngựa, hay hai con bò chưa được điều phục, chưa được huấn luyện.
 
