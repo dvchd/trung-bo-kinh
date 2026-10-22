@@ -119,7 +119,7 @@ Khi Đức Thế Tôn nói như vậy, thanh niên Vāseṭṭha và thanh niên
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời!
 
 <!-- seg: mn98:14.3 -->
-Ví như có người dựng lại vật bị lật ngược, mở ra vật bị che kín, chỉ đường cho kẻ lạc lối, hay thắp đèn dầu trong bóng tối để người có mắt thấy được hình sắc; cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ giáo pháp.
+Ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ giáo pháp.
 
 <!-- seg: mn98:14.4 -->
 Chúng con xin quy y ngài Gotama, quy y Pháp và quy y Tăng đoàn tỳ-kheo.

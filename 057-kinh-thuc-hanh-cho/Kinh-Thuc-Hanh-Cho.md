@@ -345,7 +345,7 @@ Khi nghe nói vậy, Puṇṇa, con trai người Koliya, người tu hạnh bò
 "Thật tuyệt vời, thưa Ngài, thật tuyệt vời!
 
 <!-- seg: mn57:12.3 -->
-Thưa Ngài, ví như người ta dựng lại vật bị lật úp, mở ra vật bị che kín, chỉ đường cho người đi lạc, hay thắp đèn dầu trong bóng tối để những ai có mắt nhìn thấy hình sắc; cũng vậy, Đức Thế Tôn đã làm sáng tỏ Pháp bằng nhiều cách. Bạch Thế Tôn, con đây xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.
+Thưa Ngài, ví như người ta dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, Đức Thế Tôn đã làm sáng tỏ Pháp bằng nhiều cách. Bạch Thế Tôn, con đây xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn57:12.4 -->
 Xin Đức Thế Tôn nhận con làm người cư sĩ, từ hôm nay cho đến trọn đời, con xin nương tựa."
@@ -361,7 +361,7 @@ Còn du sĩ lõa thể Seniya, người tu hạnh chó, nói với Đức Thế 
 "Thật tuyệt vời, thưa Ngài, thật tuyệt vời!
 
 <!-- seg: mn57:13.3 -->
-Thưa Ngài, ví như người ta dựng lại vật bị lật úp, mở ra vật bị che kín, chỉ đường cho người đi lạc, hay thắp đèn dầu trong bóng tối để những ai có mắt nhìn thấy hình sắc; cũng vậy, Đức Thế Tôn đã làm sáng tỏ Pháp bằng nhiều cách.
+Thưa Ngài, ví như người ta dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, Đức Thế Tôn đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn57:13.4 -->
 Bạch Thế Tôn, con đây xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.

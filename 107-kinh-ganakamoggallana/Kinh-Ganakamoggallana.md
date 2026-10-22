@@ -354,7 +354,7 @@ Cũng vậy, lời giáo huấn của ngài Gotama là thượng hạng trong c�
 Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời, thưa ngài Gotama!
 
 <!-- seg: mn107:17.2 -->
-Ví như có người dựng lại vật bị úp ngược, mở ra vật bị che kín, chỉ đường cho kẻ lạc đường, hay cầm ngọn đèn dầu soi sáng trong bóng tối để những ai có mắt có thể thấy các sắc — cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
+Ví như có người dựng lại vật bị úp ngược, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, hay cầm ngọn đèn dầu soi sáng trong bóng tối để những ai có mắt có thể thấy các sắc — cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn107:17.3 -->
 Tôi xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo."

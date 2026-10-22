@@ -28,7 +28,7 @@ Thật vậy, thưa ngài Gotama, ngài Gotama đã thương xót thế hệ sau
 Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời!
 
 <!-- seg: mn4:35.3 -->
-Ví như, thưa ngài Gotama, có người dựng lại vật bị lật ngược, mở ra vật bị che kín, chỉ đường cho kẻ đi lạc, hay cầm đèn dầu trong bóng tối để những ai có mắt nhìn thấy các hình sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
+Ví như, thưa ngài Gotama, có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn4:35.4 -->
 Tôi xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.

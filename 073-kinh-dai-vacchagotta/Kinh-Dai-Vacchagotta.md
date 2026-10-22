@@ -260,7 +260,7 @@ nên đời sống phạm hạnh này được trọn vẹn ở phương diện 
 Ví như, thưa ngài Gotama, sông Gaṅgā (Hằng Hà) nghiêng về biển, hướng về biển, xuôi về biển, và cứ thế đi mãi cho đến khi chạm tới biển; cũng vậy, hội chúng của ngài Gotama, gồm cả người tại gia lẫn người xuất gia, nghiêng về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn, và cứ thế đi mãi cho đến khi chạm tới Niết-bàn."
 
 <!-- seg: mn73:15.1 -->
-"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Thưa ngài Gotama, ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt nhìn thấy các sắc. Cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp.
+"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Thưa ngài Gotama, ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc. Cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp.
 
 <!-- seg: mn73:15.2 -->
 Con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.

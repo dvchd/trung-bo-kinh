@@ -197,25 +197,25 @@ Và này các tỳ-kheo, còn gì phải làm thêm nữa?
 Các ông hãy học tập như vầy: 'Chúng ta sẽ canh giữ các cửa giác quan.
 
 <!-- seg: mn39:8.3 -->
-Khi mắt thấy sắc, chúng ta sẽ không nắm lấy nét tổng quát, không nắm lấy chi tiết.
+Khi mắt thấy sắc, chúng ta sẽ không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn39:8.4 -->
 Nếu để nhãn căn không được thu thúc, thì những pháp ác, bất thiện là tham lam và ưu não sẽ tràn vào; vì thế chúng ta sẽ thực hành sự thu thúc, sẽ hộ trì nhãn căn, sẽ đạt được sự thu thúc nơi nhãn căn.
 
 <!-- seg: mn39:8.5 -->
-Khi tai nghe tiếng, chúng ta sẽ không nắm lấy nét tổng quát, không nắm lấy chi tiết. Nếu để nhĩ căn không được thu thúc, thì những pháp ác, bất thiện là tham lam và ưu não sẽ tràn vào; vì thế chúng ta sẽ thực hành sự thu thúc, sẽ hộ trì nhĩ căn, sẽ đạt được sự thu thúc nơi nhĩ căn.
+Khi tai nghe tiếng, chúng ta sẽ không nắm bắt tướng chung, không nắm bắt tướng riêng. Nếu để nhĩ căn không được thu thúc, thì những pháp ác, bất thiện là tham lam và ưu não sẽ tràn vào; vì thế chúng ta sẽ thực hành sự thu thúc, sẽ hộ trì nhĩ căn, sẽ đạt được sự thu thúc nơi nhĩ căn.
 
 <!-- seg: mn39:8.6 -->
-Khi mũi ngửi mùi, chúng ta sẽ không nắm lấy nét tổng quát, không nắm lấy chi tiết. Nếu để tỷ căn không được thu thúc, thì những pháp ác, bất thiện là tham lam và ưu não sẽ tràn vào; vì thế chúng ta sẽ thực hành sự thu thúc, sẽ hộ trì tỷ căn, sẽ đạt được sự thu thúc nơi tỷ căn.
+Khi mũi ngửi mùi, chúng ta sẽ không nắm bắt tướng chung, không nắm bắt tướng riêng. Nếu để tỷ căn không được thu thúc, thì những pháp ác, bất thiện là tham lam và ưu não sẽ tràn vào; vì thế chúng ta sẽ thực hành sự thu thúc, sẽ hộ trì tỷ căn, sẽ đạt được sự thu thúc nơi tỷ căn.
 
 <!-- seg: mn39:8.7 -->
-Khi lưỡi nếm vị, chúng ta sẽ không nắm lấy nét tổng quát, không nắm lấy chi tiết. Nếu để thiệt căn không được thu thúc, thì những pháp ác, bất thiện là tham lam và ưu não sẽ tràn vào; vì thế chúng ta sẽ thực hành sự thu thúc, sẽ hộ trì thiệt căn, sẽ đạt được sự thu thúc nơi thiệt căn.
+Khi lưỡi nếm vị, chúng ta sẽ không nắm bắt tướng chung, không nắm bắt tướng riêng. Nếu để thiệt căn không được thu thúc, thì những pháp ác, bất thiện là tham lam và ưu não sẽ tràn vào; vì thế chúng ta sẽ thực hành sự thu thúc, sẽ hộ trì thiệt căn, sẽ đạt được sự thu thúc nơi thiệt căn.
 
 <!-- seg: mn39:8.8 -->
-Khi thân chạm xúc, chúng ta sẽ không nắm lấy nét tổng quát, không nắm lấy chi tiết. Nếu để thân căn không được thu thúc, thì những pháp ác, bất thiện là tham lam và ưu não sẽ tràn vào; vì thế chúng ta sẽ thực hành sự thu thúc, sẽ hộ trì thân căn, sẽ đạt được sự thu thúc nơi thân căn.
+Khi thân chạm xúc, chúng ta sẽ không nắm bắt tướng chung, không nắm bắt tướng riêng. Nếu để thân căn không được thu thúc, thì những pháp ác, bất thiện là tham lam và ưu não sẽ tràn vào; vì thế chúng ta sẽ thực hành sự thu thúc, sẽ hộ trì thân căn, sẽ đạt được sự thu thúc nơi thân căn.
 
 <!-- seg: mn39:8.9 -->
-Khi ý biết pháp, chúng ta sẽ không nắm lấy nét tổng quát, không nắm lấy chi tiết.
+Khi ý biết pháp, chúng ta sẽ không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn39:8.10 -->
 Nếu để ý căn không được thu thúc, thì những pháp ác, bất thiện là tham lam và ưu não sẽ tràn vào; vì thế chúng ta sẽ thực hành sự thu thúc, sẽ hộ trì ý căn, sẽ đạt được sự thu thúc nơi ý căn.' Các ông hãy học tập đúng như vậy.

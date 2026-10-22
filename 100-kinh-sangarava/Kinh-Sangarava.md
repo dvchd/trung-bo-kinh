@@ -936,7 +936,7 @@ Khi nghe vậy, thanh niên Saṅgārava nói với Đức Thế Tôn:
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời, thưa ngài Gotama!
 
 <!-- seg: mn100:43.3 -->
-Ví như người ta dựng lại vật bị lật, mở ra vật bị che kín, chỉ đường cho người đi lạc, thắp đèn dầu trong bóng tối để những ai có mắt nhìn thấy các hình sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
+Ví như người ta dựng lại vật bị lật, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn100:43.4 -->
 Con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.

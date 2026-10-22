@@ -112,7 +112,7 @@ Khi Ngài nói vậy, du sĩ Sakuludāyī thưa với Đức Thế Tôn:
 "Thật tuyệt vời, thưa Ngài, thật tuyệt vời, thưa Ngài!
 
 <!-- seg: mn79:45.3 -->
-Thưa Ngài, ví như có người dựng lại cái đã bị lật ngửa, mở ra cái đã bị che kín, chỉ đường cho kẻ bị lạc, thắp ngọn đèn dầu trong chỗ tối để những ai có mắt thấy được các hình sắc; cũng vậy, Đức Thế Tôn đã làm sáng tỏ Pháp bằng nhiều cách.
+Thưa Ngài, ví như có người dựng lại cái đã bị lật ngửa, mở ra vật đã bị che kín, chỉ đường cho kẻ bị lạc, thắp ngọn đèn dầu trong chỗ tối để những ai có mắt thấy được các hình sắc; cũng vậy, Đức Thế Tôn đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn79:45.4 -->
 Thưa Ngài, con xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.

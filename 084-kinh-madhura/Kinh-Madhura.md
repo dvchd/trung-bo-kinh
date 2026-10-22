@@ -532,7 +532,7 @@ Khi nghe những lời ấy, vua Avantiputta của Madhurā nói với Tôn gi�
 "Thật tuyệt vời, thưa ngài Kaccāna, thật tuyệt vời!
 
 <!-- seg: mn84:10.3 -->
-Ví như có người dựng lại vật bị lật úp, mở ra vật bị che kín, chỉ đường cho người lạc lối, hay cầm đèn dầu trong bóng tối để những ai có mắt nhìn thấy các sắc; cũng vậy, ngài Kaccāna đã làm sáng tỏ Pháp bằng nhiều cách.
+Ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Kaccāna đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn84:10.4 -->
 Con xin quy y ngài Kaccāna, quy y Pháp và Tăng đoàn tỳ-kheo.

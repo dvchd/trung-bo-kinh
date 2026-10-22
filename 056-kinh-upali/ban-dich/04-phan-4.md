@@ -51,7 +51,7 @@ Nhưng con muốn nghe những cách giải đáp câu hỏi khác nhau của Đ
 Thật tuyệt vời, thưa Ngài, thật tuyệt vời!
 
 <!-- seg: mn56:15.4 -->
-Thưa Ngài, như có người dựng lại vật bị lật úp, mở ra vật bị che kín, chỉ đường cho kẻ đi lạc, hay thắp đèn dầu trong bóng tối để người có mắt thấy được hình sắc; Đức Thế Tôn cũng đã làm sáng tỏ Pháp bằng nhiều cách như vậy.
+Thưa Ngài, như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; Đức Thế Tôn cũng đã làm sáng tỏ Pháp bằng nhiều cách như vậy.
 
 <!-- seg: mn56:15.5 -->
 Bạch Thế Tôn, con xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.

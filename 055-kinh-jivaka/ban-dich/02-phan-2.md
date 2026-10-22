@@ -76,7 +76,7 @@ Các tỳ-kheo quả thật dùng món ăn hợp phép, thưa Ngài.
 Các tỳ-kheo quả thật dùng món ăn không có lỗi, thưa Ngài.
 
 <!-- seg: mn55:13.5 -->
-Thật tuyệt vời, thưa Ngài, thật tuyệt vời! Thưa Ngài, ví như có người dựng lại vật đang bị lật úp, mở ra vật đang bị che kín, chỉ đường cho người lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt nhìn thấy các sắc. Cũng vậy, Đức Thế Tôn đã dùng nhiều cách để làm sáng tỏ Pháp. Con xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.
+Thật tuyệt vời, thưa Ngài, thật tuyệt vời! Thưa Ngài, ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc. Cũng vậy, Đức Thế Tôn đã dùng nhiều cách để làm sáng tỏ Pháp. Con xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn55:13.6 -->
 Xin Đức Thế Tôn nhận con làm người cư sĩ đã quy y, từ hôm nay cho đến trọn đời."

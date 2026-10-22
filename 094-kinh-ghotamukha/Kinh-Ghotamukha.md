@@ -587,7 +587,7 @@ Khi nghe nói vậy, bà-la-môn Ghoṭamukha nói với Tôn giả Udena:
 "Thật tuyệt vời, thưa ngài Udena, thật tuyệt vời!
 
 <!-- seg: mn94:31.3 -->
-Ví như, thưa ngài Udena, có người dựng lại vật bị lật úp, mở ra vật bị che kín, chỉ đường cho người đi lạc, hay cầm đèn dầu trong bóng tối để những ai có mắt nhìn thấy các sắc; cũng vậy, bằng nhiều cách, ngài Udena đã làm sáng tỏ Pháp.
+Ví như, thưa ngài Udena, có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, bằng nhiều cách, ngài Udena đã làm sáng tỏ Pháp.
 
 <!-- seg: mn94:31.4 -->
 Tôi xin quy y ngài Udena, quy y Pháp và Tăng đoàn tỳ-kheo.

@@ -115,7 +115,7 @@ Này bà-la-môn, nếu có người sinh ra trong gia đình nô lệ mà xuấ
 Khi Ngài nói như vậy, bà-la-môn Esukārī nói với Đức Thế Tôn:
 
 <!-- seg: mn96:17.2 -->
-"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Ví như có người dựng lại vật bị lật ngửa, mở ra vật bị che kín, chỉ đường cho kẻ đi lạc, hay đem đèn dầu soi sáng trong bóng tối để những ai có mắt nhìn thấy được các hình sắc; cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp.
+"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Ví như có người dựng lại vật bị lật ngửa, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp.
 
 <!-- seg: mn96:17.3 -->
 Từ hôm nay, xin ngài Gotama nhận tôi làm người cư sĩ, đã đi đến nơi nương tựa cho đến trọn đời."

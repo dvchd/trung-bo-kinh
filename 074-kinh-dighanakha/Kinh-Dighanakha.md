@@ -350,7 +350,7 @@ Rồi du sĩ Dīghanakha, người đã thấy Pháp, đã đạt Pháp, đã bi
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời!
 
 <!-- seg: mn74:16.2 -->
-Ví như, thưa ngài Gotama, có người lật lại vật đang bị úp, mở ra vật đang bị che kín, chỉ đường cho kẻ lạc lối, hay thắp ngọn đèn dầu trong bóng tối để những ai có mắt nhìn thấy được các hình sắc. Cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
+Ví như, thưa ngài Gotama, có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc. Cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn74:16.3 -->
 Con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo."

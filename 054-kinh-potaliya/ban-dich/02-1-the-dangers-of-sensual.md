@@ -286,7 +286,7 @@ Bạch Thế Tôn, Đức Thế Tôn đã khơi dậy nơi tôi lòng thương m
 "Thật tuyệt vời, thưa Ngài, thật tuyệt vời!"
 
 <!-- seg: mn54:26.2 -->
-"Thưa Ngài, ví như người ta dựng lại vật bị lật ngược, mở ra vật bị che kín, chỉ đường cho kẻ lạc lối, hay thắp đèn dầu trong bóng tối để những ai có mắt nhìn thấy các sắc; cũng vậy, bằng nhiều cách, Đức Thế Tôn đã làm sáng tỏ Pháp.
+"Thưa Ngài, ví như người ta dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, bằng nhiều cách, Đức Thế Tôn đã làm sáng tỏ Pháp.
 
 <!-- seg: mn54:26.3 -->
 Bạch Thế Tôn, tôi xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.

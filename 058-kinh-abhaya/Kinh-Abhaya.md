@@ -326,7 +326,7 @@ Này thái tử, vì Như Lai đã khéo thấu triệt pháp giới (dhammadhā
 Nghe vậy, thái tử Abhaya nói với Đức Thế Tôn:
 
 <!-- seg: mn58:12.2 -->
-"Thật tuyệt vời, thưa Ngài, thật tuyệt vời! Ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt nhìn thấy các sắc. Cũng vậy, Đức Thế Tôn đã dùng nhiều cách để làm sáng tỏ Pháp. Con xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.
+"Thật tuyệt vời, thưa Ngài, thật tuyệt vời! Ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc. Cũng vậy, Đức Thế Tôn đã dùng nhiều cách để làm sáng tỏ Pháp. Con xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn58:12.3 -->
 Từ hôm nay cho đến trọn đời, xin Ngài nhận con làm người cư sĩ đã quy y."

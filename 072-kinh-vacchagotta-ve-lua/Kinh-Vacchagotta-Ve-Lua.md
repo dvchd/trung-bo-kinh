@@ -530,7 +530,7 @@ sau một thời gian, nó không còn cành lá, không còn vỏ trong và v�
 cũng vậy, lời dạy của ngài Gotama đã bỏ hết cành lá, bỏ hết vỏ trong và vỏ ngoài, bỏ hết gỗ giác, chỉ còn thuần khiết, vững chắc nơi lõi cây."
 
 <!-- seg: mn72:22.1 -->
-"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Thưa ngài Gotama, ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt nhìn thấy các sắc. Cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp. Tôi xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.
+"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Thưa ngài Gotama, ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc. Cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp. Tôi xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn72:22.2 -->
 Mong ngài Gotama nhớ đến tôi như một người cư sĩ đã quy y, từ hôm nay cho đến trọn đời."

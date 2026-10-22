@@ -8,7 +8,7 @@ Khi Ngài nói như vậy, các bà-la-môn và gia chủ làng Nagaravinda thư
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời!
 
 <!-- seg: mn150:7.3 -->
-Ví như người ta lật lại vật đang bị úp, mở ra vật đang bị che, chỉ đường cho kẻ lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
+Ví như người ta dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn150:7.4 -->
 Chúng con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.

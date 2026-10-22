@@ -49,7 +49,7 @@ Khi nghe như vậy, các bà-la-môn và gia chủ làng Sālā thưa với Đ�
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời!
 
 <!-- seg: mn41:44.3 -->
-Thưa ngài Gotama, ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt nhìn thấy các sắc. Cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp.
+Thưa ngài Gotama, ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc. Cũng vậy, ngài Gotama đã dùng nhiều cách để làm sáng tỏ Pháp.
 
 <!-- seg: mn41:44.4 -->
 Chúng con quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.

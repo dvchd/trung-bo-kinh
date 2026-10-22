@@ -107,7 +107,7 @@ Rồi bà-la-môn Brahmāyu đã thấy Pháp, đạt được Pháp, hiểu rõ
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời, thưa ngài Gotama!
 
 <!-- seg: mn91:37.2 -->
-Ví như người ta dựng lại vật bị lật ngược, mở ra vật bị che kín, chỉ đường cho người lạc đường, hay cầm đèn dầu soi sáng trong bóng tối để người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã trình bày Pháp bằng nhiều cách khác nhau.
+Ví như người ta dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã trình bày Pháp bằng nhiều cách khác nhau.
 
 <!-- seg: mn91:37.3 -->
 Con xin quy y ngài Gotama, quy y Pháp, và quy y Tăng đoàn tỳ-kheo.

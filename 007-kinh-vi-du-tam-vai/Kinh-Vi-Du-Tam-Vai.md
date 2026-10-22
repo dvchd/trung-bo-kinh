@@ -499,7 +499,7 @@ Khi nghe nói vậy, bà-la-môn Sundarikabhāradvāja thưa với Đức Thế 
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời!"
 
 <!-- seg: mn7:21.3 -->
-"Thưa ngài Gotama, như người dựng lại vật bị lật ngược, mở ra vật bị che kín, chỉ đường cho kẻ lạc lối, hay thắp đèn dầu trong bóng tối để người có mắt thấy được hình sắc — cũng vậy, ngài Gotama đã dùng nhiều cách khác nhau để làm sáng tỏ Pháp."
+"Thưa ngài Gotama, như người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc — cũng vậy, ngài Gotama đã dùng nhiều cách khác nhau để làm sáng tỏ Pháp."
 
 <!-- seg: mn7:21.4 -->
 "Con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo."

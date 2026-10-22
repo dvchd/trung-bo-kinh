@@ -805,7 +805,7 @@ Khi nghe nói vậy, thanh niên Subha, con trai của Todeyya, nói với Đứ
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời, thưa ngài Gotama!
 
 <!-- seg: mn99:28.3 -->
-Ví như, thưa ngài Gotama, có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, thắp đèn dầu trong bóng tối để những ai có mắt nhìn thấy các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
+Ví như, thưa ngài Gotama, có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn99:28.4 -->
 Con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.

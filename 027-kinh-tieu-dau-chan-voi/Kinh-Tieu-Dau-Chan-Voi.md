@@ -717,7 +717,7 @@ Khi Ngài nói vậy, bà-la-môn Jānussoṇi nói với Đức Thế Tôn:
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời!
 
 <!-- seg: mn27:27.3 -->
-Ví như người ta lật lại cái bị úp, mở ra cái bị che, chỉ đường cho kẻ lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
+Ví như người ta dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn27:27.4 -->
 Con xin quy y ngài Gotama, quy y Pháp và quy y Tăng đoàn tỳ-kheo.

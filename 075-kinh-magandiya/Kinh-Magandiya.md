@@ -820,7 +820,7 @@ Khi nghe vậy, du sĩ Māgaṇḍiya thưa với Đức Thế Tôn:
 ---
 
 <!-- seg: mn75:26.3 -->
-"Thưa ngài Gotama, ví như có người dựng lại vật đã bị lật ngửa, mở ra vật đã bị che kín, chỉ đường cho kẻ bị lạc, thắp đèn dầu trong bóng tối để những ai có mắt nhìn thấy các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
+"Thưa ngài Gotama, ví như có người dựng lại vật đã bị lật ngửa, mở ra vật đã bị che kín, chỉ đường cho kẻ bị lạc, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
 
 <!-- seg: mn75:26.4 -->
 Tôi xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.

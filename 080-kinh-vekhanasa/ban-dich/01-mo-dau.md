@@ -275,7 +275,7 @@ Thực hành đúng theo lời chỉ dạy, không bao lâu người ấy sẽ t
 Khi nghe nói vậy, du sĩ Vekhanasa thưa với Đức Thế Tôn:
 
 <!-- seg: mn80:17.2 -->
-"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Ví như người ta lật lại vật đang bị úp, mở ra vật đang bị che, chỉ đường cho kẻ lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách. Con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.
+"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Ví như người ta dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách. Con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn80:17.3 -->
 Mong ngài Gotama nhớ đến con như một người cư sĩ đã quy y, từ hôm nay cho đến trọn đời."

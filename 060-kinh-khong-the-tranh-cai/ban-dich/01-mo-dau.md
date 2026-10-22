@@ -889,7 +889,7 @@ Khi Đức Thế Tôn nói như vậy, các bà-la-môn và gia chủ xứ Sāl�
 "Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời, thưa ngài Gotama!
 
 <!-- seg: mn60:57.3 -->
-Ví như có người dựng lại cái đã bị lật úp, mở ra cái đã bị che kín, chỉ đường cho kẻ lạc đường, hay cầm đèn dầu soi vào chỗ tối để người có mắt thấy được những hình sắc — cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách khác nhau.
+Ví như có người dựng lại vật đã bị lật úp, mở ra vật đã bị che kín, chỉ đường cho người lạc lối, đem đèn dầu vào chỗ tối để người có mắt thấy được những hình sắc — cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách khác nhau.
 
 <!-- seg: mn60:57.4 -->
 Chúng con xin nương tựa ngài Gotama, nương tựa Pháp và Tăng đoàn tỳ-kheo.
