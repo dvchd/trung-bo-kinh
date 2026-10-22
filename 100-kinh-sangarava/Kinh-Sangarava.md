@@ -145,7 +145,7 @@ Này Bhāradvāja, lại có những sa-môn và bà-la-môn, đối với nhữ
 Này Bhāradvāja, trong số những sa-môn và bà-la-môn ấy, chính Ta là một.
 
 <!-- seg: mn100:8.1 -->
-Này Bhāradvāja, có thể hiểu điều này bằng một cách khác nữa, rằng trong số những sa-môn và bà-la-môn, đối với những pháp trước đây chưa từng được nghe ai truyền lại, tự mình thắng tri pháp ấy rồi tự nhận đã đạt đến sự viên mãn và tận cùng của thắng trí ngay trong đời này và đã nắm vững phần căn bản của đời sống phạm hạnh, chính Ta là một.
+Này Bhāradvāja, có thể hiểu điều này bằng một cách khác nữa, rằng trong số những sa-môn và bà-la-môn, đối với những pháp trước đây chưa từng được nghe ai truyền lại, tự mình thắng tri pháp ấy rồi tự nhận đã đạt đến sự viên mãn và tận cùng của thắng trí ngay trong đời này và đã nắm vững phần căn bản của đời sống phạm hạnh, chính Ta là một."
 
 <!-- seg: mn100:9.1 -->
 Này Bhāradvāja, trước khi Ta giác ngộ, khi còn chưa giác ngộ, còn là Bồ-tát, Ta đã nghĩ như vầy:

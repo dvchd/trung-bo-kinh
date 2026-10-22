@@ -55,9 +55,11 @@ python3 kiem-tra-marker.py && python3 ra-soat.py
 
 | Script | Kiểm gì |
 |---|---|
-| `python3 cong-cu/ra-soat-toan-bo.py` | ~700 tệp: từ bị cấm, ngoặc kép cong, ba chấm ngoài chú thích, ký hiệu chưa dịch |
+| `python3 cong-cu/ra-soat-toan-bo.py` | 753 tệp: đủ neo đoạn, ngoặc kép cân và không cong, từ bị cấm, dấu lửng ngoài chú thích |
+| `python3 cong-cu/ra-soat-van-phong.py` | 1057 tệp: văn phong, tiếng Anh sót, ký tự lạ, danh hiệu chín phần lệch dạng |
+| `python3 cong-cu/ra-soat-cong-thuc.py` | báo cáo đoạn Pali đang được dịch khác nhau giữa các bài |
 
-Kiểm tra riêng từng bài: chạy `ra-soat.py` trong thư mục bài đó. Hiện **1/152 bài đạt**.
+Kiểm tra riêng từng bài: chạy `ra-soat.py` trong thư mục bài đó. Hiện **152/152 bài đạt**.
 
 ## 4. Quy ước dịch
 

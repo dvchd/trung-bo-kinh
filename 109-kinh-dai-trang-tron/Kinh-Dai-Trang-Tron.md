@@ -391,7 +391,7 @@ thức là thường còn hay vô thường?"
 "Bạch Thế Tôn, không."
 
 <!-- seg: mn109:16.12 -->
-"Vì vậy, này các tỳ-kheo, bất cứ sắc nào — quá khứ, vị lai hay hiện tại, bên trong hay bên ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả sắc đều phải được thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi.'
+"Vì vậy, này các tỳ-kheo, bất cứ sắc nào — quá khứ, vị lai hay hiện tại, bên trong hay bên ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả sắc đều phải được thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi.'"
 
 <!-- seg: mn109:17.1 -->
 Bất cứ thọ nào — quá khứ, vị lai hay hiện tại, bên trong hay bên ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả thọ đều phải được thấy đúng như thật bằng chánh tuệ rằng: 'cái này không phải của tôi, tôi không phải cái này, cái này không phải tự ngã của tôi.'

@@ -226,7 +226,7 @@ Khi bị cảm thọ lạc xúc chạm, người ấy trở nên tham đắm tro
 ---
 
 <!-- seg: mn36:8.4 -->
-"Rồi cảm thọ lạc ấy của người ấy diệt.
+Rồi cảm thọ lạc ấy của người ấy diệt.
 
 <!-- seg: mn36:8.5 -->
 Do lạc thọ diệt, khổ thọ khởi lên.

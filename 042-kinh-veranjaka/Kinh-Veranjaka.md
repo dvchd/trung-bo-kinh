@@ -56,7 +56,7 @@ Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong r�
 Về bậc Tôn giả Gotama ấy, tiếng tốt đã vang xa như vầy:
 
 <!-- seg: mn42:2.5 -->
-"Ngài là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn."
+"Ngài là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn.
 
 <!-- seg: mn42:2.6 -->
 Ngài đã tự mình chứng biết bằng thắng trí thế giới này cùng với chư thiên, Ma vương và Phạm Thiên, cùng với chúng sa-môn, bà-la-môn, trời và người, rồi truyền dạy cho người khác.

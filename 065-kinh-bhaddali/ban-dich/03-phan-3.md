@@ -68,7 +68,7 @@ Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong
 Vì sao vậy?
 
 <!-- seg: mn65:21.5 -->
-Vì đó là điều tự nhiên, này Bhaddāli, đối với người làm tròn sự học tập theo lời dạy của bậc Đạo sư."
+Vì đó là điều tự nhiên, này Bhaddāli, đối với người làm tròn sự học tập theo lời dạy của bậc Đạo sư.
 
 <!-- seg: mn65:22.1 -->
 Khi Ngài nói vậy, Tôn giả Bhaddāli bạch Đức Thế Tôn:

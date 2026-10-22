@@ -62,7 +62,7 @@ Hôm nay chúng ta nên đến hầu hạ vị sa-môn hay bà-la-môn nào đâ
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn99:2.7 -->
-Thưa ngài, xin ngài đến hầu hạ Đức Thế Tôn ấy."
+"Thưa ngài, xin ngài đến hầu hạ Đức Thế Tôn ấy."
 
 <!-- seg: mn99:3.1 -->
 Rồi thanh niên Subha, con trai của Todeyya, nhận lời vị gia chủ ấy, đi đến chỗ Đức Thế Tôn; đến rồi, chào hỏi Đức Thế Tôn.
