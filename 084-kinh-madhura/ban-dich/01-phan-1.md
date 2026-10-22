@@ -164,4 +164,6 @@ cũng có những bà-la-môn dậy trước ông ta, đi ngủ sau ông ta, s�
 <!-- seg: mn84:5.35 -->
 Đại vương nghĩ sao? Nếu một người nô lệ được sung túc về tiền bạc, lúa gạo, bạc hay vàng, thì có phải sẽ có những người nô lệ dậy trước ông ta, đi ngủ sau ông ta, sẵn sàng làm theo lệnh, cư xử dễ chịu, nói lời thân ái,
 
+[Chú thích: Thời nay cũng như thời ấy, xem ra của cải vẫn mạnh hơn dòng dõi.]
+
 <!-- hết phần 1 -->

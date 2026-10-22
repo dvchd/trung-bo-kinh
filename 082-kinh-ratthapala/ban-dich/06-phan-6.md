@@ -99,6 +99,8 @@ Thưa tôn giả Raṭṭhapāla, ý nghĩa của lời ấy phải hiểu thế
 <!-- seg: mn82:38.5 -->
 khi đại vương hai mươi hay hai lăm tuổi, đại vương có giỏi cưỡi voi, giỏi cưỡi ngựa, giỏi đánh xe, giỏi bắn cung, giỏi dùng gươm, có sức mạnh nơi đùi và nơi tay, đủ sức và từng trải trận mạc không?"
 
+[Chú thích: Chữ *alamatto* ở đây nên đọc là *alamattho*, nghĩa là "đủ sức, có khả năng".]
+
 <!-- seg: mn82:38.6 -->
 "Có, thưa tôn giả Raṭṭhapāla, khi tôi hai mươi hay hai lăm tuổi, tôi đã giỏi cưỡi voi, giỏi cưỡi ngựa, giỏi đánh xe, giỏi bắn cung, giỏi dùng gươm, có sức mạnh nơi đùi và nơi tay, đủ sức và từng trải trận mạc.
 

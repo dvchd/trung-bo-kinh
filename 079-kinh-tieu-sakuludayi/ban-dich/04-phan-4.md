@@ -118,7 +118,7 @@ Thưa Ngài, ví như có người dựng lại cái đã bị lật ngửa, m�
 Thưa Ngài, con xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn79:45.5 -->
-Thưa Ngài, xin cho con được xuất gia trong giáo đoàn của Đức Thế Tôn, xin cho con được thọ giới cụ túc."
+Thưa Ngài, xin cho con được xuất gia ngay trước mặt Đức Thế Tôn, xin cho con được thọ giới cụ túc."
 
 <!-- seg: mn79:46.1 -->
 Khi ông nói vậy, hội chúng của du sĩ Sakuludāyī nói với du sĩ Sakuludāyī:

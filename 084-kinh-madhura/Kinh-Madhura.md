@@ -6,7 +6,7 @@
 
 Câu hỏi của nhà vua rất cụ thể. Các bà-la-môn trong xã hội Ấn Độ thời ấy vẫn nói rằng chỉ họ là giai cấp cao nhất, là giai cấp trắng, là những người duy nhất được thanh tịnh, là con ruột sinh ra từ miệng Phạm Thiên; còn ba giai cấp kia là thấp kém, là đen, là không trong sạch. Đó không chỉ là chuyện lễ nghi. Nó là một cách giải thích trật tự xã hội: sinh ra trong gia đình nào thì thuộc giai cấp ấy, và địa vị ấy không thể đổi. Nhà vua đem lời ấy ra hỏi Tôn giả Mahākaccāna xem ngài nói thế nào.
 
-Tôn giả không trả lời bằng một tuyên bố trừu tượng. Tôn giả đưa ra bốn phép thử, lần lượt hỏi nhà vua tự xét. Thứ nhất là của cải: khi một người giàu có, bất kể thuộc giai cấp nào, người khác vẫn phải dậy trước, ngủ sau, vâng lời và nói năng nhã nhặn với người ấy. Thứ hai là nghiệp: một người làm điều ác thì sau khi chết đi vào cõi dữ, một người làm điều lành thì đi vào cõi lành, và điều ấy đúng cho cả bốn giai cấp như nhau. Thứ ba là luật pháp: khi một người phạm tội cướp của hay ngoại tình, nhà vua không còn nhìn thấy tước hiệu của kẻ ấy nữa, chỉ thấy một tên giặc cướp. Thứ tư là sự xuất gia: khi một người bỏ nhà đi tu, giữ giới và sống phạm hạnh, chính nhà vua cũng phải đảnh lễ và cúng dường vị ấy, dù trước đó vị ấy thuộc giai cấp nào. Bốn lần, nhà vua đều phải thừa nhận: bốn giai cấp bình đẳng với nhau, không có gì khác biệt.
+Tôn giả không trả lời bằng một tuyên bố trừu tượng. Tôn giả đưa ra năm phép thử, lần lượt hỏi nhà vua tự xét. Thứ nhất là của cải: khi một người giàu có, bất kể thuộc giai cấp nào, người khác vẫn phải dậy trước, ngủ sau, vâng lời và nói năng nhã nhặn với người ấy. Thứ hai là nghiệp ác: một người làm điều ác thì sau khi chết đi vào cõi dữ, và điều ấy đúng cho cả bốn giai cấp như nhau. Thứ ba là nghiệp thiện: một người làm điều lành thì sau khi chết đi vào cõi lành, cũng đúng cho cả bốn giai cấp như nhau. Thứ tư là luật pháp: khi một người phạm tội cướp của hay ngoại tình, nhà vua không còn nhìn thấy tước hiệu của kẻ ấy nữa, chỉ thấy một tên giặc cướp. Thứ năm là sự xuất gia: khi một người bỏ nhà đi tu, giữ giới và sống phạm hạnh, chính nhà vua cũng phải đảnh lễ và cúng dường vị ấy, dù trước đó vị ấy thuộc giai cấp nào. Năm lần, nhà vua đều phải thừa nhận: bốn giai cấp bình đẳng với nhau, không có gì khác biệt.
 
 Vì vậy, câu trả lời của Tôn giả Mahākaccāna là một câu ngắn: đó chỉ là lời đồn trong thế gian. Không phải một lời nguyền rủa, cũng không phải một cuộc đảo chính xã hội, mà là một nhận xét về chỗ đứng của một lời tuyên bố không có gì chống đỡ. Theo bài kinh, điều làm nên phẩm giá của một người không phải là dòng máu, mà là cách người ấy sống và những gì người ấy làm. Cần nói thêm rằng bài kinh không bàn đến việc xóa bỏ chế độ giai cấp; nó chỉ ra rằng uy quyền của giai cấp không đứng vững trước của cải, nghiệp báo, luật pháp và cách giữ giới.
 
@@ -33,7 +33,7 @@ Người đọc lần đầu có thể thấy bài kinh lặp lại nhiều và 
 <!-- seg: mn84:0.2 -->
 **Kinh Madhurā** (*Madhura Sutta*) — bài kinh ghi lại cuộc đối thoại tại Madhurā giữa Tôn giả Mahākaccāna và vua Avantiputta: nhà vua đem lời của các bà-la-môn về bốn giai cấp ra hỏi, và Tôn giả lần lượt chỉ ra rằng của cải, nghiệp, luật pháp và sự xuất gia đều không phân biệt giai cấp.
 
-[Chú thích: *Madhura* nghĩa là "ngọt", "ngọt ngào"; đây là tên thành Madhurā, tiếng Phạn là Mathurā.]
+[Chú thích của người dịch: *Madhura* nghĩa là "ngọt", "ngọt ngào"; đây là tên thành Madhurā, tiếng Phạn là Mathurā.]
 
 ---
 
@@ -202,6 +202,8 @@ cũng có những bà-la-môn dậy trước ông ta, đi ngủ sau ông ta, s�
 
 <!-- seg: mn84:5.35 -->
 Đại vương nghĩ sao? Nếu một người nô lệ được sung túc về tiền bạc, lúa gạo, bạc hay vàng, thì có phải sẽ có những người nô lệ dậy trước ông ta, đi ngủ sau ông ta, sẵn sàng làm theo lệnh, cư xử dễ chịu, nói lời thân ái,
+
+[Chú thích: Thời nay cũng như thời ấy, xem ra của cải vẫn mạnh hơn dòng dõi.]
 
 <!-- hết phần 1 -->
 
@@ -512,7 +514,7 @@ Thưa đại vương, cũng qua cách này có thể hiểu rằng đó chỉ l�
 <!-- hết phần 3 -->
 
 <!-- seg: mn84:9.19 -->
-'Chỉ có bà-la-môn là giai cấp cao nhất; các giai cấp khác là thấp kém.
+"Chỉ có bà-la-môn là giai cấp cao nhất; các giai cấp khác là thấp kém.
 
 <!-- seg: mn84:9.20 -->
 Chỉ có bà-la-môn là giai cấp trắng; các giai cấp khác là giai cấp đen.
@@ -521,7 +523,7 @@ Chỉ có bà-la-môn là giai cấp trắng; các giai cấp khác là giai c�
 Chỉ có bà-la-môn mới được thanh tịnh, những người không phải bà-la-môn thì không.
 
 <!-- seg: mn84:9.22 -->
-Chỉ có bà-la-môn là con ruột của Phạm Thiên, sinh ra từ miệng Phạm Thiên, sinh ra từ Phạm Thiên, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên.'
+Chỉ có bà-la-môn là con ruột của Phạm Thiên, sinh ra từ miệng Phạm Thiên, sinh ra từ Phạm Thiên, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên."
 
 <!-- seg: mn84:10.1 -->
 Khi nghe những lời ấy, vua Avantiputta của Madhurā nói với Tôn giả Mahākaccāna:

@@ -131,7 +131,7 @@ Chuyện ấy, thưa Ngài, Đức Thế Tôn sẽ không khó nghe về sau.
 Thưa Ngài, khi con không đến gần hội chúng này, thì hội chúng này ngồi bàn đủ thứ chuyện thấp hèn;
 
 <!-- seg: mn79:5.4 -->
-còn khi con đến gần hội chúng này, thì hội chúng này ngồi ngước nhìn lên mặt con, nghĩ rằng:
+còn khi con đến gần hội chúng này, thì hội chúng này chỉ ngồi ngước nhìn lên mặt con, nghĩ rằng:
 
 [Chú thích: Cách ngồi ngước nhìn lên mặt người nói như thế này cũng xuất hiện trong Tương Ưng Bộ Kinh 56.39; ở Trường Bộ Kinh 2, đó là thái độ của người hầu đối với vua.]
 
@@ -639,7 +639,7 @@ Thưa Ngài, ví như có người dựng lại cái đã bị lật ngửa, m�
 Thưa Ngài, con xin quy y Đức Thế Tôn, quy y Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn79:45.5 -->
-Thưa Ngài, xin cho con được xuất gia trong giáo đoàn của Đức Thế Tôn, xin cho con được thọ giới cụ túc."
+Thưa Ngài, xin cho con được xuất gia ngay trước mặt Đức Thế Tôn, xin cho con được thọ giới cụ túc."
 
 <!-- seg: mn79:46.1 -->
 Khi ông nói vậy, hội chúng của du sĩ Sakuludāyī nói với du sĩ Sakuludāyī:

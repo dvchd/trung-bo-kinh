@@ -92,7 +92,7 @@ Chuyện ấy, thưa Ngài, Đức Thế Tôn sẽ không khó nghe về sau.
 Thưa Ngài, khi con không đến gần hội chúng này, thì hội chúng này ngồi bàn đủ thứ chuyện thấp hèn;
 
 <!-- seg: mn79:5.4 -->
-còn khi con đến gần hội chúng này, thì hội chúng này ngồi ngước nhìn lên mặt con, nghĩ rằng:
+còn khi con đến gần hội chúng này, thì hội chúng này chỉ ngồi ngước nhìn lên mặt con, nghĩ rằng:
 
 [Chú thích: Cách ngồi ngước nhìn lên mặt người nói như thế này cũng xuất hiện trong Tương Ưng Bộ Kinh 56.39; ở Trường Bộ Kinh 2, đó là thái độ của người hầu đối với vua.]
 

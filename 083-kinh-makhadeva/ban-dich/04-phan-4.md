@@ -91,4 +91,4 @@ Tôn giả Ānanda hoan hỷ, tán thán lời Đức Thế Tôn dạy.
 <!-- seg: mn83:21.20 -->
 Kinh Maghadeva, bài thứ ba, đã hoàn tất.
 
-[Chú thích: Dòng này là lời ghi kết thúc bài kinh trong bản Pali, không phải lời thoại; "bài thứ ba" là vị trí của bài kinh trong phẩm kinh chứa nó.]
+[Chú thích của người dịch: Dòng này là lời ghi kết thúc bài kinh trong bản Pali, không phải lời thoại; "bài thứ ba" là vị trí của bài kinh trong phẩm kinh chứa nó.]

@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 98 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 104 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 98/152 bài
+## Đợt đọc lại văn phong: 104/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -120,9 +120,15 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 76 | 5 | "kiễng gót" → "ngồi xổm" ×4 (8.13, 11.9, 14.8, 17.20), thêm chú thích 16.8 |
 | MN 77 | 5 | 13.3/13.11 "lời chỉ trích", 31.1/31.5 "những vị ấy", 33.16 viết hoa |
 | MN 78 | 1 | 14.2 chú thích của người dịch bị gắn nhãn Sujato |
+| MN 79 | 2 | 5.4 thêm "chỉ", 45.5 "ngay trước mặt Đức Thế Tôn" |
+| MN 80 | 3 | 3.15/3.16 "không có căn cứ chứng minh", 17.2 bỏ "quy y" thừa |
+| MN 81 | 5 | 6.17, 12.4, 14.1, 14.4, 14.7 rơi hô cách "này Ānanda" |
+| MN 82 | 21 | 3 chú thích Sujato còn thiếu (19.3, 25.1, 38.5), 18 chỗ "Ngài" cho Raṭṭhapāla → "ông"/"vị ấy" |
+| MN 83 | 3 | 0.2, 4.17, 21.20 đổi nhãn chú thích người dịch |
+| MN 84 | 3 | 5.35 thêm chú thích, 9.19–9.22 ngoặc kép lời trích, 0.2 nhãn chú thích; sửa "bốn" → "năm" phép thử trong giới thiệu, README và sách hướng dẫn |
 
-Tổng 360 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 489 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 397 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 519 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
@@ -142,8 +148,8 @@ thật ra CÓ `paraṁ maraṇā`) và hàng §2 của MN 59 về "rừng Jeta (
 
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 54 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
-   trình như trên. Đợt kế tiếp trong phiên 19:00 ngày 2026-10-22: MN 79, 80, 81, 82, 83, 84.
+1. Đọc lại 48 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+   trình như trên. Đợt kế tiếp trong phiên 19:00 ngày 2026-10-22: MN 85, 86, 87, 88, 89, 90.
 2. ~~Bổ sung 31 chú thích còn thiếu của MN 1~~ — đã xong 2026-10-22: nguồn thật ra có 14 NOTE
    (con số 41 là đọc nhầm từ tệp mẫu), nay đã dịch đủ 14 và đổi nhãn 7 chú thích người dịch.
 3. Quyết khoảng 429 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn

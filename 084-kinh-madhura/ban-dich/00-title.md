@@ -8,4 +8,4 @@
 <!-- seg: mn84:0.2 -->
 **Kinh Madhurā** (*Madhura Sutta*) — bài kinh ghi lại cuộc đối thoại tại Madhurā giữa Tôn giả Mahākaccāna và vua Avantiputta: nhà vua đem lời của các bà-la-môn về bốn giai cấp ra hỏi, và Tôn giả lần lượt chỉ ra rằng của cải, nghiệp, luật pháp và sự xuất gia đều không phân biệt giai cấp.
 
-[Chú thích: *Madhura* nghĩa là "ngọt", "ngọt ngào"; đây là tên thành Madhurā, tiếng Phạn là Mathurā.]
+[Chú thích của người dịch: *Madhura* nghĩa là "ngọt", "ngọt ngào"; đây là tên thành Madhurā, tiếng Phạn là Mathurā.]

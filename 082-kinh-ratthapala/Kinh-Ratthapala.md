@@ -373,18 +373,18 @@ Và thiện nam tử Raṭṭhapāla đã được xuất gia, được thọ c�
 Rồi Đức Thế Tôn, khi vị tôn giả Raṭṭhapāla mới thọ cụ túc giới được nửa tháng, sau khi lưu lại Thullakoṭṭhika bao lâu tuỳ ý, liền lên đường đi Sāvatthī.
 
 <!-- seg: mn82:13.3 -->
-Đi du hành từng chặng, Ngài đến Sāvatthī.
+Đi du hành từng chặng, ông đến Sāvatthī.
 
 <!-- seg: mn82:13.4 -->
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn82:14.1 -->
-Rồi vị tôn giả Raṭṭhapāla sống một mình, ẩn cư, không buông lung, tinh tấn, quyết tâm, và không bao lâu, Ngài đã tự mình chứng ngộ bằng thắng trí ngay trong đời này, và an trú vào mục đích tối thượng của đời sống phạm hạnh — mục đích mà các thiện nam tử đúng đắn rời nhà xuất gia sống không nhà để đạt được.
+Rồi vị tôn giả Raṭṭhapāla sống một mình, ẩn cư, không buông lung, tinh tấn, quyết tâm, và không bao lâu, ông đã tự mình chứng ngộ bằng thắng trí ngay trong đời này, và an trú vào mục đích tối thượng của đời sống phạm hạnh — mục đích mà các thiện nam tử đúng đắn rời nhà xuất gia sống không nhà để đạt được.
 
 [Chú thích: Bản Pali dùng chữ "không bao lâu", nhưng chú giải nói là mười hai năm; điều này giải thích vì sao gia đình ông không nhận ra ông ngay.]
 
 <!-- seg: mn82:14.2 -->
-Ngài biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
+Ông biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn82:14.3 -->
 Và vị tôn giả Raṭṭhapāla trở thành một trong những bậc A-la-hán.
@@ -411,7 +411,7 @@ Khi Đức Thế Tôn biết rằng:
 Rồi vị tôn giả Raṭṭhapāla đứng dậy khỏi chỗ ngồi, đảnh lễ Đức Thế Tôn, đi vòng quanh Ngài theo phía bên phải, thu xếp chỗ ở, rồi mang bát và y, lên đường đi Thullakoṭṭhika.
 
 <!-- seg: mn82:16.2 -->
-Đi du hành từng chặng, Ngài đến Thullakoṭṭhika.
+Đi du hành từng chặng, ông đến Thullakoṭṭhika.
 
 <!-- seg: mn82:16.3 -->
 Tại đó, vị tôn giả Raṭṭhapāla trú ở khu vườn nai của vua Koravya.
@@ -420,7 +420,7 @@ Tại đó, vị tôn giả Raṭṭhapāla trú ở khu vườn nai của vua K
 Rồi vào buổi sáng, vị tôn giả Raṭṭhapāla đắp y, mang bát và y, đi vào Thullakoṭṭhika để khất thực.
 
 <!-- seg: mn82:16.5 -->
-Đi khất thực từng nhà một ở Thullakoṭṭhika, Ngài đến nhà của cha mình.
+Đi khất thực từng nhà một ở Thullakoṭṭhika, ông đến nhà của cha mình.
 
 <!-- seg: mn82:17.1 -->
 Lúc bấy giờ, cha của vị tôn giả Raṭṭhapāla đang ngồi cho người chải chuốt tóc ở nhà cổng giữa.
@@ -428,7 +428,7 @@ Lúc bấy giờ, cha của vị tôn giả Raṭṭhapāla đang ngồi cho ng�
 [Chú thích: Đây là dấu hiệu của đời sống xa hoa mà người ta mong đợi ở Raṭṭhapāla. Kiểu tóc của đàn ông thượng lưu thời ấy khá cầu kỳ, ít nhất là theo cách các phù điêu cổ ở Sanchi mô tả.]
 
 <!-- seg: mn82:17.2 -->
-Cha của vị tôn giả Raṭṭhapāla thấy Ngài từ xa đi đến,
+Cha của vị tôn giả Raṭṭhapāla thấy ông từ xa đi đến,
 
 <!-- seg: mn82:17.3 -->
 thấy vậy liền nói:
@@ -452,12 +452,12 @@ Rồi vị tôn giả Raṭṭhapāla nói với người nữ tỳ ấy:
 "Này chị, nếu thứ ấy phải đổ đi, thì hãy đổ vào bát của tôi đây."
 
 <!-- seg: mn82:18.4 -->
-Khi đang đổ cháo nấu từ đêm trước vào bát của vị tôn giả Raṭṭhapāla, người nữ tỳ trong họ nhận ra dấu hiệu nơi tay, nơi chân và giọng nói của Ngài.
+Khi đang đổ cháo nấu từ đêm trước vào bát của vị tôn giả Raṭṭhapāla, người nữ tỳ trong họ nhận ra dấu hiệu nơi tay, nơi chân và giọng nói của ông.
 
 [Chú thích: Chi tiết này rất giống với sử thi Odyssey, chỗ người nữ tỳ Eurycleia nhận ra Odysseus khi ông trở về nhờ dấu vết trên chân, trong khi chính vợ ông thì không nhận ra.]
 
 <!-- seg: mn82:18.5 -->
-Rồi người nữ tỳ trong họ của vị tôn giả Raṭṭhapāla đến chỗ mẹ của Ngài. Khi đến, cô ấy nói với mẹ Ngài:
+Rồi người nữ tỳ trong họ của vị tôn giả Raṭṭhapāla đến chỗ mẹ của ông. Khi đến, cô ấy nói với mẹ ông:
 
 <!-- seg: mn82:18.6 -->
 "Thưa bà chủ, xin bà biết cho:
@@ -469,7 +469,7 @@ Rồi người nữ tỳ trong họ của vị tôn giả Raṭṭhapāla đến
 "Nếu con nói thật đấy, con hầu kia, ta sẽ trả tự do cho con."
 
 <!-- seg: mn82:18.9 -->
-Rồi mẹ của vị tôn giả Raṭṭhapāla đến chỗ cha của Ngài. Khi đến, bà nói với chồng:
+Rồi mẹ của vị tôn giả Raṭṭhapāla đến chỗ cha của ông. Khi đến, bà nói với chồng:
 
 <!-- seg: mn82:18.10 -->
 "Thưa gia chủ, xin ông biết cho:
@@ -481,10 +481,12 @@ Rồi mẹ của vị tôn giả Raṭṭhapāla đến chỗ cha của Ngài. K
 Lúc bấy giờ, vị tôn giả Raṭṭhapāla đang ngồi ăn cháo nấu từ đêm trước, dựa vào chân một bức tường.
 
 <!-- seg: mn82:19.2 -->
-Rồi cha của vị tôn giả Raṭṭhapāla đến chỗ Ngài. Khi đến, ông nói với vị tôn giả Raṭṭhapāla:
+Rồi cha của vị tôn giả Raṭṭhapāla đến chỗ vị ấy. Khi đến, ông nói với vị tôn giả Raṭṭhapāla:
 
 <!-- seg: mn82:19.3 -->
 "Này Raṭṭhapāla, lẽ nào con lại ăn cháo nấu từ đêm trước?
+
+[Chú thích: Cách dùng cú pháp này cũng lặp lại ở AN 5.166:11.2, nơi rõ ràng thì tương lai diễn tả sự phẫn nộ chứ không phải thời gian tương lai.]
 
 <!-- seg: mn82:19.4 -->
 Này Raṭṭhapāla, chẳng phải con nên về nhà mình sao?"
@@ -518,7 +520,7 @@ trái lại, chỉ nhận được lời mắng nhiếc."
 Vị tôn giả Raṭṭhapāla nhận lời bằng cách im lặng.
 
 <!-- seg: mn82:20.1 -->
-Rồi cha của vị tôn giả Raṭṭhapāla, biết rằng Ngài đã nhận lời, liền trở về nhà mình. Về đến nhà, ông cho chất thành một đống vàng lớn, cả vàng đúc lẫn vàng chưa đúc, rồi phủ lên bằng những tấm chiếu, sau đó gọi những người vợ cũ của vị tôn giả Raṭṭhapāla lại và nói:
+Rồi cha của vị tôn giả Raṭṭhapāla, biết rằng ông đã nhận lời, liền trở về nhà mình. Về đến nhà, ông cho chất thành một đống vàng lớn, cả vàng đúc lẫn vàng chưa đúc, rồi phủ lên bằng những tấm chiếu, sau đó gọi những người vợ cũ của vị tôn giả Raṭṭhapāla lại và nói:
 
 <!-- seg: mn82:20.2 -->
 "Này các con dâu, hãy trang điểm bằng cách trang điểm mà trước kia đã khiến thiện nam tử Raṭṭhapāla yêu mến và vừa lòng các con."
@@ -530,7 +532,7 @@ Rồi khi đêm ấy qua đi, cha của vị tôn giả Raṭṭhapāla cho dọ
 "Này Raṭṭhapāla, đến giờ rồi, bữa ăn đã sẵn sàng."
 
 <!-- seg: mn82:22.1 -->
-Rồi vào buổi sáng, vị tôn giả Raṭṭhapāla đắp y, mang bát và y, đến nhà của cha mình. Khi đến, Ngài ngồi xuống chỗ đã được sắp sẵn. Rồi cha của vị tôn giả Raṭṭhapāla cho mở đống vàng đúc và vàng chưa đúc ấy ra và nói với Ngài:
+Rồi vào buổi sáng, vị tôn giả Raṭṭhapāla đắp y, mang bát và y, đến nhà của cha mình. Khi đến, ông ngồi xuống chỗ đã được sắp sẵn. Rồi cha của vị tôn giả Raṭṭhapāla cho mở đống vàng đúc và vàng chưa đúc ấy ra và nói với ông:
 
 <!-- seg: mn82:22.2 -->
 "Này Raṭṭhapāla, đây là của cải do mẹ con để lại, còn kia là của cải do cha con để lại, và kia nữa là của cải do ông bà con để lại.
@@ -551,7 +553,7 @@ Vì sao vậy?
 Vì rằng, thưa gia chủ, từ chỗ ấy sẽ sinh ra cho ông những ưu sầu, than khóc, khổ đau, buồn bã và tuyệt vọng."
 
 <!-- seg: mn82:23.1 -->
-Rồi những người vợ cũ của vị tôn giả Raṭṭhapāla, mỗi người ôm lấy chân Ngài, và nói:
+Rồi những người vợ cũ của vị tôn giả Raṭṭhapāla, mỗi người ôm lấy chân ông, và nói:
 
 <!-- seg: mn82:23.2 -->
 "Thưa cậu chủ, những tiên nữ như thế nào mà vì họ cậu chủ lại sống đời phạm hạnh?"
@@ -577,13 +579,15 @@ nhưng xin đừng quấy nhiễu tôi."
 "Ăn đi, này Raṭṭhapāla, bữa ăn đã sẵn sàng."
 
 <!-- seg: mn82:24.5 -->
-Rồi cha của vị tôn giả Raṭṭhapāla tự tay dọn cho Ngài những món ăn ngon, món nhai và món nuốt, làm Ngài thoả thích và mãn nguyện.
+Rồi cha của vị tôn giả Raṭṭhapāla tự tay dọn cho ông những món ăn ngon, món nhai và món nuốt, làm ông thoả thích và mãn nguyện.
 
 <!-- seg: mn82:24.6 -->
 Rồi vị tôn giả Raṭṭhapāla, sau khi ăn xong, đã rửa tay và bát, liền đứng tại chỗ ấy mà nói những bài kệ này:
 
 <!-- seg: mn82:25.1 -->
 "Hãy xem hình nộm được trang điểm này,
+
+[Chú thích: Những bài kệ sau đây cũng có trong các bài kệ của Raṭṭhapāla ở Thag 16.4.]
 
 <!-- seg: mn82:25.2 -->
 một thân hình chồng chất những vết loét,
@@ -655,7 +659,7 @@ Ta đã ăn mồi rồi, giờ ta đi,
 mặc cho những kẻ giăng bẫy than khóc."
 
 <!-- seg: mn82:26.1 -->
-Rồi vị tôn giả Raṭṭhapāla, sau khi đứng tại chỗ ấy nói những bài kệ này, liền đến khu vườn nai của vua Koravya. Khi đến, Ngài ngồi xuống dưới gốc một cây để an trú ban ngày.
+Rồi vị tôn giả Raṭṭhapāla, sau khi đứng tại chỗ ấy nói những bài kệ này, liền đến khu vườn nai của vua Koravya. Khi đến, ông ngồi xuống dưới gốc một cây để an trú ban ngày.
 
 <!-- seg: mn82:27.1 -->
 Rồi vua Koravya gọi người coi vườn nai lại và nói:
@@ -692,7 +696,7 @@ Bây giờ ta sẽ đến thăm vị tôn giả Raṭṭhapāla ấy."
 Rồi vua Koravya nói: "Hãy phân phát hết những món ăn ngon đã dọn sẵn ở đó." Xong, ông cho thắng những cỗ xe tốt nhất, lên một cỗ xe tốt, và cùng với những cỗ xe tốt khác, rời Thullakoṭṭhika với uy nghi lớn của bậc vua chúa để đến gặp vị tôn giả Raṭṭhapāla.
 
 <!-- seg: mn82:28.2 -->
-Đi xe đến chỗ nào xe có thể đi được, ông xuống xe, rồi cùng với đoàn người quý tộc đông đảo đi bộ đến chỗ vị tôn giả Raṭṭhapāla. Khi đến, ông chào hỏi Ngài; sau những lời chào hỏi và thăm hỏi thân thiện, ông đứng sang một bên. Đứng một bên, vua Koravya nói với vị tôn giả Raṭṭhapāla:
+Đi xe đến chỗ nào xe có thể đi được, ông xuống xe, rồi cùng với đoàn người quý tộc đông đảo đi bộ đến chỗ vị tôn giả Raṭṭhapāla. Khi đến, ông chào hỏi vị ấy; sau những lời chào hỏi và thăm hỏi thân thiện, ông đứng sang một bên. Đứng một bên, vua Koravya nói với vị tôn giả Raṭṭhapāla:
 
 <!-- seg: mn82:28.3 -->
 "Xin tôn giả Raṭṭhapāla ngồi lên tấm thảm da voi này."
@@ -921,6 +925,8 @@ Thưa tôn giả Raṭṭhapāla, ý nghĩa của lời ấy phải hiểu thế
 
 <!-- seg: mn82:38.5 -->
 khi đại vương hai mươi hay hai lăm tuổi, đại vương có giỏi cưỡi voi, giỏi cưỡi ngựa, giỏi đánh xe, giỏi bắn cung, giỏi dùng gươm, có sức mạnh nơi đùi và nơi tay, đủ sức và từng trải trận mạc không?"
+
+[Chú thích: Chữ *alamatto* ở đây nên đọc là *alamattho*, nghĩa là "đủ sức, có khả năng".]
 
 <!-- seg: mn82:38.6 -->
 "Có, thưa tôn giả Raṭṭhapāla, khi tôi hai mươi hay hai lăm tuổi, tôi đã giỏi cưỡi voi, giỏi cưỡi ngựa, giỏi đánh xe, giỏi bắn cung, giỏi dùng gươm, có sức mạnh nơi đùi và nơi tay, đủ sức và từng trải trận mạc.
@@ -1216,7 +1222,7 @@ Thật vậy, thưa tôn giả Raṭṭhapāla, thế gian thiếu thốn, khôn
 Vị tôn giả Raṭṭhapāla nói như vậy.
 
 <!-- seg: mn82:42.2 -->
-Nói xong, Ngài nói tiếp:
+Nói xong, ông nói tiếp:
 
 <!-- seg: mn82:42.3 -->
 "Ta thấy những người giàu có ở đời,

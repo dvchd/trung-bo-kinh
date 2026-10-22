@@ -5,7 +5,7 @@
 Vị tôn giả Raṭṭhapāla nhận lời bằng cách im lặng.
 
 <!-- seg: mn82:20.1 -->
-Rồi cha của vị tôn giả Raṭṭhapāla, biết rằng Ngài đã nhận lời, liền trở về nhà mình. Về đến nhà, ông cho chất thành một đống vàng lớn, cả vàng đúc lẫn vàng chưa đúc, rồi phủ lên bằng những tấm chiếu, sau đó gọi những người vợ cũ của vị tôn giả Raṭṭhapāla lại và nói:
+Rồi cha của vị tôn giả Raṭṭhapāla, biết rằng ông đã nhận lời, liền trở về nhà mình. Về đến nhà, ông cho chất thành một đống vàng lớn, cả vàng đúc lẫn vàng chưa đúc, rồi phủ lên bằng những tấm chiếu, sau đó gọi những người vợ cũ của vị tôn giả Raṭṭhapāla lại và nói:
 
 <!-- seg: mn82:20.2 -->
 "Này các con dâu, hãy trang điểm bằng cách trang điểm mà trước kia đã khiến thiện nam tử Raṭṭhapāla yêu mến và vừa lòng các con."
@@ -17,7 +17,7 @@ Rồi khi đêm ấy qua đi, cha của vị tôn giả Raṭṭhapāla cho dọ
 "Này Raṭṭhapāla, đến giờ rồi, bữa ăn đã sẵn sàng."
 
 <!-- seg: mn82:22.1 -->
-Rồi vào buổi sáng, vị tôn giả Raṭṭhapāla đắp y, mang bát và y, đến nhà của cha mình. Khi đến, Ngài ngồi xuống chỗ đã được sắp sẵn. Rồi cha của vị tôn giả Raṭṭhapāla cho mở đống vàng đúc và vàng chưa đúc ấy ra và nói với Ngài:
+Rồi vào buổi sáng, vị tôn giả Raṭṭhapāla đắp y, mang bát và y, đến nhà của cha mình. Khi đến, ông ngồi xuống chỗ đã được sắp sẵn. Rồi cha của vị tôn giả Raṭṭhapāla cho mở đống vàng đúc và vàng chưa đúc ấy ra và nói với ông:
 
 <!-- seg: mn82:22.2 -->
 "Này Raṭṭhapāla, đây là của cải do mẹ con để lại, còn kia là của cải do cha con để lại, và kia nữa là của cải do ông bà con để lại.
@@ -38,7 +38,7 @@ Vì sao vậy?
 Vì rằng, thưa gia chủ, từ chỗ ấy sẽ sinh ra cho ông những ưu sầu, than khóc, khổ đau, buồn bã và tuyệt vọng."
 
 <!-- seg: mn82:23.1 -->
-Rồi những người vợ cũ của vị tôn giả Raṭṭhapāla, mỗi người ôm lấy chân Ngài, và nói:
+Rồi những người vợ cũ của vị tôn giả Raṭṭhapāla, mỗi người ôm lấy chân ông, và nói:
 
 <!-- seg: mn82:23.2 -->
 "Thưa cậu chủ, những tiên nữ như thế nào mà vì họ cậu chủ lại sống đời phạm hạnh?"
@@ -64,13 +64,15 @@ nhưng xin đừng quấy nhiễu tôi."
 "Ăn đi, này Raṭṭhapāla, bữa ăn đã sẵn sàng."
 
 <!-- seg: mn82:24.5 -->
-Rồi cha của vị tôn giả Raṭṭhapāla tự tay dọn cho Ngài những món ăn ngon, món nhai và món nuốt, làm Ngài thoả thích và mãn nguyện.
+Rồi cha của vị tôn giả Raṭṭhapāla tự tay dọn cho ông những món ăn ngon, món nhai và món nuốt, làm ông thoả thích và mãn nguyện.
 
 <!-- seg: mn82:24.6 -->
 Rồi vị tôn giả Raṭṭhapāla, sau khi ăn xong, đã rửa tay và bát, liền đứng tại chỗ ấy mà nói những bài kệ này:
 
 <!-- seg: mn82:25.1 -->
 "Hãy xem hình nộm được trang điểm này,
+
+[Chú thích: Những bài kệ sau đây cũng có trong các bài kệ của Raṭṭhapāla ở Thag 16.4.]
 
 <!-- seg: mn82:25.2 -->
 một thân hình chồng chất những vết loét,
@@ -142,7 +144,7 @@ Ta đã ăn mồi rồi, giờ ta đi,
 mặc cho những kẻ giăng bẫy than khóc."
 
 <!-- seg: mn82:26.1 -->
-Rồi vị tôn giả Raṭṭhapāla, sau khi đứng tại chỗ ấy nói những bài kệ này, liền đến khu vườn nai của vua Koravya. Khi đến, Ngài ngồi xuống dưới gốc một cây để an trú ban ngày.
+Rồi vị tôn giả Raṭṭhapāla, sau khi đứng tại chỗ ấy nói những bài kệ này, liền đến khu vườn nai của vua Koravya. Khi đến, ông ngồi xuống dưới gốc một cây để an trú ban ngày.
 
 <!-- seg: mn82:27.1 -->
 Rồi vua Koravya gọi người coi vườn nai lại và nói:

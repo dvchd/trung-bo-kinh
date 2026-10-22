@@ -103,7 +103,7 @@ Vì vậy, này con trai, khi nào chính con cũng thấy tóc bạc đã mọc
 <!-- seg: mn83:4.17 -->
 Hãy tiếp tục duy trì truyền thống tốt đẹp mà ta đã lập nên; chớ để con là người cuối cùng của ta.
 
-[Chú thích: *Antimapurisa*, kẻ cuối cùng, chỉ người không truyền lại được nếp ấy cho đời sau, khiến dòng truyền thống dừng lại nơi mình.]
+[Chú thích của người dịch: *Antimapurisa*, kẻ cuối cùng, chỉ người không truyền lại được nếp ấy cho đời sau, khiến dòng truyền thống dừng lại nơi mình.]
 
 <!-- seg: mn83:4.18 -->
 Này con trai, khi một đôi người đang sống với nhau, ai chặt đứt một truyền thống tốt đẹp như vậy thì người ấy là kẻ cuối cùng của đôi ấy.

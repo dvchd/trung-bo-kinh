@@ -33,7 +33,7 @@ Người đọc lần đầu có thể thấy bài kinh này lạ, vì nó dành
 <!-- seg: mn83:0.2 -->
 **Kinh Makhādeva** (*Makhādeva Sutta*) — bài kinh kể chuyện vua Maghadeva ở Mithilā: khi thấy tóc bạc, vua nhường ngôi cho con trai rồi xuất gia, và tám vạn bốn ngàn đời vua nối nhau làm theo; đến vua Nimi thì nếp ấy vẫn còn, nhưng con trai ông là Kaḷāra Janaka đã chặt đứt, và Đức Thế Tôn kết luận rằng nếp ấy chỉ đưa đến cõi Phạm Thiên, còn con đường tám nhánh mà Ngài lập nên mới đưa đến Niết-bàn.
 
-[Chú thích: Bản Pali dùng ở đây ghi tên vua là *Maghadeva* và tên bài là *Maghadevasutta*; các bản khác ghi *Makhādeva* hoặc *Māghadeva*, còn tên bài quen dùng là *Makhādeva*.]
+[Chú thích của người dịch: Bản Pali dùng ở đây ghi tên vua là *Maghadeva* và tên bài là *Maghadevasutta*; các bản khác ghi *Makhādeva* hoặc *Māghadeva*, còn tên bài quen dùng là *Makhādeva*.]
 
 ---
 
@@ -142,7 +142,7 @@ Vì vậy, này con trai, khi nào chính con cũng thấy tóc bạc đã mọc
 <!-- seg: mn83:4.17 -->
 Hãy tiếp tục duy trì truyền thống tốt đẹp mà ta đã lập nên; chớ để con là người cuối cùng của ta.
 
-[Chú thích: *Antimapurisa*, kẻ cuối cùng, chỉ người không truyền lại được nếp ấy cho đời sau, khiến dòng truyền thống dừng lại nơi mình.]
+[Chú thích của người dịch: *Antimapurisa*, kẻ cuối cùng, chỉ người không truyền lại được nếp ấy cho đời sau, khiến dòng truyền thống dừng lại nơi mình.]
 
 <!-- seg: mn83:4.18 -->
 Này con trai, khi một đôi người đang sống với nhau, ai chặt đứt một truyền thống tốt đẹp như vậy thì người ấy là kẻ cuối cùng của đôi ấy.
@@ -620,4 +620,4 @@ Tôn giả Ānanda hoan hỷ, tán thán lời Đức Thế Tôn dạy.
 <!-- seg: mn83:21.20 -->
 Kinh Maghadeva, bài thứ ba, đã hoàn tất.
 
-[Chú thích: Dòng này là lời ghi kết thúc bài kinh trong bản Pali, không phải lời thoại; "bài thứ ba" là vị trí của bài kinh trong phẩm kinh chứa nó.]
+[Chú thích của người dịch: Dòng này là lời ghi kết thúc bài kinh trong bản Pali, không phải lời thoại; "bài thứ ba" là vị trí của bài kinh trong phẩm kinh chứa nó.]

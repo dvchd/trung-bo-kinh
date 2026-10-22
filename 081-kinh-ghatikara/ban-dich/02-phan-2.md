@@ -123,7 +123,7 @@ Rồi này Ānanda, Ghaṭikāra thợ gốm và thanh niên Jotipāla đi đế
 Xin Đức Thế Tôn cho anh ấy xuất gia."
 
 <!-- seg: mn81:12.4 -->
-Thanh niên Jotipāla đã được xuất gia và được thọ giới cụ túc ngay trước Đức Thế Tôn Kassapa, bậc A-la-hán, Chánh đẳng giác.
+Này Ānanda, thanh niên Jotipāla đã được xuất gia và được thọ giới cụ túc ngay trước Đức Thế Tôn Kassapa, bậc A-la-hán, Chánh đẳng giác.
 
 <!-- seg: mn81:13.1 -->
 Rồi này Ānanda, không lâu sau khi thanh niên Jotipāla thọ giới cụ túc, mới được nửa tháng, Đức Thế Tôn Kassapa, bậc A-la-hán, Chánh đẳng giác, sau khi trú tại Vegaḷiṅga bao lâu tùy ý, liền lên đường du hành đến Bārāṇasī (Ba-la-nại).
@@ -137,7 +137,7 @@ Ngài đi từng chặng một trên đường du hành rồi đến Bārāṇas
 Tại đó, này Ānanda, Đức Thế Tôn Kassapa trú tại Bārāṇasī, trong vườn nai Isipatana, tức Lộc Uyển.
 
 <!-- seg: mn81:14.1 -->
-Vua Kikī nước Kāsi (Ca-thi) nghe tin: "Đức Thế Tôn Kassapa, bậc A-la-hán, Chánh đẳng giác, đã đến Bārāṇasī và trú tại Bārāṇasī, trong vườn nai Isipatana."
+Này Ānanda, vua Kikī nước Kāsi (Ca-thi) nghe tin: "Đức Thế Tôn Kassapa, bậc A-la-hán, Chánh đẳng giác, đã đến Bārāṇasī và trú tại Bārāṇasī, trong vườn nai Isipatana."
 
 [Chú thích: Kikī, nghĩa là "chim giẻ cùi xanh", cũng là vị vua trong thời Đức Thế Tôn Kassapa ở DN 14 và không thấy có trong các bản phả hệ Purāṇa. Vào thời Đức Thế Tôn, thành Bārāṇasī đã bị chinh phục nhiều lần và lần lượt thuộc về Kosala rồi Magadha; bài kinh này cho thấy vị vua cổ thật sự của thành ấy lại chính là đệ tử của một vị Phật trong quá khứ.]
 
@@ -148,7 +148,7 @@ Rồi này Ānanda, vua Kikī nước Kāsi cho thắng những cỗ xe đẹp n
 Vua đi xe đến chỗ đất mà xe có thể đi được, rồi xuống xe, đi bộ đến chỗ Đức Thế Tôn Kassapa; đến nơi, đảnh lễ Đức Thế Tôn Kassapa, bậc A-la-hán, Chánh đẳng giác, rồi ngồi xuống một bên.
 
 <!-- seg: mn81:14.4 -->
-Khi vua Kikī nước Kāsi đã ngồi xuống một bên, Đức Thế Tôn Kassapa dùng lời nói về Pháp để khai thị, khuyến tấn, khích lệ và làm hoan hỷ nhà vua.
+Khi vua Kikī nước Kāsi đã ngồi xuống một bên, này Ānanda, Đức Thế Tôn Kassapa dùng lời nói về Pháp để khai thị, khuyến tấn, khích lệ và làm hoan hỷ nhà vua.
 
 <!-- seg: mn81:14.5 -->
 Rồi này Ānanda, vua Kikī nước Kāsi, sau khi được Đức Thế Tôn Kassapa khai thị, khuyến tấn, khích lệ và làm hoan hỷ bằng lời nói về Pháp, liền bạch Đức Thế Tôn Kassapa:
@@ -157,7 +157,7 @@ Rồi này Ānanda, vua Kikī nước Kāsi, sau khi được Đức Thế Tôn 
 "Bạch Thế Tôn, xin Đức Thế Tôn nhận lời thọ trai của con vào ngày mai, cùng với Tăng đoàn tỳ-kheo."
 
 <!-- seg: mn81:14.7 -->
-Đức Thế Tôn Kassapa nhận lời bằng sự im lặng.
+Này Ānanda, Đức Thế Tôn Kassapa nhận lời bằng sự im lặng.
 
 <!-- seg: mn81:15.1 -->
 Rồi này Ānanda, vua Kikī nước Kāsi, biết rằng Đức Thế Tôn Kassapa đã nhận lời, đứng dậy khỏi chỗ ngồi, đảnh lễ Đức Thế Tôn Kassapa, đi vòng quanh Ngài theo phía bên phải rồi ra về.

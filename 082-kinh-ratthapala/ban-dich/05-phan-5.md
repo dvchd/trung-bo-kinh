@@ -23,7 +23,7 @@ Bây giờ ta sẽ đến thăm vị tôn giả Raṭṭhapāla ấy."
 Rồi vua Koravya nói: "Hãy phân phát hết những món ăn ngon đã dọn sẵn ở đó." Xong, ông cho thắng những cỗ xe tốt nhất, lên một cỗ xe tốt, và cùng với những cỗ xe tốt khác, rời Thullakoṭṭhika với uy nghi lớn của bậc vua chúa để đến gặp vị tôn giả Raṭṭhapāla.
 
 <!-- seg: mn82:28.2 -->
-Đi xe đến chỗ nào xe có thể đi được, ông xuống xe, rồi cùng với đoàn người quý tộc đông đảo đi bộ đến chỗ vị tôn giả Raṭṭhapāla. Khi đến, ông chào hỏi Ngài; sau những lời chào hỏi và thăm hỏi thân thiện, ông đứng sang một bên. Đứng một bên, vua Koravya nói với vị tôn giả Raṭṭhapāla:
+Đi xe đến chỗ nào xe có thể đi được, ông xuống xe, rồi cùng với đoàn người quý tộc đông đảo đi bộ đến chỗ vị tôn giả Raṭṭhapāla. Khi đến, ông chào hỏi vị ấy; sau những lời chào hỏi và thăm hỏi thân thiện, ông đứng sang một bên. Đứng một bên, vua Koravya nói với vị tôn giả Raṭṭhapāla:
 
 <!-- seg: mn82:28.3 -->
 "Xin tôn giả Raṭṭhapāla ngồi lên tấm thảm da voi này."

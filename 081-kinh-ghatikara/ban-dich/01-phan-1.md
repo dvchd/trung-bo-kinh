@@ -125,7 +125,7 @@ Thấy kẻ đầu trọc ấy, thấy gã sa-môn giả ấy thì có ích gì?
 [Chú thích: Chữ sotti không rõ nghĩa; ở đây hiểu là đồ dùng để tắm rửa, có thể là một thứ bột thơm hay vỏ sò tán nhỏ dùng khi tắm, nhưng cách hiểu này vẫn chưa chắc chắn. Các bản Pali vẫn kể sotti như một phương tiện tắm rửa thông thường, không cần nguyên liệu hay cách thức đặc biệt.]
 
 <!-- seg: mn81:6.17 -->
-"Vâng, thưa anh." Thanh niên Jotipāla đáp lời Ghaṭikāra thợ gốm.
+"Vâng, thưa anh." Này Ānanda, thanh niên Jotipāla đáp lời Ghaṭikāra thợ gốm.
 
 <!-- seg: mn81:6.18 -->
 Rồi này Ānanda, Ghaṭikāra thợ gốm và thanh niên Jotipāla lấy đồ tắm rồi cùng đi ra sông tắm.

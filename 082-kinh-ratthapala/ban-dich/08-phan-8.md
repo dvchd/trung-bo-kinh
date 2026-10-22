@@ -87,7 +87,7 @@ Thật vậy, thưa tôn giả Raṭṭhapāla, thế gian thiếu thốn, khôn
 Vị tôn giả Raṭṭhapāla nói như vậy.
 
 <!-- seg: mn82:42.2 -->
-Nói xong, Ngài nói tiếp:
+Nói xong, ông nói tiếp:
 
 <!-- seg: mn82:42.3 -->
 "Ta thấy những người giàu có ở đời,

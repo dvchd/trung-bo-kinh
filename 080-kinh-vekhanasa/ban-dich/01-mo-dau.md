@@ -81,10 +81,10 @@ Người ta sẽ bảo anh ta:
 Này Kaccāna, ông nghĩ sao,
 
 <!-- seg: mn80:3.15 -->
-như vậy thì lời nói của người ấy hóa ra là không có gì chứng minh được, phải không?"
+như vậy thì lời nói của người ấy hóa ra không có căn cứ chứng minh, phải không?"
 
 <!-- seg: mn80:3.16 -->
-"Quả thật vậy, thưa ngài Gotama, như vậy thì lời nói của người ấy hóa ra không có gì chứng minh được."
+"Quả thật vậy, thưa ngài Gotama, như vậy thì lời nói của người ấy hóa ra không có căn cứ chứng minh."
 
 <!-- seg: mn80:3.17 -->
 "Cũng vậy, này Kaccāna, ông nói 'thưa ngài Gotama, vẻ rực rỡ mà so với nó không có vẻ rực rỡ nào khác cao hơn hay thù thắng hơn, đó là vẻ rực rỡ tối thượng', nhưng ông lại không mô tả vẻ rực rỡ ấy."
@@ -275,7 +275,7 @@ Thực hành đúng theo lời chỉ dạy, không bao lâu người ấy sẽ t
 Khi nghe nói vậy, du sĩ Vekhanasa thưa với Đức Thế Tôn:
 
 <!-- seg: mn80:17.2 -->
-"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Ví như người ta lật lại vật đang bị úp, mở ra vật đang bị che, chỉ đường cho kẻ lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách. Con xin quy y ngài Gotama, quy y Pháp và quy y Tăng đoàn tỳ-kheo.
+"Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời! Ví như người ta lật lại vật đang bị úp, mở ra vật đang bị che, chỉ đường cho kẻ lạc lối, hay đem đèn dầu vào chỗ tối để những người có mắt thấy được các sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách. Con xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.
 
 <!-- seg: mn80:17.3 -->
 Mong ngài Gotama nhớ đến con như một người cư sĩ đã quy y, từ hôm nay cho đến trọn đời."

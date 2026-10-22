@@ -1,5 +1,5 @@
 <!-- seg: mn84:9.19 -->
-'Chỉ có bà-la-môn là giai cấp cao nhất; các giai cấp khác là thấp kém.
+"Chỉ có bà-la-môn là giai cấp cao nhất; các giai cấp khác là thấp kém.
 
 <!-- seg: mn84:9.20 -->
 Chỉ có bà-la-môn là giai cấp trắng; các giai cấp khác là giai cấp đen.
@@ -8,7 +8,7 @@ Chỉ có bà-la-môn là giai cấp trắng; các giai cấp khác là giai c�
 Chỉ có bà-la-môn mới được thanh tịnh, những người không phải bà-la-môn thì không.
 
 <!-- seg: mn84:9.22 -->
-Chỉ có bà-la-môn là con ruột của Phạm Thiên, sinh ra từ miệng Phạm Thiên, sinh ra từ Phạm Thiên, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên.'
+Chỉ có bà-la-môn là con ruột của Phạm Thiên, sinh ra từ miệng Phạm Thiên, sinh ra từ Phạm Thiên, do Phạm Thiên tạo ra, là những người thừa kế của Phạm Thiên."
 
 <!-- seg: mn84:10.1 -->
 Khi nghe những lời ấy, vua Avantiputta của Madhurā nói với Tôn giả Mahākaccāna:

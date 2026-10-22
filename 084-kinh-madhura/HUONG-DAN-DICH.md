@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Bài kinh diễn ra tại Madhurā, vào thời gian sau khi Đức Thế Tôn đã nhập Niết-bàn: vua Avantiputta hỏi Tôn giả Mahākaccāna về lời của các bà-la-môn rằng chỉ họ là giai cấp cao nhất, giai cấp trắng, duy nhất được thanh tịnh và là con ruột của Phạm Thiên. Tôn giả không tranh cãi trực tiếp mà lần lượt đặt bốn câu hỏi ngược lại, để nhà vua tự thấy rằng của cải, quả báo của nghiệp ác và nghiệp thiện, luật pháp trừng trị kẻ phạm tội, và sự xuất gia giữ giới đều không phân biệt giai cấp. Bốn lần nhà vua thừa nhận bốn giai cấp bình đẳng, và Tôn giả kết luận lời của các bà-la-môn chỉ là lời đồn trong thế gian. Nghe xong, nhà vua xin quy y nơi Tôn giả, được Ngài hướng về Đức Thế Tôn; biết Ngài đã nhập Niết-bàn, nhà vua vẫn xin quy y nơi Đức Thế Tôn cùng Pháp và Tăng đoàn tỳ-kheo, và bài kinh khép lại bằng dòng ghi kết thúc trong bản Pali.
+Bài kinh diễn ra tại Madhurā, vào thời gian sau khi Đức Thế Tôn đã nhập Niết-bàn: vua Avantiputta hỏi Tôn giả Mahākaccāna về lời của các bà-la-môn rằng chỉ họ là giai cấp cao nhất, giai cấp trắng, duy nhất được thanh tịnh và là con ruột của Phạm Thiên. Tôn giả không tranh cãi trực tiếp mà lần lượt đặt năm câu hỏi ngược lại, để nhà vua tự thấy rằng của cải, quả báo của nghiệp ác và nghiệp thiện, luật pháp trừng trị kẻ phạm tội, và sự xuất gia giữ giới đều không phân biệt giai cấp. Năm lần nhà vua thừa nhận bốn giai cấp bình đẳng, và Tôn giả kết luận lời của các bà-la-môn chỉ là lời đồn trong thế gian. Nghe xong, nhà vua xin quy y nơi Tôn giả, được Ngài hướng về Đức Thế Tôn; biết Ngài đã nhập Niết-bàn, nhà vua vẫn xin quy y nơi Đức Thế Tôn cùng Pháp và Tăng đoàn tỳ-kheo, và bài kinh khép lại bằng dòng ghi kết thúc trong bản Pali.
 
 ## 2. Nhân vật
 

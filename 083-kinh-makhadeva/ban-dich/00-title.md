@@ -8,4 +8,4 @@
 <!-- seg: mn83:0.2 -->
 **Kinh Makhādeva** (*Makhādeva Sutta*) — bài kinh kể chuyện vua Maghadeva ở Mithilā: khi thấy tóc bạc, vua nhường ngôi cho con trai rồi xuất gia, và tám vạn bốn ngàn đời vua nối nhau làm theo; đến vua Nimi thì nếp ấy vẫn còn, nhưng con trai ông là Kaḷāra Janaka đã chặt đứt, và Đức Thế Tôn kết luận rằng nếp ấy chỉ đưa đến cõi Phạm Thiên, còn con đường tám nhánh mà Ngài lập nên mới đưa đến Niết-bàn.
 
-[Chú thích: Bản Pali dùng ở đây ghi tên vua là *Maghadeva* và tên bài là *Maghadevasutta*; các bản khác ghi *Makhādeva* hoặc *Māghadeva*, còn tên bài quen dùng là *Makhādeva*.]
+[Chú thích của người dịch: Bản Pali dùng ở đây ghi tên vua là *Maghadeva* và tên bài là *Maghadevasutta*; các bản khác ghi *Makhādeva* hoặc *Māghadeva*, còn tên bài quen dùng là *Makhādeva*.]
