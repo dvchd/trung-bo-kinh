@@ -185,6 +185,9 @@ nhắc mà **không** sửa (khoảng 824 điểm), để lần sau khỏi phả
 Ngoài các chỗ sửa trong từng bài, đợt này còn đồng nhất ở phạm vi toàn kho: công thức bốn đường ác
 ("cõi khổ, đường ác, đọa xứ, địa ngục", 74 chỗ), công thức chứng quả A-la-hán, công thức bảy giác chi
 ("nương vào viễn ly… chín muồi thành sự buông bỏ"), cách gọi rừng Jeta (Kỳ-đà), và nhãn hai loại chú thích.
+Sau khi đợt đọc lại xong, rà thêm bằng `cong-cu/ra-soat-cong-thuc.py` và đồng nhất tiếp: công thức
+"không nắm bắt tướng chung, không nắm bắt tướng riêng" (54 chỗ), ẩn dụ "dựng lại vật đã bị lật úp,
+mở ra vật đã bị che kín" (31 bài), và động từ "chứng đạt và an trú" trong công thức chứng thiền (159 chỗ).
 Mọi bài đều qua `ghep.py`, `tao-muc-luc.py`, `ra-soat.py` (KET LUAN: DAT) và `kiem-tra-marker.py` (ĐẠT).
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
