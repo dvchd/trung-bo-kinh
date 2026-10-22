@@ -52,7 +52,7 @@ Mũi tên tham ái ấy nơi tôi đã được dứt bỏ, thuốc độc vô m
 Tuy vị ấy tự phụ như vậy, điều ấy không đúng với sự thật.
 
 <!-- seg: mn105:21.5 -->
-Vị ấy sẽ chuyên làm những việc không thích hợp với người hướng đúng về Niết-bàn: chuyên nhìn sắc bằng mắt một cách không thích hợp, chuyên nghe tiếng bằng tai một cách không thích hợp, chuyên ngửi mùi bằng mũi một cách không thích hợp, chuyên nếm vị bằng lưỡi một cách không thích hợp, chuyên xúc chạm bằng thân một cách không thích hợp, chuyên nghĩ đến pháp bằng ý một cách không thích hợp.
+Vị ấy sẽ chuyên làm những việc không thích hợp với người đúng đắn hướng lòng về Niết-bàn: chuyên nhìn sắc bằng mắt một cách không thích hợp, chuyên nghe tiếng bằng tai một cách không thích hợp, chuyên ngửi mùi bằng mũi một cách không thích hợp, chuyên nếm vị bằng lưỡi một cách không thích hợp, chuyên xúc chạm bằng thân một cách không thích hợp, chuyên nghĩ đến pháp bằng ý một cách không thích hợp.
 
 <!-- seg: mn105:21.6 -->
 Khi vị ấy chuyên nhìn sắc bằng mắt một cách không thích hợp, chuyên nghe tiếng bằng tai một cách không thích hợp, chuyên ngửi mùi bằng mũi một cách không thích hợp, chuyên nếm vị bằng lưỡi một cách không thích hợp, chuyên xúc chạm bằng thân một cách không thích hợp, chuyên nghĩ đến pháp bằng ý một cách không thích hợp, thì lòng tham sẽ làm nhiễm ô tâm vị ấy.
@@ -76,7 +76,7 @@ Này Sunakkhatta, có thể có chuyện một tỳ-kheo nào đó nghĩ rằng:
 Mũi tên tham ái ấy nơi tôi đã được dứt bỏ, thuốc độc vô minh đã được lấy đi, tôi đang đúng đắn hướng lòng về Niết-bàn."
 
 <!-- seg: mn105:23.4 -->
-Vì là người đúng đắn hướng lòng về Niết-bàn, vị ấy sẽ không chuyên làm những việc không thích hợp với người hướng đúng về Niết-bàn: không nhìn sắc bằng mắt một cách không thích hợp, không nghe tiếng bằng tai một cách không thích hợp, không ngửi mùi bằng mũi một cách không thích hợp, không nếm vị bằng lưỡi một cách không thích hợp, không xúc chạm bằng thân một cách không thích hợp, không nghĩ đến pháp bằng ý một cách không thích hợp.
+Vì là người đúng đắn hướng lòng về Niết-bàn, vị ấy sẽ không chuyên làm những việc không thích hợp với người đúng đắn hướng lòng về Niết-bàn: không nhìn sắc bằng mắt một cách không thích hợp, không nghe tiếng bằng tai một cách không thích hợp, không ngửi mùi bằng mũi một cách không thích hợp, không nếm vị bằng lưỡi một cách không thích hợp, không xúc chạm bằng thân một cách không thích hợp, không nghĩ đến pháp bằng ý một cách không thích hợp.
 
 <!-- seg: mn105:23.5 -->
 Khi vị ấy không nhìn sắc bằng mắt một cách không thích hợp, không nghe tiếng bằng tai một cách không thích hợp, không ngửi mùi bằng mũi một cách không thích hợp, không nếm vị bằng lưỡi một cách không thích hợp, không xúc chạm bằng thân một cách không thích hợp, không nghĩ đến pháp bằng ý một cách không thích hợp, thì lòng tham sẽ không làm nhiễm ô tâm vị ấy.

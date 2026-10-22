@@ -39,7 +39,7 @@ Phần cuối bài kinh là một cuộc tranh luận nhỏ về thiền. Vassak
 Tôi nghe như vầy.
 
 <!-- seg: mn108:1.2 -->
-Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
+Một thuở nọ, ngài Ānanda trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa), không lâu sau khi Đức Thế Tôn nhập Niết-bàn.
 
 <!-- seg: mn108:2.1 -->
 Lúc bấy giờ, vua Ajātasattu (A-xà-thế) nước Magadha (Ma-kiệt-đà), con của công chúa Videha, đang cho củng cố Rājagaha vì e ngại vua Pajjota.

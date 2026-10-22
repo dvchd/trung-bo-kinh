@@ -422,7 +422,7 @@ Này các tỳ-kheo, nếu người khác hỏi vị tỳ-kheo ấy như vầy:
 Này các tỳ-kheo, vị tỳ-kheo trả lời đúng đắn thì nên trả lời như vầy:
 
 <!-- seg: mn103:17.4 -->
-"Thưa các vị, tôi đã đến chỗ Đức Thế Tôn; Đức Thế Tôn thuyết Pháp cho tôi; sau khi nghe Pháp ấy, tôi giảng lại cho các tỳ-kheo kia.
+"Thưa các hiền giả, tôi đã đến chỗ Đức Thế Tôn; Đức Thế Tôn thuyết Pháp cho tôi; sau khi nghe Pháp ấy, tôi giảng lại cho các tỳ-kheo kia.
 
 <!-- seg: mn103:17.5 -->
 Các tỳ-kheo ấy sau khi nghe Pháp ấy đã ra khỏi điều bất thiện và được an lập vào điều thiện."

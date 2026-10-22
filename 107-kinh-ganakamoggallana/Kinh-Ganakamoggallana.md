@@ -61,7 +61,7 @@ Thưa ngài Gotama, nơi những bà-la-môn này cũng thấy có sự học t�
 <!-- seg: mn107:2.4 -->
 Trong việc tụng đọc.
 
-[Chú thích: Học thuộc các văn bản Vệ-đà là nghề khó của bà-la-môn, đến mức có khi họ phải hỏi Đức Thế Tôn cách học. Kinh Luật tạng (Bu Pc 4) chép bốn lối học tuần tự: học từng câu, học nối theo câu, học nối theo âm tiết, và học theo cụm từ.]
+[Chú thích: Học thuộc các văn bản Vệ-đà là nghề khó của bà-la-môn, đến mức có khi họ phải hỏi Đức Thế Tôn cách học. Luật tạng (Bu Pc 4) chép bốn lối học tuần tự: học từng câu, học nối theo câu, học nối theo âm tiết, và học theo cụm từ.]
 
 <!-- seg: mn107:2.5 -->
 Thưa ngài Gotama, nơi những người bắn cung này cũng thấy có sự học tập tuần tự, sự làm việc tuần tự, sự thực hành tuần tự, đó là:
@@ -233,6 +233,8 @@ Này bà-la-môn, ông nghĩ sao?
 
 <!-- seg: mn107:14.3 -->
 Ông có rành con đường đi đến Rājagaha (Vương Xá) không?"
+
+[Chú thích: Chāndogya Upaniṣad 6.14.1–2 minh họa vai trò của người thầy bằng câu chuyện một người bị bắt cóc, bị bịt mắt rồi bỏ giữa hoang địa: một người tốt bụng tháo băng bịt mắt và chỉ cho anh ta con đường đến Gandhāra. Śatapatha Brāhmaṇa 13.2.2–3 cũng có hình ảnh con ngựa biết đường lên trời mà người thường không biết, như một người rành đường.]
 
 <!-- seg: mn107:14.4 -->
 "Thưa ngài, vâng, tôi rành con đường đi đến Rājagaha."

@@ -24,7 +24,7 @@ Thưa ngài Gotama, nơi những bà-la-môn này cũng thấy có sự học t�
 <!-- seg: mn107:2.4 -->
 Trong việc tụng đọc.
 
-[Chú thích: Học thuộc các văn bản Vệ-đà là nghề khó của bà-la-môn, đến mức có khi họ phải hỏi Đức Thế Tôn cách học. Kinh Luật tạng (Bu Pc 4) chép bốn lối học tuần tự: học từng câu, học nối theo câu, học nối theo âm tiết, và học theo cụm từ.]
+[Chú thích: Học thuộc các văn bản Vệ-đà là nghề khó của bà-la-môn, đến mức có khi họ phải hỏi Đức Thế Tôn cách học. Luật tạng (Bu Pc 4) chép bốn lối học tuần tự: học từng câu, học nối theo câu, học nối theo âm tiết, và học theo cụm từ.]
 
 <!-- seg: mn107:2.5 -->
 Thưa ngài Gotama, nơi những người bắn cung này cũng thấy có sự học tập tuần tự, sự làm việc tuần tự, sự thực hành tuần tự, đó là:
