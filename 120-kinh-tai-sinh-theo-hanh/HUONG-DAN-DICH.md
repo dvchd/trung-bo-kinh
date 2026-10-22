@@ -18,7 +18,7 @@ Bài kinh diễn ra tại Sāvatthī (Xá-vệ). Đức Thế Tôn gọi các t�
 | bhikkhū | các tỳ-kheo | Đức Thế Tôn gọi "này các tỳ-kheo", đại từ "các ông" (mn120:1.3) |
 | bhikkhu (số ít) | vị tỳ-kheo | nhân vật trong khuôn mẫu, đại từ "vị ấy" (mn120:3.1) |
 | Sāvatthī | Sāvatthī (Xá-vệ) | (mn120:1.2) |
-| Jetavana | vườn Jeta (Kỳ-đà) | (mn120:1.2) |
+| Jetavana | rừng Jeta (Kỳ-đà) | (mn120:1.2) |
 | Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | chủ tịnh xá (mn120:1.2) |
 | sahasso brahmā | vị Phạm Thiên của một ngàn cõi | vị Phạm Thiên cai quản một ngàn cõi thế giới (mn120:12.3) |
 | pañcasahasso brahmā | vị Phạm Thiên của năm ngàn cõi | cõi được mô tả đầy đủ nhất trong nhóm (mn120:13-16.5) |

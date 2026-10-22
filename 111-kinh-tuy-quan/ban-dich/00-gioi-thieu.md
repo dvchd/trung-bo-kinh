@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-Bài kinh này có tên Pali là *Anupada Sutta*, và là bài thứ 111 trong Trung Bộ Kinh. Bối cảnh rất giản dị: Đức Thế Tôn trú tại Sāvatthī, trong khu vườn Jetavana, và Ngài gọi các tỳ-kheo đến để nói về một người trong số đệ tử của mình. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Cả bài kinh, trừ mấy câu mở đầu và kết thúc, là lời Đức Thế Tôn nói liền một mạch.
+Bài kinh này có tên Pali là *Anupada Sutta*, và là bài thứ 111 trong Trung Bộ Kinh. Bối cảnh rất giản dị: Đức Thế Tôn trú tại Sāvatthī, trong rừng Jeta (Kỳ-đà), và Ngài gọi các tỳ-kheo đến để nói về một người trong số đệ tử của mình. Không có vua chúa đến thăm, không có cuộc tranh luận với giáo phái khác, không có phép lạ nào được kể. Cả bài kinh, trừ mấy câu mở đầu và kết thúc, là lời Đức Thế Tôn nói liền một mạch.
 
 Người được nói đến là Sāriputta (Xá-lợi-phất), một trong hai đệ tử lớn nhất của Đức Thế Tôn, nổi tiếng về trí tuệ. Trong nhiều bài kinh khác, ông xuất hiện với tư cách người trả lời những câu hỏi hóc búa, hoặc người được Ngài giao giảng thay. Ở đây ông không nói một lời nào: Ngài kể lại việc ông đã làm. Tên bài kinh, *anupada*, nghĩa là "theo từng bước", ở đây chỉ cách quán sát lần lượt từng pháp một khi chúng đang sinh khởi. Tên Hán-Việt "Tùy Quán" cũng theo nghĩa ấy: quán sát tùy theo từng pháp, lần lượt không bỏ sót.
 

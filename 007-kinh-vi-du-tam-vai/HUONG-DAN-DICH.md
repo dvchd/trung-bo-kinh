@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Tại tịnh xá của Anāthapiṇḍika trong vườn Jeta, gần Sāvatthī, Đức Thế Tôn dạy các tỳ-kheo bằng hai hình
+Tại tịnh xá của Anāthapiṇḍika trong rừng Jeta, gần Sāvatthī, Đức Thế Tôn dạy các tỳ-kheo bằng hai hình
 ảnh: tấm vải dơ thì nhuộm màu nào cũng xấu, tấm vải sạch thì màu nào cũng đẹp; cũng vậy, tâm bị cấu uế
 thì dẫn đến cõi ác, tâm trong sạch thì dẫn đến cõi lành. Ngài kể ra mười sáu cấu uế của tâm, rồi chỉ
 cách vị tỳ-kheo nhận diện và từ bỏ từng thứ. Khi tâm đã sạch, vị ấy có lòng tin đã tự mình thể nghiệm

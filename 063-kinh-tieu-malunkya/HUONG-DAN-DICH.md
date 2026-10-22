@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Bài kinh diễn ra tại Sāvatthī, trong Jetavana. Khi Tôn giả Māluṅkyaputta sống độc cư, mười câu hỏi siêu hình mà Đức Thế Tôn để qua một bên khởi lên trong tâm ông: thế giới thường hằng hay vô thường, có giới hạn hay không có giới hạn, linh hồn và thân xác là một hay khác, và sau khi chết Như Lai còn tồn tại hay không. Ông đến hỏi Ngài và tuyên bố sẽ hoàn tục nếu không được trả lời. Đức Thế Tôn hỏi lại rằng giữa hai bên chưa từng có giao kèo ấy, rồi dùng hình ảnh người bị mũi tên tẩm thuốc độc bắn trúng để cho thấy phải rút mũi tên trước khi hỏi lai lịch người bắn. Cuối cùng Ngài phân biệt điều Ngài không trả lời với bốn sự thật về khổ mà Ngài trả lời, và dặn Māluṅkyaputta hãy ghi nhớ đúng như vậy.
+Bài kinh diễn ra tại Sāvatthī, trong rừng Jeta (Kỳ-đà). Khi Tôn giả Māluṅkyaputta sống độc cư, mười câu hỏi siêu hình mà Đức Thế Tôn để qua một bên khởi lên trong tâm ông: thế giới thường hằng hay vô thường, có giới hạn hay không có giới hạn, linh hồn và thân xác là một hay khác, và sau khi chết Như Lai còn tồn tại hay không. Ông đến hỏi Ngài và tuyên bố sẽ hoàn tục nếu không được trả lời. Đức Thế Tôn hỏi lại rằng giữa hai bên chưa từng có giao kèo ấy, rồi dùng hình ảnh người bị mũi tên tẩm thuốc độc bắn trúng để cho thấy phải rút mũi tên trước khi hỏi lai lịch người bắn. Cuối cùng Ngài phân biệt điều Ngài không trả lời với bốn sự thật về khổ mà Ngài trả lời, và dặn Māluṅkyaputta hãy ghi nhớ đúng như vậy.
 
 ## 2. Nhân vật
 

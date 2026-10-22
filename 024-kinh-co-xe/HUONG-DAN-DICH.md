@@ -25,7 +25,7 @@ Puṇṇa giải thích thêm rằng nếu một trong bảy sự thanh tịnh �
 | Veḷuvana | rừng Tre (Veḷuvana, Trúc Lâm) | tu viện đầu tiên, do vua Bimbisāra dâng (mn24:1.2) |
 | Kalandakanivāpa | chỗ nuôi dưỡng sóc (Kalandakanivāpa) | tên gọi khu vực trong rừng Tre (mn24:1.2) |
 | Sāvatthī | Sāvatthī (Xá-vệ) | nơi Đức Thế Tôn đi đến (mn24:4.1) |
-| Jetavana | rừng Jeta (Kỳ-đà Lâm) | tu viện tại Sāvatthī (mn24:4.3) |
+| Jetavana | rừng Jeta (Kỳ-đà) | tu viện tại Sāvatthī (mn24:4.3) |
 | Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | người dâng tu viện (mn24:4.3) |
 | Andhavana | rừng Andhavana (Rừng Tối) | nơi hai vị nghỉ ban ngày và đàm đạo (mn24:5.4) |
 | Sāketa | Sāketa | thành trong ví dụ, nay là Ayodhya (mn24:14.3) |

@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Bài kinh diễn ra tại Sāvatthī, trong vườn Jeta, nơi Đức Thế Tôn mở đầu bằng lời dặn giữ giới và giới
+Bài kinh diễn ra tại Sāvatthī, trong rừng Jeta, nơi Đức Thế Tôn mở đầu bằng lời dặn giữ giới và giới
 bổn, rồi lặp lại mười bảy lần một khuôn câu điều kiện: nếu một vị tỳ-kheo ước muốn điều gì, thì hãy
 giữ giới cho trọn vẹn, chuyên tâm vào sự lặng yên của tâm bên trong, không xa lìa thiền-na, đầy đủ
 thiền quán và thường lui tới những căn nhà trống. Các điều ước đi từ chuyện đời thường (được bạn

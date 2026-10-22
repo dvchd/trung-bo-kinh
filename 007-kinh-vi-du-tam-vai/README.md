@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-Bài kinh diễn ra tại tịnh xá của Anāthapiṇḍika trong vườn Jeta, gần Sāvatthī, và mở đầu bằng hai hình
+Bài kinh diễn ra tại tịnh xá của Anāthapiṇḍika trong rừng Jeta, gần Sāvatthī, và mở đầu bằng hai hình
 ảnh đối nhau: tấm vải dơ nhuộm màu nào cũng xấu, tấm vải sạch nhuộm màu nào cũng đẹp. Từ đó Đức Thế
 Tôn dẫn sang chuyện tâm: tâm bị cấu uế thì dẫn đến cõi ác, tâm trong sạch thì dẫn đến cõi lành. Ngài
 liệt kê mười sáu cấu uế của tâm và chỉ cách nhận diện rồi từ bỏ từng thứ. Khi tâm đã sạch, vị ấy có

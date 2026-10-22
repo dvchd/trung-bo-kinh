@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), nơi Tôn giả Mahācunda hỏi Đức Thế Tôn
+Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), nơi Tôn giả Mahācunda hỏi Đức Thế Tôn
 cách từ bỏ những quan điểm đủ loại về tự ngã và về thế gian. Đức Thế Tôn đáp rằng các quan điểm ấy được
 từ bỏ khi thấy như thật bằng chánh tuệ rằng "cái này không phải của ta, ta không phải cái này, cái này
 không phải tự ngã của ta". Rồi Ngài điểm qua bốn tầng thiền-na và bốn xứ thiền vô sắc: người nhập vào

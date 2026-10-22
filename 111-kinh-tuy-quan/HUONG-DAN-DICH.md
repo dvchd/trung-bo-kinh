@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Bài kinh diễn ra tại Sāvatthī, trong khu vườn Jetavana: Đức Thế Tôn gọi các tỳ-kheo đến và nói về ngài Sāriputta, một đệ tử có tuệ lớn, tuệ rộng, tuệ nhanh nhẹn, tuệ sắc bén và tuệ xuyên thấu, người đã quán sát các pháp từng cái một trong nửa tháng. Phần chính lần lượt đi qua bốn tầng thiền-na, bốn tầng định vô sắc và sự diệt thọ tưởng; ở mỗi tầng, ngài nhập vào, phân định từng pháp đang có mặt, biết rõ chúng sinh khởi, tồn tại và biến mất, suy xét rằng các pháp ấy chưa có thì sinh khởi, đã có thì lại tan, rồi an trú không bám vào, không lảng tránh và biết vẫn còn sự thoát ra cao hơn. Sau khi xuất khỏi sự diệt thọ tưởng, các lậu hoặc của ngài được đoạn tận và ngài biết không còn sự thoát ra nào cao hơn nữa. Đức Thế Tôn khép lại bằng ba lời tán thán: ngài Sāriputta đạt sự tự chủ và sự viên mãn trong giới, định, tuệ, giải thoát; là người con đích thực sinh ra từ miệng Ngài, thừa kế Pháp chứ không thừa kế tài vật; và là người tiếp tục vận chuyển bánh xe Pháp mà Như Lai đã vận chuyển.
+Bài kinh diễn ra tại Sāvatthī, trong rừng Jeta (Kỳ-đà): Đức Thế Tôn gọi các tỳ-kheo đến và nói về ngài Sāriputta, một đệ tử có tuệ lớn, tuệ rộng, tuệ nhanh nhẹn, tuệ sắc bén và tuệ xuyên thấu, người đã quán sát các pháp từng cái một trong nửa tháng. Phần chính lần lượt đi qua bốn tầng thiền-na, bốn tầng định vô sắc và sự diệt thọ tưởng; ở mỗi tầng, ngài nhập vào, phân định từng pháp đang có mặt, biết rõ chúng sinh khởi, tồn tại và biến mất, suy xét rằng các pháp ấy chưa có thì sinh khởi, đã có thì lại tan, rồi an trú không bám vào, không lảng tránh và biết vẫn còn sự thoát ra cao hơn. Sau khi xuất khỏi sự diệt thọ tưởng, các lậu hoặc của ngài được đoạn tận và ngài biết không còn sự thoát ra nào cao hơn nữa. Đức Thế Tôn khép lại bằng ba lời tán thán: ngài Sāriputta đạt sự tự chủ và sự viên mãn trong giới, định, tuệ, giải thoát; là người con đích thực sinh ra từ miệng Ngài, thừa kế Pháp chứ không thừa kế tài vật; và là người tiếp tục vận chuyển bánh xe Pháp mà Như Lai đã vận chuyển.
 
 ## 2. Nhân vật
 
@@ -18,7 +18,7 @@ Bài kinh diễn ra tại Sāvatthī, trong khu vườn Jetavana: Đức Thế T
 | sāriputto | ngài Sāriputta (Xá-lợi-phất) | 2.1; nhân vật chính nhưng không xuất hiện trực tiếp, chỉ được Đức Thế Tôn nhắc tên và thuật lại việc làm; sau lần đầu gọi "ngài" |
 | bhikkhū | các tỳ-kheo | 1.3; Đức Thế Tôn gọi là "này các tỳ-kheo"; các vị đáp "bạch Thế Tôn" |
 | sāvatthī | Sāvatthī (Xá-vệ) | 1.2; kinh đô nước Kosala |
-| jetavana | Jetavana (Kỳ-đà) | 1.2; khu vườn của thái tử Jeta |
+| jetavana | rừng Jeta (Kỳ-đà) | 1.2; khu rừng của thái tử Jeta |
 | anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | 1.2; người cúng dường tinh xá |
 | dīghanakha | du sĩ Dīghanakha | chỉ trong chú thích 2.8, nhắc tới MN 74 |
 | sañjaya | Sañjaya | chỉ trong chú thích 2.8; thầy cũ của ngài Sāriputta |

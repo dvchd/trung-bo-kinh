@@ -95,7 +95,7 @@ Ngồi xong, vua Pasenadi xứ Kosala thưa với Tôn giả Ānanda:
 <!-- seg: mn88:8.3 -->
 "Thưa Tôn giả Ānanda, Đức Thế Tôn có thể làm một hành vi của thân như thế chăng, mà hành vi của thân ấy bị các sa-môn và bà-la-môn chê trách?"
 
-[Chú thích: Chú giải kể rằng câu hỏi này khởi lên từ vụ du sĩ Sundarī bị giết: những du sĩ vô lương tâm xúi bà đến vườn Jeta rồi giết bà để đổ tiếng xấu lên Đức Thế Tôn và Tăng đoàn. Nhưng bản kinh này và bản Hán tương ứng (MA 214) đều không nói gì về mối liên hệ ấy.]
+[Chú thích: Chú giải kể rằng câu hỏi này khởi lên từ vụ du sĩ Sundarī bị giết: những du sĩ vô lương tâm xúi bà đến rừng Jeta rồi giết bà để đổ tiếng xấu lên Đức Thế Tôn và Tăng đoàn. Nhưng bản kinh này và bản Hán tương ứng (MA 214) đều không nói gì về mối liên hệ ấy.]
 
 <!-- seg: mn88:8.4 -->
 "Thưa đại vương, Đức Thế Tôn không thể làm một hành vi của thân như thế, mà hành vi của thân ấy bị các sa-môn và bà-la-môn có trí chê trách."

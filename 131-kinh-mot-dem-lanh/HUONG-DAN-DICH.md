@@ -21,7 +21,7 @@ thứ hai, xác nhận lời đã nói, và kết thúc bằng sự hoan hỷ c�
 |---|---|---|
 | Bhagavā | Đức Thế Tôn | mn131:1.2 |
 | bhikkhū | các tỳ-kheo | mn131:1.3 |
-| Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | mn131:1.2, chủ tịnh xá trong vườn Jeta |
+| Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | mn131:1.2, chủ tịnh xá trong rừng Jeta |
 | assutavā puthujjano | kẻ phàm phu không nghe Pháp | mn131:8.2 |
 | sutavā ariyasāvako | vị thánh đệ tử đã nghe Pháp | mn131:9.2 |
 | santo muni | bậc hiền triết an tịnh | mn131:3.16; chỉ Đức Thế Tôn |

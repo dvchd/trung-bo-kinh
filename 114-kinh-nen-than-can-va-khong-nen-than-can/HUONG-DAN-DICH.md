@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong tịnh xá Jetavana của Anāthapiṇḍika. Đức Thế Tôn mở đề
+Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà) của Anāthapiṇḍika. Đức Thế Tôn mở đề
 rằng Ngài sẽ giảng về những gì nên thân cận và những gì không nên thân cận, rồi đưa ra tiêu chí:
 thứ gì khi được thân cận làm cho các pháp bất thiện tăng trưởng và các pháp thiện suy giảm thì
 không nên thân cận, thứ gì làm ngược lại thì nên thân cận. Tiêu chí ấy được áp vào bảy mục — thân

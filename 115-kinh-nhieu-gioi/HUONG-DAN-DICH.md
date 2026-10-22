@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Bài kinh diễn ra tại Sāvatthī, trong khu vườn Jetavana. Đức Thế Tôn mở đầu bằng nhận định rằng mọi
+Bài kinh diễn ra tại Sāvatthī, trong rừng Jeta (Kỳ-đà). Đức Thế Tôn mở đầu bằng nhận định rằng mọi
 hiểm họa đều sinh khởi từ kẻ ngu chứ không từ người trí — ví như ngọn lửa bùng từ căn nhà làm bằng
 sậy hay bằng cỏ lại đốt cháy cả tòa nhà kiên cố, trát trong trát ngoài, kín gió — rồi khuyên các
 tỳ-kheo học tập để trở thành người trí và bậc thẩm xét. Tôn giả Ānanda lần lượt hỏi bốn câu: thế nào
@@ -33,7 +33,7 @@ Tối Thượng.
 | diṭṭhisampanno puggalo | người đã thành tựu kiến | 12.2; chỉ bậc Thánh từ Dự lưu trở lên, không phải người có quan điểm đúng thông thường |
 | puthujjana | kẻ phàm phu | 12.3; hạng người chưa chứng Thánh quả |
 | sāvatthī | Sāvatthī (Xá-vệ) | 1.2; kinh đô nước Kosala |
-| jetavana | Jetavana (Kỳ-đà) | 1.2; khu vườn của thái tử Jeta |
+| jetavana | rừng Jeta (Kỳ-đà) | 1.2; khu rừng của thái tử Jeta |
 | anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | 1.2; người cúng dường tinh xá |
 | sakka / māra / brahmā | Sakka (Đế Thích) / Māra (Ma vương) / Phạm Thiên | 15.5, 15.6; là những địa vị lãnh đạo cõi trời, không phải tên riêng của một cá nhân |
 

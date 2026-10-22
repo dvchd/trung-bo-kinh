@@ -20,7 +20,7 @@ Phần giữa bài kinh phân tích sáu căn cứ của kiến và cách kẻ p
 | Bhagavā | Đức Thế Tôn | người kể luôn dùng "Đức Thế Tôn", sau đó "Ngài" |
 | Bhikkhū | các tỳ-kheo | Đức Thế Tôn gọi là "các ông"; các vị gọi nhau là "hiền giả" |
 | Sāvatthī | Sāvatthī (Xá-vệ) | mở đầu (mn22:1.2) |
-| Jetavana | rừng Jeta (Kỳ-đà Lâm) | mở đầu (mn22:1.2) |
+| Jetavana | rừng Jeta (Kỳ-đà) | mở đầu (mn22:1.2) |
 | Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | chủ tu viện (mn22:1.2) |
 | Indra, Brahmā, Pajāpati | Indra (Đế Thích), Phạm Thiên, Pajāpati (Sinh chủ) | chư thiên được nhắc ở mn22:36.1 |
 | Ajita Kesakambala | Ajita Kesakambala | chỉ nhắc trong chú thích mn22:37.2 |

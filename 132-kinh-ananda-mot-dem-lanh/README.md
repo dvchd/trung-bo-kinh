@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-Bài kinh diễn ra tại Sāvatthī, trong vườn Jeta. Buổi chiều, Đức Thế Tôn từ chỗ độc cư đứng dậy, đi đến
+Bài kinh diễn ra tại Sāvatthī, trong rừng Jeta. Buổi chiều, Đức Thế Tôn từ chỗ độc cư đứng dậy, đi đến
 giảng đường và hỏi các tỳ-kheo ai đã giảng cho họ nghe phần tóm tắt và phần phân tích về người có một
 đêm lành; các tỳ-kheo thưa rằng đó là Tôn giả Ānanda. Được hỏi lại, Ānanda nhắc trọn bài kệ khuyên
 không quay về quá khứ, không mong đợi tương lai, thấy rõ các pháp đang có mặt và làm ngay việc cần làm

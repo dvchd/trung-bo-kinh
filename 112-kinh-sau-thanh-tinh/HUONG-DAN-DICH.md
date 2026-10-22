@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Bài kinh diễn ra tại Sāvatthī, trong vườn Jetavana. Đức Thế Tôn đặt ra một tình huống quen thuộc của
+Bài kinh diễn ra tại Sāvatthī, trong rừng Jeta (Kỳ-đà). Đức Thế Tôn đặt ra một tình huống quen thuộc của
 đời sống Tăng đoàn: một tỳ-kheo tuyên bố đã chứng quả A-la-hán bằng công thức "sinh đã tận, đời sống
 phạm hạnh đã sống xong". Ngài dạy các tỳ-kheo không hoan hỷ cũng không bác bỏ, mà lần lượt hỏi vị ấy
 năm câu, đi từ bốn cách nói, năm uẩn chấp thủ, sáu giới, sáu xứ, đến sự đoạn tận ngã mạn. Lời đáp ở
@@ -27,7 +27,7 @@ bằng lời chư tỳ-kheo tán thán vị ấy, và dòng kết "bài thứ ha
 | āyasmā | vị, vị ấy | 3.7 trở đi; "panāyasmato" là cách nói lịch sự với người đang được hỏi |
 | tathāgata | Như Lai | 12.3–12.4; vị ấy kể lại lúc mình được nghe Pháp |
 | sāvatthī | Sāvatthī (Xá-vệ) | 1.2; kinh đô nước Kosala |
-| jetavana | Jetavana (Kỳ-đà) | 1.2; khu vườn của thái tử Jeta |
+| jetavana | rừng Jeta (Kỳ-đà) | 1.2; khu rừng của thái tử Jeta |
 | anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | 1.2; người cúng dường tinh xá |
 
 ## 3. Thuật ngữ riêng của bài

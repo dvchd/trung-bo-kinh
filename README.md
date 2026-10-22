@@ -4,7 +4,7 @@
 > Bhikkhu Sujato. Viết cho người Việt hiện đại: câu ngắn, chủ động, không dùng lối Hán-Việt cổ,
 > không cần biết gì về Phật học trước khi đọc.
 
-**Trạng thái: 152/152 bài đã dịch**, đã qua kiểm tra tự động. Mục lục đầy đủ ở [cuối trang](#mục-lục-152-bài).
+**Trạng thái: 152/152 bài đã dịch**, đã qua đợt đọc lại từng dòng và kiểm tra tự động. Mục lục đầy đủ ở [cuối trang](#mục-lục-152-bài).
 
 ---
 
@@ -339,7 +339,7 @@ Ba phần, mười lăm phẩm, theo thứ tự truyền thống của bộ kinh
 | | |
 |---|---|
 | Bài kinh | **152** — trọn bộ Trung Bộ Kinh |
-| Từ | **888.406** đoạn văn dịch, không kể chú thích |
+| Từ | **888.963** từ, không kể chú thích |
 | Đoạn dịch | **26.891** đoạn văn, 27.195 neo đoạn, mỗi đoạn ứng với đúng một đoạn nguồn |
 | Tệp bản dịch theo đoạn | **905** trong 152 thư mục `ban-dich/` |
 

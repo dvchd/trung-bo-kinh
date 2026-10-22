@@ -24,7 +24,7 @@ tất.
 | āyasmā Ānanda | Tôn giả Ānanda (A-nan) | mn132:2.1, người giảng bài kệ; tự gọi mình là "con" khi thưa với Đức Thế Tôn |
 | bhikkhū | các tỳ-kheo | mn132:2.1 |
 | āvuso | này các hiền giả | mn132:4.1; cách Ānanda gọi các tỳ-kheo trong bài giảng |
-| Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | mn132:1.2, chủ tịnh xá trong vườn Jeta |
+| Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | mn132:1.2, chủ tịnh xá trong rừng Jeta |
 | assutavā puthujjano | kẻ phàm phu không nghe Pháp | mn132:8.2 |
 | sutavā ariyasāvako | vị thánh đệ tử đã nghe Pháp | mn132:9.2 |
 | santo muni | bậc hiền triết an tịnh | mn132:3.17; chỉ Đức Thế Tôn |

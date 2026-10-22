@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Bài kinh diễn ra tại Sāvatthī, trong Jetavana. Đức Thế Tôn kể rằng Ngài ăn ngày một bữa và khuyên các tỳ-kheo làm theo; Tôn giả Bhaddāli từ chối, vì sợ mình sẽ day dứt và hối hận, và cũng từ chối cách Ngài đề nghị để giữ hạnh ấy. Khi giới điều đang được chế định, ông tỏ rõ ý không muốn cố gắng, rồi suốt ba tháng không đến gặp Ngài; mãi đến khi các tỳ-kheo may xong y và sắp lên đường du hành, ông mới đến sám hối. Đức Thế Tôn nhận lỗi của ông, chỉ cho ông thấy sáu tình huống ông đã không nhận ra, rồi giảng về bảy hạng thánh đệ tử, về hai hạng tỳ-kheo không và có làm tròn sự học tập, và về con đường tu tập dẫn đến ba minh và giải thoát. Tiếp đó, Ngài giải thích vì sao có tỳ-kheo bị xử phạt nặng và có vị được nhẹ tay, vì sao giới điều ngày càng nhiều khi Chánh pháp suy giảm, và kết thúc bằng hình ảnh con ngựa giống quý cùng mười pháp của bậc vô học.
+Bài kinh diễn ra tại Sāvatthī, trong rừng Jeta (Kỳ-đà). Đức Thế Tôn kể rằng Ngài ăn ngày một bữa và khuyên các tỳ-kheo làm theo; Tôn giả Bhaddāli từ chối, vì sợ mình sẽ day dứt và hối hận, và cũng từ chối cách Ngài đề nghị để giữ hạnh ấy. Khi giới điều đang được chế định, ông tỏ rõ ý không muốn cố gắng, rồi suốt ba tháng không đến gặp Ngài; mãi đến khi các tỳ-kheo may xong y và sắp lên đường du hành, ông mới đến sám hối. Đức Thế Tôn nhận lỗi của ông, chỉ cho ông thấy sáu tình huống ông đã không nhận ra, rồi giảng về bảy hạng thánh đệ tử, về hai hạng tỳ-kheo không và có làm tròn sự học tập, và về con đường tu tập dẫn đến ba minh và giải thoát. Tiếp đó, Ngài giải thích vì sao có tỳ-kheo bị xử phạt nặng và có vị được nhẹ tay, vì sao giới điều ngày càng nhiều khi Chánh pháp suy giảm, và kết thúc bằng hình ảnh con ngựa giống quý cùng mười pháp của bậc vô học.
 
 ## 2. Nhân vật
 

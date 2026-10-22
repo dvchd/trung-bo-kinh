@@ -7,7 +7,7 @@
 Mọi bài 1–152 đều có `Kinh-<Tên>.md`, `ban-dich/`, `00-gioi-thieu.md`, `README.md`,
 `HUONG-DAN-DICH.md`, và đã qua `kiem-tra-marker.py` + `ra-soat.py` (ĐẠT).
 
-Tổng: 888.406 từ (không kể chú thích), 26.891 đoạn văn dịch, 27.195 neo đoạn, 905 tệp `ban-dich/`.
+Tổng: 888.963 từ (không kể chú thích), 26.891 đoạn văn dịch, 27.195 neo đoạn, 905 tệp `ban-dich/`.
 
 Ngoài bản dịch, kho có thêm:
 

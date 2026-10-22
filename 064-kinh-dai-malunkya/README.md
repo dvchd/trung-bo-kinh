@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-Bài kinh diễn ra tại Sāvatthī, trong Jetavana, và mở đầu bằng câu hỏi của Đức Thế Tôn về năm hạ phần kiết sử. Tôn giả Māluṅkyaputta trả lời đúng danh sách năm thứ ấy, nhưng Đức Thế Tôn bèn dùng hình ảnh một đứa trẻ sơ sinh để chỉ ra rằng kiết sử không chỉ là những tâm niệm đang hoạt động, mà còn tồn tại dưới dạng tùy miên ngay cả khi chưa biểu hiện thành hành vi. Tôn giả Ānanda thưa xin Ngài giảng rõ, và Đức Thế Tôn trình bày con đường đoạn trừ năm kiết sử: bốn tầng thiền-na cùng ba tầng vô sắc, mỗi tầng đều được soi chiếu bằng tuệ quán năm uẩn và sự hướng tâm đến giới bất tử. Kết quả là quả vị A-la-hán nếu các lậu hoặc được đoạn tận, hoặc quả vị Bất hoàn nếu chỉ năm kiết sử ấy bị đoạn tận. Bài kinh khép lại bằng câu hỏi của Ānanda về tâm giải thoát và tuệ giải thoát, và câu trả lời của Đức Thế Tôn rằng đó là do sự khác biệt của các căn.
+Bài kinh diễn ra tại Sāvatthī, trong rừng Jeta (Kỳ-đà), và mở đầu bằng câu hỏi của Đức Thế Tôn về năm hạ phần kiết sử. Tôn giả Māluṅkyaputta trả lời đúng danh sách năm thứ ấy, nhưng Đức Thế Tôn bèn dùng hình ảnh một đứa trẻ sơ sinh để chỉ ra rằng kiết sử không chỉ là những tâm niệm đang hoạt động, mà còn tồn tại dưới dạng tùy miên ngay cả khi chưa biểu hiện thành hành vi. Tôn giả Ānanda thưa xin Ngài giảng rõ, và Đức Thế Tôn trình bày con đường đoạn trừ năm kiết sử: bốn tầng thiền-na cùng ba tầng vô sắc, mỗi tầng đều được soi chiếu bằng tuệ quán năm uẩn và sự hướng tâm đến giới bất tử. Kết quả là quả vị A-la-hán nếu các lậu hoặc được đoạn tận, hoặc quả vị Bất hoàn nếu chỉ năm kiết sử ấy bị đoạn tận. Bài kinh khép lại bằng câu hỏi của Ānanda về tâm giải thoát và tuệ giải thoát, và câu trả lời của Đức Thế Tôn rằng đó là do sự khác biệt của các căn.
 
 ## Con số
 

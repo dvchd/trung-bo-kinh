@@ -20,7 +20,7 @@ Tôn giả Lomasakaṅgiya trú tại Kapilavatthu trong tịnh xá Nigrodha th�
 | Sakka | xứ Sākya (Thích-ca) | nơi Đức Thế Tôn và Lomasakaṅgiya đang ở |
 | Kapilavatthu | Kapilavatthu (Ca-tỳ-la-vệ) | kinh đô của dòng Thích-ca |
 | Sāvatthī | Sāvatthī (Xá-vệ) | nơi Đức Thế Tôn trú |
-| Jetavana | vườn Jeta (Kỳ-đà) | tịnh xá của Anāthapiṇḍika (Cấp Cô Độc) |
+| Jetavana | rừng Jeta (Kỳ-đà) | tịnh xá của Anāthapiṇḍika (Cấp Cô Độc) |
 | Tāvatiṁsa | cõi Tāvatiṁsa (Đao-lợi) | cõi trời Ba Mươi Ba, nơi Đức Thế Tôn giảng bài kệ |
 
 ## 3. Thuật ngữ riêng của bài

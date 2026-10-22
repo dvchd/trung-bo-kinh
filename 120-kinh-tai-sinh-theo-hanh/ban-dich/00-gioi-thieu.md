@@ -4,7 +4,7 @@
 
 **Kinh Tái Sinh Theo Hành** (*Saṅkhārupapatti Sutta*) là bài kinh thứ 120 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bài cuối cùng của phẩm Anupada. Tên bài ghép từ *saṅkhāra*, nghĩa là hành, tức ý chí tạo tác, và *upapatti*, nghĩa là tái sinh. Nói gọn, bài kinh dạy cách một người đi tới đời sống sau theo đúng hướng mà tâm mình đã chọn và đã luyện.
 
-Bối cảnh rất ngắn. Đức Thế Tôn đang ngụ tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc). Ngài gọi các tỳ-kheo đến và nói rằng Ngài sẽ giảng về tái sinh theo hành. Sau khi các tỳ-kheo thưa vâng, Ngài bắt đầu.
+Bối cảnh rất ngắn. Đức Thế Tôn đang ngụ tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc). Ngài gọi các tỳ-kheo đến và nói rằng Ngài sẽ giảng về tái sinh theo hành. Sau khi các tỳ-kheo thưa vâng, Ngài bắt đầu.
 
 Phần chính của bài kinh lặp lại một khuôn giống nhau, chỉ thay chỗ đến. Một vị tỳ-kheo hội đủ năm phẩm chất — lòng tin, giới, nghe nhiều, xả thí, tuệ — rồi ước muốn được sinh vào một cõi nào đó. Vị ấy không dừng ở việc ước, mà đặt tâm vào đó, làm cho tâm ấy vững chắc, và tu tập tâm ấy. Kết quả là những hành và những an trú ấy đưa vị ấy tái sinh đúng nơi đã chọn. Danh sách đi từ thấp đến cao: những vua chúa, bà-la-môn và gia chủ giàu sang; sáu tầng trời của dục giới; các cõi Phạm Thiên từ một ngàn cho đến một trăm ngàn cõi thế giới; các cõi trời ánh sáng và cõi trời sắc đẹp; năm cõi Tịnh cư; rồi bốn cõi vô sắc.
 

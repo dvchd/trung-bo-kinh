@@ -24,7 +24,7 @@ ai biết đủ cả ba mặt mới hiểu trọn được, và mới dạy đư
 | aññatitthiyā paribbājakā | các du sĩ ngoại đạo | mn13:2.4 |
 | samaṇo gotamo | sa-môn Gotama (Cồ-đàm) | mn13:3.1 |
 | Sāvatthī | Sāvatthī (Xá-vệ) | mn13:1.2 |
-| Jetavana | vườn Jeta (Kỳ-đà) | mn13:1.2 |
+| Jetavana | rừng Jeta (Kỳ-đà) | mn13:1.2 |
 | Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | mn13:1.2 |
 | Rāhu | Rāhu | mn13:14.3, trong tên một hình phạt |
 

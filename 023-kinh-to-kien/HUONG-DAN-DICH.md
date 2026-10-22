@@ -22,7 +22,7 @@ Vị trời nói không ai trên đời giải được câu đố ấy, trừ N
 | Brāhmaṇa (trong câu đố) | vị bà-la-môn | nhân vật của câu đố, về sau được giải là Như Lai (mn23:2.2) |
 | Sumedha | người khôn ngoan | nhân vật cầm gươm đào trong câu đố, được giải là tỳ-kheo hữu học (mn23:2.4) |
 | Sāvatthī | Sāvatthī (Xá-vệ) | bối cảnh (mn23:1.2) |
-| Jetavana | rừng Jeta (Kỳ-đà Lâm) | bối cảnh (mn23:1.2) |
+| Jetavana | rừng Jeta (Kỳ-đà) | bối cảnh (mn23:1.2) |
 | Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | chủ tu viện (mn23:1.2) |
 | Andhavana | rừng Andhavana | khu rừng rậm phía nam Sāvatthī, nghĩa là Rừng Tối (mn23:1.3) |
 

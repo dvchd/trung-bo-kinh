@@ -19,7 +19,7 @@ Một buổi ở Sāvatthī, du sĩ Vekhanasa đến gặp Đức Thế Tôn, đ
 | bhagavā | Đức Thế Tôn | người kể luôn dùng từ này; không dùng "Đức Phật" |
 | gotama | Gotama | trong lời Vekhanasa: "thưa ngài Gotama"; lần đầu ở 2.8 |
 | sāvatthī | Sāvatthī (Xá-vệ) | 1.2 |
-| jetavana | Jetavana (Kỳ-đà Lâm) | 1.2 |
+| jetavana | rừng Jeta (Kỳ-đà) | 1.2 |
 | anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | 1.2 |
 | sakaludāyī | Sakaludāyī | chỉ xuất hiện trong chú thích 2.1, không có trong lời kinh |
 

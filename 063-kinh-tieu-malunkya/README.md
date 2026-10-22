@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-Bài kinh diễn ra tại Sāvatthī, trong Jetavana, và xoay quanh Tôn giả Māluṅkyaputta, một vị tỳ-kheo bị ám ảnh bởi mười câu hỏi siêu hình mà Đức Thế Tôn chưa từng trả lời. Ông đến gặp Ngài với một tối hậu thư: nếu không được giải đáp, ông sẽ từ bỏ việc tu học và hoàn tục. Đức Thế Tôn chỉ ra rằng giữa Ngài và ông chưa từng có giao kèo nào như vậy, rồi kể câu chuyện người bị mũi tên tẩm thuốc độc bắn trúng nhưng nhất định không cho rút tên ra trước khi biết đủ mọi chi tiết về người bắn, cây cung và mũi tên, để rồi chết vì thuốc độc. Từ đó Ngài phân biệt những gì Ngài không trả lời với những gì Ngài trả lời: bốn sự thật về khổ, nguồn gốc của khổ, sự diệt tận của khổ và con đường dẫn đến sự diệt tận ấy. Bài kinh khép lại bằng lời dặn hãy ghi nhớ điều không được trả lời là không được trả lời, và điều được trả lời là được trả lời.
+Bài kinh diễn ra tại Sāvatthī, trong rừng Jeta (Kỳ-đà), và xoay quanh Tôn giả Māluṅkyaputta, một vị tỳ-kheo bị ám ảnh bởi mười câu hỏi siêu hình mà Đức Thế Tôn chưa từng trả lời. Ông đến gặp Ngài với một tối hậu thư: nếu không được giải đáp, ông sẽ từ bỏ việc tu học và hoàn tục. Đức Thế Tôn chỉ ra rằng giữa Ngài và ông chưa từng có giao kèo nào như vậy, rồi kể câu chuyện người bị mũi tên tẩm thuốc độc bắn trúng nhưng nhất định không cho rút tên ra trước khi biết đủ mọi chi tiết về người bắn, cây cung và mũi tên, để rồi chết vì thuốc độc. Từ đó Ngài phân biệt những gì Ngài không trả lời với những gì Ngài trả lời: bốn sự thật về khổ, nguồn gốc của khổ, sự diệt tận của khổ và con đường dẫn đến sự diệt tận ấy. Bài kinh khép lại bằng lời dặn hãy ghi nhớ điều không được trả lời là không được trả lời, và điều được trả lời là được trả lời.
 
 ## Con số
 

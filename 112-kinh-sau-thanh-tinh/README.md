@@ -8,7 +8,7 @@
 
 ## Về bài kinh
 
-Bài kinh diễn ra tại Sāvatthī, trong khu vườn Jetavana: Đức Thế Tôn gọi các tỳ-kheo đến và đặt ra
+Bài kinh diễn ra tại Sāvatthī, trong rừng Jeta (Kỳ-đà): Đức Thế Tôn gọi các tỳ-kheo đến và đặt ra
 một tình huống quen thuộc của đời sống Tăng đoàn — một tỳ-kheo tuyên bố đã chứng quả A-la-hán. Ngài
 dạy các vị ấy không nên hoan hỷ cũng không nên bác bỏ lời tuyên bố ấy, mà hãy hỏi cho ra lẽ. Năm
 lượt hỏi lần lượt đi qua bốn cách nói, năm uẩn chấp thủ, sáu giới, sáu xứ trong và ngoài, rồi đến

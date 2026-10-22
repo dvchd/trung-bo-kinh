@@ -18,7 +18,7 @@ Bài kinh ghi lại cuộc đối thoại tại Sāvatthī giữa Đức Thế T
 | Bhagavā | Đức Thế Tôn | mn72:1.2 — người kể luôn dùng từ này, không đổi sang cách gọi khác |
 | Tathāgata | Như Lai | mn72:9.1 — trong bài chỉ bậc đã giải thoát; ở mn72:20.1 chỉ chung mọi vị A-la-hán |
 | Sāvatthī | Sāvatthī (Xá-vệ) | mn72:1.2 |
-| Jetavana | Jetavana (Kỳ-đà-lâm) | mn72:1.2 |
+| Jetavana | rừng Jeta (Kỳ-đà) | mn72:1.2 |
 | Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | mn72:1.2 |
 
 ## 3. Thuật ngữ riêng của bài

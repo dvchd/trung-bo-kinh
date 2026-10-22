@@ -19,7 +19,7 @@ Bài kinh diễn ra tại Sāvatthī (Xá-vệ), sau bữa ăn, khi một nhóm 
 | āvuso | thưa các Hiền giả | lối gọi giữa các vị đồng tu (mn119:2.2) |
 | māro | Ma vương | (mn119:23.1) |
 | Sāvatthī | Sāvatthī (Xá-vệ) | (mn119:1.2) |
-| Jetavana | vườn Jeta (Kỳ-đà) | (mn119:1.2) |
+| Jetavana | rừng Jeta (Kỳ-đà) | (mn119:1.2) |
 | Anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | chủ tịnh xá (mn119:1.2) |
 
 ## 3. Thuật ngữ riêng của bài
