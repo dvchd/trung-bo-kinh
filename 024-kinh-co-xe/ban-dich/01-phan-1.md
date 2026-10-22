@@ -4,7 +4,7 @@ Tôi nghe như vầy.
 <!-- seg: mn24:1.2 -->
 Một thuở nọ, Đức Thế Tôn trú tại Rājagaha (Vương Xá), trong rừng tre Veḷuvana (Trúc Lâm), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa).
 
-
+[Chú thích: Trúc Lâm là một tu viện lớn gần Rājagaha. Theo Luật tạng Kd 1:22.16.1, đây là tu viện đầu tiên được vua Bimbisāra dâng cúng cho Tăng đoàn.]
 
 <!-- seg: mn24:2.1 -->
 Rồi nhiều tỳ-kheo quê ở vùng ấy, sau khi đã an cư mùa mưa tại quê nhà, đi đến chỗ Đức Thế Tôn; đến rồi, đảnh lễ Ngài và ngồi xuống một bên. Khi các tỳ-kheo ấy đã ngồi một bên, Đức Thế Tôn nói với họ:

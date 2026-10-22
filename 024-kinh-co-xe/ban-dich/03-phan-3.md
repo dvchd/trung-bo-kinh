@@ -84,6 +84,8 @@ và các vị đồng phạm hạnh biết đến tôi là Sāriputta."
 <!-- seg: mn24:17.5 -->
 "Thật lạ thay, thưa ngài, chúng tôi đã đàm đạo với một vị đệ tử sánh được với bậc Đạo sư mà không hề hay biết:
 
+[Chú thích: Cụm từ *satthukappa*, sánh được với bậc Đạo sư, là một cách gọi chỉ có trong kinh Pali sơ kỳ.]
+
 <!-- seg: mn24:17.6 -->
 'Ấy là Tôn giả Sāriputta'!
 

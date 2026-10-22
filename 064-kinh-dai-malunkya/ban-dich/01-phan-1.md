@@ -11,7 +11,7 @@ Tại đó, Đức Thế Tôn gọi các tỳ-kheo:
 "Này các tỳ-kheo!"
 
 <!-- seg: mn64:1.5 -->
-"Thưa vâng, bạch Thế Tôn," các tỳ-kheo đáp lời Đức Thế Tôn.
+"Thưa vâng, bạch Thế Tôn", các tỳ-kheo đáp lời Đức Thế Tôn.
 
 <!-- seg: mn64:1.6 -->
 Đức Thế Tôn nói như vầy:

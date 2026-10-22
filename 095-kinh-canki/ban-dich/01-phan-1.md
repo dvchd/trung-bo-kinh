@@ -115,6 +115,8 @@ tôi sẽ đi đến gặp sa-môn Gotama.'"
 <!-- seg: mn95:8.2 -->
 Ngài Caṅkī không thích hợp để đi đến gặp sa-môn Gotama;
 
+[Chú thích: Có thể so với Trường Bộ Kinh 4, đoạn 5.2 và Trường Bộ Kinh 5, đoạn 6.2.]
+
 <!-- seg: mn95:8.3 -->
 chính sa-môn Gotama mới thích hợp để đi đến gặp ngài Caṅkī.
 

@@ -15,6 +15,8 @@ Rồi thanh niên Subha, con trai của Todeyya, nói với vị gia chủ có n
 <!-- seg: mn99:2.3 -->
 "Thưa gia chủ, tôi nghe nói rằng:
 
+[Chú thích: Đoạn này cho thấy đây là lần đầu Subha gặp Đức Thế Tôn.]
+
 <!-- seg: mn99:2.4 -->
 'Sāvatthī không thiếu những bậc A-la-hán.'
 

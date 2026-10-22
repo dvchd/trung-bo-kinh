@@ -118,6 +118,8 @@ Nhưng họ vẫn có những kiến giải như vầy:
 <!-- seg: mn25:10.21 -->
 "Thế giới là thường hằng" hay "thế giới là vô thường";
 
+[Chú thích: Đây là danh sách nổi tiếng mười điểm không được tuyên bố, có mặt khắp các bài kinh và có lẽ từng là một bảng kiểm để đánh giá, phân loại các triết gia. Trong Bhagavatisūtra của phái Ni-càn-tử, Indrabhūti Gautama dùng những câu hỏi về tính thường hằng của thế giới và của linh hồn để thử Jamāli. Chữ *loka* ở đây chỉ toàn bộ vũ trụ gồm vô số thế giới.]
+
 <!-- seg: mn25:10.22 -->
 "Thế giới có giới hạn" hay "thế giới không có giới hạn";
 

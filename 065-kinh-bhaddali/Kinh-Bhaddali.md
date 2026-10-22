@@ -86,7 +86,7 @@ Bạch Thế Tôn, vì khi ăn ngày một bữa, con có thể sẽ day dứt, 
 "Vậy thì này Bhaddāli, ở chỗ được mời, ông hãy ăn một phần tại đó, phần còn lại mang ra ngoài rồi ăn.
 
 <!-- seg: mn65:4.2 -->
-Ăn như vậy, này Bhaddāli, ông cũng sẽ sống được với hạnh chỉ ngồi một chỗ."
+Ăn như vậy, này Bhaddāli, ông cũng sẽ sống được với hạnh chỉ ngồi một lần."
 
 [Chú thích: Chữ ekāsano ở đây trong bản Mahāsaṅgīti có vẻ là thừa, vì phần lớn các bản khác không có.]
 
@@ -641,7 +641,7 @@ Hãy nghe và khéo chú tâm, Ta sẽ nói."
 Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn65:33.1 -->
-"Này Bhaddāli, ví như một người luyện ngựa khéo léo có được một con ngựa giống quý tốt, việc đầu tiên là cho nó tập làm quen với hàm thiết.
+"Này Bhaddāli, ví như một người luyện ngựa khéo léo có được một con ngựa giống quý, việc đầu tiên là cho nó tập làm quen với hàm thiết.
 
 <!-- seg: mn65:33.2 -->
 Khi nó đang được tập làm quen với hàm thiết, vì trước đây chưa từng làm việc ấy, nên nó vẫn còn những thế vặn mình, né tránh, vùng vẫy, chỗ này chỗ khác.

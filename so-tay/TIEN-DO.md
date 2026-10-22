@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 80 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 86 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 80/152 bài
+## Đợt đọc lại văn phong: 86/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -102,9 +102,15 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 58 | 8 | 8.1–8.6 khôi phục appiyā amanāpā / piyā manāpā, 6.6 trích đúng, giới thiệu "ba" → "bốn" |
 | MN 59 | 2 | 5.4 vivāda, 16.5 sandhāya; giữ "rừng Jeta" theo chuẩn chung |
 | MN 60 | 4 | 31.14 "đôi co", 36.2 và 38.2 khai triển đủ khối, 39.1–39.2 dấu câu |
+| MN 61 | 0 | không có lỗi; đã kiểm 12.8 với root_text |
+| MN 62 | 0 | không có lỗi; quán địa đại và đoạn kết đúng |
+| MN 63 | 0 | không có lỗi; đủ 10 vế × 12 khối, 12 peyyāla |
+| MN 64 | 1 | 1.5 dấu phẩy ra ngoài ngoặc kép |
+| MN 65 | 2 | 4.2 ekāsana "một lần", 33.1 bỏ "tốt" thừa |
+| MN 66 | 0 | không có lỗi; peyyāla và bảy bộ mạnh/yếu đủ |
 
-Tổng 315 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 397 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 325 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 429 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
@@ -119,12 +125,13 @@ vỏ khô ngoài cùng, không phải "chồi non" như Sujato dịch); ba mục
 "Kỳ-đà" cho khớp cách gọi trong bản dịch (MN 9, 45, 117; MN 137 vốn đã dùng "Kỳ-đà"). Đợt MN 48–53
 chuẩn hoá "sanh" → "sinh" toàn kho (MN 49, MN 50) và "bản sanh" → "bổn sanh" (MN 22); nay mọi
 tệp ban-dich chỉ còn "sinh" và "bổn sanh". Đợt MN 54–60 sửa lại sách hướng dẫn MN 60 (đoạn 25.2
-thật ra CÓ `paraṁ maraṇā`) và hàng §2 của MN 59 về "rừng Jeta (Kỳ-đà)".
+thật ra CÓ `paraṁ maraṇā`) và hàng §2 của MN 59 về "rừng Jeta (Kỳ-đà)". Đợt MN 61–66 còn vá 7 chú thích Sujato còn thiếu
+ở MN 24, 25, 93, 95, 99 (xem `so-tay/ra-soat/chu-thich-thieu.md`) và dịch đủ 14 chú thích MN 1.
 
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 72 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
-   trình như trên. Đợt kế tiếp trong phiên 19:00 ngày 2026-10-22: MN 61, 62, 63, 64, 65, 66.
+1. Đọc lại 66 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+   trình như trên. Đợt kế tiếp trong phiên 19:00 ngày 2026-10-22: MN 67, 68, 69, 70, 71, 72.
 2. ~~Bổ sung 31 chú thích còn thiếu của MN 1~~ — đã xong 2026-10-22: nguồn thật ra có 14 NOTE
    (con số 41 là đọc nhầm từ tệp mẫu), nay đã dịch đủ 14 và đổi nhãn 7 chú thích người dịch.
 3. Quyết khoảng 333 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn

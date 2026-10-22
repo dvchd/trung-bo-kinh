@@ -130,7 +130,7 @@ Hãy nghe và khéo chú tâm, Ta sẽ nói."
 Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn65:33.1 -->
-"Này Bhaddāli, ví như một người luyện ngựa khéo léo có được một con ngựa giống quý tốt, việc đầu tiên là cho nó tập làm quen với hàm thiết.
+"Này Bhaddāli, ví như một người luyện ngựa khéo léo có được một con ngựa giống quý, việc đầu tiên là cho nó tập làm quen với hàm thiết.
 
 <!-- seg: mn65:33.2 -->
 Khi nó đang được tập làm quen với hàm thiết, vì trước đây chưa từng làm việc ấy, nên nó vẫn còn những thế vặn mình, né tránh, vùng vẫy, chỗ này chỗ khác.

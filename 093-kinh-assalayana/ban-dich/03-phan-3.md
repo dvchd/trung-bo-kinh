@@ -94,6 +94,8 @@ ngọn lửa do những người sinh ra trong gia đình cùng đinh, gia đìn
 <!-- seg: mn93:11.14 -->
 Vì này Ngài, ngọn lửa nào cũng có ngọn, có màu, có ánh sáng, và đều dùng được như một ngọn lửa."
 
+[Chú thích: Một lập luận tương tự cũng được nêu về thức ở đoạn 11.5 của bài kinh này.]
+
 <!-- seg: mn93:11.15 -->
 "Vậy thì này Assalāyana, ở đây các bà-la-môn có sức mạnh gì, có chỗ dựa nào, khi họ nói rằng:
 

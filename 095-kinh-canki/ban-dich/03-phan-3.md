@@ -48,6 +48,8 @@ chỉ điều này là đúng, điều khác là hư dối'?"
 <!-- seg: mn95:13.5 -->
 "Này Bhāradvāja, có vị thầy nào của các bà-la-môn, hay thầy của thầy, cho đến bảy đời thầy, đã nói như vầy chăng:
 
+[Chú thích: Có thể so với Trường Bộ Kinh 13, đoạn 12.1.]
+
 <!-- seg: mn95:13.6 -->
 'Tôi biết điều này, tôi thấy điều này:
 
