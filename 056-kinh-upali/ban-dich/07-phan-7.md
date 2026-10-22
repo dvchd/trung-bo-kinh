@@ -46,6 +46,8 @@ Khi nghe vậy, gia chủ Upāli đứng dậy khỏi chỗ ngồi, đắp áo t
 <!-- seg: mn56:29.4 -->
 đã phá tan sự cố chấp, đã thắng trận chiến;
 
+[Chú thích: Ở đây nên đọc khīla thành khila, chỉ năm thứ cứng lòng; lối nói tương tự có trong Kinh Tập 4.16 và Tương Ưng Bộ Kinh 8.8.]
+
 <!-- seg: mn56:29.5 -->
 không còn phiền não, tâm rất bình thản,
 
@@ -125,6 +127,8 @@ bậc khéo đối đáp, bậc đã gột sạch,
 
 <!-- seg: mn56:29.30 -->
 bậc đã hạ cờ, bậc lìa tham;
+
+[Chú thích: "Hạ cờ" được giải thích ở MN 22:35.1.]
 
 <!-- seg: mn56:29.31 -->
 bậc đã tự điều phục, bậc không còn phóng đại,

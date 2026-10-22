@@ -119,7 +119,7 @@ Khi đã ngồi xuống một bên, thái tử Abhaya nói với Đức Thế T�
 "Nhưng này thái tử, sao ông lại nói:
 
 <!-- seg: mn58:6.6 -->
-'ở điểm này, bạch Thế Tôn, các du sĩ Nigaṇṭha đã thua rồi'?"
+'Bạch Thế Tôn, ở điểm này các du sĩ Nigaṇṭha đã thua rồi'?"
 
 <!-- seg: mn58:6.7 -->
 Bạch Thế Tôn, con đã đi đến chỗ du sĩ Nigaṇṭha Nāṭaputta. Đến nơi, con đảnh lễ Nigaṇṭha Nāṭaputta rồi ngồi xuống một bên. Khi con đã ngồi xuống một bên, Nigaṇṭha Nāṭaputta nói với con:

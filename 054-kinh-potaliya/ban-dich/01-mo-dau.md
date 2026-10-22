@@ -47,6 +47,8 @@ Khi Ngài nói vậy, gia chủ Potaliya nổi giận, không vui, nghĩ rằng:
 <!-- seg: mn54:3.10 -->
 "Này gia chủ, đó chính là những dáng vẻ, những dấu hiệu, những tướng mạo của một gia chủ, đúng như thân phận gia chủ của ông."
 
+[Chú thích: Các tu sĩ từng bị chê là 'giống hệt người tại gia' vì mang dép (Kd 5:12.1.3) và che dù (Kd 15:23.2.8, Bi Pc 8).]
+
 <!-- seg: mn54:3.11 -->
 "Thưa ngài Gotama, vì rằng mọi công việc làm ăn của tôi đã được gạt bỏ, mọi giao dịch của tôi đã được cắt đứt."
 

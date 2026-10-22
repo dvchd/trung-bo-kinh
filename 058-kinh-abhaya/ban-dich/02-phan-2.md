@@ -44,24 +44,24 @@ Vì sao vậy?
 Vì con có lòng thương đứa bé, bạch Thế Tôn."
 
 <!-- seg: mn58:8.1 -->
-"Cũng vậy, này thái tử, lời nào Như Lai biết là không thật, không đúng, không đem lại lợi ích, và lời ấy không được người khác ưa thích, thì Như Lai không nói lời ấy.
+"Cũng vậy, này thái tử, lời nào Như Lai biết là không thật, không đúng, không đem lại lợi ích, và người khác không ưa, không thích lời ấy, thì Như Lai không nói lời ấy.
 
 <!-- seg: mn58:8.2 -->
-Lời nào Như Lai biết là thật, đúng, nhưng không đem lại lợi ích, và lời ấy không được người khác ưa thích, thì Như Lai cũng không nói lời ấy.
+Lời nào Như Lai biết là thật, đúng, nhưng không đem lại lợi ích, và người khác không ưa, không thích lời ấy, thì Như Lai cũng không nói lời ấy.
 
 <!-- seg: mn58:8.3 -->
-Còn lời nào Như Lai biết là thật, đúng, đem lại lợi ích, và lời ấy không được người khác ưa thích, thì Như Lai biết đúng lúc để nói ra và giải thích lời ấy.
+Còn lời nào Như Lai biết là thật, đúng, đem lại lợi ích, và người khác không ưa, không thích lời ấy, thì Như Lai biết đúng lúc để nói ra và giải thích lời ấy.
 
 [Chú thích: Cụm vācāya veyyākaraṇāya ở đây được hiểu là "nói ra và giải thích", theo cách chú giải.]
 
 <!-- seg: mn58:8.4 -->
-Lời nào Như Lai biết là không thật, không đúng, không đem lại lợi ích, và lời ấy được người khác ưa thích, thì Như Lai cũng không nói lời ấy.
+Lời nào Như Lai biết là không thật, không đúng, không đem lại lợi ích, và người khác ưa thích lời ấy, thì Như Lai cũng không nói lời ấy.
 
 <!-- seg: mn58:8.5 -->
-Lời nào Như Lai biết là thật, đúng, nhưng không đem lại lợi ích, và lời ấy được người khác ưa thích, thì Như Lai cũng không nói lời ấy.
+Lời nào Như Lai biết là thật, đúng, nhưng không đem lại lợi ích, và người khác ưa thích lời ấy, thì Như Lai cũng không nói lời ấy.
 
 <!-- seg: mn58:8.6 -->
-Còn lời nào Như Lai biết là thật, đúng, đem lại lợi ích, và lời ấy được người khác ưa thích, thì Như Lai biết đúng lúc để nói ra và giải thích lời ấy.
+Còn lời nào Như Lai biết là thật, đúng, đem lại lợi ích, và người khác ưa thích lời ấy, thì Như Lai biết đúng lúc để nói ra và giải thích lời ấy.
 
 <!-- seg: mn58:8.7 -->
 Vì sao vậy?

@@ -669,7 +669,7 @@ Còn những sa-môn và bà-la-môn nào có thuyết như vầy, có kiến nh
 tôi sẽ sinh vào hàng chư thiên không có sắc, do tưởng tạo thành — đó là điều chắc ăn đối với tôi.
 
 <!-- seg: mn60:31.14 -->
-Song, chính vì duyên nơi sắc mà người ta thấy có những điều như cầm gậy, cầm dao, cãi vã, tranh chấp, kiện tụng, mắng chửi nhau, nói lời chia rẽ, nói lời dối trá.
+Song, chính vì duyên nơi sắc mà người ta thấy có những điều như cầm gậy, cầm dao, cãi vã, tranh chấp, kiện tụng, đôi co, nói lời chia rẽ đôi bên, nói lời dối trá.
 
 <!-- seg: mn60:31.15 -->
 'Nhưng ở nơi hoàn toàn không có sắc thì những điều ấy không xuất hiện.'
@@ -784,7 +784,7 @@ vị ấy không tự hành hạ mình, không hành hạ người khác, ngay t
 Này các gia chủ, hạng người tự hành hạ mình, chuyên tâm vào việc tự hành hạ mình, là ai?
 
 <!-- seg: mn60:36.2 -->
-Này các gia chủ, ở đây có người ở trần, không giữ lề thói, liếm tay, không nhận lời mời "hãy đến, này hiền giả", không dừng lại khi được mời "hãy đứng lại, này hiền giả"; không nhận thức ăn người ta mang đến, không nhận thức ăn làm riêng cho mình, không nhận lời mời ăn; không nhận từ miệng nồi, không nhận từ miệng chén, không nhận từ nhà có nuôi cừu, không nhận từ nhà có cây gậy, không nhận từ nhà có chày giã, không nhận khi hai người đang ăn, không nhận từ người đàn bà có thai, không nhận từ người đàn bà đang cho con bú, không nhận từ người đàn bà đang ở với đàn ông, không nhận ở nơi có tin đồn, không nhận ở nơi có chó đứng chờ, không nhận ở nơi có ruồi bu từng bầy; không ăn cá, không ăn thịt, không uống rượu, không uống men, không uống nước cháo lên men; đi khất thực một nhà thì ăn một miếng, hai nhà thì ăn hai miếng, cho đến bảy nhà thì ăn bảy miếng; sống với một chén nhỏ, sống với hai chén nhỏ, cho đến bảy chén nhỏ; ăn mỗi ngày một lần, ăn hai ngày một lần, cho đến nửa tháng một lần; ăn rau cỏ, ăn kê, ăn lúa hoang, ăn gạo xấu, ăn bèo cái, ăn cám, ăn nước cháo, ăn bột mè, ăn cỏ, ăn phân bò; sống bằng rễ và trái trong rừng, hoặc ăn trái rụng; mặc vải gai, mặc vải gai pha, mặc vải liệm xác, mặc vải rách, mặc vỏ cây, mặc da linh dương, mặc da linh dương còn cả lông, mặc áo cỏ kusa, mặc áo vỏ cây, mặc áo bằng mảnh gỗ, mặc áo lông người, mặc áo lông đuôi ngựa, mặc áo cánh cú; nhổ râu tóc, chuyên tâm vào việc nhổ râu tóc; đứng thẳng, từ chối ngồi; ngồi xổm, chuyên tâm vào việc ngồi xổm; nằm trên gai góc, chuyên tâm vào việc nằm trên gai góc; ban đêm xuống nước tắm lần thứ ba, chuyên tâm vào việc tắm nước.
+Này các gia chủ, ở đây có người ở trần, không giữ lề thói, liếm tay, không nhận lời mời "hãy đến, này hiền giả", không dừng lại khi được mời "hãy đứng lại, này hiền giả"; không nhận thức ăn người ta mang đến, không nhận thức ăn làm riêng cho mình, không nhận lời mời ăn; không nhận từ miệng nồi, không nhận từ miệng chén, không nhận từ nhà có nuôi cừu, không nhận từ nhà có cây gậy, không nhận từ nhà có chày giã, không nhận khi hai người đang ăn, không nhận từ người đàn bà có thai, không nhận từ người đàn bà đang cho con bú, không nhận từ người đàn bà đang ở với đàn ông, không nhận ở nơi có tin đồn, không nhận ở nơi có chó đứng chờ, không nhận ở nơi có ruồi bu từng bầy; không ăn cá, không ăn thịt, không uống rượu, không uống men, không uống nước cháo lên men; đi khất thực một nhà thì ăn một miếng, hai nhà thì ăn hai miếng, ba nhà thì ăn ba miếng, bốn nhà thì ăn bốn miếng, năm nhà thì ăn năm miếng, sáu nhà thì ăn sáu miếng, bảy nhà thì ăn bảy miếng; sống với một chén nhỏ, sống với hai chén nhỏ, ba chén nhỏ, bốn chén nhỏ, năm chén nhỏ, sáu chén nhỏ, bảy chén nhỏ; ăn mỗi ngày một lần, ăn hai ngày một lần, ba ngày một lần, bốn ngày một lần, năm ngày một lần, sáu ngày một lần, bảy ngày một lần, cho đến nửa tháng một lần, chuyên tâm vào việc ăn theo kỳ hạn; ăn rau cỏ, ăn kê, ăn lúa hoang, ăn gạo xấu, ăn bèo cái, ăn cám, ăn nước cháo, ăn bột mè, ăn cỏ, ăn phân bò; sống bằng rễ và trái trong rừng, hoặc ăn trái rụng; mặc vải gai, mặc vải gai pha, mặc vải liệm xác, mặc vải rách, mặc vỏ cây tirīṭa, mặc da linh dương, mặc da linh dương còn cả lông, mặc áo cỏ kusa, mặc áo vỏ cây, mặc áo bằng mảnh gỗ, mặc áo lông người, mặc áo lông đuôi ngựa, mặc áo cánh cú; nhổ râu tóc, chuyên tâm vào việc nhổ râu tóc; đứng thẳng, từ chối ngồi; ngồi xổm, chuyên tâm vào việc ngồi xổm; nằm trên giường gai, lấy bụi gai làm chỗ nằm; chuyên tâm vào việc tắm nước ba lần mỗi ngày, kể cả lúc chiều tối.
 
 [Chú thích: Pali ở đây lược đoạn bằng dấu peyyāla; bản dịch ghi đủ danh sách các phép khổ hạnh quen thuộc, trùng với MN 12:45.1–45.8.]
 
@@ -807,21 +807,21 @@ Này các gia chủ, đây gọi là hạng người hành hạ người khác, 
 Này các gia chủ, hạng người vừa tự hành hạ mình, chuyên tâm vào việc tự hành hạ mình, vừa hành hạ người khác, chuyên tâm vào việc hành hạ người khác, là ai?
 
 <!-- seg: mn60:38.2 -->
-Này các gia chủ, ở đây có người là vua, thuộc giai cấp vua chúa, đã được quán đảnh, hoặc là một bà-la-môn giàu có. Người ấy cho xây một ngôi nhà hội mới ở phía đông kinh thành; cạo bỏ râu tóc, mặc áo da linh dương thô, thoa thân bằng bơ và dầu; rồi cùng với hoàng hậu và vị tế sư bước vào ngôi nhà ấy.
+Này các gia chủ, ở đây có người là vua, thuộc giai cấp vua chúa, đã được quán đảnh, hoặc là một bà-la-môn giàu có. Vị ấy cho xây một ngôi nhà hội mới ở phía đông kinh thành; cạo bỏ râu tóc, mặc áo da linh dương thô, thoa thân bằng bơ và dầu; vừa gãi lưng bằng sừng linh dương, vừa cùng với hoàng hậu và vị tế sư bước vào ngôi nhà ấy. Vị ấy nằm xuống trên nền đất trống, nơi ấy đã được phủ cỏ xanh. Từ một con bò cái có con bê cùng màu, sữa ở vú thứ nhất là phần của vua, sữa ở vú thứ hai là phần của hoàng hậu, sữa ở vú thứ ba là phần của vị tế sư, sữa ở vú thứ tư được dâng vào lửa tế, còn phần còn lại thì con bê bú. Rồi vị ấy nói: "Hãy giết bấy nhiêu bò đực để tế lễ, hãy giết bấy nhiêu bò tơ đực để tế lễ, hãy giết bấy nhiêu bò cái tơ để tế lễ, hãy giết bấy nhiêu dê để tế lễ, hãy giết bấy nhiêu cừu đực để tế lễ, hãy giết bấy nhiêu ngựa để tế lễ; hãy chặt bấy nhiêu cây để làm cột tế, hãy cắt bấy nhiêu cỏ darbha để làm thảm tế." Vị ấy có những người nô lệ, người hầu, người làm công.
 
-[Chú thích: Pali ở đây lược đoạn bằng dấu peyyāla; khối văn đầy đủ về lễ tế của vị vua ấy, gồm cả việc nằm xuống nền đất trống và các lễ vật, có trong MN 51:10.8.]
+[Chú thích: Pali ở đây lược đoạn bằng dấu peyyāla; bản dịch đã khai triển đủ khối lễ tế theo khuôn của MN 51:10.3–10.8.]
 
 <!-- seg: mn60:38.3 -->
-Chính những người ấy, bị đe doạ bằng gậy gộc, bị đe doạ bằng nỗi sợ, mặt đầm đìa nước mắt, khóc lóc, phải làm những công việc ấy.
+Chính những người ấy, bị đe doạ bằng gậy gộc, bị đe doạ bằng nỗi sợ, mặt đầm đìa nước mắt, khóc lóc, phải làm những việc phụ giúp cho lễ tế.
 
 <!-- seg: mn60:38.4 -->
 Này các gia chủ, đây gọi là hạng người vừa tự hành hạ mình, chuyên tâm vào việc tự hành hạ mình, vừa hành hạ người khác, chuyên tâm vào việc hành hạ người khác.
 
 <!-- seg: mn60:39.1 -->
-Này các gia chủ, hạng người không tự hành hạ mình, không chuyên tâm vào việc tự hành hạ mình, cũng không hành hạ người khác, không chuyên tâm vào việc hành hạ người khác, là ai?
+Này các gia chủ, hạng người không tự hành hạ mình, không chuyên tâm vào việc tự hành hạ mình, cũng không hành hạ người khác, không chuyên tâm vào việc hành hạ người khác, là ai,
 
 <!-- seg: mn60:39.2 -->
-vị ấy không tự hành hạ mình, không hành hạ người khác, ngay trong đời này sống không tham muốn, đã tịch tịnh, đã mát lạnh, cảm thọ an vui, sống với tự ngã đã thành Phạm thiên.
+vị ấy không tự hành hạ mình, không hành hạ người khác, ngay trong đời này sống không tham muốn, đã tịch tịnh, đã mát lạnh, cảm thọ an vui, sống với tự ngã đã thành Phạm thiên?
 
 <!-- seg: mn60:40-54.1 -->
 Này các gia chủ, ở đây có Như Lai xuất hiện trong đời, là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn. Ngài tự mình chứng biết bằng thắng trí về thế giới này cùng với chư thiên, Ma vương, Phạm Thiên, cùng với đám chúng sinh gồm sa-môn, bà-la-môn, chư thiên và loài người, rồi tuyên bố cho người khác biết. Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có nghĩa lý và văn cú; Ngài nêu rõ đời sống phạm hạnh hoàn toàn đầy đủ và trong sạch.

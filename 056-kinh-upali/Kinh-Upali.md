@@ -912,7 +912,7 @@ Khi nghe vậy, ni-kiền-tử Nātaputta nói với gia chủ Upāli:
 <!-- seg: mn56:25.4 -->
 Này gia chủ, như một người mang trứng đi bán lại trở về với trứng đã bị móc mất; hay như một người mang mắt đi bán lại trở về với mắt đã bị móc mất;
 
-[Chú thích: Chữ aṇḍa vừa nghĩa là "trứng" vừa nghĩa là "tinh hoàn"; câu ví dụ chế giễu kẻ đi khoe tài mà trở về bị tước mất cả vốn lẫn uy.]
+[Chú thích của người dịch: Chữ aṇḍa vừa nghĩa là "trứng" vừa nghĩa là "tinh hoàn"; câu ví dụ chế giễu kẻ đi khoe tài mà trở về bị tước mất cả vốn lẫn uy.]
 
 <!-- seg: mn56:25.5 -->
 cũng vậy, này gia chủ, ông đã nói: 'Thưa Ngài, con xin đi bắt bẻ học thuyết của sa-môn Gotama', rồi đi, và trở về với tấm lưới lớn của lý luận ấy trùm lên đầu.
@@ -1043,6 +1043,8 @@ Khi nghe vậy, gia chủ Upāli đứng dậy khỏi chỗ ngồi, đắp áo t
 <!-- seg: mn56:29.4 -->
 đã phá tan sự cố chấp, đã thắng trận chiến;
 
+[Chú thích: Ở đây nên đọc khīla thành khila, chỉ năm thứ cứng lòng; lối nói tương tự có trong Kinh Tập 4.16 và Tương Ưng Bộ Kinh 8.8.]
+
 <!-- seg: mn56:29.5 -->
 không còn phiền não, tâm rất bình thản,
 
@@ -1123,6 +1125,8 @@ bậc khéo đối đáp, bậc đã gột sạch,
 <!-- seg: mn56:29.30 -->
 bậc đã hạ cờ, bậc lìa tham;
 
+[Chú thích: "Hạ cờ" được giải thích ở MN 22:35.1.]
+
 <!-- seg: mn56:29.31 -->
 bậc đã tự điều phục, bậc không còn phóng đại,
 
@@ -1182,6 +1186,8 @@ Bậc đã vượt lên, bậc hành thiền,
 
 <!-- seg: mn56:29.46 -->
 bậc không còn tư tưởng dấy lên bên trong, bậc thanh tịnh;
+
+[Chú thích: Xem Ud 4.1:23.2, nơi anugata chỉ những tư tưởng khởi lên trong tâm.]
 
 <!-- seg: mn56:29.47 -->
 bậc không lệ thuộc, bậc không còn sợ hãi;
@@ -1259,4 +1265,4 @@ Rồi, không chịu nổi sự cúng dường dành cho Đức Thế Tôn, ni-k
 <!-- seg: mn56:31.2 -->
 Kinh Upāli, bài thứ sáu, đã hoàn tất.
 
-[Chú thích: Đây là dòng ghi kết thúc bài kinh trong bản Pali, không phải lời thoại.]
+[Chú thích của người dịch: Đây là dòng ghi kết thúc bài kinh trong bản Pali, không phải lời thoại.]

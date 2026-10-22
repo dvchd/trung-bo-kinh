@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Nhiều Loại Cảm Thọ** (*Bahuvedanīya Sutta*) là bài kinh thứ 59 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), và hầu như không có cảnh tượng lớn lao nào: chỉ một cuộc trò chuyện nhỏ giữa một người cư sĩ và một vị tỳ-kheo, rồi được thuật lại cho Đức Thế Tôn. Câu hỏi của cuộc trò chuyện ấy nghe rất hẹp: cảm thọ có mấy loại?
+**Kinh Nhiều Loại Cảm Thọ** (*Bahuvedanīya Sutta*) là bài kinh thứ 59 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), và hầu như không có cảnh tượng lớn lao nào: chỉ một cuộc trò chuyện nhỏ giữa một người cư sĩ và một vị tỳ-kheo, rồi được thuật lại cho Đức Thế Tôn. Câu hỏi của cuộc trò chuyện ấy nghe rất hẹp: cảm thọ có mấy loại?
 
 Thợ mộc Pañcakaṅga hỏi Tôn giả Udāyī: Đức Thế Tôn đã nói có bao nhiêu loại cảm thọ? Tôn giả đáp: ba, gồm lạc, khổ và không khổ không lạc. Pañcakaṅga không chịu: chỉ có hai, lạc và khổ; còn cái không khổ không lạc thì Đức Thế Tôn đã nói đó là một thứ lạc tĩnh lặng và vi tế, nên không tính thành loại thứ ba. Hai người hỏi qua đáp lại ba lần, không ai chịu ai. Tôn giả Ānanda (A-nan) nghe hết cuộc trò chuyện, bèn đến thuật lại cho Đức Thế Tôn.
 
@@ -164,7 +164,7 @@ Này Ānanda, trong một cách nói, Ta đã nói đến hai loại cảm thọ
 Này Ānanda, Ta đã giảng Pháp bằng nhiều cách nói như vậy.
 
 <!-- seg: mn59:5.4 -->
-Này Ānanda, khi Ta đã giảng Pháp bằng nhiều cách nói như vậy, những ai không chấp nhận, không tán thành, không hoan hỷ với điều được nói đúng và nói khéo của nhau, thì có thể chờ đợi ở họ điều này: họ sẽ sống trong cảnh tranh cãi, xung đột, kiện tụng, đâm chọc nhau bằng những lời sắc nhọn như giáo mác.
+Này Ānanda, khi Ta đã giảng Pháp bằng nhiều cách nói như vậy, những ai không chấp nhận, không tán thành, không hoan hỷ với điều được nói đúng và nói khéo của nhau, thì có thể chờ đợi ở họ điều này: họ sẽ sống trong cảnh cãi vã, xung đột, tranh chấp, đâm chọc nhau bằng những lời sắc nhọn như giáo mác.
 
 <!-- seg: mn59:5.5 -->
 Này Ānanda, Ta đã giảng Pháp bằng nhiều cách nói như vậy.
@@ -368,7 +368,7 @@ Vậy điều ấy là gì, và nghĩa là thế nào?'
 Này Ānanda, nếu các du sĩ ngoại đạo nói như vậy, thì nên nói với họ như vầy:
 
 <!-- seg: mn59:16.5 -->
-'Này các ông, khi xếp một điều gì vào chỗ lạc, Đức Thế Tôn không chỉ nói đến cảm thọ lạc.
+'Này các ông, khi xếp một điều gì vào chỗ lạc, Đức Thế Tôn không chỉ căn cứ vào cảm thọ lạc.
 
 <!-- seg: mn59:16.6 -->
 Nhưng này các ông, bất cứ ở đâu và trong trường hợp nào tìm thấy lạc, Như Lai đều xếp điều ấy vào chỗ lạc.'"

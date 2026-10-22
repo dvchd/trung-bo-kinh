@@ -11,7 +11,7 @@ Vậy điều ấy là gì, và nghĩa là thế nào?'
 Này Ānanda, nếu các du sĩ ngoại đạo nói như vậy, thì nên nói với họ như vầy:
 
 <!-- seg: mn59:16.5 -->
-'Này các ông, khi xếp một điều gì vào chỗ lạc, Đức Thế Tôn không chỉ nói đến cảm thọ lạc.
+'Này các ông, khi xếp một điều gì vào chỗ lạc, Đức Thế Tôn không chỉ căn cứ vào cảm thọ lạc.
 
 <!-- seg: mn59:16.6 -->
 Nhưng này các ông, bất cứ ở đâu và trong trường hợp nào tìm thấy lạc, Như Lai đều xếp điều ấy vào chỗ lạc.'"

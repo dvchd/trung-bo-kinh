@@ -50,7 +50,7 @@
 - `tatra` mở đầu mỗi đoạn lập luận (mn60:7.1, 10.1, 15.1…): dịch là "trong trường hợp ấy", không dịch "ở đó" theo nghĩa chỗ chốn.
 - `Kāmaṁ kho pana māhu … hotu … saccaṁ vacanaṁ`: câu nhượng bộ, dịch "Cứ cho là … là lời đúng đi chăng nữa"; `māhu` là `mā ahu`, một lối phủ định đơn thuần chứ không phải lời cấm.
 - `kiriya` không phải `kamma`: phải dịch "hành động có quả / không có quả", không dịch "nghiệp có quả", nếu không sẽ lẫn với cặp quan điểm đầu bài.
-- `sotthimattānaṁ karissati` (mn60:9.2, 17.2, 25.2): Pali ở đây không có `paraṁ maraṇā`, khác với đoạn song song ở 9.3; dịch "sẽ tự làm cho mình được an toàn", đừng thêm "sau khi chết".
+- `sotthimattānaṁ karissati` (mn60:9.2, 17.2, 25.2): hai đoạn 9.2 và 17.2 không có `paraṁ maraṇā` nên dịch "khi thân này tan rã, người ấy sẽ tự làm cho mình được an toàn", đừng thêm "sau khi chết"; riêng 25.2 Pali có `paraṁ maraṇā` nên giữ "sau khi chết".
 - `ekaṁsaṁ pharitvā tiṭṭhati, riñcati kusalaṁ ṭhānaṁ` (mn60:9.8): "chỉ phủ được một phía, còn bỏ mất phần nền tảng thiện"; `kusala` ở đây vừa là "thiện" vừa là "khéo léo".
 - `sabbaso āruppā` (mn60:29.2): `sabbaso` là "hoàn toàn", nên dịch "không hề có các tầng vô sắc" và giữ nguyên chữ "hề" ở mọi chỗ lặp lại (29.2, 30.3, 31.3, 31.5…).
 - `tuvaṁtuvaṁ` và `pesuñña` (mn60:31.14): lần lượt là "đôi co" và "nói lời chia rẽ đôi bên", đừng gộp thành "chửi nhau".

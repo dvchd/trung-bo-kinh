@@ -26,6 +26,8 @@ Bậc đã vượt lên, bậc hành thiền,
 <!-- seg: mn56:29.46 -->
 bậc không còn tư tưởng dấy lên bên trong, bậc thanh tịnh;
 
+[Chú thích: Xem Ud 4.1:23.2, nơi anugata chỉ những tư tưởng khởi lên trong tâm.]
+
 <!-- seg: mn56:29.47 -->
 bậc không lệ thuộc, bậc không còn sợ hãi;
 
@@ -102,4 +104,4 @@ Rồi, không chịu nổi sự cúng dường dành cho Đức Thế Tôn, ni-k
 <!-- seg: mn56:31.2 -->
 Kinh Upāli, bài thứ sáu, đã hoàn tất.
 
-[Chú thích: Đây là dòng ghi kết thúc bài kinh trong bản Pali, không phải lời thoại.]
+[Chú thích của người dịch: Đây là dòng ghi kết thúc bài kinh trong bản Pali, không phải lời thoại.]

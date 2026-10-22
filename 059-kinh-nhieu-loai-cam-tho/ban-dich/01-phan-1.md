@@ -125,7 +125,7 @@ Này Ānanda, trong một cách nói, Ta đã nói đến hai loại cảm thọ
 Này Ānanda, Ta đã giảng Pháp bằng nhiều cách nói như vậy.
 
 <!-- seg: mn59:5.4 -->
-Này Ānanda, khi Ta đã giảng Pháp bằng nhiều cách nói như vậy, những ai không chấp nhận, không tán thành, không hoan hỷ với điều được nói đúng và nói khéo của nhau, thì có thể chờ đợi ở họ điều này: họ sẽ sống trong cảnh tranh cãi, xung đột, kiện tụng, đâm chọc nhau bằng những lời sắc nhọn như giáo mác.
+Này Ānanda, khi Ta đã giảng Pháp bằng nhiều cách nói như vậy, những ai không chấp nhận, không tán thành, không hoan hỷ với điều được nói đúng và nói khéo của nhau, thì có thể chờ đợi ở họ điều này: họ sẽ sống trong cảnh cãi vã, xung đột, tranh chấp, đâm chọc nhau bằng những lời sắc nhọn như giáo mác.
 
 <!-- seg: mn59:5.5 -->
 Này Ānanda, Ta đã giảng Pháp bằng nhiều cách nói như vậy.

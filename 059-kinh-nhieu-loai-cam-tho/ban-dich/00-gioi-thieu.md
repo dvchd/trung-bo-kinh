@@ -2,7 +2,7 @@
 
 ## Lời giới thiệu
 
-**Kinh Nhiều Loại Cảm Thọ** (*Bahuvedanīya Sutta*) là bài kinh thứ 59 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong vườn Jeta (Kỳ-đà), và hầu như không có cảnh tượng lớn lao nào: chỉ một cuộc trò chuyện nhỏ giữa một người cư sĩ và một vị tỳ-kheo, rồi được thuật lại cho Đức Thế Tôn. Câu hỏi của cuộc trò chuyện ấy nghe rất hẹp: cảm thọ có mấy loại?
+**Kinh Nhiều Loại Cảm Thọ** (*Bahuvedanīya Sutta*) là bài kinh thứ 59 trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài cỡ vừa trong Kinh tạng Pali. Bài kinh diễn ra tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), và hầu như không có cảnh tượng lớn lao nào: chỉ một cuộc trò chuyện nhỏ giữa một người cư sĩ và một vị tỳ-kheo, rồi được thuật lại cho Đức Thế Tôn. Câu hỏi của cuộc trò chuyện ấy nghe rất hẹp: cảm thọ có mấy loại?
 
 Thợ mộc Pañcakaṅga hỏi Tôn giả Udāyī: Đức Thế Tôn đã nói có bao nhiêu loại cảm thọ? Tôn giả đáp: ba, gồm lạc, khổ và không khổ không lạc. Pañcakaṅga không chịu: chỉ có hai, lạc và khổ; còn cái không khổ không lạc thì Đức Thế Tôn đã nói đó là một thứ lạc tĩnh lặng và vi tế, nên không tính thành loại thứ ba. Hai người hỏi qua đáp lại ba lần, không ai chịu ai. Tôn giả Ānanda (A-nan) nghe hết cuộc trò chuyện, bèn đến thuật lại cho Đức Thế Tôn.
 

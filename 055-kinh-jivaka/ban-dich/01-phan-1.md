@@ -100,6 +100,8 @@ Con nghe nói rằng:
 <!-- seg: mn55:7.4 -->
 Điều ấy, thưa Ngài, con đã tận mắt thấy nơi Đức Thế Tôn:
 
+[Chú thích: Ở đây đọc taṁ và idaṁ theo đối cách chỉ quan hệ, còn me theo sở dụng cách, so với câu yena brahmā sakkhidiṭṭho ở DN 13:12.1. Ý của đoạn: Jīvaka mới chỉ nghe nói Phạm Thiên an trú trong tâm từ, còn nơi Đức Thế Tôn thì ông tận mắt thấy.]
+
 <!-- seg: mn55:7.5 -->
 Đức Thế Tôn quả thật là bậc an trú trong tâm từ."
 

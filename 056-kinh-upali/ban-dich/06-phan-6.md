@@ -75,7 +75,7 @@ Khi nghe vậy, ni-kiền-tử Nātaputta nói với gia chủ Upāli:
 <!-- seg: mn56:25.4 -->
 Này gia chủ, như một người mang trứng đi bán lại trở về với trứng đã bị móc mất; hay như một người mang mắt đi bán lại trở về với mắt đã bị móc mất;
 
-[Chú thích: Chữ aṇḍa vừa nghĩa là "trứng" vừa nghĩa là "tinh hoàn"; câu ví dụ chế giễu kẻ đi khoe tài mà trở về bị tước mất cả vốn lẫn uy.]
+[Chú thích của người dịch: Chữ aṇḍa vừa nghĩa là "trứng" vừa nghĩa là "tinh hoàn"; câu ví dụ chế giễu kẻ đi khoe tài mà trở về bị tước mất cả vốn lẫn uy.]
 
 <!-- seg: mn56:25.5 -->
 cũng vậy, này gia chủ, ông đã nói: 'Thưa Ngài, con xin đi bắt bẻ học thuyết của sa-môn Gotama', rồi đi, và trở về với tấm lưới lớn của lý luận ấy trùm lên đầu.

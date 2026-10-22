@@ -19,7 +19,7 @@ Tại Sāvatthī, thợ mộc Pañcakaṅga hỏi Tôn giả Udāyī rằng Đ�
 | āyasmā udāyī | Tôn giả Udāyī | 1.3; vị tỳ-kheo đối thoại với Pañcakaṅga |
 | āyasmā ānanda | Tôn giả Ānanda (A-nan) | 4.1; người nghe lại cuộc tranh luận và thuật lại cho Đức Thế Tôn |
 | sāvatthī | Sāvatthī (Xá-vệ) | 1.2; bối cảnh bài kinh |
-| jetavana | vườn Jeta (Kỳ-đà) | 1.2 |
+| jetavana | rừng Jeta (Kỳ-đà) | 1.2 |
 | anāthapiṇḍika | Anāthapiṇḍika (Cấp Cô Độc) | 1.2; người dâng tịnh xá |
 | pasenadi | vua Pasenadi | 1.3 (chú thích); vua xứ Kosala |
 | aññatitthiyā paribbājakā | các du sĩ ngoại đạo | 16.1; những người sẽ chất vấn về sự diệt thọ tưởng |

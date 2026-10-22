@@ -85,6 +85,8 @@ Khi Ngài nói vậy, gia chủ Potaliya nổi giận, không vui, nghĩ rằng:
 <!-- seg: mn54:3.10 -->
 "Này gia chủ, đó chính là những dáng vẻ, những dấu hiệu, những tướng mạo của một gia chủ, đúng như thân phận gia chủ của ông."
 
+[Chú thích: Các tu sĩ từng bị chê là 'giống hệt người tại gia' vì mang dép (Kd 5:12.1.3) và che dù (Kd 15:23.2.8, Bi Pc 8).]
+
 <!-- seg: mn54:3.11 -->
 "Thưa ngài Gotama, vì rằng mọi công việc làm ăn của tôi đã được gạt bỏ, mọi giao dịch của tôi đã được cắt đứt."
 
@@ -628,10 +630,10 @@ Thấy điều ấy đúng như thật bằng tuệ chân chánh, vị ấy từ
 Này gia chủ, chính bậc Thánh đệ tử ấy, nương vào sự thanh tịnh của xả và niệm tối thượng này, nhớ lại nhiều đời sống quá khứ khác nhau.
 
 <!-- seg: mn54:22.2 -->
-Cụ thể là: một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một nghìn đời, một trăm nghìn đời; nhiều kiếp thế giới co lại, nhiều kiếp thế giới giãn ra, nhiều kiếp thế giới co lại và giãn ra. Như vậy, vị ấy nhớ lại nhiều đời sống quá khứ với các đặc điểm và chi tiết.
+Cụ thể là: một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một nghìn đời, một trăm nghìn đời; nhiều kiếp thế giới co lại, nhiều kiếp thế giới giãn ra, nhiều kiếp thế giới co lại và giãn ra. Vị ấy nhớ: 'Ở chỗ ấy, ta đã có tên như thế này, dòng họ như thế này, dung sắc như thế này, thức ăn như thế này, đã cảm thọ lạc và khổ như thế này, tuổi thọ kết thúc như thế này; từ chỗ ấy mạng chung, ta sinh ra ở một chỗ khác. Ở chỗ ấy, ta cũng có tên như thế này, dòng họ như thế này, dung sắc như thế này, thức ăn như thế này, đã cảm thọ lạc và khổ như thế này, tuổi thọ kết thúc như thế này; từ chỗ ấy mạng chung, ta sinh ra ở đây.' Như vậy, vị ấy nhớ lại nhiều đời sống quá khứ với các đặc điểm và chi tiết.
 
 <!-- seg: mn54:23.1 -->
-Này gia chủ, chính bậc Thánh đệ tử ấy, nương vào sự thanh tịnh của xả và niệm tối thượng này, với thiên nhãn thanh tịnh, vượt quá tầm mắt người, thấy chúng sinh đang lìa đời và đang tái sinh, kẻ hèn kém, bậc cao quý, kẻ xấu xí, người xinh đẹp, kẻ đi đến cõi khổ, người đi đến cõi vui. Vị ấy hiểu rõ: những chúng sinh này đã làm ác nơi thân, nơi lời, nơi ý, đã phỉ báng các bậc Thánh, đã mang tà kiến và hành theo tà kiến, nên sau khi thân hoại mạng chung đã sinh vào cõi dữ, đường ác, đọa xứ, địa ngục; còn những chúng sinh kia đã làm thiện nơi thân, nơi lời, nơi ý, không phỉ báng các bậc Thánh, đã mang chánh kiến và hành theo chánh kiến, nên sau khi thân hoại mạng chung đã sinh vào cõi lành, cõi trời. Như vậy, vị ấy hiểu rõ chúng sinh tùy theo nghiệp mà đi.
+Này gia chủ, chính bậc Thánh đệ tử ấy, nương vào sự thanh tịnh của xả và niệm tối thượng này, với thiên nhãn thanh tịnh, vượt quá tầm mắt người, thấy chúng sinh đang lìa đời và đang tái sinh, kẻ hèn kém, bậc cao quý, người xinh đẹp, kẻ xấu xí, người đi đến cõi vui, kẻ đi đến cõi khổ. Vị ấy hiểu rõ: những chúng sinh này đã làm ác nơi thân, nơi lời, nơi ý, đã phỉ báng các bậc Thánh, đã mang tà kiến và hành theo tà kiến, nên sau khi thân hoại mạng chung đã sinh vào cõi dữ, đường ác, đọa xứ, địa ngục; còn những chúng sinh kia đã làm thiện nơi thân, nơi lời, nơi ý, không phỉ báng các bậc Thánh, đã mang chánh kiến và hành theo chánh kiến, nên sau khi thân hoại mạng chung đã sinh vào cõi lành, cõi trời. Như vậy, vị ấy hiểu rõ chúng sinh tùy theo nghiệp mà đi.
 
 <!-- seg: mn54:24.1 -->
 Này gia chủ, chính bậc Thánh đệ tử ấy, nương vào sự thanh tịnh của xả và niệm tối thượng này, do lậu hoặc diệt tận, ngay trong đời này tự mình chứng biết và chứng đạt, rồi an trú trong tâm giải thoát và tuệ giải thoát không còn lậu hoặc.
