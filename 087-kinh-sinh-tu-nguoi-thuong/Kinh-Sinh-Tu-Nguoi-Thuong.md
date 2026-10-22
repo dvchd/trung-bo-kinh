@@ -165,7 +165,7 @@ Rồi câu chuyện ấy dần dần đi vào hoàng cung.
 <!-- seg: mn87:5.2 -->
 Rồi vua Pasenadi xứ Kosala (Ba-tư-nặc, Câu-tát-la) gọi hoàng hậu Mallikā (Mạt-lợi):
 
-[Chú thích: Mallikā là chánh hậu của vua Pasenadi, được Đức Thế Tôn tuyên bố là nữ đệ tử tại gia có trí tuệ lớn bậc nhất, và là người lập một tu viện dành cho các cuộc tranh luận học thuyết. Kinh điển sơ kỳ chỉ kể về bà chừng ấy; về sau các bản Jātaka và nhiều kinh khác thêu dệt thêm bao chuyện ly kỳ về bà và cuộc hôn nhân của bà. Kinh điển Kỳ-na giáo cũng có truyền thuyết về một nữ đạo sư tên Malli, có lẽ chịu ảnh hưởng từ những câu chuyện của Phật giáo về bà.]
+[Chú thích: Mallikā là chánh hậu của vua Pasenadi, được ghi trong danh sách nữ đệ tử tại gia nổi bật, và là người lập một tu viện dành cho các cuộc tranh luận học thuyết. Kinh điển sơ kỳ chỉ kể về bà chừng ấy; về sau các bản Jātaka và nhiều kinh khác thêu dệt thêm bao chuyện ly kỳ về bà và cuộc hôn nhân của bà. Kinh điển Kỳ-na giáo cũng có truyền thuyết về một nữ đạo sư tên Malli, có lẽ chịu ảnh hưởng từ những câu chuyện của Phật giáo về bà.]
 
 <!-- seg: mn87:5.3 -->
 "Này Mallikā, sa-môn Gotama đã nói như vầy:

@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 104 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 110 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 104/152 bài
+## Đợt đọc lại văn phong: 110/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -126,9 +126,15 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 82 | 21 | 3 chú thích Sujato còn thiếu (19.3, 25.1, 38.5), 18 chỗ "Ngài" cho Raṭṭhapāla → "ông"/"vị ấy" |
 | MN 83 | 3 | 0.2, 4.17, 21.20 đổi nhãn chú thích người dịch |
 | MN 84 | 3 | 5.35 thêm chú thích, 9.19–9.22 ngoặc kép lời trích, 0.2 nhãn chú thích; sửa "bốn" → "năm" phép thử trong giới thiệu, README và sách hướng dẫn |
+| MN 85 | 3 | 55.2 "Như Lai", thêm chú thích 57.17 và 61.6 |
+| MN 86 | 0 | sạch |
+| MN 87 | 0 | sạch (chú thích 5.2 về Mallikā sửa ở đợt gộp) |
+| MN 88 | 3 | 2.1 bỏ phẩy thừa, chú thích 10.8 "là nói đến", 19.4 giữ ngôi thứ ba |
+| MN 89 | 0 | sạch |
+| MN 90 | 1 | 5.5 khai triển lại khối lời lồng |
 
-Tổng 397 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 519 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 404 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 555 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
@@ -146,10 +152,17 @@ tệp ban-dich chỉ còn "sinh" và "bổn sanh". Đợt MN 54–60 sửa lại
 thật ra CÓ `paraṁ maraṇā`) và hàng §2 của MN 59 về "rừng Jeta (Kỳ-đà)". Đợt MN 61–66 còn vá 7 chú thích Sujato còn thiếu
 ở MN 24, 25, 93, 95, 99 (xem `so-tay/ra-soat/chu-thich-thieu.md`) và dịch đủ 14 chú thích MN 1. Đợt này cũng chuẩn hoá dấu câu của công thức đáp lời `Evaṁ, bhante`: 29 chỗ ở 8 bài (MN 54, 57, 64, 65, 70, 146, 147, 152) đưa dấu phẩy vào trong ngoặc kép cho khớp 152 chỗ còn lại trong kho. Đợt MN 67–72 đồng thời thống nhất thuật ngữ năm lớp gỗ: MN 64 và MN 72 nay dùng "vỏ trong / vỏ ngoài / gỗ giác / lõi cây"; "lõi gỗ" → "lõi cây" ở MN 18, 35, 133, 146; "dác" → "gỗ giác" ở MN 35; MN 107 "hương từ lõi gỗ" → "gỗ thơm". Đợt MN 73–78 thống nhất tên tịnh xá: 11 tệp hướng dẫn và README còn ghi "Kỳ Viên" nay đổi thành "Kỳ-đà" cho khớp 96 chỗ trong bản dịch; MN 78 giữ 1.2 là "Kỳ-đà" và sửa hàng Jetavana trong sách hướng dẫn của bài.
 
+## Đợt rà nhãn chú thích (2026-10-22)
+
+Rà toàn kho 2.632 chú thích `[Chú thích: …]`: 32 chú thích là lời người dịch nhưng mang nhãn
+của Sujato đã đổi sang `[Chú thích của người dịch: …]` (bỏ luôn câu tự khai thừa trong nội dung);
+riêng MN 38:26.2 tách thành hai chú thích (một của Sujato, một của người dịch). Báo cáo đầy đủ
+ở `so-tay/ra-soat/chu-thich-nhan.md`, gồm 12 điểm nhóm B và 20 điểm nhóm C để xét sau.
+
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 48 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
-   trình như trên. Đợt kế tiếp trong phiên 19:00 ngày 2026-10-22: MN 85, 86, 87, 88, 89, 90.
+1. Đọc lại 42 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+   trình như trên. Đợt kế tiếp trong phiên 19:00 ngày 2026-10-22: MN 91, 92, 93, 94, 95, 96.
 2. ~~Bổ sung 31 chú thích còn thiếu của MN 1~~ — đã xong 2026-10-22: nguồn thật ra có 14 NOTE
    (con số 41 là đọc nhầm từ tệp mẫu), nay đã dịch đủ 14 và đổi nhãn 7 chú thích người dịch.
 3. Quyết khoảng 429 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn

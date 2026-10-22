@@ -5,7 +5,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn88:2.1 -->
-Rồi Tôn giả Ānanda (A-nan), vào buổi sáng, đắp y, cầm bát và y, đi vào Sāvatthī để khất thực.
+Rồi Tôn giả Ānanda (A-nan) vào buổi sáng, đắp y, cầm bát và y, đi vào Sāvatthī để khất thực.
 
 <!-- seg: mn88:2.2 -->
 Sau khi khất thực trong Sāvatthī, ăn xong và trở về từ vòng khất thực, ngài đi đến Pubbārāma (Đông Viên), tòa lầu của bà mẹ Migāra (Lộc Mẫu), để an trú ban ngày.
@@ -101,7 +101,9 @@ Ngồi xong, vua Pasenadi xứ Kosala thưa với Tôn giả Ānanda:
 "Thưa đại vương, Đức Thế Tôn không thể làm một hành vi của thân như thế, mà hành vi của thân ấy bị các sa-môn và bà-la-môn có trí chê trách."
 
 <!-- seg: mn88:8.5 -->
-"Còn hành vi của lời nói thì sao, thưa Tôn giả Ānanda: Đức Thế Tôn có thể làm một hành vi của lời nói như thế chăng, mà hành vi của lời nói ấy bị các sa-môn và bà-la-môn chê trách?" "Thưa đại vương, Đức Thế Tôn không thể làm một hành vi của lời nói như thế, mà hành vi của lời nói ấy bị các sa-môn và bà-la-môn có trí chê trách."
+"Còn hành vi của lời nói thì sao, thưa Tôn giả Ānanda: Đức Thế Tôn có thể làm một hành vi của lời nói như thế chăng, mà hành vi của lời nói ấy bị các sa-môn và bà-la-môn chê trách?"
+
+"Thưa đại vương, Đức Thế Tôn không thể làm một hành vi của lời nói như thế, mà hành vi của lời nói ấy bị các sa-môn và bà-la-môn có trí chê trách."
 
 <!-- seg: mn88:8.6 -->
 "Còn hành vi của ý thì sao: Đức Thế Tôn có thể làm một hành vi của ý như thế chăng, mà hành vi của ý ấy bị các sa-môn và bà-la-môn chê trách?"
@@ -155,7 +157,7 @@ còn những người có trí, hiểu biết rộng, thông minh, sau khi xem x
 <!-- seg: mn88:10.8 -->
 "Thưa đại vương, hành vi của thân nào là có quả báo là khổ."
 
-[Chú thích: "Có quả báo là khổ" (*dukkhavipāka*) là qua những quả báo đau đớn của nghiệp, trong đời này hoặc đời sau.]
+[Chú thích: "Có quả báo là khổ" (*dukkhavipāka*) là nói đến những quả báo đau đớn của nghiệp, trong đời này hoặc đời sau.]
 
 <!-- seg: mn88:10.9 -->
 "Nhưng thưa Ngài, hành vi của thân nào là có quả báo là khổ?"

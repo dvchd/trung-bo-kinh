@@ -137,7 +137,7 @@ Rồi vua Pasenadi xứ Kosala bạch Đức Thế Tôn:
 Bạch Ngài, những người đã nói như vầy: 'Sa-môn Gotama nói thế này: không có sa-môn hay bà-la-môn nào sẽ tự nhận mình là bậc biết hết, thấy hết, tự nhận mình có tri kiến biết và thấy tất cả không trừ một điều gì; điều ấy không thể xảy ra' — bạch Ngài, những người ấy có đúng là nói theo điều Đức Thế Tôn đã nói không, có xuyên tạc Đức Thế Tôn bằng điều không thật không, có giải thích đúng theo Pháp không, và có ai có cớ hợp Pháp để chê trách không?"
 
 <!-- seg: mn90:5.5 -->
-"Này đại vương, những người nói như vậy không phải là người nói theo điều ta đã nói; họ xuyên tạc ta bằng điều không có, không thật."
+"Này đại vương, những người đã nói như vầy: 'Sa-môn Gotama nói thế này: không có sa-môn hay bà-la-môn nào sẽ tự nhận mình là bậc biết hết, thấy hết, tự nhận mình có tri kiến biết và thấy tất cả không trừ một điều gì; điều ấy không thể xảy ra' — những người ấy không phải là người nói theo điều ta đã nói; họ xuyên tạc ta bằng điều không có, không thật."
 
 <!-- seg: mn90:6.1 -->
 Rồi vua Pasenadi xứ Kosala gọi tướng quân Viḍūḍabha:

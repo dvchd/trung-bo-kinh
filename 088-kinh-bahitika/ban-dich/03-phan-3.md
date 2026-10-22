@@ -29,7 +29,7 @@ cũng vậy, thưa Ngài, Tôn giả Ānanda sẽ may ba y cho mình bằng tấ
 [Chú thích: *Bāhitikā* chỉ xuất hiện ở đây, được chú giải giải thích là loại vải "ngoại nhập". Tiếng Phạn *bāhya* mang nghĩa này được thấy ở Arthaśastra 2.22.1.]
 
 <!-- seg: mn88:19.4 -->
-Còn bộ ba y cũ của Tôn giả Ānanda thì ngài sẽ chia sẻ với các vị đồng phạm hạnh.
+Còn bộ ba y cũ của Tôn giả Ānanda thì Tôn giả Ānanda sẽ chia sẻ với các vị đồng phạm hạnh.
 
 <!-- seg: mn88:19.5 -->
 Như vậy, theo ý con, món cúng dường của chúng con sẽ tràn ra.

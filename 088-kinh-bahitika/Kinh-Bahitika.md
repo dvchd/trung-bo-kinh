@@ -44,7 +44,7 @@ Tôi nghe như vầy.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn88:2.1 -->
-Rồi Tôn giả Ānanda (A-nan), vào buổi sáng, đắp y, cầm bát và y, đi vào Sāvatthī để khất thực.
+Rồi Tôn giả Ānanda (A-nan) vào buổi sáng, đắp y, cầm bát và y, đi vào Sāvatthī để khất thực.
 
 <!-- seg: mn88:2.2 -->
 Sau khi khất thực trong Sāvatthī, ăn xong và trở về từ vòng khất thực, ngài đi đến Pubbārāma (Đông Viên), tòa lầu của bà mẹ Migāra (Lộc Mẫu), để an trú ban ngày.
@@ -140,7 +140,9 @@ Ngồi xong, vua Pasenadi xứ Kosala thưa với Tôn giả Ānanda:
 "Thưa đại vương, Đức Thế Tôn không thể làm một hành vi của thân như thế, mà hành vi của thân ấy bị các sa-môn và bà-la-môn có trí chê trách."
 
 <!-- seg: mn88:8.5 -->
-"Còn hành vi của lời nói thì sao, thưa Tôn giả Ānanda: Đức Thế Tôn có thể làm một hành vi của lời nói như thế chăng, mà hành vi của lời nói ấy bị các sa-môn và bà-la-môn chê trách?" "Thưa đại vương, Đức Thế Tôn không thể làm một hành vi của lời nói như thế, mà hành vi của lời nói ấy bị các sa-môn và bà-la-môn có trí chê trách."
+"Còn hành vi của lời nói thì sao, thưa Tôn giả Ānanda: Đức Thế Tôn có thể làm một hành vi của lời nói như thế chăng, mà hành vi của lời nói ấy bị các sa-môn và bà-la-môn chê trách?"
+
+"Thưa đại vương, Đức Thế Tôn không thể làm một hành vi của lời nói như thế, mà hành vi của lời nói ấy bị các sa-môn và bà-la-môn có trí chê trách."
 
 <!-- seg: mn88:8.6 -->
 "Còn hành vi của ý thì sao: Đức Thế Tôn có thể làm một hành vi của ý như thế chăng, mà hành vi của ý ấy bị các sa-môn và bà-la-môn chê trách?"
@@ -194,7 +196,7 @@ còn những người có trí, hiểu biết rộng, thông minh, sau khi xem x
 <!-- seg: mn88:10.8 -->
 "Thưa đại vương, hành vi của thân nào là có quả báo là khổ."
 
-[Chú thích: "Có quả báo là khổ" (*dukkhavipāka*) là qua những quả báo đau đớn của nghiệp, trong đời này hoặc đời sau.]
+[Chú thích: "Có quả báo là khổ" (*dukkhavipāka*) là nói đến những quả báo đau đớn của nghiệp, trong đời này hoặc đời sau.]
 
 <!-- seg: mn88:10.9 -->
 "Nhưng thưa Ngài, hành vi của thân nào là có quả báo là khổ?"
@@ -213,7 +215,25 @@ Các pháp bất thiện của người ấy tăng trưởng, các pháp thiện
 thưa đại vương, hành vi của thân như thế là bị các sa-môn và bà-la-môn có trí chê trách.
 
 <!-- seg: mn88:11.1 -->
-"Nhưng thưa Tôn giả Ānanda, hành vi của lời nói như thế nào là bị các sa-môn và bà-la-môn có trí chê trách?" "Thưa đại vương, hành vi của lời nói nào là bất thiện." "Nhưng thưa Ngài, hành vi của lời nói nào là bất thiện?" "Thưa đại vương, hành vi của lời nói nào là đáng chê trách." "Nhưng thưa Ngài, hành vi của lời nói nào là đáng chê trách?" "Thưa đại vương, hành vi của lời nói nào là gây tổn hại." "Nhưng thưa Ngài, hành vi của lời nói nào là gây tổn hại?" "Thưa đại vương, hành vi của lời nói nào là có quả báo là khổ." "Nhưng thưa Ngài, hành vi của lời nói nào là có quả báo là khổ?" "Thưa đại vương, hành vi của lời nói nào đưa đến tự làm khổ mình, đưa đến làm khổ người khác, đưa đến làm khổ cả hai; các pháp bất thiện của người ấy tăng trưởng, các pháp thiện của người ấy giảm sút; thưa đại vương, hành vi của lời nói như thế là bị các sa-môn và bà-la-môn có trí chê trách."
+"Nhưng thưa Tôn giả Ānanda, hành vi của lời nói như thế nào là bị các sa-môn và bà-la-môn có trí chê trách?"
+
+"Thưa đại vương, hành vi của lời nói nào là bất thiện."
+
+"Nhưng thưa Ngài, hành vi của lời nói nào là bất thiện?"
+
+"Thưa đại vương, hành vi của lời nói nào là đáng chê trách."
+
+"Nhưng thưa Ngài, hành vi của lời nói nào là đáng chê trách?"
+
+"Thưa đại vương, hành vi của lời nói nào là gây tổn hại."
+
+"Nhưng thưa Ngài, hành vi của lời nói nào là gây tổn hại?"
+
+"Thưa đại vương, hành vi của lời nói nào là có quả báo là khổ."
+
+"Nhưng thưa Ngài, hành vi của lời nói nào là có quả báo là khổ?"
+
+"Thưa đại vương, hành vi của lời nói nào đưa đến tự làm khổ mình, đưa đến làm khổ người khác, đưa đến làm khổ cả hai; các pháp bất thiện của người ấy tăng trưởng, các pháp thiện của người ấy giảm sút; thưa đại vương, hành vi của lời nói như thế là bị các sa-môn và bà-la-môn có trí chê trách."
 
 <!-- seg: mn88:11.2 -->
 "Còn hành vi của ý như thế nào là bị các sa-môn và bà-la-môn có trí chê trách?"
@@ -296,7 +316,25 @@ Các pháp bất thiện của người ấy giảm sút, các pháp thiện c�
 Thưa đại vương, hành vi của thân như thế là không bị các sa-môn và bà-la-môn có trí chê trách."
 
 <!-- seg: mn88:15.1 -->
-"Nhưng thưa Tôn giả Ānanda, hành vi của lời nói như thế nào là không bị các sa-môn và bà-la-môn có trí chê trách?" "Thưa đại vương, hành vi của lời nói nào là thiện." "Nhưng thưa Ngài, hành vi của lời nói nào là thiện?" "Thưa đại vương, hành vi của lời nói nào là không đáng chê trách." "Nhưng thưa Ngài, hành vi của lời nói nào là không đáng chê trách?" "Thưa đại vương, hành vi của lời nói nào là không gây tổn hại." "Nhưng thưa Ngài, hành vi của lời nói nào là không gây tổn hại?" "Thưa đại vương, hành vi của lời nói nào là có quả báo là hạnh phúc." "Nhưng thưa Ngài, hành vi của lời nói nào là có quả báo là hạnh phúc?" "Thưa đại vương, hành vi của lời nói nào không đưa đến tự làm khổ mình, không đưa đến làm khổ người khác, không đưa đến làm khổ cả hai; các pháp bất thiện của người ấy giảm sút, các pháp thiện của người ấy tăng trưởng; thưa đại vương, hành vi của lời nói như thế là không bị các sa-môn và bà-la-môn có trí chê trách."
+"Nhưng thưa Tôn giả Ānanda, hành vi của lời nói như thế nào là không bị các sa-môn và bà-la-môn có trí chê trách?"
+
+"Thưa đại vương, hành vi của lời nói nào là thiện."
+
+"Nhưng thưa Ngài, hành vi của lời nói nào là thiện?"
+
+"Thưa đại vương, hành vi của lời nói nào là không đáng chê trách."
+
+"Nhưng thưa Ngài, hành vi của lời nói nào là không đáng chê trách?"
+
+"Thưa đại vương, hành vi của lời nói nào là không gây tổn hại."
+
+"Nhưng thưa Ngài, hành vi của lời nói nào là không gây tổn hại?"
+
+"Thưa đại vương, hành vi của lời nói nào là có quả báo là hạnh phúc."
+
+"Nhưng thưa Ngài, hành vi của lời nói nào là có quả báo là hạnh phúc?"
+
+"Thưa đại vương, hành vi của lời nói nào không đưa đến tự làm khổ mình, không đưa đến làm khổ người khác, không đưa đến làm khổ cả hai; các pháp bất thiện của người ấy giảm sút, các pháp thiện của người ấy tăng trưởng; thưa đại vương, hành vi của lời nói như thế là không bị các sa-môn và bà-la-môn có trí chê trách."
 
 <!-- seg: mn88:15.2 -->
 "Còn hành vi của ý như thế nào là không bị các sa-môn và bà-la-môn có trí chê trách?"
@@ -396,7 +434,7 @@ cũng vậy, thưa Ngài, Tôn giả Ānanda sẽ may ba y cho mình bằng tấ
 [Chú thích: *Bāhitikā* chỉ xuất hiện ở đây, được chú giải giải thích là loại vải "ngoại nhập". Tiếng Phạn *bāhya* mang nghĩa này được thấy ở Arthaśastra 2.22.1.]
 
 <!-- seg: mn88:19.4 -->
-Còn bộ ba y cũ của Tôn giả Ānanda thì ngài sẽ chia sẻ với các vị đồng phạm hạnh.
+Còn bộ ba y cũ của Tôn giả Ānanda thì Tôn giả Ānanda sẽ chia sẻ với các vị đồng phạm hạnh.
 
 <!-- seg: mn88:19.5 -->
 Như vậy, theo ý con, món cúng dường của chúng con sẽ tràn ra.

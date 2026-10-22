@@ -134,7 +134,7 @@ Rồi này thái tử, nhóm năm tỳ-kheo được ta chỉ dạy, giáo huấ
 Khi Đức Thế Tôn nói vậy, thái tử Bodhi thưa với Ngài:
 
 <!-- seg: mn85:55.2 -->
-"Bạch Thế Tôn, một tỳ-kheo có Đức Thế Tôn làm bậc dẫn đường, thì trong bao lâu có thể tự mình chứng nghiệm bằng thắng trí và chứng đạt, ngay trong đời này, sự viên mãn tối thượng của phạm hạnh ấy?"
+"Bạch Thế Tôn, một tỳ-kheo có Như Lai làm bậc dẫn đường, thì trong bao lâu có thể tự mình chứng nghiệm bằng thắng trí và chứng đạt, ngay trong đời này, sự viên mãn tối thượng của phạm hạnh ấy?"
 
 <!-- seg: mn85:55.3 -->
 "Vậy thì này thái tử, ta sẽ hỏi lại ông về việc này. Ông hãy trả lời theo như ông thấy thích hợp.

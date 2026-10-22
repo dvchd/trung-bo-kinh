@@ -1413,7 +1413,7 @@ Rồi này thái tử, nhóm năm tỳ-kheo được ta chỉ dạy, giáo huấ
 Khi Đức Thế Tôn nói vậy, thái tử Bodhi thưa với Ngài:
 
 <!-- seg: mn85:55.2 -->
-"Bạch Thế Tôn, một tỳ-kheo có Đức Thế Tôn làm bậc dẫn đường, thì trong bao lâu có thể tự mình chứng nghiệm bằng thắng trí và chứng đạt, ngay trong đời này, sự viên mãn tối thượng của phạm hạnh ấy?"
+"Bạch Thế Tôn, một tỳ-kheo có Như Lai làm bậc dẫn đường, thì trong bao lâu có thể tự mình chứng nghiệm bằng thắng trí và chứng đạt, ngay trong đời này, sự viên mãn tối thượng của phạm hạnh ấy?"
 
 <!-- seg: mn85:55.3 -->
 "Vậy thì này thái tử, ta sẽ hỏi lại ông về việc này. Ông hãy trả lời theo như ông thấy thích hợp.
@@ -1531,7 +1531,7 @@ Này thái tử, ông nghĩ sao:
 người ấy có thể học được nghề cưỡi voi và cầm móc câu nơi ông chăng?"
 
 <!-- seg: mn85:57.17 -->
-"Bạch Thế Tôn, chỉ cần có một trong các điều ấy, người ấy đã có thể học được nghề cưỡi voi và cầm móc câu nơi con, huống chi là có đủ cả năm."
+"Bạch Thế Tôn, chỉ cần có một trong các điều ấy, người ấy đã có thể học được nghề cưỡi voi và cầm móc câu nơi con, huống chi là có đủ cả năm." [Chú thích: Padhāna nghĩa đen là "sửa" hay "đặt", do đó là "cố gắng", "tinh cần". Trong Phật giáo, từ này gần nghĩa với "thiền định"; một padhānasāla là "thiền đường". Ở đây năm pháp ấy là nền tảng thiết yếu cho việc tu thiền.]
 
 <!-- seg: mn85:58.1 -->
 Cũng vậy, này thái tử, có năm pháp tinh cần này.
@@ -1703,7 +1703,7 @@ ngài lại không đi đến nương tựa ngài Gotama ấy, cùng Pháp và T
 "Xin đừng nói vậy, này Sañjikāputta thân mến, xin đừng nói vậy!
 
 <!-- seg: mn85:61.6 -->
-Ta đã nghe và đã thọ nhận điều này từ chính miệng mẹ kính yêu của ta.
+Ta đã nghe và đã thọ nhận điều này từ chính miệng mẹ kính yêu của ta. [Chú thích: "Mẹ kính yêu" (ayyā) ở đây là hoàng hậu Vāsuladattā, con gái vua Pajjota và vợ vua Udena. Đây là chỗ duy nhất trong Kinh tạng Pali dùng thành ngữ "đã nghe và đã thọ nhận điều này từ chính miệng" cho một người không phải Đức Thế Tôn.]
 
 <!-- seg: mn85:61.7 -->
 Một thuở nọ, Đức Thế Tôn trú tại Kosambī, trong tu viện Ghosita.
