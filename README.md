@@ -1,38 +1,65 @@
 # Trung Bộ Kinh — bản dịch tiếng Việt hiện đại
 
-> 152 bài kinh trong *Majjhima Nikāya* (Trung Bộ Kinh), dịch từ nguyên bản Pali, đối chiếu bản tiếng
-> Anh của Bhikkhu Sujato, viết cho người Việt hiện đại không học Phật vẫn đọc hiểu được.
+> 152 bài kinh trong *Majjhima Nikāya*, dịch từ nguyên bản Pali, đối chiếu bản tiếng Anh của
+> Bhikkhu Sujato. Viết cho người Việt hiện đại: câu ngắn, chủ động, không dùng lối Hán-Việt cổ,
+> không cần biết gì về Phật học trước khi đọc.
 
-**Trạng thái: 152/152 bài đã dịch.** Mỗi bài hoàn thành được đánh dấu ✅ trong bảng mục lục bên dưới.
-
----
-
-## Đọc thử trong mười phút
-
-Nếu bạn chưa từng đọc kinh Pali, bắt đầu từ bốn bài này:
-
-| Bài | Vì sao nên đọc |
-|---|---|
-| [Kinh Niệm Xứ](010-kinh-niem-xu/Kinh-Niem-Xu.md) | Bài kinh nền tảng về thiền tập, đọc được như một hướng dẫn thực hành |
-| [Kinh Ví Dụ Con Rắn](022-kinh-vi-du-con-ran/Kinh-Vi-Du-Con-Ran.md) | Cảnh báo nổi tiếng: giáo pháp phải nắm đúng cách, như bắt rắn phải bắt đúng chỗ |
-| [Kinh Dạy Rāhula](061-kinh-day-rahula/Kinh-Day-Rahula.md) | Đức Thế Tôn dạy con trai mình về nói thật — ngắn, ấm, rất cụ thể |
-| [Kinh Căn Bản Pháp Môn](001-kinh-can-ban-phap-mon/Kinh-Can-Ban-Phap-Mon.md) | Bài mở đầu bộ kinh: tâm phàm phu nhận thức thế giới bằng những khái niệm nào |
-
-Các bài còn lại xem ở [mục lục đầy đủ](#mục-lục-152-bài).
+**Trạng thái: 152/152 bài đã dịch**, đã qua kiểm tra tự động. Mục lục đầy đủ ở [cuối trang](#mục-lục-152-bài).
 
 ---
 
-## Bắt đầu từ đâu
+## Nên đọc từ đâu
 
-1. **Muốn hiểu Phật giáo là gì** — đọc [Kinh Căn Bản Pháp Môn](001-kinh-can-ban-phap-mon/Kinh-Can-Ban-Phap-Mon.md)
-   rồi [Kinh Tất Cả Lậu Hoặc](002-kinh-tat-ca-lau-hoac/Kinh-Tat-Ca-Lau-Hoac.md). Hai bài mở đầu bộ
-   kinh trả lời: tâm nhận thức sai thế nào, và làm sao gột sạch những ô nhiễm ấy.
-2. **Muốn thực hành** — [Kinh Niệm Xứ](010-kinh-niem-xu/Kinh-Niem-Xu.md) và
-   [Kinh Niệm Hơi Thở](118-kinh-niem-hoi-tho/Kinh-Niem-Hoi-Tho.md) là hai bản hướng dẫn thiền đầy đủ
-   nhất trong bộ.
-3. **Muốn đọc như truyện** — các bài có cốt truyện rõ: [Kinh Aṅgulimāla](086-kinh-angulimala/Kinh-Angulimala.md)
-   (kẻ giết người đổi đời), [Kinh Thánh Cầu](026-kinh-thanh-cau/Kinh-Thanh-Cau.md) (Đức Thế Tôn kể lại
-   cuộc đời mình), [Kinh Dạy Channa](144-kinh-day-channa/Kinh-Day-Channa.md).
+| Bạn muốn | Đọc bài | Vì sao |
+|---|---|---|
+| Một bài ngắn, dễ vào | [Kinh Dạy Rāhula](061-kinh-day-rahula/Kinh-Day-Rahula.md) | Khoảng hai mươi phút: Đức Thế Tôn dạy con trai mình về nói thật |
+| Hiểu bộ kinh nói gì | [Kinh Căn Bản Pháp Môn](001-kinh-can-ban-phap-mon/Kinh-Can-Ban-Phap-Mon.md) rồi [Kinh Tất Cả Lậu Hoặc](002-kinh-tat-ca-lau-hoac/Kinh-Tat-Ca-Lau-Hoac.md) | Hai bài mở đầu: tâm nhận thức sai thế nào, và cách gột sạch những ô nhiễm ấy |
+| Tập thiền | [Kinh Niệm Xứ](010-kinh-niem-xu/Kinh-Niem-Xu.md) và [Kinh Niệm Hơi Thở](118-kinh-niem-hoi-tho/Kinh-Niem-Hoi-Tho.md) | Hai bản hướng dẫn thiền đầy đủ nhất trong bộ, đọc được như sách thực hành |
+| Đọc như truyện | [Kinh Aṅgulimāla](086-kinh-angulimala/Kinh-Angulimala.md), [Kinh Thánh Cầu](026-kinh-thanh-cau/Kinh-Thanh-Cau.md), [Kinh Dạy Channa](144-kinh-day-channa/Kinh-Day-Channa.md) | Kẻ giết người đổi đời; Đức Thế Tôn kể lại cuộc đời mình; một vị tỳ-kheo đau nặng |
+| Xem toàn cảnh trước | [Giới thiệu bộ Trung Bộ Kinh](so-tay/GIOI-THIEU-BO-KINH.md) | Cấu trúc ba phần, các chủ đề, đường đọc theo nhóm, những chỗ dễ hiểu lầm |
+
+Chưa quen thuật ngữ thì mở [Bảng thuật ngữ Pali – Việt](so-tay/BANG-THUAT-NGU.md) ở tab bên cạnh.
+
+---
+
+## Bộ kinh này có gì
+
+152 bài trải gần như toàn bộ những gì Đức Thế Tôn dạy: thiền định, giới luật, nghiệp và tái sinh,
+duyên khởi, vô ngã, đời sống tại gia, tranh luận với ngoại đạo, và những câu chuyện về chính cuộc
+đời Ngài. Có bài một trang, có bài hơn năm trăm đoạn.
+
+Muốn đọc theo nhóm chủ đề, đây là năm lối vào:
+
+- **Về chính Đức Thế Tôn** — [Kinh Thánh Cầu](026-kinh-thanh-cau/Kinh-Thanh-Cau.md) (Ngài kể lại
+  cuộc đời mình), [Đại Kinh Saccaka](036-kinh-dai-saccaka/Kinh-Dai-Saccaka.md) (cuộc đời tu tập
+  trước khi thành đạo), [Kinh Hy Hữu và Kỳ Diệu](123-kinh-hy-huu-va-ky-dieu/Kinh-Hy-Huu-Va-Ky-Dieu.md).
+- **Thiền định** — [Kinh Niệm Xứ](010-kinh-niem-xu/Kinh-Niem-Xu.md),
+  [Kinh Niệm Hơi Thở](118-kinh-niem-hoi-tho/Kinh-Niem-Hoi-Tho.md),
+  [Kinh Niệm Thân](119-kinh-niem-than/Kinh-Niem-Than.md),
+  [Kinh Ô Nhiễm](128-kinh-o-nhiem/Kinh-O-Nhiem.md) (mười một ô nhiễm của tâm khi tu định).
+- **Tranh luận với ngoại đạo** — [Kinh Upāli](056-kinh-upali/Kinh-Upali.md),
+  [Kinh Sandaka](076-kinh-sandaka/Kinh-Sandaka.md),
+  [Kinh Sangārava](100-kinh-sangarava/Kinh-Sangarava.md).
+- **Đời sống tại gia** — [Kinh Raṭṭhapāla](082-kinh-ratthapala/Kinh-Ratthapala.md),
+  [Kinh Dhānañjāni](097-kinh-dhananjani/Kinh-Dhananjani.md),
+  [Kinh Kandaraka](051-kinh-kandaraka/Kinh-Kandaraka.md).
+- **Vô ngã và duyên khởi** — [Kinh Ví Dụ Con Rắn](022-kinh-vi-du-con-ran/Kinh-Vi-Du-Con-Ran.md),
+  [Đại Kinh Đoạn Tận Ái](038-kinh-dai-doan-tan-ai/Kinh-Dai-Doan-Tan-Ai.md),
+  [Tiểu Kinh Phương Quảng](044-kinh-tieu-phuong-quang/Kinh-Tieu-Phuong-Quang.md),
+  [Đại Kinh Trăng Tròn](109-kinh-dai-trang-tron/Kinh-Dai-Trang-Tron.md),
+  [Kinh Sáu Sáu](148-kinh-sau-sau/Kinh-Sau-Sau.md).
+
+Danh sách đầy đủ theo từng nhóm nằm trong [Giới thiệu bộ Trung Bộ Kinh](so-tay/GIOI-THIEU-BO-KINH.md).
+
+---
+
+## Cách đọc bản dịch này
+
+- **Mỗi bài là một tệp.** Bấm vào tên bài ở mục lục là đọc được ngay trên GitHub, không cần tải về.
+- **Có neo đoạn.** Mỗi đoạn mang số hiệu như `mn1:2.3`, khớp với SuttaCentral. Trích dẫn, đối chiếu
+  bản Pali hay báo lỗi đều dựa vào số này.
+- **Chú thích nằm ngay trong dòng**, đặt sau đoạn liên quan: `[Chú thích: …]`.
+- **Chỗ Pali viết tắt `…pe…` đã được viết đủ**, nên bạn không phải tự đoán khối văn bị lược.
 
 ---
 
@@ -40,70 +67,22 @@ Các bài còn lại xem ở [mục lục đầy đủ](#mục-lục-152-bài).
 
 - **Dịch từ Pali**, không dịch lại từ bản tiếng Anh. Bản Anh của Bhikkhu Sujato (CC0) dùng để đối
   chiếu từng đoạn, phát hiện chỗ hiểu sai.
-- **Mỗi đoạn nguồn là một đoạn dịch**, có neo `mnN:X.Y` trong tệp nguồn — trích dẫn hay báo lỗi đều
-  tra ngược được tới SuttaCentral.
+- **Mỗi đoạn nguồn là một đoạn dịch**, đúng số hiệu, không gộp không tách.
+- **Cùng một công thức ra cùng một câu**: danh hiệu chín phần, câu mở đầu, câu kết, khuôn thiền-na…
+  giữ đúng một dạng trong cả 152 bài.
 - **Văn phong**: tiếng Việt hiện đại, câu ngắn, chủ động; thuật ngữ Phật học giữ nhưng giải thích ở
-  lần đầu xuất hiện; không dùng lối Hán-Việt cổ.
+  lần đầu xuất hiện; người kể luôn gọi "Đức Thế Tôn", Ngài gọi các tỳ-kheo là "các ông".
 - **Quy ước đầy đủ**: [`HUONG-DAN-CHUNG.md`](HUONG-DAN-CHUNG.md).
-- Các chỗ Sujato có chú thích đáng giữ thì bản dịch có `[Chú thích: …]` ngay sau đoạn liên quan.
 
 ---
 
 ## Sổ tay
 
-Đọc kèm khi cần:
-
-- **[Giới thiệu bộ Trung Bộ Kinh](so-tay/GIOI-THIEU-BO-KINH.md)** — bộ kinh này là gì, cấu trúc
-  ba phần, nên đọc từ đâu, và cách đọc một bài kinh truyền miệng.
-- **[Bảng thuật ngữ Pali – Việt](so-tay/BANG-THUAT-NGU.md)** — các thuật ngữ quan trọng cùng cách
-  dịch đã dùng thống nhất trong 152 bài.
-
----
-
-## Con số
-
-| | |
-|---|---|
-| Bài kinh | **152** — trọn bộ Trung Bộ Kinh |
-| Từ | **888.406** đoạn văn dịch, không kể chú thích |
-| Đoạn dịch | **26.891** đoạn văn, 27.195 neo đoạn, mỗi đoạn ứng với đúng một đoạn nguồn |
-| Tệp bản dịch theo đoạn | **905** trong 152 thư mục `ban-dich/` |
-
-Toàn bộ đã qua kiểm tra tự động: đủ neo đoạn và đúng thứ tự, ngoặc kép cân trong từng tệp, không
-ngoặc kép cong, không dấu lửng ngoài `[Chú thích: …]`, không dùng mười từ ngữ bị cấm trong
-[`HUONG-DAN-CHUNG.md`](HUONG-DAN-CHUNG.md).
-
----
-
-## Cấu trúc kho
-
-```
-001-kinh-can-ban-phap-mon/     một bài kinh
-├── Kinh-Can-Ban-Phap-Mon.md   bản dịch hoàn chỉnh (ghép từ ban-dich/)
-├── ban-dich/                  từng đoạn, mỗi tệp một phần
-├── nguon/                     Pali gốc, bản Anh Sujato, chú thích, segment
-├── README.md                  giới thiệu bài
-├── ghep.py                    ghép ban-dich/ thành Kinh-*.md
-├── tao-muc-luc.py             chèn mục lục vào Kinh-*.md
-├── kiem-tra-marker.py         kiểm tra đủ/đúng neo đoạn
-├── ra-soat.py                 rà soát từ cấm, ngoặc, công thức lặp
-└── tien-do.py                 báo tiến độ dịch
-cong-cu/                       công cụ dùng chung
-mau/                           khuôn để sinh bài mới
-
-Trong `cong-cu/` có bốn script kiểm tra dùng chung:
-
-| Script | Việc |
-|---|---|
-| `ra-soat-toan-bo.py` | quét 753 tệp: đủ neo đoạn, ngoặc kép cân, từ cấm, công thức lặp |
-| `ra-soat-van-phong.py` | quét 1057 tệp: văn phong, tiếng Anh sót, ký tự lạ, danh hiệu chín phần |
-| `ra-soat-cong-thuc.py` | báo cáo đoạn Pali nào đang được dịch khác nhau giữa các bài |
-| `dong-nhat-cong-thuc.py` | ép các đoạn ấy về cùng một cách dịch chuẩn |
-```
-
-Muốn sửa một câu: tìm neo `mnN:X.Y` trong `Kinh-*.md`, sửa tệp tương ứng trong `ban-dich/`, chạy
-`python3 ghep.py && python3 tao-muc-luc.py`, rồi `python3 kiem-tra-marker.py` và `python3 ra-soat.py`
-phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
+- **[Giới thiệu bộ Trung Bộ Kinh](so-tay/GIOI-THIEU-BO-KINH.md)** — bộ kinh là gì, cấu trúc ba phần,
+  nên đọc từ đâu, cách đọc một bài kinh truyền miệng.
+- **[Bảng thuật ngữ Pali – Việt](so-tay/BANG-THUAT-NGU.md)** — các thuật ngữ quan trọng, xếp theo bảy
+  nhóm chủ đề, kèm cách dịch đã dùng thống nhất.
+- **[Ghi chú tiến độ](so-tay/TIEN-DO.md)** — đã làm gì, còn gì, bốn lớp kiểm tra tự động.
 
 ---
 
@@ -267,6 +246,59 @@ phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
 <!-- KET THUC MUC LUC -->
 
 ---
+
+## Tình trạng kỹ thuật
+
+<details>
+<summary>Con số, kiểm tra tự động, cấu trúc kho — bấm để mở</summary>
+
+### Con số
+
+| | |
+|---|---|
+| Bài kinh | **152** — trọn bộ Trung Bộ Kinh |
+| Từ | **888.406** đoạn văn dịch, không kể chú thích |
+| Đoạn dịch | **26.891** đoạn văn, 27.195 neo đoạn, mỗi đoạn ứng với đúng một đoạn nguồn |
+| Tệp bản dịch theo đoạn | **905** trong 152 thư mục `ban-dich/` |
+
+Toàn bộ đã qua kiểm tra tự động: đủ neo đoạn và đúng thứ tự, ngoặc kép cân trong từng tệp, không
+ngoặc kép cong, không dấu lửng ngoài `[Chú thích: …]`, không dùng mười từ ngữ bị cấm trong
+[`HUONG-DAN-CHUNG.md`](HUONG-DAN-CHUNG.md). Kết quả hiện tại: 152/152 bài đạt, 753 tệp và 1057 tệp
+qua hai lượt quét toàn kho, 0 vấn đề.
+
+### Cấu trúc kho
+
+```text
+001-kinh-can-ban-phap-mon/     một bài kinh
+├── Kinh-Can-Ban-Phap-Mon.md   bản dịch hoàn chỉnh (ghép từ ban-dich/)
+├── ban-dich/                  từng đoạn, mỗi tệp một phần
+├── nguon/                     Pali gốc, bản Anh Sujato, chú thích, segment
+├── README.md                  giới thiệu bài
+├── ghep.py                    ghép ban-dich/ thành Kinh-*.md
+├── tao-muc-luc.py             chèn mục lục vào Kinh-*.md
+├── kiem-tra-marker.py         kiểm tra đủ/đúng neo đoạn
+├── ra-soat.py                 rà soát từ cấm, ngoặc, công thức lặp
+└── tien-do.py                 báo tiến độ dịch
+cong-cu/                       công cụ dùng chung
+mau/                           khuôn để sinh bài mới
+```
+
+Bốn script kiểm tra dùng chung trong `cong-cu/`:
+
+| Script | Việc |
+|---|---|
+| `ra-soat-toan-bo.py` | quét 753 tệp: đủ neo đoạn, ngoặc kép cân, từ cấm, công thức lặp |
+| `ra-soat-van-phong.py` | quét 1057 tệp: văn phong, tiếng Anh sót, ký tự lạ, danh hiệu chín phần |
+| `ra-soat-cong-thuc.py` | báo cáo đoạn Pali nào đang được dịch khác nhau giữa các bài |
+| `dong-nhat-cong-thuc.py` | ép các đoạn ấy về một cách dịch chuẩn |
+
+### Muốn sửa một câu
+
+Tìm neo `mnN:X.Y` trong `Kinh-*.md`, sửa tệp tương ứng trong `ban-dich/`, chạy
+`python3 ghep.py && python3 tao-muc-luc.py`, rồi `python3 kiem-tra-marker.py` và `python3 ra-soat.py`
+phải in `DAT`. Chi tiết: [`DONG-GOP.md`](DONG-GOP.md).
+
+</details>
 
 ## Giấy phép
 
