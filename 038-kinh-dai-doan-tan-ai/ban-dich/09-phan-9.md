@@ -1,23 +1,23 @@
 <!-- seg: mn38:35.1 -->
-Khi thấy sắc bằng mắt, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng.
+Khi thấy sắc bằng mắt, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn38:35.2 -->
 Vì nếu để nhãn căn không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ nhãn căn, đạt được sự thu thúc nơi nhãn căn.
 
 <!-- seg: mn38:35.3 -->
-Khi nghe âm thanh bằng tai, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng. Vì nếu để nhĩ căn không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ nhĩ căn, đạt được sự thu thúc nơi nhĩ căn.
+Khi nghe âm thanh bằng tai, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu để nhĩ căn không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ nhĩ căn, đạt được sự thu thúc nơi nhĩ căn.
 
 <!-- seg: mn38:35.4 -->
-Khi ngửi mùi bằng mũi, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng. Vì nếu để tỷ căn không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ tỷ căn, đạt được sự thu thúc nơi tỷ căn.
+Khi ngửi mùi bằng mũi, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu để tỷ căn không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ tỷ căn, đạt được sự thu thúc nơi tỷ căn.
 
 <!-- seg: mn38:35.5 -->
-Khi nếm vị bằng lưỡi, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng. Vì nếu để thiệt căn không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ thiệt căn, đạt được sự thu thúc nơi thiệt căn.
+Khi nếm vị bằng lưỡi, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu để thiệt căn không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ thiệt căn, đạt được sự thu thúc nơi thiệt căn.
 
 <!-- seg: mn38:35.6 -->
-Khi chạm xúc bằng thân, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng. Vì nếu để thân căn không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ thân căn, đạt được sự thu thúc nơi thân căn.
+Khi chạm xúc bằng thân, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu để thân căn không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ thân căn, đạt được sự thu thúc nơi thân căn.
 
 <!-- seg: mn38:35.7 -->
-Khi biết pháp bằng ý, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng.
+Khi biết pháp bằng ý, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn38:35.8 -->
 Vì nếu để ý căn không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ ý căn, đạt được sự thu thúc nơi ý căn.

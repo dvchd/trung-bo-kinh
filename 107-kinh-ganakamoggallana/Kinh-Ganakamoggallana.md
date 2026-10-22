@@ -111,25 +111,25 @@ Cũng vậy, này bà-la-môn, khi Như Lai có được một người đáng �
 Này bà-la-môn, khi vị tỳ-kheo đã giữ giới, sống thu thúc theo giới bổn Pātimokkha, đầy đủ oai nghi và chỗ đi lại, thấy sự nguy hiểm trong những lỗi nhỏ nhặt, và học tập các học giới sau khi đã thọ trì, thì Như Lai dẫn dắt vị ấy thêm nữa:
 
 <!-- seg: mn107:4.2 -->
-'Này tỳ-kheo, ông hãy đến. Ông hãy canh giữ các cửa giác quan. Khi mắt thấy sắc, ông chớ nắm giữ tướng chung, chớ nắm giữ chi tiết.
+'Này tỳ-kheo, ông hãy đến. Ông hãy canh giữ các cửa giác quan. Khi mắt thấy sắc, ông chớ nắm bắt tướng chung, chớ nắm bắt tướng riêng.
 
 <!-- seg: mn107:4.3 -->
 Nếu sống với nhãn căn không được thu thúc, thì tham lam và ưu não, những pháp ác và bất thiện, sẽ tràn vào. Vì thế, ông hãy thực hành sự thu thúc, hãy hộ trì nhãn căn, hãy đạt được sự thu thúc nơi nhãn căn.
 
 <!-- seg: mn107:4.4 -->
-Khi tai nghe âm thanh, ông chớ nắm giữ tướng chung, chớ nắm giữ chi tiết. Nếu sống với nhĩ căn không được thu thúc, thì tham lam và ưu não, những pháp ác và bất thiện, sẽ tràn vào. Vì thế, ông hãy thực hành sự thu thúc, hãy hộ trì nhĩ căn, hãy đạt được sự thu thúc nơi nhĩ căn.
+Khi tai nghe âm thanh, ông chớ nắm bắt tướng chung, chớ nắm bắt tướng riêng. Nếu sống với nhĩ căn không được thu thúc, thì tham lam và ưu não, những pháp ác và bất thiện, sẽ tràn vào. Vì thế, ông hãy thực hành sự thu thúc, hãy hộ trì nhĩ căn, hãy đạt được sự thu thúc nơi nhĩ căn.
 
 <!-- seg: mn107:4.5 -->
-Khi mũi ngửi mùi hương, ông chớ nắm giữ tướng chung, chớ nắm giữ chi tiết. Nếu sống với tỷ căn không được thu thúc, thì tham lam và ưu não, những pháp ác và bất thiện, sẽ tràn vào. Vì thế, ông hãy thực hành sự thu thúc, hãy hộ trì tỷ căn, hãy đạt được sự thu thúc nơi tỷ căn.
+Khi mũi ngửi mùi hương, ông chớ nắm bắt tướng chung, chớ nắm bắt tướng riêng. Nếu sống với tỷ căn không được thu thúc, thì tham lam và ưu não, những pháp ác và bất thiện, sẽ tràn vào. Vì thế, ông hãy thực hành sự thu thúc, hãy hộ trì tỷ căn, hãy đạt được sự thu thúc nơi tỷ căn.
 
 <!-- seg: mn107:4.6 -->
-Khi lưỡi nếm vị, ông chớ nắm giữ tướng chung, chớ nắm giữ chi tiết. Nếu sống với thiệt căn không được thu thúc, thì tham lam và ưu não, những pháp ác và bất thiện, sẽ tràn vào. Vì thế, ông hãy thực hành sự thu thúc, hãy hộ trì thiệt căn, hãy đạt được sự thu thúc nơi thiệt căn.
+Khi lưỡi nếm vị, ông chớ nắm bắt tướng chung, chớ nắm bắt tướng riêng. Nếu sống với thiệt căn không được thu thúc, thì tham lam và ưu não, những pháp ác và bất thiện, sẽ tràn vào. Vì thế, ông hãy thực hành sự thu thúc, hãy hộ trì thiệt căn, hãy đạt được sự thu thúc nơi thiệt căn.
 
 <!-- seg: mn107:4.7 -->
-Khi thân cảm nhận xúc chạm, ông chớ nắm giữ tướng chung, chớ nắm giữ chi tiết. Nếu sống với thân căn không được thu thúc, thì tham lam và ưu não, những pháp ác và bất thiện, sẽ tràn vào. Vì thế, ông hãy thực hành sự thu thúc, hãy hộ trì thân căn, hãy đạt được sự thu thúc nơi thân căn.
+Khi thân cảm nhận xúc chạm, ông chớ nắm bắt tướng chung, chớ nắm bắt tướng riêng. Nếu sống với thân căn không được thu thúc, thì tham lam và ưu não, những pháp ác và bất thiện, sẽ tràn vào. Vì thế, ông hãy thực hành sự thu thúc, hãy hộ trì thân căn, hãy đạt được sự thu thúc nơi thân căn.
 
 <!-- seg: mn107:4.8 -->
-Khi ý biết pháp, ông chớ nắm giữ tướng chung, chớ nắm giữ chi tiết.
+Khi ý biết pháp, ông chớ nắm bắt tướng chung, chớ nắm bắt tướng riêng.
 
 <!-- seg: mn107:4.9 -->
 Nếu sống với ý căn không được thu thúc, thì tham lam và ưu não, những pháp ác và bất thiện, sẽ tràn vào. Vì thế, ông hãy thực hành sự thu thúc, hãy hộ trì ý căn, hãy đạt được sự thu thúc nơi ý căn.'

@@ -23,25 +23,25 @@ Cũng vậy, thưa các hiền giả, tôi biết đủ với y phục để che
 Với khối giới cao thượng này, tôi cảm nhận niềm vui không lỗi lầm ngay trong lòng mình.
 
 <!-- seg: mn112:15.1 -->
-Khi mắt thấy sắc, tôi không nắm giữ tướng chung, không nắm giữ chi tiết.
+Khi mắt thấy sắc, tôi không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn112:15.2 -->
 Vì nếu nhãn căn không được thu thúc, tham lam và ưu não, những pháp xấu ác, sẽ tràn vào, nên tôi thực hành sự thu thúc ấy; tôi gìn giữ nhãn căn, tôi thành tựu sự thu thúc nơi nhãn căn.
 
 <!-- seg: mn112:15.3 -->
-Khi tai nghe tiếng, tôi không nắm giữ tướng chung, không nắm giữ chi tiết. Vì nếu nhĩ căn không được thu thúc, tham lam và ưu não, những pháp xấu ác, sẽ tràn vào, nên tôi thực hành sự thu thúc ấy; tôi gìn giữ nhĩ căn, tôi thành tựu sự thu thúc nơi nhĩ căn.
+Khi tai nghe tiếng, tôi không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu nhĩ căn không được thu thúc, tham lam và ưu não, những pháp xấu ác, sẽ tràn vào, nên tôi thực hành sự thu thúc ấy; tôi gìn giữ nhĩ căn, tôi thành tựu sự thu thúc nơi nhĩ căn.
 
 <!-- seg: mn112:15.4 -->
-Khi mũi ngửi mùi, tôi không nắm giữ tướng chung, không nắm giữ chi tiết. Vì nếu tỷ căn không được thu thúc, tham lam và ưu não, những pháp xấu ác, sẽ tràn vào, nên tôi thực hành sự thu thúc ấy; tôi gìn giữ tỷ căn, tôi thành tựu sự thu thúc nơi tỷ căn.
+Khi mũi ngửi mùi, tôi không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu tỷ căn không được thu thúc, tham lam và ưu não, những pháp xấu ác, sẽ tràn vào, nên tôi thực hành sự thu thúc ấy; tôi gìn giữ tỷ căn, tôi thành tựu sự thu thúc nơi tỷ căn.
 
 <!-- seg: mn112:15.5 -->
-Khi lưỡi nếm vị, tôi không nắm giữ tướng chung, không nắm giữ chi tiết. Vì nếu thiệt căn không được thu thúc, tham lam và ưu não, những pháp xấu ác, sẽ tràn vào, nên tôi thực hành sự thu thúc ấy; tôi gìn giữ thiệt căn, tôi thành tựu sự thu thúc nơi thiệt căn.
+Khi lưỡi nếm vị, tôi không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu thiệt căn không được thu thúc, tham lam và ưu não, những pháp xấu ác, sẽ tràn vào, nên tôi thực hành sự thu thúc ấy; tôi gìn giữ thiệt căn, tôi thành tựu sự thu thúc nơi thiệt căn.
 
 <!-- seg: mn112:15.6 -->
-Khi thân cảm nhận xúc, tôi không nắm giữ tướng chung, không nắm giữ chi tiết. Vì nếu thân căn không được thu thúc, tham lam và ưu não, những pháp xấu ác, sẽ tràn vào, nên tôi thực hành sự thu thúc ấy; tôi gìn giữ thân căn, tôi thành tựu sự thu thúc nơi thân căn.
+Khi thân cảm nhận xúc, tôi không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu thân căn không được thu thúc, tham lam và ưu não, những pháp xấu ác, sẽ tràn vào, nên tôi thực hành sự thu thúc ấy; tôi gìn giữ thân căn, tôi thành tựu sự thu thúc nơi thân căn.
 
 <!-- seg: mn112:15.7 -->
-Khi ý nhận biết pháp, tôi không nắm giữ tướng chung, không nắm giữ chi tiết.
+Khi ý nhận biết pháp, tôi không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn112:15.8 -->
 Vì nếu ý căn không được thu thúc, tham lam và ưu não, những pháp xấu ác, sẽ tràn vào, nên tôi thực hành sự thu thúc ấy; tôi gìn giữ ý căn, tôi thành tựu sự thu thúc nơi ý căn.

@@ -128,25 +128,25 @@ Như vậy, này Mahānāma, vị thánh đệ tử thành tựu về giới.
 Và này Mahānāma, thế nào là vị thánh đệ tử canh giữ các cửa giác quan?
 
 <!-- seg: mn53:8.2 -->
-Ở đây, này Mahānāma, khi mắt thấy sắc, vị thánh đệ tử không nắm giữ tướng chung, không nắm giữ nét riêng.
+Ở đây, này Mahānāma, khi mắt thấy sắc, vị thánh đệ tử không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn53:8.3 -->
 Vì nhân gì mà khi sống với nhãn căn không được thu thúc, tham lam và sầu khổ cùng những pháp ác bất thiện sẽ tràn vào, nên vị ấy thực hành sự thu thúc đối với điều ấy; vị ấy hộ trì nhãn căn, thực hành sự thu thúc trong nhãn căn.
 
 <!-- seg: mn53:8.4 -->
-Khi tai nghe âm thanh, vị ấy không nắm giữ tướng chung, không nắm giữ nét riêng. Vì nhân gì mà khi sống với nhĩ căn không được thu thúc, tham lam và sầu khổ cùng những pháp ác bất thiện sẽ tràn vào, nên vị ấy thực hành sự thu thúc đối với điều ấy; vị ấy hộ trì nhĩ căn, thực hành sự thu thúc trong nhĩ căn.
+Khi tai nghe âm thanh, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nhân gì mà khi sống với nhĩ căn không được thu thúc, tham lam và sầu khổ cùng những pháp ác bất thiện sẽ tràn vào, nên vị ấy thực hành sự thu thúc đối với điều ấy; vị ấy hộ trì nhĩ căn, thực hành sự thu thúc trong nhĩ căn.
 
 <!-- seg: mn53:8.5 -->
-Khi mũi ngửi mùi, vị ấy không nắm giữ tướng chung, không nắm giữ nét riêng. Vì nhân gì mà khi sống với tỷ căn không được thu thúc, tham lam và sầu khổ cùng những pháp ác bất thiện sẽ tràn vào, nên vị ấy thực hành sự thu thúc đối với điều ấy; vị ấy hộ trì tỷ căn, thực hành sự thu thúc trong tỷ căn.
+Khi mũi ngửi mùi, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nhân gì mà khi sống với tỷ căn không được thu thúc, tham lam và sầu khổ cùng những pháp ác bất thiện sẽ tràn vào, nên vị ấy thực hành sự thu thúc đối với điều ấy; vị ấy hộ trì tỷ căn, thực hành sự thu thúc trong tỷ căn.
 
 <!-- seg: mn53:8.6 -->
-Khi lưỡi nếm vị, vị ấy không nắm giữ tướng chung, không nắm giữ nét riêng. Vì nhân gì mà khi sống với thiệt căn không được thu thúc, tham lam và sầu khổ cùng những pháp ác bất thiện sẽ tràn vào, nên vị ấy thực hành sự thu thúc đối với điều ấy; vị ấy hộ trì thiệt căn, thực hành sự thu thúc trong thiệt căn.
+Khi lưỡi nếm vị, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nhân gì mà khi sống với thiệt căn không được thu thúc, tham lam và sầu khổ cùng những pháp ác bất thiện sẽ tràn vào, nên vị ấy thực hành sự thu thúc đối với điều ấy; vị ấy hộ trì thiệt căn, thực hành sự thu thúc trong thiệt căn.
 
 <!-- seg: mn53:8.7 -->
-Khi thân xúc chạm vật xúc chạm, vị ấy không nắm giữ tướng chung, không nắm giữ nét riêng. Vì nhân gì mà khi sống với thân căn không được thu thúc, tham lam và sầu khổ cùng những pháp ác bất thiện sẽ tràn vào, nên vị ấy thực hành sự thu thúc đối với điều ấy; vị ấy hộ trì thân căn, thực hành sự thu thúc trong thân căn.
+Khi thân xúc chạm vật xúc chạm, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nhân gì mà khi sống với thân căn không được thu thúc, tham lam và sầu khổ cùng những pháp ác bất thiện sẽ tràn vào, nên vị ấy thực hành sự thu thúc đối với điều ấy; vị ấy hộ trì thân căn, thực hành sự thu thúc trong thân căn.
 
 <!-- seg: mn53:8.8 -->
-Khi ý biết pháp, vị ấy không nắm giữ tướng chung, không nắm giữ nét riêng.
+Khi ý biết pháp, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn53:8.9 -->
 Vì nhân gì mà khi sống với ý căn không được thu thúc, tham lam và sầu khổ cùng những pháp ác bất thiện sẽ tràn vào, nên vị ấy thực hành sự thu thúc đối với điều ấy; vị ấy hộ trì ý căn, thực hành sự thu thúc trong ý căn.

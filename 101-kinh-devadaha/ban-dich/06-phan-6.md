@@ -128,22 +128,22 @@ cũng vậy, này các tỳ-kheo, tỳ-kheo biết đủ với y để che thân
 Vị ấy thành tựu khối giới cao quý này, cảm nhận niềm an lạc không lỗi lầm ngay trong lòng mình.
 
 <!-- seg: mn101:34.1 -->
-Khi thấy sắc bằng mắt, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng.
+Khi thấy sắc bằng mắt, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn101:34.2 -->
 Nếu để căn mắt không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ căn mắt, thành tựu sự thu thúc nơi căn mắt.
 
 <!-- seg: mn101:34.3 -->
-Khi nghe âm thanh bằng tai, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng. Nếu để căn tai không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ căn tai, thành tựu sự thu thúc nơi căn tai.
+Khi nghe âm thanh bằng tai, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Nếu để căn tai không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ căn tai, thành tựu sự thu thúc nơi căn tai.
 
 <!-- seg: mn101:34.4 -->
-Khi ngửi mùi bằng mũi, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng. Nếu để căn mũi không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ căn mũi, thành tựu sự thu thúc nơi căn mũi.
+Khi ngửi mùi bằng mũi, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Nếu để căn mũi không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ căn mũi, thành tựu sự thu thúc nơi căn mũi.
 
 <!-- seg: mn101:34.5 -->
-Khi nếm vị bằng lưỡi, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng. Nếu để căn lưỡi không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ căn lưỡi, thành tựu sự thu thúc nơi căn lưỡi.
+Khi nếm vị bằng lưỡi, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Nếu để căn lưỡi không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ căn lưỡi, thành tựu sự thu thúc nơi căn lưỡi.
 
 <!-- seg: mn101:34.6 -->
-Khi chạm xúc bằng thân, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng. Nếu để căn thân không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ căn thân, thành tựu sự thu thúc nơi căn thân.
+Khi chạm xúc bằng thân, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Nếu để căn thân không được thu thúc, thì những pháp xấu ác, bất thiện như tham muốn và ưu não sẽ tràn vào; vì thế vị ấy thực hành sự thu thúc, gìn giữ căn thân, thành tựu sự thu thúc nơi căn thân.
 
 <!-- seg: mn101:34.7 -->
-Khi biết pháp bằng ý, vị ấy không nắm lấy tướng chung, không nắm lấy tướng riêng.
+Khi biết pháp bằng ý, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng.

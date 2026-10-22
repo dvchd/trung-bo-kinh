@@ -1,23 +1,23 @@
 <!-- seg: mn51:16.1 -->
-Khi mắt thấy sắc, vị ấy không nắm giữ tướng chung, không nắm giữ chi tiết.
+Khi mắt thấy sắc, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn51:16.2 -->
 Vì nếu sống với nhãn căn không được thu thúc, thì tham lam và ưu não, những pháp ác bất thiện, sẽ tràn vào, nên vị ấy thực hành sự thu thúc, hộ trì nhãn căn, thành tựu sự thu thúc nơi nhãn căn.
 
 <!-- seg: mn51:16.3 -->
-Khi nghe âm thanh bằng tai, vị ấy không nắm giữ tướng chung, không nắm giữ chi tiết. Vì nếu sống với nhĩ căn không được thu thúc, thì tham lam và ưu não, những pháp ác bất thiện, sẽ tràn vào, nên vị ấy thực hành sự thu thúc, hộ trì nhĩ căn, thành tựu sự thu thúc nơi nhĩ căn.
+Khi nghe âm thanh bằng tai, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu sống với nhĩ căn không được thu thúc, thì tham lam và ưu não, những pháp ác bất thiện, sẽ tràn vào, nên vị ấy thực hành sự thu thúc, hộ trì nhĩ căn, thành tựu sự thu thúc nơi nhĩ căn.
 
 <!-- seg: mn51:16.4 -->
-Khi ngửi mùi bằng mũi, vị ấy không nắm giữ tướng chung, không nắm giữ chi tiết. Vì nếu sống với tỷ căn không được thu thúc, thì tham lam và ưu não, những pháp ác bất thiện, sẽ tràn vào, nên vị ấy thực hành sự thu thúc, hộ trì tỷ căn, thành tựu sự thu thúc nơi tỷ căn.
+Khi ngửi mùi bằng mũi, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu sống với tỷ căn không được thu thúc, thì tham lam và ưu não, những pháp ác bất thiện, sẽ tràn vào, nên vị ấy thực hành sự thu thúc, hộ trì tỷ căn, thành tựu sự thu thúc nơi tỷ căn.
 
 <!-- seg: mn51:16.5 -->
-Khi nếm vị bằng lưỡi, vị ấy không nắm giữ tướng chung, không nắm giữ chi tiết. Vì nếu sống với thiệt căn không được thu thúc, thì tham lam và ưu não, những pháp ác bất thiện, sẽ tràn vào, nên vị ấy thực hành sự thu thúc, hộ trì thiệt căn, thành tựu sự thu thúc nơi thiệt căn.
+Khi nếm vị bằng lưỡi, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu sống với thiệt căn không được thu thúc, thì tham lam và ưu não, những pháp ác bất thiện, sẽ tràn vào, nên vị ấy thực hành sự thu thúc, hộ trì thiệt căn, thành tựu sự thu thúc nơi thiệt căn.
 
 <!-- seg: mn51:16.6 -->
-Khi cảm nhận xúc chạm bằng thân, vị ấy không nắm giữ tướng chung, không nắm giữ chi tiết. Vì nếu sống với thân căn không được thu thúc, thì tham lam và ưu não, những pháp ác bất thiện, sẽ tràn vào, nên vị ấy thực hành sự thu thúc, hộ trì thân căn, thành tựu sự thu thúc nơi thân căn.
+Khi cảm nhận xúc chạm bằng thân, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng. Vì nếu sống với thân căn không được thu thúc, thì tham lam và ưu não, những pháp ác bất thiện, sẽ tràn vào, nên vị ấy thực hành sự thu thúc, hộ trì thân căn, thành tựu sự thu thúc nơi thân căn.
 
 <!-- seg: mn51:16.7 -->
-Khi biết pháp bằng ý, vị ấy không nắm giữ tướng chung, không nắm giữ chi tiết.
+Khi biết pháp bằng ý, vị ấy không nắm bắt tướng chung, không nắm bắt tướng riêng.
 
 <!-- seg: mn51:16.8 -->
 Vì nếu sống với ý căn không được thu thúc, thì tham lam và ưu não, những pháp ác bất thiện, sẽ tràn vào, nên vị ấy thực hành sự thu thúc, hộ trì ý căn, thành tựu sự thu thúc nơi ý căn.

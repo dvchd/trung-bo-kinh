@@ -157,6 +157,7 @@ dấu), hoặc đọc lướt theo nhóm chủ đề. Những từ có dấu * l
 | papañca | hý luận | Sự lan rộng của khái niệm trong tâm |
 | Māra | Māra | Giữ nguyên, không dịch "ma vương" |
 | nimitta | tướng / căn nguyên | Tùy ngữ cảnh: dấu hiệu của định, hay nhân sinh khởi |
+| nimitta / anuvyañjana | tướng chung / tướng riêng | Công thức "không nắm bắt tướng chung, không nắm bắt tướng riêng" (66 chỗ, 13 bài) |
 | upādāya | do nắm giữ | "năm thủ uẩn" xuất phát từ đây |
 | atammayatā | sự không do đó mà thành | Chú thích riêng ở MN 113 |
 | abrahmacariyavāsa | đời sống phạm hạnh không đứng vững | MN 76 |

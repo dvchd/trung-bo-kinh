@@ -163,9 +163,9 @@ Suốt tám mươi năm, Tôn giả Bākula không nhớ đã cắt y bằng dao
 "Suốt tám mươi năm xuất gia, này Kassapa, tôi không nhớ đã ăn trong nhà người."
 
 <!-- seg: mn124:20-25.1 -->
-"Suốt tám mươi năm xuất gia, này Kassapa, tôi không nhớ đã nắm lấy tướng chung qua những chi tiết phụ nơi người nữ."
+"Suốt tám mươi năm xuất gia, này Kassapa, tôi không nhớ đã nắm bắt tướng chung qua những tướng riêng nơi người nữ."
 
-[Chú thích: Đây là phép hộ trì các căn: không nắm lấy tướng chung, không nắm lấy chi tiết phụ. Với người nữ, nghĩa là không để tâm dừng lại ở dáng vẻ, cử chỉ hay lời nói để rồi sinh tham.]
+[Chú thích: Đây là phép hộ trì các căn: không nắm bắt tướng chung, không nắm bắt tướng riêng. Với người nữ, nghĩa là không để tâm dừng lại ở dáng vẻ, cử chỉ hay lời nói để rồi sinh tham.]
 
 <!-- seg: mn124:20-25.2 -->
 "Suốt tám mươi năm xuất gia, này Kassapa, tôi không nhớ đã giảng Pháp cho người nữ, dù chỉ một bài kệ bốn câu."
