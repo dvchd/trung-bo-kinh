@@ -4,7 +4,7 @@
 [Chú thích: Đây là lần đầu tiên trong Trung Bộ Kinh ta được nghe một lời dạy từ một đệ tử. Sāriputta là đệ tử hàng đầu của Đức Thế Tôn, nổi tiếng về trí tuệ. Tôn giả thường giảng dạy trong nhiều bài kinh, và như ở đây, ưa lối trình bày có hệ thống.]
 
 <!-- seg: mn3:4.4 -->
-"Này các Hiền giả tỳ-kheo!"
+"Này các hiền giả, này các tỳ-kheo!"
 
 <!-- seg: mn3:4.5 -->
 "Thưa Hiền giả," các tỳ-kheo đáp lời Tôn giả Sāriputta.

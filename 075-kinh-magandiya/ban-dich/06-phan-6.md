@@ -23,7 +23,7 @@ Du sĩ Māgaṇḍiya đã được xuất gia ngay trước Đức Thế Tôn, 
 Không lâu sau khi thọ cụ túc giới, Tôn giả Māgaṇḍiya sống một mình, viễn ly, không phóng dật, nhiệt tâm, tinh cần; chẳng bao lâu, ngay trong đời này, ông tự mình chứng biết bằng thắng trí và chứng đạt, an trú vào chỗ tối thượng của đời sống phạm hạnh — mục đích mà các thiện nam tử chân chính xuất gia từ bỏ gia đình, sống không nhà.
 
 <!-- seg: mn75:28.3 -->
-Ông như thật biết: "Sinh đã tận, đời sống phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
+Ông như thật biết: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn75:28.4 -->
 Và Tôn giả Māgaṇḍiya trở thành một trong các bậc A-la-hán.

@@ -73,7 +73,7 @@ Nói xong, bậc Thiện thệ đứng dậy khỏi chỗ ngồi và đi vào ch
 Rồi không lâu sau khi Đức Thế Tôn rời đi, Tôn giả Sāriputta gọi các tỳ-kheo:
 
 <!-- seg: mn141:7.2 -->
-"Thưa các vị tỳ-kheo!"
+"Này các hiền giả, này các tỳ-kheo!"
 
 <!-- seg: mn141:7.3 -->
 "Thưa vâng, thưa Tôn giả", các tỳ-kheo đáp lại Tôn giả Sāriputta.

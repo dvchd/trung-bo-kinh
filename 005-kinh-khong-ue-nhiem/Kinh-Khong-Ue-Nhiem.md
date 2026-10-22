@@ -10,7 +10,7 @@ Câu hỏi của bài kinh vì thế không phải "ai sạch, ai dơ" mà là "
 
 Phần dài nhất của bài là một loạt ước muốn mà một vị tỳ-kheo có thể có: mong mình phạm tội mà các vị khác không biết; mong nếu bị khiển trách thì được khiển trách kín đáo; mong người khiển trách mình là người ngang hàng; mong bậc Đạo sư chỉ hỏi mình rồi giảng Pháp; mong được đi đầu khi vào làng dùng bữa, được chỗ ngồi tốt nhất, được nói lời tùy hỷ sau bữa ăn, được giảng Pháp cho các tỳ-kheo, cho các tỳ-kheo-ni, cho nam cư sĩ, cho nữ cư sĩ; mong được tôn kính, được y phục tốt, được bữa ăn ngon, được chỗ ở tốt, được thuốc men tốt. Đọc hết danh sách ấy sẽ thấy "vết nhơ" không phải một thứ gì huyền bí: nó là lòng ganh tị, sự tự ái, cái mong được hơn người, được giấu đi chỗ xấu của mình. Ngài Sāriputta gọi đó là những ước muốn xấu ác, bất thiện, và nói thẳng rằng cơn giận cùng sự bực bội phát sinh từ đó cũng là vết nhơ.
 
-Điều gây ấn tượng mạnh nhất có lẽ là đoạn tiếp theo. Bài kinh nói rằng nếu những ước muốn ấy vẫn còn nơi một vị, thì dù vị ấy ở rừng, ngồi chỗ thanh vắng, chỉ ăn bằng khất thực, đi khất thực lần lượt từng nhà, mặc y vá từ vải rách nhặt được, các vị đồng phạm hạnh vẫn không tôn kính vị ấy — vì họ thấy và nghe được. Hình ảnh cái chậu đồng sạch bị đựng đầy xác rắn, xác chó, xác người rồi đậy nắp khiêng qua chợ làm rõ ý: vẻ ngoài không che được mùi bên trong. Rồi ngài Mahāmoggallāna kể câu chuyện về người thợ bào vành bánh xe, ví ngài Sāriputta như người bào đúng chỗ cong, chỗ vênh, chỗ khuyết nơi tâm người nghe, và bài kết ở hình ảnh người trẻ đội tràng hoa lên đầu cùng lời tán thán qua lại của hai vị.
+Điều gây ấn tượng mạnh nhất có lẽ là đoạn tiếp theo. Bài kinh nói rằng nếu những ước muốn ấy vẫn còn nơi một vị, thì dù vị ấy ở rừng, ngồi chỗ thanh vắng, chỉ ăn bằng khất thực, đi khất thực lần lượt từng nhà, mặc y may từ vải rách nhặt được, các vị đồng phạm hạnh vẫn không tôn kính vị ấy — vì họ thấy và nghe được. Hình ảnh cái chậu đồng sạch bị đựng đầy xác rắn, xác chó, xác người rồi đậy nắp khiêng qua chợ làm rõ ý: vẻ ngoài không che được mùi bên trong. Rồi ngài Mahāmoggallāna kể câu chuyện về người thợ bào vành bánh xe, ví ngài Sāriputta như người bào đúng chỗ cong, chỗ vênh, chỗ khuyết nơi tâm người nghe, và bài kết ở hình ảnh người trẻ đội tràng hoa lên đầu cùng lời tán thán qua lại của hai vị.
 
 Với người chưa quen kinh điển, bài này dễ đọc hơn nhiều bài khác vì gần như không có thuật ngữ trừu tượng, chỉ có một câu hỏi rất đời: mình có biết mình đang có tật gì không. Cái khó là phần lặp: cùng một khuôn câu nhắc đi nhắc lại hơn mười lần, mỗi lần chỉ đổi một ước muốn. Cách đọc dễ chịu nhất là đọc khuôn một lần cho kỹ, rồi những lần sau chỉ để ý chỗ khác nhau, vì chính chỗ khác nhau ấy mới là điều bài kinh muốn nói. Cũng nên để ý rằng bài kinh đặt chuyện thú nhận lỗi trong đời sống chung của Tăng đoàn: vết nhơ được chữa không phải bằng cách giấu kín mà bằng cách để người khác thấy, và đó là lý do bài kinh dành nhiều đoạn cho chuyện bị khiển trách trước Tăng đoàn.
 
@@ -41,13 +41,13 @@ Tôi nghe như vầy.
 <!-- seg: mn5:1.2 -->
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
-
+[Chú thích: Đức Thế Tôn không xuất hiện trong bài kinh này, nhưng Ngài vẫn được nhắc đến để tỏ lòng kính trọng, cho thấy những sự việc kể ở đây diễn ra khi Ngài còn tại thế.]
 
 <!-- seg: mn5:1.3 -->
 Tại đó, Tôn giả Sāriputta (Xá-lợi-phất) gọi các tỳ-kheo:
 
 <!-- seg: mn5:1.4 -->
-"Này các vị tỳ-kheo!"
+"Này các hiền giả, này các tỳ-kheo!"
 
 <!-- seg: mn5:1.5 -->
 "Thưa Tôn giả," các tỳ-kheo ấy đáp lại Tôn giả Sāriputta.

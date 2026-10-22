@@ -8,4 +8,4 @@
 <!-- seg: mn6:0.2 -->
 **Kinh Ước Muốn** (*Ākaṅkheyya Sutta*) — "bài kinh về sự ước muốn".
 
-[Chú thích: *Ākaṅkheyya* là dạng đáng ước muốn của động từ *ākaṅkhati*, nghĩa là "ước ao, mong muốn". Bài kinh lặp lại một khuôn câu mười bảy lần, mỗi lần với một điều ước khác nhau.]
+[Chú thích của người dịch: *Ākaṅkheyya* là dạng đáng ước muốn của động từ *ākaṅkhati*, nghĩa là "ước ao, mong muốn". Bài kinh lặp lại một khuôn câu mười bảy lần, mỗi lần với một điều ước khác nhau.]

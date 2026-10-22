@@ -47,7 +47,7 @@ Lúc bấy giờ, nhiều tỳ-kheo đã tuyên bố sự chứng ngộ của m�
 [Chú thích: Chuyện này cũng được kể ở SN 12.70, về trường hợp xuất gia đáng ngờ của du sĩ Susīma. "Chứng ngộ" ở đây là aññā, thuật ngữ chỉ sự hiểu biết về quả vị A-la-hán. Tỳ-kheo cố ý nói dối mình đã giác ngộ thì phạm tội bị trục xuất, còn nói thật với người chưa thọ giới thì phạm tội phải sám hối; thường các vị chỉ nói điều ấy trong Tăng đoàn, với thầy của mình, và bằng lời lẽ trang nghiêm.]
 
 <!-- seg: mn105:2.2 -->
-"Sanh đã tận, phạm hạnh đã sống trọn, việc cần làm đã làm, không còn trở lại đời này nữa" — họ nói mình hiểu rõ như vậy.
+"Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa" — họ nói mình hiểu rõ như vậy.
 
 <!-- seg: mn105:2.3 -->
 Sunakkhatta, con trai dòng Licchavi (Lệ-xa), nghe được chuyện ấy:
@@ -58,7 +58,7 @@ Sunakkhatta, con trai dòng Licchavi (Lệ-xa), nghe được chuyện ấy:
 Nghe nói nhiều tỳ-kheo đã tuyên bố sự chứng ngộ của mình trước Đức Thế Tôn rằng:
 
 <!-- seg: mn105:2.5 -->
-"Sanh đã tận, phạm hạnh đã sống trọn, việc cần làm đã làm, không còn trở lại đời này nữa" — họ nói mình hiểu rõ như vậy.
+"Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa" — họ nói mình hiểu rõ như vậy.
 
 <!-- seg: mn105:3.1 -->
 Rồi Sunakkhatta, con trai dòng Licchavi, đi đến chỗ Đức Thế Tôn. Đến nơi, ông đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Sunakkhatta, con trai dòng Licchavi, thưa với Đức Thế Tôn:
@@ -70,13 +70,13 @@ Rồi Sunakkhatta, con trai dòng Licchavi, đi đến chỗ Đức Thế Tôn. 
 nhiều tỳ-kheo đã tuyên bố sự chứng ngộ của mình trước Đức Thế Tôn, rằng:
 
 <!-- seg: mn105:4.3 -->
-'Sanh đã tận, phạm hạnh đã sống trọn, việc cần làm đã làm, không còn trở lại đời này nữa' — họ nói mình hiểu rõ như vậy.
+'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa' — họ nói mình hiểu rõ như vậy.
 
 <!-- seg: mn105:4.4 -->
 Bạch Thế Tôn, những tỳ-kheo ấy đã tuyên bố sự chứng ngộ trước Đức Thế Tôn, rằng:
 
 <!-- seg: mn105:4.5 -->
-'Sanh đã tận, phạm hạnh đã sống trọn, việc cần làm đã làm, không còn trở lại đời này nữa' — họ nói mình hiểu rõ như vậy. Bạch Thế Tôn, phải chăng các tỳ-kheo ấy đã tuyên bố đúng, hay trong đó có những tỳ-kheo đã tuyên bố sự chứng ngộ vì lầm tưởng mình đã chứng?"
+'Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa' — họ nói mình hiểu rõ như vậy. Bạch Thế Tôn, phải chăng các tỳ-kheo ấy đã tuyên bố đúng, hay trong đó có những tỳ-kheo đã tuyên bố sự chứng ngộ vì lầm tưởng mình đã chứng?"
 
 [Chú thích: Theo một kẽ hở trong cách hành văn của Luật, người thật sự si mê mà tưởng mình đã chứng điều mình không chứng thì không phạm tội khi nói ra. Đức Thế Tôn xem sự lầm tưởng ấy là chuyện nhẹ, không đáng kể.]
 
@@ -84,7 +84,7 @@ Bạch Thế Tôn, những tỳ-kheo ấy đã tuyên bố sự chứng ngộ tr
 Này Sunakkhatta, những tỳ-kheo ấy đã tuyên bố sự chứng ngộ trước Ta, rằng:
 
 <!-- seg: mn105:5.2 -->
-"Sanh đã tận, phạm hạnh đã sống trọn, việc cần làm đã làm, không còn trở lại đời này nữa" — họ nói mình hiểu rõ như vậy.
+"Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa" — họ nói mình hiểu rõ như vậy.
 
 <!-- seg: mn105:5.3 -->
 Trong đó, này Sunakkhatta, có những tỳ-kheo đã tuyên bố đúng, nhưng cũng có những tỳ-kheo đã tuyên bố sự chứng ngộ vì lầm tưởng mình đã chứng.

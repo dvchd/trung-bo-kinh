@@ -31,7 +31,7 @@ Rồi vị tôn giả Raṭṭhapāla sống một mình, ẩn cư, không buôn
 [Chú thích: Bản Pali dùng chữ "không bao lâu", nhưng chú giải nói là mười hai năm; điều này giải thích vì sao gia đình ông không nhận ra ông ngay.]
 
 <!-- seg: mn82:14.2 -->
-Ngài biết rõ: "Sanh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại đời này nữa."
+Ngài biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn82:14.3 -->
 Và vị tôn giả Raṭṭhapāla trở thành một trong những bậc A-la-hán.

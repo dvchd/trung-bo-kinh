@@ -2,13 +2,13 @@
 
 ## Lời giới thiệu
 
-**Kinh Sợ Hãi và Kinh Hoàng** (*Bhayabherava Sutta*) là bài kinh thứ tư trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài kinh cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra gần thành Sāvatthī, mở đầu bằng cuộc gặp giữa Đức Thế Tôn và bà-la-môn Jānussoṇi. Ông này nói một điều nghe như khen: những người con nhà lương thiện vì tin nơi Đức Thế Tôn mà bỏ nhà ra đi, thì Ngài là người dẫn đường, người giúp đỡ, người khích lệ họ, và nhiều người đang noi theo gương ấy. Nhưng ngay sau đó ông nêu một nghi ngờ rất thực tế: sống nơi rừng sâu hoang vắng thật khó; ở một mình thật khó mà vui; và những khu rừng dường như cướp mất tâm trí của người tu chưa có định.
+**Kinh Sợ Hãi và Kinh Hoàng** (*Bhayabherava Sutta*) là bài kinh thứ tư trong **Trung Bộ Kinh** (*Majjhima Nikāya*), bộ kinh gồm 152 bài kinh cỡ vừa trong Kinh tạng tiếng Pali. Bài kinh diễn ra gần thành Sāvatthī, mở đầu bằng cuộc gặp giữa Đức Thế Tôn và bà-la-môn Jāṇussoṇi. Ông này nói một điều nghe như khen: những người con nhà lương thiện vì tin nơi Đức Thế Tôn mà bỏ nhà ra đi, thì Ngài là người dẫn đường, người giúp đỡ, người khích lệ họ, và nhiều người đang noi theo gương ấy. Nhưng ngay sau đó ông nêu một nghi ngờ rất thực tế: sống nơi rừng sâu hoang vắng thật khó; ở một mình thật khó mà vui; và những khu rừng dường như cướp mất tâm trí của người tu chưa có định.
 
 Đức Thế Tôn không phủ nhận. Ngài nói: đúng vậy, đúng vậy — rồi kể lại chính mình. Trước khi giác ngộ, Ngài cũng đã nghĩ y như thế về rừng núi. Nhưng thay vì tránh, Ngài tự kiểm tra từng điểm một: thân hành, khẩu hành, ý hành, sinh kế, lòng tham dục, sân hận, hôn trầm thụy miên, dao động, hoài nghi, thói tự tâng bốc mình và chê bai người, tính nhút nhát, lòng mong cầu lợi dưỡng và danh tiếng, sự biếng nhác, thất niệm, thiếu định, kém tuệ. Với mỗi điểm, Ngài tự nhủ: những ai còn khuyết điểm ấy mà vào rừng thì chính khuyết điểm ấy sinh ra nỗi sợ; còn ta không còn khuyết điểm ấy, ta là một trong những bậc thánh sống nơi rừng vắng. Mười sáu lần như vậy, và mỗi lần xong, Ngài lại thấy mình an tâm hơn khi ở rừng.
 
 Phần nổi tiếng nhất của bài kinh đến sau đó. Vào những đêm mười bốn, mười lăm và mùng tám của mỗi nửa tháng — những đêm được xem là linh thiêng — Ngài chủ động ra trú tại những nơi thờ tự trong vườn, trong rừng, dưới gốc cây, những chốn được xem là ghê sợ đến dựng ngược lông tóc. Đêm ấy, khi một con nai đi ngang, một con công làm rơi cành cây, hay gió xào xạc lá khô, nỗi sợ nổi lên. Và Ngài đặt ra một nguyên tắc: nỗi sợ đến lúc đang đi thì dẹp nó ngay trong lúc đi, đến lúc đang đứng thì dẹp ngay trong lúc đứng, lúc đang ngồi thì ngay trong lúc ngồi, lúc đang nằm thì ngay trong lúc nằm. Không đổi tư thế để chạy trốn, cũng không đứng dậy để đi tìm chỗ khác. Cả bài kinh nằm gọn trong thái độ ấy: gặp nỗi sợ tại đúng chỗ nó sinh khởi.
 
-Khi nỗi sợ đã được xử lý như vậy, phần còn lại của bài kinh là con đường tu tập quen thuộc. Tâm đã trong sạch, Ngài nhập bốn tầng thiền-na, rồi trong ba canh của đêm ấy lần lượt chứng ba minh: nhớ lại các đời sống trước; thấy chúng sinh chết đi tái sinh theo nghiệp của mình; và cuối cùng là đoạn tận các lậu hoặc, tức giác ngộ hoàn toàn. Bài kinh khép lại bằng một câu trả lời cho câu hỏi ban đầu của vị bà-la-môn: Ngài vào rừng vì hai lẽ — để tự mình sống an lạc ngay trong đời này, và vì lòng thương xót đối với những người đến sau. Nghe xong, bà-la-môn Jānussoṇi xin quy y Tam Bảo.
+Khi nỗi sợ đã được xử lý như vậy, phần còn lại của bài kinh là con đường tu tập quen thuộc. Tâm đã trong sạch, Ngài nhập bốn tầng thiền-na, rồi trong ba canh của đêm ấy lần lượt chứng ba minh: nhớ lại các đời sống trước; thấy chúng sinh chết đi tái sinh theo nghiệp của mình; và cuối cùng là đoạn tận các lậu hoặc, tức giác ngộ hoàn toàn. Bài kinh khép lại bằng một câu trả lời cho câu hỏi ban đầu của vị bà-la-môn: Ngài vào rừng vì hai lẽ — để tự mình sống an lạc ngay trong đời này, và vì lòng thương xót đối với những người đến sau. Nghe xong, bà-la-môn Jāṇussoṇi xin quy y Tam Bảo.
 
 Điều đáng chú ý là Đức Thế Tôn không trình bày mình như một người bẩm sinh không biết sợ. Ngài nói rõ: ta cũng từng thấy rừng đáng sợ, cũng từng giật mình vì tiếng động, và đã phải tập dẹp nỗi sợ ấy trong từng tư thế. Nỗi sợ ở đây không phải kẻ thù phải tiêu diệt bằng bùa chú hay bằng cách cắn răng chịu đựng, mà là dấu hiệu cho biết trong tâm còn chỗ chưa sạch. Vì vậy nửa đầu bài kinh mới là một danh sách để tự kiểm tra, chứ không phải một câu chuyện ly kỳ về rừng thiêng.
 
@@ -52,7 +52,7 @@ Sau khi chào hỏi và trò chuyện thân mật xong, ông ngồi xuống mộ
 <!-- seg: mn4:2.3 -->
 "Thưa ngài Gotama, những người con nhà lương thiện nào vì lòng tin nơi ngài Gotama mà bỏ nhà ra đi, sống không nhà, thì ngài Gotama là người dẫn đầu cho họ, là người giúp ích nhiều cho họ, là người khích lệ họ;
 
-[Chú thích: Câu này đôi khi được dịch thành câu hỏi, nhưng trong Pali không có từ để hỏi. Bản Hán tương ứng trong Tăng Chi Bộ lại đảo thứ tự: vị bà-la-môn nói trước rằng sống trong rừng thật khó, rồi mới nói tới việc Đức Thế Tôn là người dẫn đường.]
+[Chú thích: Câu này đôi khi được dịch thành câu hỏi, nhưng trong Pali không có từ để hỏi. Bản Hán tương ứng (Tăng Nhất A-hàm 31.1) lại đảo thứ tự: vị bà-la-môn nói trước rằng sống trong rừng thật khó, rồi mới nói tới việc Đức Thế Tôn là người dẫn đường.]
 
 <!-- seg: mn4:2.4 -->
 và những người ấy noi theo gương ngài Gotama."
@@ -445,7 +445,7 @@ Ta nói rằng đó là sự sống trong si mê của các vị sa-môn, bà-la
 <!-- seg: mn4:21.3 -->
 Còn ta, này bà-la-môn, khi đang là đêm thì biết là đêm, khi đang là ngày thì biết là ngày.
 
-[Chú thích: Đây là chỗ dựa vào câu thường gặp "ngày thế nào thì đêm thế ấy, đêm thế nào thì ngày thế ấy", gắn với việc tu nhận thức ánh sáng và xua tan hôn trầm. Ý của câu ấy là tâm đã được tu đến mức tràn đầy ánh sáng, bất kể bên ngoài sáng hay tối.]
+[Chú thích: Câu này ám chỉ một câu thường gặp "ngày thế nào thì đêm thế ấy, đêm thế nào thì ngày thế ấy", gắn với việc tu nhận thức ánh sáng và xua tan hôn trầm. Ý của câu ấy là tâm đã được tu đến mức tràn đầy ánh sáng, bất kể bên ngoài sáng hay tối.]
 
 <!-- seg: mn4:21.4 -->
 Này bà-la-môn, nếu có ai muốn nói đúng mà nói rằng:
@@ -564,13 +564,13 @@ Này bà-la-môn, ta lui tới những trú xứ xa xôi giữa rừng sâu hoan
 <!-- seg: mn4:34.5 -->
 một là thấy được sự sống an lạc ngay trong đời này cho chính mình, hai là vì lòng thương xót đối với thế hệ sau.
 
-[Chú thích: Câu này cũng xuất hiện trong Tăng Chi Bộ Kinh bài 2.30. Ở đây Đức Thế Tôn xác nhận điều Jānussoṇi tin: Ngài sống nơi rừng vắng một phần để làm gương cho người sau.]
+[Chú thích: Câu này cũng xuất hiện trong Tăng Chi Bộ Kinh bài 2.30. Ở đây Đức Thế Tôn xác nhận điều Jāṇussoṇi tin: Ngài sống nơi rừng vắng một phần để làm gương cho người sau.]
 
 <!-- seg: mn4:35.1 -->
 Thật vậy, thưa ngài Gotama, ngài Gotama đã thương xót thế hệ sau — điều ấy thật xứng với một bậc A-la-hán, Chánh đẳng giác.
 
 <!-- seg: mn4:35.2 -->
-Thật tuyệt vời, thưa ngài Gotama! Thật tuyệt vời, thưa ngài Gotama!
+Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời!
 
 <!-- seg: mn4:35.3 -->
 Ví như, thưa ngài Gotama, có người dựng lại vật bị lật ngược, mở ra vật bị che kín, chỉ đường cho kẻ đi lạc, hay cầm đèn dầu trong bóng tối để những ai có mắt nhìn thấy các hình sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
@@ -578,7 +578,7 @@ Ví như, thưa ngài Gotama, có người dựng lại vật bị lật ngượ
 <!-- seg: mn4:35.4 -->
 Tôi xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.
 
-[Chú thích: Jānussoṇi xuất hiện và xin quy y rất nhiều lần trong kinh điển, đến mức gần thành một khuôn riêng. Những đoạn kết kiểu này thường do người biên tập thêm vào sau, nên không nên xem là lời của chính Đức Thế Tôn.]
+[Chú thích: Jāṇussoṇi xuất hiện và xin quy y rất nhiều lần trong kinh điển, đến mức gần thành một khuôn riêng. Những đoạn kết kiểu này thường do người biên tập thêm vào sau, nên không nên xem là lời của chính Đức Thế Tôn.]
 
 <!-- seg: mn4:35.5 -->
 Xin ngài Gotama nhận tôi làm người cư sĩ, từ hôm nay cho đến trọn đời, tôi xin quy y.

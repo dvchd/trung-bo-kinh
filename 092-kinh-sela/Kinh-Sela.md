@@ -625,7 +625,7 @@ Rồi Đức Thế Tôn, sau khi tán thán Keṇiya đạo sĩ bện tóc bằn
 Rồi Tôn giả Sela cùng với đoàn học trò của mình, sống một mình, ẩn cư, không buông lỏng, nhiệt tâm, dốc lòng, chẳng bao lâu đã tự mình chứng đạt bằng thắng trí, ngay trong đời này, và an trú trong sự viên mãn tối thượng của đời sống phạm hạnh, mục đích mà những người con trai của các gia đình chân chính xuất gia, rời bỏ đời sống tại gia để sống không nhà.
 
 <!-- seg: mn92:27.2 -->
-Vị ấy biết rõ như vầy: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
+Vị ấy biết rõ như vầy: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn92:27.3 -->
 Và Tôn giả Sela cùng với đoàn học trò của mình đã trở thành bậc A-la-hán.

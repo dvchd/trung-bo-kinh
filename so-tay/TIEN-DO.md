@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 22 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 28 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 22/152 bài
+## Đợt đọc lại văn phong: 28/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -44,9 +44,19 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 150 | 5 | dấu chấm phẩy cắt sai mệnh đề |
 | MN 151 | 10 | trật tự từ ở công thức quán sáu xứ |
 | MN 152 | 4 | hô cách ở 9.10, chữ "rơi" thêm vào ở 6.9 |
+| MN 2 | 4 | cụm `vighātapariḷāhā` bị tách thành hai tính từ ở 12.4–12.7 |
+| MN 3 | 1 | cách gọi `āvuso bhikkhave` ở 4.4, đồng nhất với toàn kho |
+| MN 4 | 7 | tên Jāṇussoṇi viết thiếu ṇ (4 chỗ), chú thích 2.3 nhầm Tăng Chi Bộ, "chỗ dựa vào" ở 21.3, công thức 35.2 |
+| MN 5 | 2 | thiếu chú thích ở 1.2, "y vá" ở lời giới thiệu |
+| MN 6 | 3 | thiếu cặp ngoặc kép ở khối ước muốn 16.1–16.17, lời giới thiệu gộp bốn quả vị, chú thích 00-title thiếu "của người dịch" |
+| MN 7 | 2 | công thức chứng quả ở 22.3, chú thích 20.22 tối nghĩa |
 
-Tổng 156 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 110 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 174 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 137 điểm), để lần sau khỏi phải xét lại từ đầu.
+
+Đợt MN 2–7 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
+nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
+phạm hạnh đã sống xong…" nay thống nhất ở tám bài (MN 7, 75, 82, 86, 92, 105, 124, 152).
 
 ## Việc còn lại (tùy chọn)
 

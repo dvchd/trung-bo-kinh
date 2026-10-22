@@ -308,16 +308,16 @@ Này các tỳ-kheo, những lậu hoặc gây khổ não và thiêu đốt nào
 [Chú thích: Thu thúc các căn không phải là chối bỏ, mà là giải phóng tâm khỏi sự nghiện ngập.]
 
 <!-- seg: mn2:12.4 -->
-Sau khi suy xét đúng cách, vị ấy sống thu thúc nhĩ căn. Những lậu hoặc khổ não, thiêu đốt nào có thể khởi lên nơi người sống không thu thúc nhĩ căn, thì nơi người sống thu thúc nhĩ căn, những lậu hoặc gây khổ não và thiêu đốt ấy không khởi lên.
+Sau khi suy xét đúng cách, vị ấy sống thu thúc nhĩ căn. Những lậu hoặc gây khổ não và thiêu đốt nào có thể khởi lên nơi người sống không thu thúc nhĩ căn, thì nơi người sống thu thúc nhĩ căn, những lậu hoặc gây khổ não và thiêu đốt ấy không khởi lên.
 
 <!-- seg: mn2:12.5 -->
-Sau khi suy xét đúng cách, vị ấy sống thu thúc tỷ căn. Những lậu hoặc khổ não, thiêu đốt nào có thể khởi lên nơi người sống không thu thúc tỷ căn, thì nơi người sống thu thúc tỷ căn, những lậu hoặc gây khổ não và thiêu đốt ấy không khởi lên.
+Sau khi suy xét đúng cách, vị ấy sống thu thúc tỷ căn. Những lậu hoặc gây khổ não và thiêu đốt nào có thể khởi lên nơi người sống không thu thúc tỷ căn, thì nơi người sống thu thúc tỷ căn, những lậu hoặc gây khổ não và thiêu đốt ấy không khởi lên.
 
 <!-- seg: mn2:12.6 -->
-Sau khi suy xét đúng cách, vị ấy sống thu thúc thiệt căn. Những lậu hoặc khổ não, thiêu đốt nào có thể khởi lên nơi người sống không thu thúc thiệt căn, thì nơi người sống thu thúc thiệt căn, những lậu hoặc gây khổ não và thiêu đốt ấy không khởi lên.
+Sau khi suy xét đúng cách, vị ấy sống thu thúc thiệt căn. Những lậu hoặc gây khổ não và thiêu đốt nào có thể khởi lên nơi người sống không thu thúc thiệt căn, thì nơi người sống thu thúc thiệt căn, những lậu hoặc gây khổ não và thiêu đốt ấy không khởi lên.
 
 <!-- seg: mn2:12.7 -->
-Sau khi suy xét đúng cách, vị ấy sống thu thúc thân căn. Những lậu hoặc khổ não, thiêu đốt nào có thể khởi lên nơi người sống không thu thúc thân căn, thì nơi người sống thu thúc thân căn, những lậu hoặc gây khổ não và thiêu đốt ấy không khởi lên.
+Sau khi suy xét đúng cách, vị ấy sống thu thúc thân căn. Những lậu hoặc gây khổ não và thiêu đốt nào có thể khởi lên nơi người sống không thu thúc thân căn, thì nơi người sống thu thúc thân căn, những lậu hoặc gây khổ não và thiêu đốt ấy không khởi lên.
 
 <!-- seg: mn2:12.8 -->
 Sau khi suy xét đúng cách, vị ấy sống thu thúc ý căn.

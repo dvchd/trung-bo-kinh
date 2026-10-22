@@ -487,7 +487,7 @@ có lòng tin và không keo kiệt,
 <!-- seg: mn7:20.22 -->
 thì đi đến Gayā để làm gì?
 
-[Chú thích: Đây là lời đáp lại quan niệm trong Vāyu Purāṇa rằng chỉ cần dâng lễ ở Gayā thì mọi phương tiện giải thoát khác đều thành thừa.]
+[Chú thích: Đây là lời đáp lại quan niệm trong Vāyu Purāṇa rằng chỉ cần dâng lễ ở Gayā thì mọi phương tiện giải thoát khác đều trở nên thừa.]
 
 <!-- seg: mn7:20.23 -->
 giếng nước của ông cũng chính là Gayā.
@@ -514,7 +514,7 @@ Bà-la-môn Sundarikabhāradvāja đã được xuất gia và thọ cụ túc g
 Không lâu sau khi thọ cụ túc giới, tôn giả Bhāradvāja sống một mình, xa lánh, không buông lơi, nhiệt tâm và quyết chí. Chẳng bao lâu, ngay trong đời này, vị ấy tự mình chứng ngộ bằng thắng trí và an trú vào sự viên mãn tối thượng của đời sống phạm hạnh — mục đích mà những người con trai tốt lành đúng đắn xuất gia, từ bỏ đời sống gia đình, sống không nhà.
 
 <!-- seg: mn7:22.3 -->
-Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa".
+Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa".
 
 <!-- seg: mn7:22.4 -->
 Và tôn giả Bhāradvāja trở thành một trong những bậc A-la-hán.

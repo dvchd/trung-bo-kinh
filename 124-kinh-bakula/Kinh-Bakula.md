@@ -269,7 +269,7 @@ Du sĩ lõa thể Kassapa được xuất gia và được thọ giới cụ tú
 Vừa thọ giới cụ túc không lâu, Tôn giả Kassapa sống một mình, tách khỏi đám đông, không phóng dật, nhiệt tâm, quyết chí. Chẳng bao lâu, ngay trong đời này, vị ấy tự chứng biết bằng thắng trí và chứng đạt sự viên mãn tối thượng của đời sống phạm hạnh, tức mục đích mà những thiện nam tử chân chính xuất gia từ nhà ra không nhà hướng đến, rồi an trú trong đó.
 
 <!-- seg: mn124:39.4 -->
-Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống trọn, việc cần làm đã làm xong, không còn trở lại đời này nữa."
+Vị ấy biết rõ: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn124:39.5 -->
 Và Tôn giả Kassapa trở thành một trong các bậc A-la-hán.

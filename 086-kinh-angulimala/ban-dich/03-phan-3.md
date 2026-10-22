@@ -99,7 +99,7 @@ Rồi người đàn bà ấy được an toàn, và thai nhi của bà cũng đ
 Rồi Tôn giả Aṅgulimāla sống một mình, xa lánh, không phóng dật, nhiệt tâm và dốc lòng. Chẳng bao lâu, ngay trong đời này, ông tự mình chứng ngộ bằng thắng trí, chứng đắc và an trú vào sự viên mãn của đời sống phạm hạnh, mục đích tối thượng mà những người con trai của các gia đình chân chính xuất gia, từ bỏ nhà ra đi hướng đến.
 
 <!-- seg: mn86:16.2 -->
-Ông liễu tri: "Sinh đã hết, đời sống phạm hạnh đã sống trọn, việc cần làm đã làm xong, không còn trở lại đời sống này nữa."
+Ông liễu tri: "Sinh đã tận, đời sống phạm hạnh đã sống xong, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
 <!-- seg: mn86:16.3 -->
 Và Tôn giả Aṅgulimāla trở thành một trong những bậc A-la-hán.

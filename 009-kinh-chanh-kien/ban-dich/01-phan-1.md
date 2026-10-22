@@ -10,7 +10,7 @@ Tại đó, Tôn giả Sāriputta (Xá-lợi-phất) gọi các tỳ-kheo:
 [Chú thích: Bản Hán và bản Phạn song song ghi bài kinh này là cuộc đối thoại giữa Sāriputta và Mahākoṭṭhita, một bối cảnh có lẽ đã bị mất trong bản Pali. Bài kinh mở đầu bằng cách phân tích chánh kiến thật đơn giản rồi lần bước vào chỗ sâu hơn. Phần lớn nội dung được diễn đạt bằng lý duyên khởi, nhưng trọng tâm là các pháp do duyên sinh chứ không phải tiến trình nhân quả.]
 
 <!-- seg: mn9:1.4 -->
-"Này các tỳ-kheo!"
+"Này các hiền giả, này các tỳ-kheo!"
 
 <!-- seg: mn9:1.5 -->
 "Thưa vâng, thưa Tôn giả," các tỳ-kheo đáp lời Tôn giả Sāriputta.

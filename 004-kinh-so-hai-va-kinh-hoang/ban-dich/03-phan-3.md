@@ -88,7 +88,7 @@ Ta nói rằng đó là sự sống trong si mê của các vị sa-môn, bà-la
 <!-- seg: mn4:21.3 -->
 Còn ta, này bà-la-môn, khi đang là đêm thì biết là đêm, khi đang là ngày thì biết là ngày.
 
-[Chú thích: Đây là chỗ dựa vào câu thường gặp "ngày thế nào thì đêm thế ấy, đêm thế nào thì ngày thế ấy", gắn với việc tu nhận thức ánh sáng và xua tan hôn trầm. Ý của câu ấy là tâm đã được tu đến mức tràn đầy ánh sáng, bất kể bên ngoài sáng hay tối.]
+[Chú thích: Câu này ám chỉ một câu thường gặp "ngày thế nào thì đêm thế ấy, đêm thế nào thì ngày thế ấy", gắn với việc tu nhận thức ánh sáng và xua tan hôn trầm. Ý của câu ấy là tâm đã được tu đến mức tràn đầy ánh sáng, bất kể bên ngoài sáng hay tối.]
 
 <!-- seg: mn4:21.4 -->
 Này bà-la-môn, nếu có ai muốn nói đúng mà nói rằng:

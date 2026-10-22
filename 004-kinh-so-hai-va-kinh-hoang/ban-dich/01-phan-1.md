@@ -15,7 +15,7 @@ Sau khi chào hỏi và trò chuyện thân mật xong, ông ngồi xuống mộ
 <!-- seg: mn4:2.3 -->
 "Thưa ngài Gotama, những người con nhà lương thiện nào vì lòng tin nơi ngài Gotama mà bỏ nhà ra đi, sống không nhà, thì ngài Gotama là người dẫn đầu cho họ, là người giúp ích nhiều cho họ, là người khích lệ họ;
 
-[Chú thích: Câu này đôi khi được dịch thành câu hỏi, nhưng trong Pali không có từ để hỏi. Bản Hán tương ứng trong Tăng Chi Bộ lại đảo thứ tự: vị bà-la-môn nói trước rằng sống trong rừng thật khó, rồi mới nói tới việc Đức Thế Tôn là người dẫn đường.]
+[Chú thích: Câu này đôi khi được dịch thành câu hỏi, nhưng trong Pali không có từ để hỏi. Bản Hán tương ứng (Tăng Nhất A-hàm 31.1) lại đảo thứ tự: vị bà-la-môn nói trước rằng sống trong rừng thật khó, rồi mới nói tới việc Đức Thế Tôn là người dẫn đường.]
 
 <!-- seg: mn4:2.4 -->
 và những người ấy noi theo gương ngài Gotama."

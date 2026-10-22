@@ -6,7 +6,7 @@
 
 Việc ấy lần nào cũng vậy: giữ giới cho trọn vẹn, chuyên tâm vào sự lặng yên bên trong, không xa lìa thiền-na, đầy đủ thiền quán, và thường lui tới những căn nhà trống. Nói cách khác, bài kinh không dạy cách cầu xin. Nó nói rằng muốn đạt một kết quả nào đó trong đời tu thì nền tảng vẫn là giới, là sự tĩnh lặng của tâm, và là cái nhìn sáng rõ vào chính mình.
 
-Danh sách điều ước đi từ chuyện rất đời thường đến chuyện rất xa. Mở đầu là ước được bạn đồng tu yêu mến và kính trọng; rồi ước có đủ y phục, đồ ăn, chỗ ở, thuốc men; rồi ước rằng những người cúng dường mình được quả lớn; rồi ước rằng người thân đã mất nhớ đến mình cũng được quả lớn. Sau đó là những ước muốn thuộc đời sống nội tâm: vượt qua sự bất mãn, vượt qua nỗi sợ, chứng bốn tầng thiền-na, chứng các tầng vô sắc. Tiếp theo là bốn quả vị của con đường — bậc đã nhập dòng thánh, bậc chỉ còn trở lại một lần, bậc không còn trở lại, và quả cuối cùng — rồi đến các năng lực của tâm đã định: thần thông, nghe được âm thanh xa, thấu hiểu tâm người khác, nhớ lại đời trước, thấy chúng sinh chết đi sinh lại. Điều ước cuối cùng là điều lớn nhất: dứt sạch lậu hoặc, giải thoát hoàn toàn.
+Danh sách điều ước đi từ chuyện rất đời thường đến chuyện rất xa. Mở đầu là ước được bạn đồng tu yêu mến và kính trọng; rồi ước có đủ y phục, đồ ăn, chỗ ở, thuốc men; rồi ước rằng những người cúng dường mình được quả lớn; rồi ước rằng người thân đã mất nhớ đến mình cũng được quả lớn. Sau đó là những ước muốn thuộc đời sống nội tâm: vượt qua sự bất mãn, vượt qua nỗi sợ, chứng bốn tầng thiền-na, chứng các tầng vô sắc. Tiếp theo là ba quả vị đầu của con đường — bậc đã nhập dòng thánh, bậc chỉ còn trở lại một lần, bậc không còn trở lại — rồi đến các năng lực của tâm đã định: thần thông, nghe được âm thanh xa, thấu hiểu tâm người khác, nhớ lại đời trước, thấy chúng sinh chết đi sinh lại. Điều ước cuối cùng là điều lớn nhất, cũng là quả vị thứ tư của con đường: dứt sạch lậu hoặc, giải thoát hoàn toàn.
 
 Điều đáng chú ý là bài kinh không hề hứa rằng ai ước thì được. Nó chỉ nói: nếu muốn vậy, thì đường đi là thế. Đức Thế Tôn cũng không khuyên người ta ham những thứ kể trên; Ngài nói với những người vốn đã có lòng ham muốn, và hướng lòng ham muốn ấy về phía có thể đưa tới tự do. Vì thế, đọc bài này như một tấm bảng chỉ đường thì đúng hơn là đọc như một lời ban ơn.
 
@@ -31,7 +31,7 @@ Cuối bài có một chi tiết đáng nhớ. Sau khi đi hết mười bảy �
 <!-- seg: mn6:0.2 -->
 **Kinh Ước Muốn** (*Ākaṅkheyya Sutta*) — "bài kinh về sự ước muốn".
 
-[Chú thích: *Ākaṅkheyya* là dạng đáng ước muốn của động từ *ākaṅkhati*, nghĩa là "ước ao, mong muốn". Bài kinh lặp lại một khuôn câu mười bảy lần, mỗi lần với một điều ước khác nhau.]
+[Chú thích của người dịch: *Ākaṅkheyya* là dạng đáng ước muốn của động từ *ākaṅkhati*, nghĩa là "ước ao, mong muốn". Bài kinh lặp lại một khuôn câu mười bảy lần, mỗi lần với một điều ước khác nhau.]
 
 ---
 
@@ -106,7 +106,7 @@ Này các tỳ-kheo, nếu một vị tỳ-kheo ước muốn: "Mong rằng vớ
 [Chú thích: "Tai của chư thiên" dịch sát chữ dibbasota; gốc của chữ dibba là "sáng chói", như bầu trời trong sáng hay một vị chư thiên. Vì thế chữ ấy vừa mang nghĩa sáng rõ, vừa mang nghĩa thuộc cõi trời.]
 
 <!-- seg: mn6:16.1 -->
-Này các tỳ-kheo, nếu một vị tỳ-kheo ước muốn: Mong rằng tôi dùng tâm mình thấu hiểu tâm của các chúng sinh khác, của các cá nhân khác.
+Này các tỳ-kheo, nếu một vị tỳ-kheo ước muốn: "Mong rằng tôi dùng tâm mình thấu hiểu tâm của các chúng sinh khác, của các cá nhân khác.
 
 [Chú thích: Cách nói của kinh không phải là "đọc" ý nghĩ trong đầu người khác, mà là nắm được trạng thái tâm của họ.]
 
@@ -156,7 +156,7 @@ Tâm không định, tôi biết đó là 'tâm không định'.
 Tâm đã giải thoát, tôi biết đó là 'tâm đã giải thoát'.
 
 <!-- seg: mn6:16.17 -->
-Tâm chưa giải thoát, tôi biết đó là 'tâm chưa giải thoát'.
+Tâm chưa giải thoát, tôi biết đó là 'tâm chưa giải thoát'."
 
 <!-- seg: mn6:16.18 -->
 Vị ấy hãy giữ giới cho trọn vẹn, chuyên tâm vào sự lặng yên của tâm bên trong, không xa lìa thiền-na, đầy đủ thiền quán, và thường lui tới những căn nhà trống.

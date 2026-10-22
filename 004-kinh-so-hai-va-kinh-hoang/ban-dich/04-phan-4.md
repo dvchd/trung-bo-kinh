@@ -19,13 +19,13 @@ Này bà-la-môn, ta lui tới những trú xứ xa xôi giữa rừng sâu hoan
 <!-- seg: mn4:34.5 -->
 một là thấy được sự sống an lạc ngay trong đời này cho chính mình, hai là vì lòng thương xót đối với thế hệ sau.
 
-[Chú thích: Câu này cũng xuất hiện trong Tăng Chi Bộ Kinh bài 2.30. Ở đây Đức Thế Tôn xác nhận điều Jānussoṇi tin: Ngài sống nơi rừng vắng một phần để làm gương cho người sau.]
+[Chú thích: Câu này cũng xuất hiện trong Tăng Chi Bộ Kinh bài 2.30. Ở đây Đức Thế Tôn xác nhận điều Jāṇussoṇi tin: Ngài sống nơi rừng vắng một phần để làm gương cho người sau.]
 
 <!-- seg: mn4:35.1 -->
 Thật vậy, thưa ngài Gotama, ngài Gotama đã thương xót thế hệ sau — điều ấy thật xứng với một bậc A-la-hán, Chánh đẳng giác.
 
 <!-- seg: mn4:35.2 -->
-Thật tuyệt vời, thưa ngài Gotama! Thật tuyệt vời, thưa ngài Gotama!
+Thật tuyệt vời, thưa ngài Gotama, thật tuyệt vời!
 
 <!-- seg: mn4:35.3 -->
 Ví như, thưa ngài Gotama, có người dựng lại vật bị lật ngược, mở ra vật bị che kín, chỉ đường cho kẻ đi lạc, hay cầm đèn dầu trong bóng tối để những ai có mắt nhìn thấy các hình sắc; cũng vậy, ngài Gotama đã làm sáng tỏ Pháp bằng nhiều cách.
@@ -33,7 +33,7 @@ Ví như, thưa ngài Gotama, có người dựng lại vật bị lật ngượ
 <!-- seg: mn4:35.4 -->
 Tôi xin quy y ngài Gotama, quy y Pháp và Tăng đoàn tỳ-kheo.
 
-[Chú thích: Jānussoṇi xuất hiện và xin quy y rất nhiều lần trong kinh điển, đến mức gần thành một khuôn riêng. Những đoạn kết kiểu này thường do người biên tập thêm vào sau, nên không nên xem là lời của chính Đức Thế Tôn.]
+[Chú thích: Jāṇussoṇi xuất hiện và xin quy y rất nhiều lần trong kinh điển, đến mức gần thành một khuôn riêng. Những đoạn kết kiểu này thường do người biên tập thêm vào sau, nên không nên xem là lời của chính Đức Thế Tôn.]
 
 <!-- seg: mn4:35.5 -->
 Xin ngài Gotama nhận tôi làm người cư sĩ, từ hôm nay cho đến trọn đời, tôi xin quy y.
