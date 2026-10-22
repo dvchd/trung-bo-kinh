@@ -82,6 +82,8 @@ Danh sách đầy đủ theo từng nhóm nằm trong [Giới thiệu bộ Trung
   nên đọc từ đâu, cách đọc một bài kinh truyền miệng.
 - **[Bảng thuật ngữ Pali – Việt](so-tay/BANG-THUAT-NGU.md)** — các thuật ngữ quan trọng, xếp theo bảy
   nhóm chủ đề, kèm cách dịch đã dùng thống nhất.
+- **[Cách đọc chú thích](so-tay/CACH-DOC-CHU-THICH.md)** — hai loại chú thích trong bản dịch, cách đọc
+  số hiệu trích dẫn, bảng tắt danh các nguồn.
 - **[Ghi chú tiến độ](so-tay/TIEN-DO.md)** — đã làm gì, còn gì, bốn lớp kiểm tra tự động.
 
 ---

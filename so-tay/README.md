@@ -7,6 +7,7 @@ Tài liệu đọc kèm bộ kinh. Không cần đọc trước; mở khi muốn
 |---|---|
 | [Giới thiệu bộ Trung Bộ Kinh](GIOI-THIEU-BO-KINH.md) | Bộ kinh là gì, cấu trúc ba phần, nên đọc từ đâu, cách đọc một bài kinh truyền miệng, những chỗ dễ hiểu lầm |
 | [Bảng thuật ngữ Pali – Việt](BANG-THUAT-NGU.md) | Các thuật ngữ quan trọng, xếp theo bảy nhóm chủ đề, kèm cách dịch đã dùng thống nhất trong 152 bài |
+| [Cách đọc chú thích](CACH-DOC-CHU-THICH.md) | Hai loại chú thích, cách đọc số hiệu trích dẫn, bảng tắt danh các nguồn |
 | [Ghi chú tiến độ](TIEN-DO.md) | Đã làm gì, còn gì, quy trình một bài, quy ước cần nhớ, lịch chạy |
 | [Báo cáo rà soát](ra-soat/) | Ghi chú của từng đợt đọc lại: lỗi đã sửa, chỗ còn chưa chắc |
 

@@ -134,9 +134,11 @@ thật ra CÓ `paraṁ maraṇā`) và hàng §2 của MN 59 về "rừng Jeta (
    trình như trên. Đợt kế tiếp trong phiên 19:00 ngày 2026-10-22: MN 67, 68, 69, 70, 71, 72.
 2. ~~Bổ sung 31 chú thích còn thiếu của MN 1~~ — đã xong 2026-10-22: nguồn thật ra có 14 NOTE
    (con số 41 là đọc nhầm từ tệp mẫu), nay đã dịch đủ 14 và đổi nhãn 7 chú thích người dịch.
-3. Quyết khoảng 333 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
+3. Quyết khoảng 429 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
    giữa hai cách hiểu Pali, không phải lỗi rõ ràng.
-4. Bổ sung sổ tay chú giải cho các bài lớn nếu muốn (như bên Trường Bộ Kinh).
+4. ~~Bổ sung sổ tay chú giải~~ — đã thêm `so-tay/CACH-DOC-CHU-THICH.md` (hai loại chú thích, cách
+   đọc số hiệu trích dẫn, bảng tắt danh các nguồn). Việc viết sổ tay chú giải riêng cho từng bài
+   lớn (như bên Trường Bộ Kinh) vẫn để ngỏ.
 5. Chạy `python3 cong-cu/ra-soat-toan-bo.py` và `ra-soat-van-phong.py` sau mỗi lần sửa.
 
 ## Bốn lớp kiểm tra tự động
