@@ -34,7 +34,7 @@ Hãy nghe và khéo tác ý, Ta sẽ nói.
 Đức Thế Tôn nói như vầy:
 
 <!-- seg: mn148:3.1 -->
-Này các tỳ-kheo, sáu xứ bên trong phải được hiểu biết, sáu xứ bên ngoài phải được hiểu biết, sáu loại thức phải được hiểu biết, sáu loại xúc phải được hiểu biết, sáu loại thọ phải được hiểu biết, sáu loại ái phải được hiểu biết.
+Sáu xứ bên trong phải được hiểu biết, sáu xứ bên ngoài phải được hiểu biết, sáu loại thức phải được hiểu biết, sáu loại xúc phải được hiểu biết, sáu loại thọ phải được hiểu biết, sáu loại ái phải được hiểu biết.
 
 [Chú thích của người dịch: "Thọ" là cảm giác dễ chịu, khó chịu hoặc trung tính; "ái" là sự ham muốn nảy sinh từ cảm giác ấy.]
 

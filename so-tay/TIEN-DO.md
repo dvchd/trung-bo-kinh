@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 151 bài (154 lượt, có 3 bài rà hai lần).
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 152 bài (155 lượt, có 3 bài rà hai lần).
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 151/152 bài
+## Đợt đọc lại văn phong: 152/152 bài — hoàn tất
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -176,9 +176,16 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 143 | 0 | sạch |
 | MN 146 | 2 | 15.2/27.2 "nhiều người", 15.3/27.3 "trăng chưa tròn" |
 | MN 147 | 5 | 9.2–9.6 viết hoa đầu câu |
+| MN 148 | 1 | 3.1 bỏ "Này các tỳ-kheo" (PLI không có) |
 
-Tổng 519 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 819 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 520 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 824 điểm), để lần sau khỏi phải xét lại từ đầu.
+
+Đợt đọc lại kết thúc ngày 2026-10-22, sau khi cả 152 bài đều đã qua ít nhất một lượt đọc từng dòng.
+Ngoài các chỗ sửa trong từng bài, đợt này còn đồng nhất ở phạm vi toàn kho: công thức bốn đường ác
+("cõi khổ, đường ác, đọa xứ, địa ngục", 74 chỗ), công thức chứng quả A-la-hán, công thức bảy giác chi
+("nương vào viễn ly… chín muồi thành sự buông bỏ"), cách gọi rừng Jeta (Kỳ-đà), và nhãn hai loại chú thích.
+Mọi bài đều qua `ghep.py`, `tao-muc-luc.py`, `ra-soat.py` (KET LUAN: DAT) và `kiem-tra-marker.py` (ĐẠT).
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
@@ -206,11 +213,11 @@ riêng MN 38:26.2 tách thành hai chú thích (một của Sujato, một của 
 ## Việc còn lại
 
 0. Chú thích: 12 điểm nhóm B đã xử lý (9 tách đôi, 3 giữ nguyên — xem `so-tay/ra-soat/chu-thich-nhom-b.md`);
-   còn 2 điểm nhóm C (MN 21:21.5, MN 138:15.2) cần xét tay.
+   2 điểm nhóm C cũng đã xong (MN 21:21.5 giữ nhãn vì có NOTE, MN 138:15.2 đổi sang chú thích người dịch).
  (tùy chọn)
 
-1. Đọc lại 1 bài chưa rà từng dòng (MN 148). Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
-   trình như trên. Đợt kế tiếp: MN 148 (bài cuối), rồi tổng kết đợt đọc lại văn phong.
+1. ~~Đọc lại từng dòng 152 bài~~ — đã xong 2026-10-22: 155 lượt đọc (3 bài rà hai lần), 520 chỗ sửa,
+   824 điểm "chưa chắc" ghi lại. Muốn rà tiếp thì mở đợt mới, mỗi đợt 6 bài, mỗi bài một người đọc.
 2. ~~Bổ sung 31 chú thích còn thiếu của MN 1~~ — đã xong 2026-10-22: nguồn thật ra có 14 NOTE
    (con số 41 là đọc nhầm từ tệp mẫu), nay đã dịch đủ 14 và đổi nhãn 7 chú thích người dịch.
 3. Quyết khoảng 429 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
