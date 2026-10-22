@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Ba vị đại đức Anuruddha, Nandiya và Kimbila cùng an trú trong khu rừng cây sa-la tại Gosiṅga, gần thị trấn Ñātika. Đức Thế Tôn đến thăm vào buổi chiều, hỏi các vị có sống hòa hợp không và hòa hợp bằng cách nào; các vị kể về lòng từ ái trong thân, lời và ý, về việc gác ý riêng để sống theo các vị bạn, và về nếp sinh hoạt chung hằng ngày. Khi được hỏi về thành quả tu tập, các vị lần lượt trình bày bốn tầng thiền-na, bốn tầng định vô sắc, sự diệt tận của tưởng và thọ, cùng với việc các lậu hoặc đã được đoạn tận nhờ tuệ. Sau khi Đức Thế Tôn rời đi, dạ-xoa Dīgha Parajana tán thán dân Vajjī, tiếng tán thán ấy lan lên đến cõi Phạm thiên, và Đức Thế Tôn kết luận rằng sự tưởng nhớ ba vị ấy đem lại lợi ích và an lạc lâu dài cho từ gia đình cho đến cả thế giới.
+Ba vị đại đức Anuruddha, Nandiya và Kimbila cùng an trú trong khu rừng cây sa-la tại Gosiṅga, gần thị trấn Ñātika. Đức Thế Tôn đến thăm vào buổi chiều, hỏi các vị có sống hòa hợp không và hòa hợp bằng cách nào; các vị kể về lòng từ ái trong thân, lời và ý, về việc gác ý riêng để sống theo các vị bạn, và về nếp sinh hoạt chung hằng ngày. Khi được hỏi về thành quả tu tập, các vị lần lượt trình bày bốn tầng thiền-na, bốn tầng định vô sắc, sự diệt tận của tưởng và thọ, cùng với việc các lậu hoặc đã được đoạn tận nhờ tuệ. Sau khi Đức Thế Tôn rời đi, dạ-xoa Dīgha Parajana tán thán dân Vajjī, tiếng tán thán ấy lan lên đến cõi Phạm Thiên, và Đức Thế Tôn kết luận rằng sự tưởng nhớ ba vị ấy đem lại lợi ích và an lạc lâu dài cho từ gia đình cho đến cả thế giới.
 
 ## 2. Nhân vật
 

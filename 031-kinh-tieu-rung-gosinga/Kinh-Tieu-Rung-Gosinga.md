@@ -12,7 +12,7 @@ Phần tiếp theo cho thấy sự hòa hợp ấy không phải là chuyện c�
 
 Khi được hỏi về thành quả tu tập, đại đức Anuruddha lần lượt kể ra bốn tầng thiền-na, bốn tầng định vô sắc và cuối cùng là sự diệt tận của tưởng và thọ, cùng với việc các lậu hoặc đã được đoạn tận nhờ tuệ. Các vị nói rằng mỗi khi muốn thì các vị đều có thể an trú trong những trạng thái ấy, và ngoài ra không thấy có cách an trú nào cao hơn. Đức Thế Tôn xác nhận từng bước, rồi kết luận rằng quả thật không có gì cao hơn.
 
-Bài kinh khép lại bằng một cảnh khác ở tầng trời. Một vị dạ-xoa tên Dīgha Parajana nghe chuyện bèn tán thán dân Vajjī là có phước, vì ở đó có Đức Thế Tôn và ba vị ấy đang an trú; tiếng tán thán ấy được chư thiên các cõi truyền lên đến cõi Phạm thiên. Đức Thế Tôn nhân đó nói rằng ai tưởng nhớ ba vị ấy với tâm tịnh tín thì sẽ được lợi ích và an lạc lâu dài, từ gia đình, dòng họ, làng, thị trấn, thành phố, miền đất cho đến cả thế giới. Với người đọc hôm nay, bài kinh là một chỉ dẫn khiêm tốn mà bền: muốn sống chung với nhau, trước hết hãy bớt cái tôi, và hãy lo những việc nhỏ cho nhau mỗi ngày.
+Bài kinh khép lại bằng một cảnh khác ở tầng trời. Một vị dạ-xoa tên Dīgha Parajana nghe chuyện bèn tán thán dân Vajjī là có phước, vì ở đó có Đức Thế Tôn và ba vị ấy đang an trú; tiếng tán thán ấy được chư thiên các cõi truyền lên đến cõi Phạm Thiên. Đức Thế Tôn nhân đó nói rằng ai tưởng nhớ ba vị ấy với tâm tịnh tín thì sẽ được lợi ích và an lạc lâu dài, từ gia đình, dòng họ, làng, thị trấn, thành phố, miền đất cho đến cả thế giới. Với người đọc hôm nay, bài kinh là một chỉ dẫn khiêm tốn mà bền: muốn sống chung với nhau, trước hết hãy bớt cái tôi, và hãy lo những việc nhỏ cho nhau mỗi ngày.
 
 ---
 
@@ -460,7 +460,7 @@ vì ở đó có Như Lai, bậc A-la-hán, Chánh đẳng giác, đang an trú,
 đại đức Anuruddha, đại đức Nandiya và đại đức Kimbila."
 
 <!-- seg: mn31:21.19 -->
-Như vậy, ngay trong khoảnh khắc ấy, trong giây lát ấy, trong chốc lát ấy, các đại đức đã được biết đến cho đến tận cõi Phạm thiên.
+Như vậy, ngay trong khoảnh khắc ấy, trong giây lát ấy, trong chốc lát ấy, các đại đức đã được biết đến cho đến tận cõi Phạm Thiên.
 
 <!-- seg: mn31:22.1 -->
 "Đúng vậy, này Dīgha, đúng vậy, này Dīgha!

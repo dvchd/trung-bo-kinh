@@ -40,7 +40,7 @@
 | `ākāravatī saddhā` | đức tin có căn cứ | mn60:4.1 |
 | `ujuvipaccanīkavāda` | thuyết trái ngược trực tiếp | mn60:6.1 |
 | `attantapo` / `parantapo` | tự hành hạ mình / hành hạ người khác | bốn hạng người, mn60:35.3 |
-| `brahmabhūtena attanā` | với tự ngã đã thành Phạm thiên | mn60:35.7 |
+| `brahmabhūtena attanā` | với tự ngã đã thành Phạm Thiên | mn60:35.7 |
 | `jhāna` | thiền-na | mn60:40-54.4 |
 | `āsava` | lậu hoặc | mn60:55.5 |
 | `dibbacakkhu` | thiên nhãn | mn60:55.4 |

@@ -818,7 +818,7 @@ Này các gia chủ, ở đây có một hạng người vừa tự hành hạ m
 Này các gia chủ, ở đây có một hạng người không tự hành hạ mình, không chuyên tâm vào việc tự hành hạ mình, cũng không hành hạ người khác, không chuyên tâm vào việc hành hạ người khác;
 
 <!-- seg: mn60:35.7 -->
-vị ấy không tự hành hạ mình, không hành hạ người khác, ngay trong đời này sống không tham muốn, đã tịch tịnh, đã mát lạnh, cảm thọ an vui, sống với tự ngã đã thành Phạm thiên.
+vị ấy không tự hành hạ mình, không hành hạ người khác, ngay trong đời này sống không tham muốn, đã tịch tịnh, đã mát lạnh, cảm thọ an vui, sống với tự ngã đã thành Phạm Thiên.
 
 <!-- seg: mn60:36.1 -->
 Này các gia chủ, hạng người tự hành hạ mình, chuyên tâm vào việc tự hành hạ mình, là ai?
@@ -861,7 +861,7 @@ Này các gia chủ, đây gọi là hạng người vừa tự hành hạ mình
 Này các gia chủ, hạng người không tự hành hạ mình, không chuyên tâm vào việc tự hành hạ mình, cũng không hành hạ người khác, không chuyên tâm vào việc hành hạ người khác, là ai,
 
 <!-- seg: mn60:39.2 -->
-vị ấy không tự hành hạ mình, không hành hạ người khác, ngay trong đời này sống không tham muốn, đã tịch tịnh, đã mát lạnh, cảm thọ an vui, sống với tự ngã đã thành Phạm thiên?
+vị ấy không tự hành hạ mình, không hành hạ người khác, ngay trong đời này sống không tham muốn, đã tịch tịnh, đã mát lạnh, cảm thọ an vui, sống với tự ngã đã thành Phạm Thiên?
 
 <!-- seg: mn60:40-54.1 -->
 Này các gia chủ, ở đây có Như Lai xuất hiện trong đời, là bậc A-la-hán, Chánh đẳng giác, đầy đủ minh và hạnh, bậc Thiện thệ, bậc thấu hiểu thế gian, bậc tối thượng dẫn dắt những người cần được điều ngự, bậc thầy của trời và người, bậc Giác ngộ, bậc Thế Tôn. Ngài tự mình chứng biết bằng thắng trí về thế giới này cùng với chư thiên, Ma vương, Phạm Thiên, cùng với đám chúng sinh gồm sa-môn, bà-la-môn, chư thiên và loài người, rồi tuyên bố cho người khác biết. Ngài thuyết Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, có nghĩa lý và văn cú; Ngài nêu rõ đời sống phạm hạnh hoàn toàn đầy đủ và trong sạch.
@@ -920,7 +920,7 @@ Vị ấy biết: 'Sinh đã tận, đời sống phạm hạnh đã sống xong
 Này các gia chủ, đây gọi là hạng người không tự hành hạ mình, không chuyên tâm vào việc tự hành hạ mình, cũng không hành hạ người khác, không chuyên tâm vào việc hành hạ người khác;
 
 <!-- seg: mn60:56.2 -->
-vị ấy không tự hành hạ mình, không hành hạ người khác, ngay trong đời này sống không tham muốn, đã tịch tịnh, đã mát lạnh, cảm thọ an vui, sống với tự ngã đã thành Phạm thiên.
+vị ấy không tự hành hạ mình, không hành hạ người khác, ngay trong đời này sống không tham muốn, đã tịch tịnh, đã mát lạnh, cảm thọ an vui, sống với tự ngã đã thành Phạm Thiên.
 
 <!-- seg: mn60:57.1 -->
 Khi Đức Thế Tôn nói như vậy, các bà-la-môn và gia chủ xứ Sālā thưa với Ngài:

@@ -89,7 +89,7 @@ vì ở đó có Như Lai, bậc A-la-hán, Chánh đẳng giác, đang an trú,
 đại đức Anuruddha, đại đức Nandiya và đại đức Kimbila."
 
 <!-- seg: mn31:21.19 -->
-Như vậy, ngay trong khoảnh khắc ấy, trong giây lát ấy, trong chốc lát ấy, các đại đức đã được biết đến cho đến tận cõi Phạm thiên.
+Như vậy, ngay trong khoảnh khắc ấy, trong giây lát ấy, trong chốc lát ấy, các đại đức đã được biết đến cho đến tận cõi Phạm Thiên.
 
 <!-- seg: mn31:22.1 -->
 "Đúng vậy, này Dīgha, đúng vậy, này Dīgha!
