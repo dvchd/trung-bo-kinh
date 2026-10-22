@@ -123,10 +123,10 @@ Ví như, này các tỳ-kheo, một người đang đi nhanh.
 Người ấy nghĩ như vầy:
 
 <!-- seg: mn20:6.6 -->
-"Vì sao ta lại đi nhanh thế này?
+'Vì sao ta lại đi nhanh thế này?
 
 <!-- seg: mn20:6.7 -->
-Hay là ta đi chậm lại?"
+Hay là ta đi chậm lại?'
 
 <!-- seg: mn20:6.8 -->
 Thế là người ấy đi chậm lại.
@@ -137,10 +137,10 @@ Thế là người ấy đi chậm lại.
 Người ấy nghĩ như vầy:
 
 <!-- seg: mn20:6.10 -->
-"Vì sao ta lại đi chậm thế này?
+'Vì sao ta lại đi chậm thế này?
 
 <!-- seg: mn20:6.11 -->
-Hay là ta đứng lại?"
+Hay là ta đứng lại?'
 
 <!-- seg: mn20:6.12 -->
 Thế là người ấy đứng lại.
@@ -149,10 +149,10 @@ Thế là người ấy đứng lại.
 Người ấy nghĩ như vầy:
 
 <!-- seg: mn20:6.14 -->
-"Vì sao ta lại đứng?
+'Vì sao ta lại đứng?
 
 <!-- seg: mn20:6.15 -->
-Hay là ta ngồi xuống?"
+Hay là ta ngồi xuống?'
 
 <!-- seg: mn20:6.16 -->
 Thế là người ấy ngồi xuống.
@@ -161,10 +161,10 @@ Thế là người ấy ngồi xuống.
 Người ấy nghĩ như vầy:
 
 <!-- seg: mn20:6.18 -->
-"Vì sao ta lại ngồi?
+'Vì sao ta lại ngồi?
 
 <!-- seg: mn20:6.19 -->
-Hay là ta nằm xuống?"
+Hay là ta nằm xuống?'
 
 <!-- seg: mn20:6.20 -->
 Thế là người ấy nằm xuống.

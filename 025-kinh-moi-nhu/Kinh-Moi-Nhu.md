@@ -4,7 +4,7 @@
 
 Bài kinh này là bài thứ hai mươi lăm trong Trung Bộ Kinh. Nó đặt một hình ảnh rất đời thường lên trước mắt người đọc: một người gieo mồi. Ở Ấn Độ thời ấy, người ta gieo mồi để nhử thú rừng, và chính vì thế chữ "mồi" cũng là tên gọi cho những thứ quyến rũ giữ người ta ở lại trong vòng sinh tử. Đức Thế Tôn kể chuyện bốn bầy nai lần lượt đối phó với chỗ mồi ấy, và song song với mỗi bầy là một hạng người tu hành.
 
-Bầy thứ nhất cứ thế ăn mồi. Chúng bị cuốn vào, ăn no rồi sinh say sưa, say sưa sinh phóng dật, và khi đã phóng dật thì người gieo mồi muốn làm gì cũng được. Bầy thứ hai rút ra bài học, bỏ mồi, chạy vào rừng sâu ăn cỏ, ăn rễ, ăn quả rụng. Nhưng đến cuối mùa hè, cỏ cạn nước khô, thân gầy yếu, sức lực suy giảm, tâm giải thoát cũng mất, và chúng quay lại chỗ mồi cũ. Bầy thứ ba khôn hơn: chúng không ăn mồi nhưng dựng hang ổ ngay sát chỗ mồi, để quan sát và tránh xa. Nhờ vậy chúng thoát khỏi tay người gieo mồi, nhưng vẫn còn sống nép bên cạnh cái bẫy.
+Bầy thứ nhất cứ thế ăn mồi. Chúng bị cuốn vào, ăn no rồi sinh say sưa, say sưa sinh phóng dật, và khi đã phóng dật thì người gieo mồi muốn làm gì cũng được. Bầy thứ hai rút ra bài học, bỏ mồi, chạy vào rừng sâu ăn cỏ, ăn rễ, ăn quả rụng. Nhưng đến cuối mùa hè, cỏ cạn nước khô, thân gầy yếu, sức lực suy giảm, tâm giải thoát cũng mất, và chúng quay lại chỗ mồi cũ. Bầy thứ ba khôn hơn: chúng dựng hang ổ ngay sát chỗ mồi mà không ăn mồi. Nhưng lưới giăng đã lộ ra hang ổ ấy, nên chúng cũng không thoát khỏi tay người gieo mồi.
 
 Bầy thứ tư là hình ảnh của người đã đi đến chỗ không thể bị chạm tới. Chúng không ăn mồi, không dựng hang sát mồi, mà đi vào một vùng mà người gieo mồi và đoàn tùy tùng không thể với tới. Đức Thế Tôn gọi vùng ấy là "lãnh địa của bậc Thánh", nơi các bậc ấy an trú sau khi đã đoạn tận mọi lậu hoặc. Với người đọc hôm nay, bài kinh là một câu hỏi rất cụ thể: ta đang đứng ở đâu trong bốn vị trí ấy — đang ăn mồi, đang chạy trốn, đang nép bên cạnh bẫy, hay đã thực sự ra khỏi tầm với của nó?
 
@@ -276,7 +276,7 @@ Và như vậy bầy nai thứ ba cũng đã không thoát khỏi uy lực của
 <!-- seg: mn25:6.28 -->
 Thôi, chúng ta hãy dựng hang ổ ở chỗ mà người gieo mồi và đoàn tùy tùng của người gieo mồi không thể đến; dựng hang ổ ở đó rồi, chúng ta sẽ không len vào chỗ mồi người gieo mồi đã gieo, không mê mẩn mà thọ hưởng món ăn; không len vào, không mê mẩn thọ hưởng món ăn, chúng ta sẽ không sinh say sưa; không say sưa, chúng ta sẽ không sinh phóng dật; không phóng dật, người gieo mồi sẽ không thể muốn làm gì với chúng ta trên chỗ mồi ấy."
 
-[Chú thích: Đoạn này lặp lại lời của bầy nai thứ ba, không phải lời của bầy nai thứ tư, nên vẫn phải dịch là bầy nai thứ ba. Chỉ đến câu cuối, bầy nai thứ tư mới nói ra kế của mình. Đây là chú thích của người dịch.]
+[Chú thích: Đây là kế của bầy nai thứ tư, không phải lời lặp lại của bầy nai thứ ba. So với lời bầy nai thứ ba ở đoạn 6.19, chỉ khác một chỗ: hang ổ nay dựng ở nơi người gieo mồi và đoàn tùy tùng không thể đến, thay vì ngay sát chỗ mồi. Đây là chú thích của người dịch.]
 
 <!-- seg: mn25:6.29 -->
 Chúng đã dựng hang ổ ở chỗ mà người gieo mồi và đoàn tùy tùng của người gieo mồi không thể đến.
@@ -372,7 +372,7 @@ Thôi, chúng ta hãy từ bỏ hẳn mồi và mồi thế gian; từ bỏ món
 [Chú thích: Sau đoạn này, bản Mahāsaṅgīti có thêm một câu ghép lỗi, do lấy nửa đầu của câu sau ghép với nửa cuối của câu trước. Bản PTS không có câu ấy.]
 
 <!-- seg: mn25:9.6 -->
-Chúng đã từ bỏ hẳn mồi và mồi thế gian; từ bỏ món ăn nguy hiểm, chúng ta hãy đi sâu vào những chốn rừng hoang mà sống.
+Chúng đã từ bỏ hẳn mồi và mồi thế gian; từ bỏ món ăn nguy hiểm, chúng đi sâu vào những chốn rừng hoang mà sống.
 
 <!-- seg: mn25:9.7 -->
 Chúng đã từ bỏ hẳn mồi và mồi thế gian; từ bỏ món ăn nguy hiểm, chúng đi sâu vào những chốn rừng hoang mà sống.

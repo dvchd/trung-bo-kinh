@@ -79,7 +79,7 @@ Và như vậy bầy nai thứ ba cũng đã không thoát khỏi uy lực của
 <!-- seg: mn25:6.28 -->
 Thôi, chúng ta hãy dựng hang ổ ở chỗ mà người gieo mồi và đoàn tùy tùng của người gieo mồi không thể đến; dựng hang ổ ở đó rồi, chúng ta sẽ không len vào chỗ mồi người gieo mồi đã gieo, không mê mẩn mà thọ hưởng món ăn; không len vào, không mê mẩn thọ hưởng món ăn, chúng ta sẽ không sinh say sưa; không say sưa, chúng ta sẽ không sinh phóng dật; không phóng dật, người gieo mồi sẽ không thể muốn làm gì với chúng ta trên chỗ mồi ấy."
 
-[Chú thích: Đoạn này lặp lại lời của bầy nai thứ ba, không phải lời của bầy nai thứ tư, nên vẫn phải dịch là bầy nai thứ ba. Chỉ đến câu cuối, bầy nai thứ tư mới nói ra kế của mình. Đây là chú thích của người dịch.]
+[Chú thích: Đây là kế của bầy nai thứ tư, không phải lời lặp lại của bầy nai thứ ba. So với lời bầy nai thứ ba ở đoạn 6.19, chỉ khác một chỗ: hang ổ nay dựng ở nơi người gieo mồi và đoàn tùy tùng không thể đến, thay vì ngay sát chỗ mồi. Đây là chú thích của người dịch.]
 
 <!-- seg: mn25:6.29 -->
 Chúng đã dựng hang ổ ở chỗ mà người gieo mồi và đoàn tùy tùng của người gieo mồi không thể đến.

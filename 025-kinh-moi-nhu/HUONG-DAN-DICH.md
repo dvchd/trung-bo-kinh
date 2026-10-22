@@ -8,7 +8,7 @@
 
 ## 1. Nội dung bài này
 
-Đức Thế Tôn dùng hình ảnh người gieo mồi (Māra) và bốn bầy nai để nói về bốn cách người tu hành đối diện với cám dỗ. Bầy thứ nhất ăn mồi nên bị bắt; bầy thứ hai bỏ mồi vào rừng sâu nhưng khi cỏ cạn nước khô thì quay lại; bầy thứ ba dựng hang sát bên chỗ mồi, quan sát mà không ăn, nên thoát khỏi tay người gieo mồi; bầy thứ tư đi vào vùng người gieo mồi không thể chạm tới. Bốn bầy ứng với bốn hạng sa-môn, bà-la-môn. Bài kết ở lời dặn về lãnh địa của bậc Thánh, nơi các bậc đoạn tận lậu hoặc an trú.
+Đức Thế Tôn dùng hình ảnh người gieo mồi (Māra) và bốn bầy nai để nói về bốn cách người tu hành đối diện với cám dỗ. Bầy thứ nhất ăn mồi nên bị bắt; bầy thứ hai bỏ mồi vào rừng sâu nhưng khi cỏ cạn nước khô thì quay lại; bầy thứ ba dựng hang sát bên chỗ mồi, quan sát mà không ăn, nhưng hang bị người gieo mồi tìm thấy nên vẫn không thoát khỏi tay ông ta; bầy thứ tư đi vào vùng người gieo mồi không thể chạm tới. Bốn bầy ứng với bốn hạng sa-môn, bà-la-môn. Bài kết ở lời dặn về lãnh địa của bậc Thánh, nơi các bậc đoạn tận lậu hoặc an trú.
 
 ## 2. Nhân vật
 

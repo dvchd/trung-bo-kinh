@@ -50,7 +50,7 @@ Ngài đi từng chặng một, và đến được Sāvatthī.
 Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
 
 <!-- seg: mn24:4.4 -->
-Một thuở nọ, Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc).
+Tôn giả Puṇṇa, con của Mantāṇī, nghe được tin: "Đức Thế Tôn đã đến Sāvatthī; Ngài đang trú tại Sāvatthī, trong rừng Jeta (Kỳ-đà), tại tịnh xá của Anāthapiṇḍika (Cấp Cô Độc)."
 
 <!-- seg: mn24:5.1 -->
 Rồi Tôn giả Puṇṇa, con của Mantāṇī, dọn dẹp chỗ ở, cầm bát và y, lên đường đi đến Sāvatthī.

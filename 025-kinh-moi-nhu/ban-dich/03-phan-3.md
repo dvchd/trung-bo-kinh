@@ -19,7 +19,7 @@ Thôi, chúng ta hãy từ bỏ hẳn mồi và mồi thế gian; từ bỏ món
 [Chú thích: Sau đoạn này, bản Mahāsaṅgīti có thêm một câu ghép lỗi, do lấy nửa đầu của câu sau ghép với nửa cuối của câu trước. Bản PTS không có câu ấy.]
 
 <!-- seg: mn25:9.6 -->
-Chúng đã từ bỏ hẳn mồi và mồi thế gian; từ bỏ món ăn nguy hiểm, chúng ta hãy đi sâu vào những chốn rừng hoang mà sống.
+Chúng đã từ bỏ hẳn mồi và mồi thế gian; từ bỏ món ăn nguy hiểm, chúng đi sâu vào những chốn rừng hoang mà sống.
 
 <!-- seg: mn25:9.7 -->
 Chúng đã từ bỏ hẳn mồi và mồi thế gian; từ bỏ món ăn nguy hiểm, chúng đi sâu vào những chốn rừng hoang mà sống.

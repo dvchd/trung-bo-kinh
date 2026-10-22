@@ -1,6 +1,6 @@
 # Ghi chú tiến độ — Trung Bộ Kinh
 
-> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 40 bài.
+> Cập nhật: 2026-10-22. Dịch xong 152/152 bài; đợt đọc lại văn phong đã chạy được 44 bài.
 
 ## Đã xong: 152/152 bài — TRỌN BỘ TRUNG BỘ KINH
 
@@ -15,7 +15,7 @@ Ngoài bản dịch, kho có thêm:
 - `so-tay/BANG-THUAT-NGU.md` — bảng thuật ngữ Pali – Việt.
 - Bốn script kiểm tra dùng chung trong `cong-cu/`.
 
-## Đợt đọc lại văn phong: 40/152 bài
+## Đợt đọc lại văn phong: 44/152 bài
 
 Đọc trọn từng bài, đối chiếu PLI và bản Anh ở những đoạn dài và đoạn có chú thích, sửa lỗi rồi
 chạy lại toàn bộ kiểm tra. Đã làm:
@@ -62,9 +62,13 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 18 | 0 | không có chỗ sai; đối chiếu 22 đoạn có chú thích và 8 đoạn dài nhất |
 | MN 19 | 0 | không có chỗ sai; đối chiếu cả 123 đoạn và 22 chú thích |
 | MN 17 | 1 | chú thích 26.7 thiếu chỗ dẫn thứ ba AN 9.6:6.4 |
+| MN 20 | 1 | lời tự nhủ ở 6.6–6.19 dùng ngoặc kép làm đứt ngoặc lớn của lời Đức Thế Tôn |
+| MN 23 | 0 | không có chỗ sai; đối chiếu cả 104 đoạn và 20 chú thích |
+| MN 24 | 1 | 4.4 lặp câu của 4.3, mất chi tiết Puṇṇa nghe tin Đức Thế Tôn đến Sāvatthī |
+| MN 25 | 3 | 9.6 lọt "chúng ta hãy", chú thích 6.28 nhận sai bầy nai, lời giới thiệu tả ngược bầy thứ ba |
 
-Tổng 188 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
-nhắc mà **không** sửa (khoảng 202 điểm), để lần sau khỏi phải xét lại từ đầu.
+Tổng 193 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+nhắc mà **không** sửa (khoảng 214 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
 nay thống nhất ở năm bài (MN 3, 5, 9, 28, 141), và công thức chứng quả "Sinh đã tận, đời sống
@@ -76,7 +80,7 @@ nay cả 152 bài báo thiếu 0.
 
 ## Việc còn lại (tùy chọn)
 
-1. Đọc lại 112 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
+1. Đọc lại 108 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
    trình như trên.
 2. Bổ sung 31 chú thích còn thiếu của MN 1: nguồn có 41 NOTE nhưng bản dịch mới có 11 chú thích.
 3. Quyết khoảng 149 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
