@@ -103,7 +103,7 @@ chạy lại toàn bộ kiểm tra. Đã làm:
 | MN 59 | 2 | 5.4 vivāda, 16.5 sandhāya; giữ "rừng Jeta" theo chuẩn chung |
 | MN 60 | 4 | 31.14 "đôi co", 36.2 và 38.2 khai triển đủ khối, 39.1–39.2 dấu câu |
 
-Tổng 297 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
+Tổng 315 chỗ. Báo cáo chi tiết từng bài nằm trong `so-tay/ra-soat/`, gồm cả những chỗ đã cân
 nhắc mà **không** sửa (khoảng 397 điểm), để lần sau khỏi phải xét lại từ đầu.
 
 Đợt MN 1–13 còn kéo theo hai việc đồng nhất ngoài phạm vi từng bài: cách gọi `āvuso bhikkhave`
@@ -125,7 +125,8 @@ thật ra CÓ `paraṁ maraṇā`) và hàng §2 của MN 59 về "rừng Jeta (
 
 1. Đọc lại 72 bài chưa rà từng dòng. Nếu làm tiếp, mỗi đợt 6 bài, mỗi bài một người đọc; quy
    trình như trên. Đợt kế tiếp trong phiên 19:00 ngày 2026-10-22: MN 61, 62, 63, 64, 65, 66.
-2. Bổ sung 31 chú thích còn thiếu của MN 1: nguồn có 41 NOTE nhưng bản dịch mới có 11 chú thích.
+2. ~~Bổ sung 31 chú thích còn thiếu của MN 1~~ — đã xong 2026-10-22: nguồn thật ra có 14 NOTE
+   (con số 41 là đọc nhầm từ tệp mẫu), nay đã dịch đủ 14 và đổi nhãn 7 chú thích người dịch.
 3. Quyết khoảng 333 điểm "chưa chắc" đã ghi trong `so-tay/ra-soat/`. Phần lớn là chỗ phải chọn
    giữa hai cách hiểu Pali, không phải lỗi rõ ràng.
 4. Bổ sung sổ tay chú giải cho các bài lớn nếu muốn (như bên Trường Bộ Kinh).

@@ -30,6 +30,8 @@ Này các tỳ-kheo, vị tỳ-kheo còn là bậc hữu học, chưa đạt đ�
 <!-- seg: mn1:27.2 -->
 Sau khi biết trực tiếp đất là đất, vị ấy chớ tưởng tượng nó là đất, chớ tưởng tượng nó ở trong đất, chớ tưởng tượng nó phát xuất từ đất, chớ tưởng tượng "đất là của tôi", và chớ thích thú đất.
 
+[Chú thích: Bài kinh trình bày tiến trình tu tập qua ba cách nói ngữ pháp: phàm phu tưởng tượng, bậc hữu học không nên tưởng tượng, bậc đã viên mãn thì không tưởng tượng. Điều này ứng với ba vòng của bài kinh đầu tiên (SN 56.11): có khổ; khổ cần được hiểu; khổ đã được hiểu.]
+
 <!-- seg: mn1:27.3 -->
 Vì sao vậy?
 
@@ -80,6 +82,8 @@ Này các tỳ-kheo, vị tỳ-kheo còn là bậc hữu học, chưa đạt đ�
 
 <!-- seg: mn1:42.1 -->
 Này các tỳ-kheo, vị tỳ-kheo còn là bậc hữu học, chưa đạt được điều mình mong muốn, đang sống hướng tới sự an ổn tối thượng khỏi mọi ràng buộc, vị ấy cũng biết trực tiếp Phi Tưởng Phi Phi Tưởng Xứ là Phi Tưởng Phi Phi Tưởng Xứ. Sau khi biết trực tiếp Phi Tưởng Phi Phi Tưởng Xứ là Phi Tưởng Phi Phi Tưởng Xứ, vị ấy chớ tưởng tượng nó là Phi Tưởng Phi Phi Tưởng Xứ, chớ tưởng tượng nó ở trong Phi Tưởng Phi Phi Tưởng Xứ, chớ tưởng tượng nó phát xuất từ Phi Tưởng Phi Phi Tưởng Xứ, chớ tưởng tượng "Phi Tưởng Phi Phi Tưởng Xứ là của tôi", và chớ thích thú Phi Tưởng Phi Phi Tưởng Xứ. Vì sao vậy? Để nó được hiểu biết trọn vẹn, Ta nói vậy.
+
+[Chú thích: Bậc Dự lưu không nhất thiết đã tự mình chứng nghiệm mọi tầng thiền định và mọi cõi tồn tại nêu ở đây, nhưng vị ấy biết trực tiếp lý duyên khởi, nên hiểu rằng tất cả những trạng thái ấy đều do duyên mà thành, vô thường, và nằm trong vòng luân hồi.]
 
 <!-- seg: mn1:43.1 -->
 Này các tỳ-kheo, vị tỳ-kheo còn là bậc hữu học, chưa đạt được điều mình mong muốn, đang sống hướng tới sự an ổn tối thượng khỏi mọi ràng buộc, vị ấy cũng biết trực tiếp cái được thấy là cái được thấy. Sau khi biết trực tiếp cái được thấy là cái được thấy, vị ấy chớ tưởng tượng nó là cái được thấy, chớ tưởng tượng nó ở trong cái được thấy, chớ tưởng tượng nó phát xuất từ cái được thấy, chớ tưởng tượng "cái được thấy là của tôi", và chớ thích thú cái được thấy. Vì sao vậy? Để nó được hiểu biết trọn vẹn, Ta nói vậy.

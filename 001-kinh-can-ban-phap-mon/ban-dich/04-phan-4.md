@@ -72,6 +72,8 @@ Vì sao vậy?
 <!-- seg: mn1:75.4 -->
 Vì tham đã tận, vị ấy không còn tham.
 
+[Chú thích: Chính văn lặp lại đoạn về bậc viên mãn ba lần, mỗi lần nhấn vào sự đoạn tận tham, sân, si.]
+
 <!-- seg: mn1:76.1 -->
 Này các tỳ-kheo, vị tỳ-kheo đã là bậc A-la-hán, các lậu hoặc đã tận, đã sống xong đời sống thánh thiện, đã làm xong điều cần làm, đã đặt xuống gánh nặng, đã đạt mục đích của mình, đã đoạn tận mọi ràng buộc đưa đến tái sinh, đã giải thoát hoàn toàn nhờ chánh trí, vị ấy cũng biết trực tiếp nước là nước. Sau khi biết trực tiếp nước là nước, vị ấy không tưởng tượng nó là nước, không tưởng tượng nó ở trong nước, không tưởng tượng nó phát xuất từ nước, không tưởng tượng "nước là của tôi", và không thích thú nước. Vì sao vậy? Vì tham đã tận, vị ấy không còn tham.
 

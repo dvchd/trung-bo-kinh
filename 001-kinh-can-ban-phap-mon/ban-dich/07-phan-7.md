@@ -91,5 +91,7 @@ Hết phần thứ tám: cách nhìn của Như Lai.
 <!-- seg: mn1:194.9 -->
 Nhưng các tỳ-kheo ấy không hoan hỷ với lời dạy của Đức Thế Tôn.
 
+[Chú thích: Việc các tỳ-kheo không hoan hỷ (na abhinanduṁ) được chú giải và bản song song EA 44.6 xác nhận là họ không hiểu bài pháp, nhưng cách giải thích ấy bỏ qua vai trò trung tâm của sự hoan hỷ (nanda), chữ gốc làm nên tên bài kinh. Bậc A-la-hán không hoan hỷ cả với Niết-bàn, nên việc thính chúng không hoan hỷ với bài pháp này không có gì lạ. Có lẽ chính vì hiểu quá rõ mà họ đón nhận bài pháp với tâm xả hoàn toàn.]
+
 <!-- seg: mn1:194.10 -->
 Kinh Căn Bản Pháp Môn, bài thứ nhất, đến đây là hết.

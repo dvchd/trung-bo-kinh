@@ -31,6 +31,8 @@ Vị ấy nhận thức Không Vô Biên Xứ là Không Vô Biên Xứ.
 <!-- seg: mn1:15.2 -->
 Sau khi nhận thức Không Vô Biên Xứ là Không Vô Biên Xứ, vị ấy tưởng tượng nó là Không Vô Biên Xứ, tưởng tượng nó ở trong Không Vô Biên Xứ, tưởng tượng nó phát xuất từ Không Vô Biên Xứ, tưởng tượng "Không Vô Biên Xứ là của tôi", và vị ấy thích thú Không Vô Biên Xứ.
 
+[Chú thích: Hư không (ākāsa) là một nguyên lý quan trọng trong các Upaniṣad, nhưng rốt cuộc chỉ là biểu hiện thấp hơn của Cái Tuyệt đối (Bṛhadāraṇyaka Upaniṣad 3.8.7; Taittirīya 2.1.1; Chāndogya 7.12).]
+
 <!-- seg: mn1:15.3 -->
 Vì sao vậy?
 
@@ -78,6 +80,8 @@ Vị ấy nhận thức cái được thấy là cái được thấy.
 
 <!-- seg: mn1:19.2 -->
 Sau khi nhận thức cái được thấy là cái được thấy, vị ấy tưởng tượng nó là cái được thấy, tưởng tượng nó ở trong cái được thấy, tưởng tượng nó phát xuất từ cái được thấy, tưởng tượng "cái được thấy là của tôi", và vị ấy thích thú cái được thấy.
+
+[Chú thích: Việc thấy các sa-môn khổ hạnh được xem là một phước lành (Snp 2.4:10.2), nhưng lấy cái thấy của một bậc thánh làm chuẩn cho chân lý là một sai lầm (Snp 4.4). Với người theo Vệ-đà, thấy còn có thể chỉ cái Ngã được thấy trong giấc mộng (Bṛhadāraṇyaka 4.3.9), nơi mọi vật hiện ra trong ánh sáng của chính mình (4.3.14).]
 
 <!-- seg: mn1:19.3 -->
 Vì sao vậy?

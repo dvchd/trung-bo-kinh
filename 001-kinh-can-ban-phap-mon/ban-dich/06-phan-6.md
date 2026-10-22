@@ -51,6 +51,8 @@ Vì sao vậy?
 <!-- seg: mn1:147.4 -->
 Vì Như Lai đã hiểu biết trọn vẹn đến tận cùng, Ta nói vậy.
 
+[Chú thích: Cụm đã hiểu biết trọn vẹn đến cùng là cụm từ riêng của bài kinh này: các A-la-hán khác hiểu các pháp vừa đủ để giải thoát, còn Đức Thế Tôn hiểu hết thảy các pháp không trừ một pháp nào.]
+
 <!-- seg: mn1:148.1 -->
 Này các tỳ-kheo, Như Lai, bậc A-la-hán, bậc Chánh Đẳng Chánh Giác, biết trực tiếp nước là nước. Sau khi biết trực tiếp nước là nước, Ngài không tưởng tượng nó là nước, không tưởng tượng nó ở trong nước, không tưởng tượng nó phát xuất từ nước, không tưởng tượng "nước là của tôi", và không thích thú nước. Vì sao vậy? Vì Như Lai đã hiểu biết trọn vẹn đến tận cùng, Ta nói vậy.
 
@@ -146,8 +148,12 @@ Vì sao vậy?
 <!-- seg: mn1:171.4 -->
 Vì Ngài đã hiểu rằng thích thú là cội nguồn của khổ,
 
+[Chú thích: Câu này làm rõ nghĩa của chữ hoan hỷ, ưa thích (abhinandati): bình thường nó mang nghĩa tốt, như khi thính chúng hoan hỷ với lời Pháp; ở đây Đức Thế Tôn dùng nó theo nghĩa ái tham, như trong định nghĩa về tập đế (SN 56.11:4.4).]
+
 <!-- seg: mn1:171.5 -->
 và rằng từ sự tồn tại mà có sinh, ai đã sinh ra thì phải già và chết.
+
+[Chú thích: Với những dòng này, Đức Thế Tôn nối bài kinh với lý duyên khởi; Ngài dùng cách tương tự ở cuối bài Phạm Võng (DN 1).]
 
 <!-- seg: mn1:171.6 -->
 Vì vậy, này các tỳ-kheo, Ta nói: "Như Lai đã chứng ngộ sự giác ngộ hoàn hảo tối thượng, nhờ đoạn tận, ly tham, chấm dứt, từ bỏ và buông xả mọi tham ái."

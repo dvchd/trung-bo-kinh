@@ -25,7 +25,14 @@ quét, 11 đoạn có `[Chú thích: …]`, và 10 đoạn dịch dài nhất (t
 
 ---
 
-## Đã sửa: 2 chỗ
+## Đã sửa: 2 chỗ trong lượt rà soát, 18 chỗ bổ sung sau đó
+
+**Đợt bổ sung chú thích (2026-10-22):** dịch thêm **11 NOTE** còn thiếu (mn1:1.4, 3.5, 15.2,
+19.2, 27.2, 42.1, 75.4, 147.4, 171.4, 171.5, 194.9) và đổi nhãn **7 chú thích của người dịch**
+(mn1:1.1, 3.1, 7.1, 8.1, 9.1, 10.1, 11.1) từ `[Chú thích: …]` sang
+`[Chú thích của người dịch: …]`. Sau đó chạy lại `ghep.py`, `tao-muc-luc.py`, `ra-soat.py`
+(DAT) và `kiem-tra-marker.py` (ĐẠT).
+
 
 | Vị trí | Trước | Sau | Lý do |
 |---|---|---|---|
@@ -36,18 +43,18 @@ Không sửa các chỗ chỉ là sắc thái hoặc văn phong; các chỗ ấy
 
 ---
 
-## Chú thích: thực tế 11 đoạn, không phải 20
+## Chú thích: nguồn có 14 NOTE, nay đã dịch đủ
 
-Bản dịch chỉ có **11 đoạn** chứa `[Chú thích: …]`:
+Bản dịch trước đây chỉ có **11 đoạn** chứa `[Chú thích: …]`, trong đó 7 chú thích của người dịch
+bị ghi nhãn thiếu. Kiểm lại `nguon/sections/` cho thấy bài này có **14 NOTE**, không phải 41 như
+bản báo cáo đầu ghi nhầm (con số 41 lấy từ tệp `api_mn1.json` vốn chỉ chứa một đoạn mẫu). Nay:
 
-- **10 chú thích dịch từ NOTE của nguồn**: mn1:1.1, 1.2, 3.1, 3.2, 3.3, 7.1, 8.1, 9.1, 10.1, 11.1.
-- **1 chú thích của người dịch**: mn1:0.2 (đã sửa nhãn).
+- **14/14 NOTE của Sujato đã dịch**, đúng đoạn: 1.2, 1.4, 3.2, 3.3, 3.5, 15.2, 19.2, 27.2, 42.1,
+  75.4, 147.4, 171.4, 171.5, 194.9.
+- **8 chú thích của người dịch** đã mang đủ nhãn `[Chú thích của người dịch: …]`: 0.2, 1.1, 3.1,
+  7.1, 8.1, 9.1, 10.1, 11.1.
+- Mọi chú thích đều ≤3 câu, văn xuôi, không HTML, không link.
 
-Đã đối chiếu 10 chú thích nguồn với **NOTE** tương ứng: cả 10 đều **đúng ý chính**, không có lỗi
-nghĩa rõ ràng, đều chỉ 1–2 câu (giới hạn 3 câu), không HTML/link. Một số chỗ nén khá mạnh, ghi ở
-**Điểm chưa chắc**.
-
-**Thiếu 31 NOTE**: nguồn có **41 NOTE**, bản dịch mới dịch 10. Các đoạn chưa có chú thích:
 
 `1.4, 2.1, 3.5, 4.1, 12.1, 13.1, 14.1, 15.1, 15.2, 16.1, 17.1, 18.1, 19.1, 19.2, 20.1, 21.1,
 22.1, 23.1, 24.1, 25.1, 26.1, 27.1, 27.2, 42.1, 51.1, 75.4, 147.1, 147.4, 171.4, 171.5, 194.9`.
@@ -125,12 +132,10 @@ người, 8 phần, 5 cách tưởng tượng, 3 cõi Phạm Thiên.
 
 ---
 
-## Chỗ còn thiếu — chưa sửa
+## Chỗ còn thiếu — đã xử lý
 
-- **31 NOTE chưa dịch** (danh sách ở mục Chú thích). Đây là lỗi bao phủ, không phải lỗi câu chữ;
-  không thể bổ sung đủ trong 12 phút và không nên thêm máy móc. Đề nghị một lượt riêng: dịch đủ
-  31 NOTE, mỗi note tối đa 3 câu, bỏ link/HTML, ưu tiên 21.1, 27.1–27.2, 51.1, 147.4, 171.4–171.5,
-  194.9.
+- **Chú thích: đã đủ 14/14 NOTE** trong đợt bổ sung ngày 2026-10-22 (xem mục Chú thích ở trên).
+  Báo cáo đầu ghi 31 NOTE thiếu là do đọc nhầm con số trong `api_mn1.json`.
 - Không đọc hết 334 đoạn, nên báo cáo này **không** chứng nhận toàn bộ bản dịch; các vòng lặp lớn
   chỉ được kiểm bằng công thức và mẫu đại diện.
 
