@@ -215,6 +215,19 @@ riêng MN 38:26.2 tách thành hai chú thích (một của Sujato, một của 
 
 ## Việc còn lại
 
+0. ~~Dịch và rà soát~~ — đã xong. Việc lớn kế tiếp nằm ngoài bản dịch: dựng trang đọc tiếng Việt và
+   đưa lên `buppou.com` (bàn 2026-10-23). Quyết định đã chốt:
+   - Tiếng Việt ở gốc `buppou.com` (không đặt `/vi/`, không redirect); tiếng Nhật sau này vào `/ja/`
+     (subpath, không dùng subdomain); mã `ja`, thêm redirect `jp → ja`.
+   - Repo `buppou/site` là hub: chỉ chứa code, template và `manifest.yml` liệt kê các repo bộ kinh;
+     KHÔNG chứa bản dịch. Cloudflare Pages clone nguồn theo manifest, build ra `dist/`, deploy.
+   - Một repo mỗi bộ kinh (giữ nguyên); nếu thêm tiếng Nhật thì thêm `dich/ja/` trong chính repo đó,
+     không tách repo theo ngôn ngữ. Chuyển các repo vào org `buppou` (GitHub giữ redirect URL cũ).
+   - Không commit `dist/`; không dùng submodule.
+   Thứ tự: (1) dựng generator + trang mục lục + trang từng bài; (2) deploy thử domain tạm;
+   (3) trỏ `buppou.com`, 301 `ungdungtubi.com`; (4) gắn Cloudflare Web Analytics + Meta Pixel + UTM;
+   (5) chạy 5–6 mẫu quảng cáo cho MN 63, MN 20, MN 21, MN 118, MN 131, DN 31.
+
 0. Chú thích: 12 điểm nhóm B đã xử lý (9 tách đôi, 3 giữ nguyên — xem `so-tay/ra-soat/chu-thich-nhom-b.md`);
    2 điểm nhóm C cũng đã xong (MN 21:21.5 giữ nhãn vì có NOTE, MN 138:15.2 đổi sang chú thích người dịch).
  (tùy chọn)
